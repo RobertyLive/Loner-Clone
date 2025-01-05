@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Unity\\Loner AirPlane\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|E:\\Unity\\Loner AirPlane\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|e:\\unity\\loner airplane\\assets\\scripts\\movesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAkwJUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:54:17.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MoveSquare.cs",
               "DocumentMoniker": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\MoveSquare.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveSquare.cs",
               "ToolTip": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\MoveSquare.cs",
               "RelativeToolTip": "Assets\\Scripts\\MoveSquare.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T01:58:45.752Z",
               "EditorCaption": ""
