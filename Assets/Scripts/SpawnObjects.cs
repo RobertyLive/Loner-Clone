@@ -1,18 +1,24 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using static UnityEngine.ParticleSystem;
 
 public class SpawnObjects : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+  public float timerate = .2f;
+  public float timeToInstantiar = 1;
+  public GameObject[] objets;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+  private void Start()
+  {
+    InvokeRepeating("GerarObjects", timeToInstantiar, timerate);
+  }
+
+  void GerarObjects()
+  {
+    //int x = Random.Range(-10, 11);
+    //int y = Random.Range(-10, 11);
+
+    Instantiate(objets[Random.Range(0, objets.Length)], transform.position, Quaternion.identity);
+  }
 }
