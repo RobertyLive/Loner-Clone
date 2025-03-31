@@ -63,9 +63,13 @@
     <Compile Include="Assets\Scripts\MoveSquare.cs" />
     <Compile Include="Assets\Scripts\SpanwTrilas.cs" />
     <Compile Include="Assets\Scripts\RotationHelice.cs" />
+    <Compile Include="Assets\Scripts\ControleMusic\MusicController.cs" />
+    <Compile Include="Assets\Scripts\DutchController\DutchControler.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\TimeTravel.cs" />
     <Compile Include="Assets\Scripts\SpawnObjects.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\ControleMusic\AxisController.cs" />
     <Compile Include="Assets\Scripts\MoveTrail.cs" />
   </ItemGroup>
   <ItemGroup>

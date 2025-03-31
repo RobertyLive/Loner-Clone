@@ -72,7 +72,7 @@ public class PlayerController : MonoBehaviour
 
 
     //rig.velocity = new Vector3(rig.velocity.x, movimentPos.y * -speedMove, rig.velocity.z);
-    transform.position += new Vector3(0, -movimentPos.y * Time.deltaTime * -speedMove, 0);        
+    transform.position += new Vector3(0, -movimentPos.y * Time.deltaTime * speedMove, 0);        
     float novaPosicaoY = Mathf.Clamp(transform.position.y, -limiteRotx, limiteRotx);
     transform.position = new Vector3(transform.position.x, novaPosicaoY, transform.position.z);
 
@@ -167,4 +167,7 @@ public class PlayerController : MonoBehaviour
   {
     StartCoroutine(ForceReset());
   }
+
+
+
 }

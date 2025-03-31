@@ -3,19 +3,35 @@
   "WorkspaceRootPath": "E:\\Unity\\Loner AirPlane\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|E:\\Unity\\Loner AirPlane\\assets\\scripts\\spanwtrilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spanwtrilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|e:\\unity\\loner airplane\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|e:\\unity\\loner airplane\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|E:\\Unity\\Loner AirPlane\\assets\\scripts\\dutchcontroller\\dutchcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dutchcontroller\\dutchcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|E:\\Unity\\Loner AirPlane\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|E:\\Unity\\Loner AirPlane\\assets\\scripts\\controlemusic\\axiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlemusic\\axiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|E:\\Unity\\Loner AirPlane\\assets\\scripts\\controlemusic\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlemusic\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|E:\\Unity\\Loner AirPlane\\assets\\scripts\\movesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movesquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|e:\\unity\\loner airplane\\assets\\scripts\\timetravel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|E:\\Unity\\Loner AirPlane\\assets\\scripts\\spanwtrilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spanwtrilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|E:\\Unity\\Loner AirPlane\\assets\\scripts\\timetravel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAB41D4B-7210-5EAD-97D9-574626228ECC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timetravel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,7 +54,56 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DutchControler.cs",
+              "DocumentMoniker": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\DutchController\\DutchControler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DutchController\\DutchControler.cs",
+              "ToolTip": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\DutchController\\DutchControler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DutchController\\DutchControler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:46:06.062Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AxisController.cs",
+              "DocumentMoniker": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\ControleMusic\\AxisController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControleMusic\\AxisController.cs",
+              "ToolTip": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\ControleMusic\\AxisController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControleMusic\\AxisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:26:45.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\ControleMusic\\MusicController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ControleMusic\\MusicController.cs",
+              "ToolTip": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\ControleMusic\\MusicController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ControleMusic\\MusicController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:50:28.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAwwJQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:58:13.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TimeTravel.cs",
               "DocumentMoniker": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\TimeTravel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TimeTravel.cs",
@@ -46,12 +111,11 @@
               "RelativeToolTip": "Assets\\Scripts\\TimeTravel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T18:08:52.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T18:08:52.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "SpawnObjects.cs",
               "DocumentMoniker": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\SpawnObjects.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnObjects.cs",
@@ -63,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "MoveTrail.cs",
               "DocumentMoniker": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\MoveTrail.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveTrail.cs",
@@ -75,33 +139,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "SpanwTrilas.cs",
               "DocumentMoniker": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\SpanwTrilas.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SpanwTrilas.cs",
               "ToolTip": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\SpanwTrilas.cs",
               "RelativeToolTip": "Assets\\Scripts\\SpanwTrilas.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T04:52:51.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T04:52:51.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAswA8AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T15:54:17.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T15:54:17.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MoveSquare.cs",
               "DocumentMoniker": "E:\\Unity\\Loner AirPlane\\Assets\\Scripts\\MoveSquare.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveSquare.cs",
@@ -109,8 +171,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MoveSquare.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T01:58:45.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T01:58:45.752Z"
             }
           ]
         }

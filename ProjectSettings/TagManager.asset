@@ -8,12 +8,12 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - TEXT GAME
   - Water
   - UI
   - Player
-  - 
-  - 
+  - CANVA_GAME
+  - PAINEL
   - 
   - 
   - 
@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: CANVAS_GAME
+    uniqueID: 298739005
+    locked: 0
   - name: Canvas
     uniqueID: 2976573463
     locked: 0
