@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 >
 			<ParamContainerItem Index="2" ObjectRef="42"/>
 			<ParamContainerItem Index="3" ObjectRef="43"/>
@@ -24,3 +25,40 @@
 		<ParamIsDisabled>false</ParamIsDisabled>
 		<ParamIsIndependant>false</ParamIsIndependant>
 		<ParamIsSlider>true<
+=======
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!387306366 &1
+MemorySettings:
+  m_ObjectHideFlags: 0
+  m_EditorMemorySettings:
+    m_MainAllocatorBlockSize: -1
+    m_ThreadAllocatorBlockSize: -1
+    m_MainGfxBlockSize: -1
+    m_ThreadGfxBlockSize: -1
+    m_CacheBlockSize: -1
+    m_TypetreeBlockSize: -1
+    m_ProfilerBlockSize: -1
+    m_ProfilerEditorBlockSize: -1
+    m_BucketAllocatorGranularity: -1
+    m_BucketAllocatorBucketsCount: -1
+    m_BucketAllocatorBlockSize: -1
+    m_BucketAllocatorBlockCount: -1
+    m_ProfilerBucketAllocatorGranularity: -1
+    m_ProfilerBucketAllocatorBucketsCount: -1
+    m_ProfilerBucketAllocatorBlockSize: -1
+    m_ProfilerBucketAllocatorBlockCount: -1
+    m_TempAllocatorSizeMain: -1
+    m_JobTempAllocatorBlockSize: -1
+    m_BackgroundJobTempAllocatorBlockSize: -1
+    m_JobTempAllocatorReducedBlockSize: -1
+    m_TempAllocatorSizeGIBakingWorker: -1
+    m_TempAllocatorSizeNavMeshWorker: -1
+    m_TempAllocatorSizeAudioWorker: -1
+    m_TempAllocatorSizeCloudWorker: -1
+    m_TempAllocatorSizeGfx: -1
+    m_TempAllocatorSizeJobWorker: -1
+    m_TempAllocatorSizeBackgroundWorker: -1
+    m_TempAllocatorSizePreloadManager: -1
+  m_PlatformMemorySettings: {}
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02

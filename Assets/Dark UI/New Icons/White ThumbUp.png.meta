@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
   <defs>
@@ -38,3 +39,132 @@
       <g id="Ai">
         <path class="cls-3" d="M16.4366,21.45972h-5.53872l-1.12689,3.49074c-.03188,.13146-.15263,.22176-.28775,.21518h-2.8054c-.15999,0-.21592-.08767-.16779-.263l4.79548-13.77165c.04799-.14343,.09597-.30681,.14391-.49014,.06272-.31897,.09483-.6432,.0959-.96828-.01133-.08115,.04528-.15612,.12643-.16744,.01372-.00191,.02764-.0019,.04136,.00005h3.81236c.1117,0,.17564,.03986,.19183,.11958l5.44291,15.30179c.04791,.15952-.00006,.23922-.14391,.23911h-3.11709c-.1106,.01233-.21319-.05928-.23975-.16736l-1.22288-3.53858Zm-4.67555-3.01253h3.78843c-.09591-.31865-.2078-.6773-.33566-1.07592-.12812-.39823-.26399-.82461-.40759-1.27914-.14392-.45425-.2878-.90852-.43166-1.36282-.14386-.4543-.27572-.89263-.39559-1.315-.11991-.42212-.2278-.80864-.32367-1.15956h-.024c-.13499,.64577-.30305,1.28418-.50351,1.91271-.22405,.71728-.45185,1.45049-.68341,2.19964-.2319,.74941-.45968,1.44277-.68334,2.0801Z"/>
         <path class="cls-3" d="M24.39687,12.03956c-.49434,.01992-.97382-.17133-1.31876-.52599-.3429-.36893-.52419-.85957-.50358-1.36282-.0175-.499,.17877-.98175,.53951-1.32697,.35738-.3418,.8364-.52683,1.33075-.51403,.50394-.02783,.99611,.15891,1.35475,.51403,.33389,.35929,.51077,.83687,.49146,1.32697,.02016,.5054-.1659,.99729-.5155,1.36282-.36622,.3597-.86589,.55034-1.37864,.52599Zm-1.65449,12.88698V13.49799c0-.14343,.0637-.21518,.19183-.21518h2.94925c.12775,0,.19169,.07173,
+=======
+fileFormatVersion: 2
+guid: 411d27a3e567bfd45a0459692ff62892
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02

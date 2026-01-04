@@ -1,2 +1,132 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <BlockMap xmlns="http://schemas.microsoft.com/appx/2010/blockmap" xmlns:b4="http://schemas.microsoft.com/appx/2021/blockmap" IgnorableNamespaces="b4" HashMethod="http://www.w3.org/2001/04/xmlenc#sha256"><File Name="Assets\contrast-black\PeopleAppList.scale-125.png" Size="334" LfhSize="79"><Block Hash="9sVT+wBgNx6biYHOFT2yWgb67SVKyU2M+Fd7ZbNgjSQ="/></File><File Name="Assets\contrast-black\PeopleBadgeLogo.scale-125.png" Size="245" LfhSize="81"><Block Hash="pIKOeaOLbu1wpuvX5EBQHVdIgcaJ+TdJF9jLCf6X2Zg="/></File><File Name="Assets\contrast-black\PeopleLargeTile.scale-125.png" Size="1768" LfhSize="81"><Block Hash="HJ0PUOM5XGnBziHgHcVfclDux9Vpc9PgLxhQQdXM0dY="/></File><File Name="Assets\contrast-black\PeopleMedTile.scale-125.png" Size="727" LfhSize="79"><Block Hash="Ac3klXyjOwqy2lZVG6PAFRxQAd+Z7TAGfuzZ/bhMHnE="/></File><File Name="Assets\contrast-black\PeopleSmallTile.scale-125.png" Size="436" LfhSize="81"><Block Hash="mjmEz3KCMNMgq1NTD5iPeirjgbujBI0zQh3WqxPxwr8="/></File><File Name="Assets\contrast-black\PeopleSplashScreen.scale-125.png" Size="2121" LfhSize="84"><Block Hash="uaOi5EASW7c8GuULGgozcN62/z0tKOQVMd4iYLCAKL8="/></File><File Name="Assets\contrast-black\PeopleStoreLogo.scale-125.png" Size="390" LfhSize="81"><Block Hash="0rqjhZPiteCK/swuavX4Tak50aTCm7LFIu29f8O35KQ="/></File><File Name="Assets\contrast-black\PeopleWideTile.scale-125.png" Size="911" LfhSize="80"><Block Hash="CZarjyXzvQftYisNqtjr0sqoWXdnZAbSUqBtV2mz414="/></File><File Name="Assets\contrast-white\PeopleAppList.scale-125.png" Size="343" LfhSize="79"><Block Hash="5Y6I7PA+VwGavWryRD/Pjx4NHdkiIkPaBPq358HWM9Y="/></File><File Name="Assets\contrast-white\PeopleBadgeLogo.scale-125.png" Size="238" LfhSize="81"><Block Hash="iWn7oTqyrEaP5/fj+b6hztBz+GBlaWQ+aCSJlROm4vE="/></File><File Name="Assets\contrast-white\PeopleLargeTile.scale-125.png" Size="1924" LfhSize="81"><Block Hash="nSd5zNoKda38Lc+56v/Mk4OneTosRhTO5rmns5VWxWg="/></File><File Name="Assets\contrast-white\PeopleMedTile.scale-125.png" Size="743" LfhSize="79"><Block Hash="Ei8Ot3cji6NyJh2XQUL316qHci9GfA2ef2wy7Bdoi68="/></File><File Name="Assets\contrast-white\PeopleSmallTile.scale-125.png" Size="447" LfhSize="81"><Block Hash="2P+pCaDlRFXDbDtuli962uLy7AvBA8yA8Q8nCi3aTfw="/></File><File Name="Assets\contrast-white\PeopleSplashScreen.scale-125.png" Size="2290" LfhSize="84"><Block Hash="oyN+6wZQLry3Yv8CpaPeRYZIievcIKPYjRvQupFN5j8="/></File><File Name="Assets\contrast-white\PeopleStoreLogo.scale-125.png" Size="404" LfhSize="81"><Block Hash="sEC4jpVD1RtnknjMFVw+X7LnsXK5BqFEpqhjZB5tsiE="/></File><File Name="Assets\PeopleAppList.scale-125.png" Size="1566" LfhSize="64"><Block Hash="amYk9w6kOTQVjAm83K83Du6zfE6J8grxwOdYqsZCWuM="/></File><File Name="Assets\contrast-white\PeopleWideTile.scale-125.png" Size="994" LfhSize="80"><Block Hash="M1bWKNpaCqIZoU90Kj97v/EL5uDYvxFzZZkvI1PzJ/o="/></File><File Name="Assets\PeopleBadgeLogo.scale-125.png" Size="245" LfhSize="66"><Block Hash
+=======
+fileFormatVersion: 2
+guid: c90b04dbb696a8a4bbf77bad043ed21e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02

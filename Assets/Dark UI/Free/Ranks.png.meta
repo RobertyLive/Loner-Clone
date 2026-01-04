@@ -1,1 +1,100 @@
+<<<<<<< HEAD
 b62074eb05584b2$export$c36e0ecb2d4fa69d(e,t))-1,n=-2;return a<=2?n=0:$3b62074eb05584b2$export$553d7fa8e3805fc0(t)&&(n=-1),1721425+365*d+Math.floor(d/4)-Math.floor(d/100)+Math.floor(d/400)+Math.floor((367*a-362)/12+n+r)}function $3b62074eb05584b2$export$553d7fa8e3805fc0(e){return e%4==0&&(e%100!=0||e%400==0)}function $3b62074eb05584b2$export$c36e0ecb2d4fa69d(e,t){return"BC"===e?1-t:t}const n={standard:[31,28,31,30,31,30,31,31,30,31,30,31],leapyear:[31,29,31,30,31,30,31,31,30,31,30,31]};class $3b62074eb05584b2$export$80ee6245ec4f29ec{fromJulianDay(e){let t=e,a=t-d,n=Math.floor(a/146097),c=$2b4dce13dd5a17fa$export$842a2cf37af977e1(a,146097),o=Math.floor(c/36524),$=$2b4dce13dd5a17fa$export$842a2cf37af977e1(c,36524),i=Math.floor($/1461),f=$2b4dce13dd5a17fa$export$842a2cf37af977e1($,1461),s=Math.floor(f/365),l=400*n+100*o+4*i+s+(4!==o&&4!==s?1:0),[u,h]=function $3b62074eb05584b2$export$4475b7e617eb123c(e){let t="AD";return e<=0&&(t="BC",e=1-e),[t,e]}(l),b=t-$3b62074eb05584b2$export$f297eb839006d339(u,h,1,1),p=2;t<$3b62074eb05584b2$export$f297eb839006d339(u,h,3,1)?p=0:$3b62074eb05584b2$export$553d7fa8e3805fc0(h)&&(p=1);let m=Math.floor((12*(b+p)+373)/367),y=t-$3b62074eb05584b2$export$f297eb839006d339(u,h,m,1)+1;return new(0,r.ng)(u,h,m,y)}toJulianDay(e){return $3b62074eb05584b2$export$f297eb839006d339(e.era,e.year,e.month,e.day)}getDaysInMonth(e){return n[$3b62074eb05584b2$export$553d7fa8e3805fc0(e.year)?"leapyear":"standard"][e.month-1]}getMonthsInYear(e){return 12}getDaysInYear(e){return $3b62074eb05584b2$export$553d7fa8e3805fc0(e.year)?366:365}getYearsInEra(e){return 9999}getEras(){return["BC","AD"]}isInverseEra(e){return"BC"===e.era}balanceDate(e){e.year<=0&&(e.era="BC"===e.era?"AD":"BC",e.year=1-e.year)}constructor(){this.identifier="gregory"}}},siU8:(e,t,a)=>{a.d(t,{Ec:()=>$14e0f24ef4ac5c92$export$d0bdf45af03a6ea3,Jg:()=>$14e0f24ef4ac5c92$export$dbc69fd56b53d5e,Nu:()=>$14e0f24ef4ac5c92$export$c19a80a9721b80f6,SE:()=>$14e0f24ef4ac5c92$export$68781ddf31c0090f,Xj:()=>$14e0f24ef4ac5c92$export$aa8b41735afcabd2,cK:()=>$14e0f24ef4ac5c92$export$629b0a497aa65267});var r=a("DrB/");function $14e0f24ef4ac5c92$export$ea39ec197993
+=======
+fileFormatVersion: 2
+guid: e8433df827a81cb48bac4ebc18d1e25e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02

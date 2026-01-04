@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: cdb88fdb0cf46b244a667edaff21c7df
+=======
+guid: 9cf1960b5a0ca9547ba5ba2c1f1d7914
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -20,11 +24,19 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+<<<<<<< HEAD
+=======
+    flipGreenChannel: 0
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+<<<<<<< HEAD
   ignoreMasterTextureLimit: 0
+=======
+  ignoreMipmapLimit: 0
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -33,7 +45,11 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
+<<<<<<< HEAD
     filterMode: 0
+=======
+    filterMode: 1
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -53,7 +69,11 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
+<<<<<<< HEAD
   textureType: 2
+=======
+  textureType: 8
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -62,8 +82,14 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
+<<<<<<< HEAD
   applyGammaDecoding: 1
   cookieLightType: 1
+=======
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -75,6 +101,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+<<<<<<< HEAD
+=======
+    ignorePlatformSupport: 0
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -87,6 +117,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+<<<<<<< HEAD
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -103,6 +134,13 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: XboxOne
+=======
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -111,6 +149,10 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+<<<<<<< HEAD
+=======
+    ignorePlatformSupport: 0
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -119,6 +161,22 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: cae3485a947b3ad41ab4e005cebf5fc7
     internalID: 0
     verti
+=======
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> 0a4af3f404ac9ab9e0b083c4a219a4d93d01bc02
