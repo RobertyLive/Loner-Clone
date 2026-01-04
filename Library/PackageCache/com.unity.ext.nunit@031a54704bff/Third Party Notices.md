@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+  <sys:String x:Key="LOCEpicSettingsImportInstalledLabel">Importuoti įdiegtus žaidimus</sys:String>
+  <sys:String x:Key="LOCEpicSettingsImportUninstalledLabel">Importuoti neįdiegtus žaidimus</sys:String>
+  <sys:String x:Key="LOCEpicSettingsConnectAccount">Susieti paskyrą</sys:String>
+  <sys:String x:Key="LOCEpicLoginChecking">Tikrinama autentifikavimo būsena...</sys:String>
+  <sys:String x:Key="LOCEpicLoggedIn">Vartotojas autentifikuotas</sys:String>
+  <sys:String x:Key="LOCEpicNotLoggedIn">Reikalinga autentifikavimas</sys:String>
+  <sys:String x:Key="LOCEpicNotLoggedInError">Nepavyko autentifikuoti vartotojo.</sys:String>
+  <sys:String x:Key="LOCEpicAuthenticateLabel">Autentifikuoti</sys:String>
+  <sys:String x:Key="LOCEpicSettingsStartGameDirectly">Paleisti žaidimus tiesiogiai, nenaudojant oficialaus kliento</sys:String>
+  <sys:String x:Key="LOCEpicTroubleShootingAccountLink">Spręsti vartotojo sinchronizacijos problemas</sys:String>
+  <sys:String x:Key="LOCEpicTroubleShootingIssues">Tvarkoma klaid

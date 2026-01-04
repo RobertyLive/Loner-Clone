@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v3">
+  <assemblyIdentity name="Microsoft-Windows-Client-Desktop-Required-Package0418" version="10.0.26100.1742" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+  <package identifier="Microsoft-Windows-Client-Desktop-Required-Package0418" releaseType="Feature Pack">
+    <update name="267F66CD5E5C7F23382E12EA11C0490AF029ADFE6418A8467871C1DC659DBEE5" restart="required">
+      <driver inf="sensorsalsdriver.inf" ranking="normal">
+        <assemblyIdentity name="dual_sensorsalsdriver.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="D8DA32D211ADDC070858A0E47F1FAF2A4393354A6AAB4222BDD5F605F33B24C8" restart="required">
+      <driver inf="sensorsservicedriver.inf" ranking="normal">
+        <assemblyIdentity name="dual_sensorsservicedriver.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="26817804BDE0061102042787CA8D54B03843B7283FC4E1D243D7763FA935ED8D">
+      <component>
+        <assemblyIdentity name="microsoft-windows-client-desktop-required-deployment04180" version="10.0.26100.1742" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+      </component>
+    </update>
+    <update name="E37F04FA7CE9D3787C8F9D1DBCE10A666C46933F422346E7EBBA5883AB64A6F1" restart="required">
+      <driver inf="sensorshidclassdriver.inf" ranking="normal">
+        <assemblyIdentity name="dual_sensorshidclassdriver.inf" version="10.0.26100.1591" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="AFB97BF3EDE7261BA8301C5BF512FEA514186A5F4207C8A5E550ECF88879CAFA" restart="required">
+      <driver inf="bth.inf" ranking="normal">
+        <assemblyIdentity name="dual_bth.inf" version="10.0.26100.1742" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="C68B3CCE6F7FB855AEA04B57762E5AAAAFEEB424C57BFFBDCAE4FC51BC198844" restart="required">
+      <driver inf="bthlcpen.inf" ranking="normal">
+        <assemblyIdentity name="dual_bthlcpen.inf" version="10.0.26100.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="C0D96E5127DB26F0E7EBAE65050A7D0A1DD7FA0762E97E83E1248961996C909C" restart="required">
+      <driver inf="bthleenum.inf" ranking="normal">
+        <assemblyIdentity name="dual_bthleenum.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="A30A3DDE065E5FF0FF33E1EFA497659601DF8D4AE64F497ABAAE3F0C6B4F85B9" restart="required">
+      <driver inf="bthoob.inf" ranking="normal">
+        <assemblyIdentity name="dual_bthoob.inf" version="10.0.26100.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="497EB00710C54862B16FF11FC3E3396FAD12F5333DF721FC9709CF8FF3B9F95C" restart="required">
+      <driver inf="tdibth.inf" ranking="normal">
+        <assemblyIdentity name="dual_tdibth.inf" version="10.0.26100.1591" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="ABBE1E3B789D16385ABD6B7CA134E4E3F05848F1CBDF78A9BDC7E732AD68F638" restart="required">
+      <driver inf="umpass.inf" ranking="normal">
+        <assemblyIdentity name="dual_umpass.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="DF827BED7226DAFFD565A5E56AC4B37783A6AED2E125D2FD020DC409F6F8830F" restart="required">
+      <driver inf="hidbth.inf" ranking="normal">
+        <assemblyIdentity name="dual_hidbth.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="DD3E5A3DDBE6F39CD11C5525FA400C03F01D11F8DDB34D7DA94701135BC75D01" restart="required">
+      <driver inf="hidbthle.inf" ranking="normal">
+        <assemblyIdentity name="dual_hidbthle.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="204E858A98CBD344D8EBF236B62A309B669481F26626BE0F4746CA31429883ED" restart="required">
+      <driver inf="hidvhf.inf" ranking="normal">
+        <assemblyIdentity name="dual_hidvhf.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="BA01101F6AB2DC75B7D8C213CE3B17BBA7DEEC007255E84DBCF1A0A6D9A179BB" restart="required">
+      <driver inf="input.inf" ranking="normal">
+        <assemblyIdentity name="dual_input.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="219E58015785719E6194F22D0F8E10D2A5EB78791F0EB593FC30900D2908F292" restart="required">
+      <driver inf="mshidkmdf.inf" ranking="normal">
+        <assemblyIdentity name="dual_mshidkmdf.inf" version="10.0.26100.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="7FBBB1C9D7019D0A20C2E3D662291599F66D8972C9C1FF359D62C33ABA770DC6" restart="required">
+      <driver inf="mshidumdf.inf" ranking="normal">
+        <assemblyIdentity name="dual_mshidumdf.inf" version="10.0.26100.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="EB1438D3A0F6C1CBE13DCE5DF4B405059D193A9BB2A5C504F4A666AED72D802C" restart="required">
+      <driver inf="buttonconverter.inf" ranking="normal">
+        <assemblyIdentity name="dual_buttonconverter.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="BE30D5FED2E0B110181E7701623EAEF3CBDC9DE0F70D85DA5E5C6419266D4615" restart="required">
+      <driver inf="hidi2c.inf" ranking="normal">
+        <assemblyIdentity name="dual_hidi2c.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="936642F620C3818F22EFC99B73150FB1E269785FE3F4ADED0918D60C98117D65" restart="required">
+      <driver inf="hidinterrupt.inf" ranking="normal">
+        <assemblyIdentity name="dual_hidinterrupt.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="E2B894F1E1E6F020CA1B2A9776D3AFBDBC24B4267E659A09B2A60E83396626C7" restart="required">
+      <driver inf="hidspi_km.inf" ranking="normal">
+        <assemblyIdentity name="dual_hidspi_km.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="42408B899210992C93A8D197E5A9962A09E36E4C4620BCD887BB27B44C5398D5" restart="required">
+      <driver inf="i3chost.inf" ranking="normal">
+        <assemblyIdentity name="dual_i3chost.inf" version="10.0.26100.1591" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="D4237134C431492C7F671CA9C78F1A5343DC6FFFAFDCD201ED9022374F530316" restart="required">
+      <driver inf="wini3c.inf" ranking="normal">
+        <assemblyIdentity name="dual_wini3c.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="68FD94F18DAF9019772F2EE6C30CFB70CD3646416B7289E173A2C27E9476AF75" restart="required">
+      <driver inf="keyboard.inf" ranking="normal">
+        <assemblyIdentity name="dual_keyboard.inf" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" type="dualModeDriver" />
+      </driver>
+    </update>
+    <update name="C776DBE6EF4DAF90DE29EBE2222E88A326643A49964FBDF00FD223BC6883137A" restart="required">
+      <driver inf="urschipidea.inf" rank

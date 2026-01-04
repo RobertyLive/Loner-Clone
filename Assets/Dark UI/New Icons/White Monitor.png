@@ -1,0 +1,25 @@
+ abrir el archivo de respuesta "{0}"b-o|--Output|/o|/Output:<Salida>
+      Directorio que contiene los binarios que se van a ejecutar.jNo se encuentra la ruta de acceso de salida. Proporcione una ruta de acceso válida y vuelva a intentarlo.�--Parallel|/Parallel
+      Especifica que las pruebas se ejecuten en paralelo. De forma
+      predeterminada, se pueden usar todos los núcleos disponibles
+      en la máquina. El número de núcleos que debe usarse se puede
+      especificar en el archivo de configuración.�--ParentProcessId|/ParentProcessId:<idProcesoPrimario>
+      Identificador del proceso primario responsable del inicio del proceso actual.	CorrectasRNo se puede iniciar la serie de pruebas para la aplicación de Windows Phone: {0}.�El paquete de aplicación '{0}' no tiene un punto de entrada de ejecutor de pruebas. Para ejecutar pruebas unitarias de aplicaciones de Windows Phone, cree un paquete de aplicación usando el proyecto Aplicación de pruebas unitarias para Windows Phone.�--Platform|/Platform:<tipoPlataforma>
+      Arquitectura de la plataforma de destino que se usará para la ejecución de pruebas. 
+      Los valores válidos son x86, x64 y ARM.�El argumento /Platform requiere que se proporcione el tipo de plataforma de destino para la serie de pruebas. Ejemplo: /Platform:x86g--Port|/Port:<Puerto>
+      Puerto para la conexión de socket y la recepción de mensajes de eventos.EEl depurador post mortem no se admite en el sistema operativo actual.LDumpDirectoryPath debe especificarse para instalar el depurador post mortem.5No se encontró el nombre del archivo procdump: '{0}'cSe debe especificar ProcDumpToolDirectoryPath para instalar o desinstalar el depurador post mortem.Serie de pruebas en curso La ruta de acceso {0} no existe.jSe ha agotado el tiempo de espera de la conexión del controlador de solicitudes después de {0} segundos.C@<file>
+      Leer el archivo de respuesta para ver más opciones.�--ResultsDirectory|/ResultsDirectory
+      El directorio de resultados de pruebas se creará en la ruta de acceso especificada, si no existe.
+      Ejemplo  /ResultsDirectory:<Ruta al directorio de resultados>�El parámetro /ResultsDirectory requiere un valor, donde deben guardarse los resultados de la prueba. Ejemplo: /ResultsDirectory:c:\MyTestResultsDirectoryl--Settings|/Settings:<archivoConfiguración>
+      Configuración que se usará cuando se ejecuten pruebas.3No se encuentra el archivo de configuración '{0}'.QEl parámetro /Settings requiere que se proporcione un archivo de configuración.ZSolo se puede especificar un paquete de aplicación (archivo .appx) para ejecutar pruebas.�--Tests|/Tests:<nombres de pruebas>
+      Ejecuta las pruebas con nombres que coinciden con los valores proporcionados. Para proporcionar varios
+      valores, sepárelos con comas
+      Ejemplos: /Tests:MétodoPrueba1
+                /Tests:MétodoPrueba1,MétodoPrueba2�[TestFileNames]
+      Ejecuta las pruebas del patrón con comodines o los archivos especificados. Separe varios patrones o
+      nombres de archivo de prueba con espacios. Establezca el nivel de detalle del
+      registrador en detallado para ver los archivos de prueba coincidentes.
+      Ejemplos: mytestproject.dll
+                mytestproject.dll myothertestproject.exe
+                testproject*.dll my*project.dll�Los recopiladores de datos diferentes de Cobertura de código y Microsoft Fakes configurados a través de la configuración de ejecución no se admiten con la configuración de pruebas integrada. Consulte https://aka.ms/vstest-configure-datacollector para obtener más información. Configuración de ejecución: {0}.,Segundos%        Nombre de configuración: {0}Omitidas�Se ha detectado un total de {0} pruebas, pero algunas no coinciden con los criterios de selección especificados ({1}). Use valores correctos y vuelva a intentarlo.�El argumento /Tests requiere uno o varios nombres de pruebas específicas o sus subcadenas.
+       Ejemplos: /Tests:MétodoDePrueba1, /Tests:MétodoDePrueba1,método2 Seguimiento de la pila:]Se ha agotado el tiempo de esp

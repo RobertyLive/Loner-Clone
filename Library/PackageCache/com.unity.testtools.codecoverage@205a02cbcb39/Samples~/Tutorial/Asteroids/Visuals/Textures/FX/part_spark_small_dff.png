@@ -1,0 +1,36 @@
+m.Security.Cryptography.CngKeyBlobFormat"></see> object that specifies a public key BLOB for an elliptic curve cryptography (ECC) key which contains explicit curve parameters.</summary>
+      <returns>An object describing a public key BLOB.</returns>
+    </member>
+    <member name="P:System.Security.Cryptography.CngKeyBlobFormat.EccPrivateBlob">
+      <summary>Gets a <see cref="T:System.Security.Cryptography.CngKeyBlobFormat"></see> object that specifies a private key BLOB for an elliptic curve cryptography (ECC) key.</summary>
+      <returns>An object that specifies an ECC private key BLOB.</returns>
+    </member>
+    <member name="P:System.Security.Cryptography.CngKeyBlobFormat.EccPublicBlob">
+      <summary>Gets a <see cref="T:System.Security.Cryptography.CngKeyBlobFormat"></see> object that specifies a public key BLOB for an elliptic curve cryptography (ECC) key.</summary>
+      <returns>An object that specifies an ECC public key BLOB.</returns>
+    </member>
+    <member name="M:System.Security.Cryptography.CngKeyBlobFormat.Equals(System.Object)">
+      <summary>Compares the specified object to the current <see cref="T:System.Security.Cryptography.CngKeyBlobFormat"></see> object.</summary>
+      <param name="obj">An object to be compared to the current <see cref="T:System.Security.Cryptography.CngKeyBlobFormat"></see> object.</param>
+      <returns>true if the <paramref name="obj">obj</paramref> parameter is a <see cref="T:System.Security.Cryptography.CngKeyBlobFormat"></see> object that specifies the same key BLOB format as the current object; otherwise, false.</returns>
+    </member>
+    <member name="M:System.Security.Cryptography.CngKeyBlobFormat.Equals(System.Security.Cryptography.CngKeyBlobFormat)">
+      <summary>Compares the specified <see cref="T:System.Security.Cryptography.CngKeyBlobFormat"></see> object to the current <see cref="T:System.Security.Cryptography.CngKeyBlobFormat"></see> object.</summary>
+      <param name="other">An object to be compared to the current <see cref="T:System.Security.Cryptography.CngKeyBlobFormat"></see> object.</param>
+      <returns>true if the <paramref name="other">other</paramref> parameter specifies the same key BLOB format as the current object; otherwise, false.</returns>
+    </member>
+    <member name="P:System.Security.Cryptography.CngKeyBlobFormat.Format">
+      <summary>Gets the name of the key BLOB format that the current <see cref="T:System.Security.Cryptography.CngKeyBlobFormat"></see> object specifies.</summary>
+      <returns>The embedded key BLOB format name.</returns>
+    </member>
+    <member name="P:System.Security.Cryptography.CngKeyBlobFormat.GenericPrivateBlob">
+      <summary>Gets a <see cref="T:System.Security.Cryptography.CngKeyBlobFormat"></see> object that specifies a generic private key BLOB.</summary>
+      <returns>An object that specifies a generic private key BLOB.</returns>
+    </member>
+    <member name="P:System.Security.Cryptography.CngKeyBlobFormat.GenericPublicBlob">
+      <summary>Gets a <see cref="T:System.Security.Cryptography.CngKeyBlobFormat"></see> object that specifies a generic public key BLOB.</summary>
+      <returns>An object that specifies a generic public key BLOB.</returns>
+    </member>
+    <member name="M:System.Security.Cryptography.CngKeyBlobFormat.GetHashCode">
+      <summary>Generates a hash value for the embedded key BLOB format in the current <see cref="T:System.Security.Cryptography.CngKeyBlobFormat"></see> object.</summary>
+      <returns>The h

@@ -1,0 +1,26 @@
+>
+			<ParamContainerItem Index="2" ObjectRef="42"/>
+			<ParamContainerItem Index="3" ObjectRef="43"/>
+			<ParamContainerItem Index="4" ObjectRef="44"/>
+			<ParamContainerItem Index="5" ObjectRef="45"/>
+			<ParamContainerItem Index="6" ObjectRef="46"/>
+			<ParamContainerItem Index="7" ObjectRef="47"/>
+			<ParamContainerItem Index="8" ObjectRef="48"/>
+			<ParamContainerItem Index="9" ObjectRef="49"/>
+		</ParamContainerItems>
+	</ExporterParamContainer>
+	<ExporterParam ObjectID="40" ClassID="9f049ab7-d48f-43e9-a8ca-4d7f21233625" Version="1">
+		<ParamAuxType></ParamAuxType>
+		<ParamAuxValue></ParamAuxValue>
+		<ParamIdentifier>ADBEVideoQuality</ParamIdentifier>
+		<ParamConstrainedListIsOptional>false</ParamConstrainedListIsOptional>
+		<IsFilePathString>false</IsFilePathString>
+		<IsOptionalParamEnabled>false</IsOptionalParamEnabled>
+		<IsOptionalParam>false</IsOptionalParam>
+		<IsParamPairGroup>false</IsParamPairGroup>
+		<ParamIsPassword>false</ParamIsPassword>
+		<ParamIsMultiLine>false</ParamIsMultiLine>
+		<ParamIsHidden>true</ParamIsHidden>
+		<ParamIsDisabled>false</ParamIsDisabled>
+		<ParamIsIndependant>false</ParamIsIndependant>
+		<ParamIsSlider>true<

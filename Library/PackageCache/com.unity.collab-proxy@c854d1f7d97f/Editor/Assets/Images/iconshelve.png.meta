@@ -1,0 +1,55 @@
+             "{6}    Private _{0} As {1}{2}{6}" & _
+                "    {3} Property {0} As {1}{6}" & _
+                "        {4}Get{6}" & _
+                "            Return _{0}{6}" & _
+                "        End Get{6}" & _
+                "        {5}Set(ByVal value As {1}){6}" & _
+                "            _{0} = value{6}" & _
+                "        End Set{6}" & _
+                "    End Property",  _
+                name, _
+                type, _
+                defaultValue, _
+                accessibility, _
+                getterAccessibility, _
+                setterAccessibility, _
+                Environment.NewLine)
+        End If
+    End Function
+
+    Public Function PropertyAccessibilityAndVirtual(ByVal member As EdmMember) As String
+        Dim propertyAccess As String = Accessibility.ForProperty(member)
+        Dim setAccess as String = Accessibility.ForSetter(member)
+        Dim getAccess as String = Accessibility.ForGetter(member)
+        If propertyAccess <> "Private" AndAlso setAccess <> "Private" AndAlso getAccess <> "Private" Then
+            Return propertyAccess & " Overridable"
+        End If
+
+        Return propertyAccess
+    End Function
+
+    Public Function EntityClassOpening(entity As EntityType) As String
+        Return String.Format( _
+            CultureInfo.InvariantCulture, _
+            "Partial {0} {1}Class {2}{3}", _
+            Accessibility.ForType(entity), _
+            _code.SpaceAfter(_code.MustInheritOption(entity)), _
+            _code.Escape(entity), _
+            _code.StringBefore(Environment.NewLine & "         Inherits ", _typeMapper.GetTypeName(entity.BaseType)))
+    End Function
+
+    Public Function EnumOpening(enumType As SimpleType) As String
+        Return String.Format( _
+            CultureInfo.InvariantCulture, _
+            "{0} Enum {1} As {2}", _
+            Accessibility.ForType(enumType),
+            _code.Escape(enumType),
+            _code.Escape(_typeMapper.UnderlyingClrType(enumType)))
+    End Function
+
+    Public Sub WriteFunctionParameters(edmFunction As EdmFunction, writeParameter As Action(Of String, String, String, String))
+        Dim parameters as IEnumerable(Of FunctionImportParameter) = FunctionImportParameter.Create(edmFunction.Parameters, _code, _ef)
+        For Each parameter As FunctionImportParameter In parameters.Where(Function(p) p.NeedsLocalVariable)
+            Dim isNotNull as String = If(parameter.IsNullableOfT, parameter.FunctionParameterName & ".HasValue", parameter.FunctionParameterName & " IsNot Nothing")
+            Dim notNullInit as String = "New ObjectParameter(""" & parameter.EsqlParameterName & """, " & parameter.FunctionParameterName & ")"
+            Dim nullInit as String = "New ObjectParameter(""" & parameter.EsqlParameterName & """, GetType(" & parameter.RawClr

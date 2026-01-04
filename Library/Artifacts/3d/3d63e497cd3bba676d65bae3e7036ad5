@@ -1,0 +1,44 @@
+orks is the list of target frameworks for projects in the sample.
+                          </xs:documentation>
+                        </xs:annotation>
+                      </xs:attribute>
+                      <xs:attribute name="CategorizationPath" type="xs:string" use="optional">
+                        <xs:annotation>
+                          <xs:documentation>
+                            <!-- _locID_text="CategorizationPath" _locComment="" -->The CategorizationPath is the path specifying the categorization in the new project dialog.
+                            The path segments should be separated by the '\' character.
+                          </xs:documentation>
+                        </xs:annotation>
+                      </xs:attribute>
+                      <xs:attribute name="StartupFiles" type="xs:string" use="optional">
+                        <xs:annotation>
+                          <xs:documentation>
+                            <!-- _locID_text="StartupFiles" _locComment="" -->The StartupFiles is the list of files in the sample folder to start when the sample is instantiated. The paths should
+                            be relative to the sample folder root.
+                          </xs:documentation>
+                        </xs:annotation>
+                      </xs:attribute>
+                      <xs:attribute name="DefaultName" type="xs:string" use="optional">
+                        <xs:annotation>
+                          <xs:documentation>
+                            <!-- _locID_text="DefaultName" _locComment="" -->The DefaultName is the default name of the sample in the New Project Dialog. Defaults to the name of the 
+                            sample solution if not specified.
+                          </xs:documentation>
+                        </xs:annotation>
+                      </xs:attribute>
+                      <xs:attribute name="SolutionPath" type="xs:string" use="required">
+                        <xs:annotation>
+                          <xs:documentation>
+                            <!-- _locID_text="SolutionPath" _locComment="" -->The SolutionPath is the path to the solution file the sample folder to start when the sample is instantiated. The path should
+                            be relative to the sample folder root.
+                          </xs:documentation>
+                        </xs:annotation>
+                      </xs:attribute>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="VsPackage" minOccurs="0" maxOccurs="unbounded">
+                <xs:annotation>
+                  <xs:documentation>
+                    <!-- _locID_text="VsPackage" _locComment="" -->The VsPackage element defi

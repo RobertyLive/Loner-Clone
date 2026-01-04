@@ -1,0 +1,27 @@
+n="1"
+                                    Access="Connect"
+                            />
+                            <IPermission
+                                    class="SocketPermission"
+                                    version="1"
+                                    Unrestricted="true"
+                            />
+                            <IPermission
+                                    class="SqlClientPermission"
+                                    version="1"
+                                    Unrestricted="true"
+                            />
+                            <IPermission
+                                    class="TypeDescriptorPermission"
+                                    version="1"
+                                    Unrestricted="true"
+                            />
+                            <IPermission
+                                    class="WebPermission"
+                                    version="1"
+                                    Unrestricted="true"
+                            />
+                        </PermissionSet>
+                    </NamedPermissionSets>
+                    <CodeGroup
+                

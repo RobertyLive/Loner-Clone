@@ -1,0 +1,51 @@
+;
+        height: 100%;
+        overflow: hidden;
+    }
+
+        .eventDataTemplate > .eventDataTemplateDataCell > .eventBar {
+            flex-shrink: 0;
+            height: 1em;
+            min-width: 3px;
+        }
+
+        .eventDataTemplate > .eventDataTemplateDataCell > .bracket {
+            background: none;
+            border-left: 3px solid black; /*[3px solid {plugin-color}]*/
+            border-right: 3px solid black; /*[3px solid {plugin-color}]*/
+            border-top: 2px solid black; /*[2px solid {plugin-color}]*/
+            height: 50%;
+        }
+
+        .eventDataTemplate > .eventDataTemplateDataCell > .durationText {
+            flex-shrink: 0;
+            margin-left: 5px;
+        }
+
+.emptyHeader {
+    background-color: TRANSPARENT; /*[{plugin-treeview-content-inactive-selected-background-color}]*/
+}
+
+.errorGrid {
+    -ms-grid-rows: auto 1fr;
+    display: -ms-grid;
+}
+
+    .errorGrid .errorFrown {
+        -ms-grid-row: 1;
+        font-size: 100px;
+    }
+
+    .errorGrid .errorMessage {
+        -ms-grid-row: 2;
+        font-size: 20px;
+        word-wrap: break-word;
+    }
+
+/*From the DOM/Console common "toolwindow.css"*/
+.BPT-FileLink, .BPT-HelpLink, .BPT-IELink {
+    color: TRANSPARENT; /*[{plugin-link-color}]*/ /*EnvironmentColors.CommandBarMenuLinkTextColorKey*/
+    cursor: pointer;
+}
+
+    .BPT-FileLink:hover, .BPT-HelpLink:hover, .BPT-IELink

@@ -1,0 +1,165 @@
+   Condition="'$(ResolveEmbeddedStaticWebAssets)' != 'false'"
+    DependsOnTargets="ResolveStaticWebAssetsCrossTargetingConfiguration">
+
+    <MSBuild
+      Condition="'@(_StaticWebAssetsEmbeddedProjectAssetConfigurations)' != '' and %(_StaticWebAssetsEmbeddedProjectAssetConfigurations.TargetFramework) != '$(TargetFramework)'"
+      Targets="GetEmbeddedReferencedPackageAssets"
+      Properties="%(_StaticWebAssetsEmbeddedProjectAssetConfigurations.GetReferencedEmbeddedAssetsProperties)"
+      RemoveProperties="%(_StaticWebAssetsEmbeddedProjectAssetConfigurations.GetReferencedEmbeddedAssetsPropertiesToRemove);$(_GlobalPropertiesToRemoveFromProjectReferences)"
+      Projects="@(_StaticWebAssetsEmbeddedProjectAssetConfigurations)"
+      BuildInParallel="$(BuildInParallel)"
+      ContinueOnError="!$(BuildingProject)"
+      SkipNonexistentTargets="false"
+    >
+      <Output TaskParameter="TargetOutputs" ItemName="_EmbeddedBuildStaticWebAssetsItems" />
+    </MSBuild>
+
+    <ItemGroup>
+      <StaticWebAsset Include="@(_EmbeddedBuildStaticWebAssetsItems)" KeepMetadata="@(_StaticWebAssetCanonicalMetadata)" />
+    </ItemGroup>
+
+  </Target>
+
+  <Target Name="GetEmbeddedReferencedPackageAssets" Returns="@(_StaticWebAssetPackageAsset)">
+    <ItemGroup>
+      <_StaticWebAssetPackageAsset Include="@(StaticWebAsset)" Condition="'%(StaticWebAsset.SourceType)' == 'Package">
+        <AssetMergeSource>$(TargetFramework)</AssetMergeSource>
+      </_StaticWebAssetPackageAsset>
+    </ItemGroup>
+  </Target>
+
+  <Target Name="ResolveEmbeddedConfigurationsReferencedProjects"
+    Condition="'$(ResolveEmbeddedStaticWebAssets)' != 'false'"
+    DependsOnTargets="ResolveStaticWebAssetsCrossTargetingConfiguration">
+
+    <MSBuild
+      Condition="'@(_StaticWebAssetsEmbeddedProjectAssetConfigurations)' != '' and %(_StaticWebAssetsEmbeddedProjectAssetConfigurations.TargetFramework) != '$(TargetFramework)'"
+      Targets="GetEmbeddedConfigurationReferencedProjects"
+      Properties="%(_StaticWebAssetsEmbeddedProjectAssetConfigurations.GetReferencedProjectsProperties)"
+      RemoveProperties="%(_StaticWebAssetsEmbeddedProjectAssetConfigurations.GetReferencedProjectsPropertiesToRemove);$(_GlobalPropertiesToRemoveFromProjectReferences)"
+      Projects="@(_StaticWebAssetsEmbeddedProjectAssetConfigurations)"
+      BuildInParallel="$(BuildInParallel)"
+      ContinueOnError="!$(BuildingProject)"
+      SkipNonexistentTargets="false"
+    >
+      <Output TaskParameter="TargetOutputs" ItemName="_EmbeddedBuildStaticWebAssetProjectReference" />
+    </MSBuild>
+
+    <ItemGroup>
+      <StaticWebAsset Include="@(_EmbeddedBuildStaticWebAssetProjectReference)" KeepMetadata="@(_StaticWebAssetProjectConfigurationCanonicalMetadata)" />
+    </ItemGroup>
+
+  </Target>
+
+  <Target Name="GetEmbeddedConfigurationReferencedProjects"
+    DependsOnTargets="ResolveReferencedProjectsStaticWebAssetsConfiguration"
+    Returns="@(StaticWebAssetProjectConfiguration)">
+  </Target>
+
+  <Target Name="ResolveEmbeddedConfigurationReferencedProjectsStaticWebAssets"
+    DependsOnTargets="ResolveEmbeddedConfigurationsReferencedProjects">
+
+      <MSBuild
+        Condition="'@(StaticWebAssetProjectConfiguration)' != ''"
+        Targets="%(StaticWebAssetProjectConfiguration.GetBuildAssetsTargets)"
+        Properties="%(StaticWebAssetProjectConfiguration.AdditionalBuildProperties)"
+        RemoveProperties="%(StaticWebAssetProjectConfiguration.AdditionalBuildPropertiesToRemove);$(_GlobalPropertiesToRemoveFromProjectReferences)"
+        Projects="@(StaticWebAssetProjectConfiguration)"
+        BuildInParallel="$(BuildInParallel)"
+        ContinueOnError="!$(BuildingProject)"
+        SkipNonexistentTargets="false"
+      >
+        <Output TaskParameter="TargetOutputs" ItemName="_ReferencedProjectBuildStaticWebAssetsItems" />
+      </MSBuild>
+
+      <ItemGroup>
+
+        <StaticWebAsset
+          Include="@(_ReferencedProjectBuildStaticWebAssetsItems)"
+          Condition="'%(_ReferencedProjectBuildStaticWebAssetsItems.ResultType)' == 'StaticWebAsset'"
+          KeepMetadata="@(_StaticWebAssetCanonicalMetadata)" />
+
+        <StaticWebAssetDiscoveryPattern
+          Include="@(_ReferencedProjectBuildStaticWebAssetsItems)"
+          Condition="'%(_ReferencedProjectBuildStaticWebAssetsItems.ResultType)' == 'StaticWebAssetDiscoveryPattern'"
+          KeepMetadata="@(_StaticWebAssetDiscoveryPatternCanonicalMetadata)" />
+
+      </ItemGroup>
+
+  </Target>
+
+  <Target Name="ComputeReferencedProjectsEmbeddedPublishAssets"
+      Condition="'$(ResolveEmbeddedStaticWebAssets)' != 'false'"
+      DependsOnTargets="LoadStaticWebAssetsBuildManifest">
+
+    <ItemGroup>
+      <_ProjectConfigurationsWithEmbeddedPublishTargets
+        Include="@(_StaticWebAssetsEmbeddedProjectAssetConfigurations)"
+        Condition="'%(_StaticWebAssetsEmbeddedProjectAssetConfigurations.GetEmbeddedPublishAssetsTargets)' != ''" />
+    </ItemGroup>
+
+    <PropertyGroup>
+      <_HasProjectsWithStaticWebAssetEmbeddedPublishTargets>false</_HasProjectsWithStaticWebAssetEmbeddedPublishTargets>
+      <_HasProjectsWithStaticWebAssetEmbeddedPublishTargets Condition="'@(_ProjectConfigurationsWithEmbeddedPublishTargets)' != ''">true</_HasProjectsWithStaticWebAssetEmbeddedPublishTargets>
+    </PropertyGroup>
+
+    <MSBuild Condition="$(_HasProjectsWithStaticWebAssetEmbeddedPublishTargets)"
+      Targets="%(_ProjectConfigurationsWithEmbeddedPublishTargets.GetEmbeddedPublishAssetsTargets)"
+      Properties="%(_ProjectConfigurationsWithEmbeddedPublishTargets.AdditionalEmbeddedPublishProperties)"
+      RemoveProperties="%(_ProjectConfigurationsWithEmbeddedPublishTargets.AdditionalEmbeddedPublishPropertiesToRemove);$(_GlobalPropertiesToRemoveFromProjectReferences)"
+      Projects="@(_ProjectConfigurationsWithEmbeddedPublishTargets)"
+      BuildInParallel="$(BuildInParallel)"
+      ContinueOnError="!$(BuildingProject)"
+      SkipNonexistentTargets="false"
+    >
+      <Output TaskParameter="TargetOutputs" ItemName="_ReferencedProjectEmbeddedPublishStaticWebAssetsItems" />
+    </MSBuild>
+
+    <ItemGroup Condition="$(_HasProjectsWithStaticWebAssetEmbeddedPublishTargets)">
+      <StaticWebAsset Remove="@(_ReferencedProjectEmbeddedPublishStaticWebAssetsItems)" />
+      <StaticWebAsset
+        Include="@(_ReferencedProjectEmbeddedPublishStaticWebAssetsItems)"
+        Condition="'%(_ReferencedProjectEmbeddedPublishStaticWebAssetsItems.ResultType)' == 'StaticWebAsset'"
+        RemoveMetadata="ResultType" />
+    </ItemGroup>
+
+  </Target>
+
+  <Target Name="GetCurrentProjectEmbeddedBuildStaticWebAssetItems" DependsOnTargets="ResolveStaticWebAssetsConfiguration" Returns="@(_CachedEmbeddedBuildStaticWebAssetItems)">
+
+      <PropertyGroup>
+        <_ShouldReadEmbeddedBuildManifestAndUpdateItemGroup>false</_ShouldReadEmbeddedBuildManifestAndUpdateItemGroup>
+        <_ShouldReadEmbeddedBuildManifestAndUpdateItemGroup Condition="@(_CachedEmbeddedBuildStaticWebAssets) == '' and @(_CachedEmbeddedBuildStaticWebAssetDiscoveryPatterns) == ''">true</_ShouldReadEmbeddedBuildManifestAndUpdateItemGroup>
+      </PropertyGroup>
+
+      <ReadStaticWebAssetsManifestFile ManifestPath="$(StaticWebAssetBuildManifestPath)"
+        Condition="'$(_ShouldReadEmbeddedBuildManifestAndUpdateItemGroup)' == 'true'">
+        <Output TaskParameter="Assets" ItemName="_CachedEmbeddedBuildStaticWebAssets" />
+        <Output TaskParameter="DiscoveryPatterns" ItemName="_CachedEmbeddedBuildStaticWebAssetDiscoveryPatterns" />
+      </ReadStaticWebAssetsManifestFile>
+
+      <ComputeStaticWebAssetsForCurrentProject
+        Assets="@(_CachedEmbeddedBuildStaticWebAssets)"
+        ProjectMode="$(StaticWebAssetProjectMode)"
+        AssetKind="Build"
+        Source="$(PackageId)"
+      >
+        <Output TaskParameter="StaticWebAssets" ItemName="_CachedEmbeddedBuildReferencedStaticWebAsset" />
+      </ComputeStaticWebAssetsForCurrentProject>
+
+      <ItemGroup>
+        <_CachedEmbeddedBuildStaticWebAssetItems Include="@(_CachedEmbeddedBuildReferencedStaticWebAsset)">
+          <ResultType>StaticWebAsset</ResultType>
+        </_CachedEmbeddedBuildStaticWebAssetItems>
+        <_CachedEmbeddedBuildStaticWebAssetItems Include="@(_CachedEmbeddedBuildStaticWebAssetDiscoveryPatterns)">
+          <ResultType>StaticWebAssetDiscoveryPattern</ResultType>
+        </_CachedEmbeddedBuildStaticWebAssetItems>
+      </ItemGroup>
+
+  </Target>
+
+  <Target Name="GetCurrentProjectEmbeddedPublishStaticWebAssetItems" DependsOnTargets="ResolveStaticWebAssetsConfiguration" Returns="@(_CachedEmbeddedPublishStaticWebAssetItems)">
+
+      <PropertyGroup>
+        <_ShouldReadEmbeddedPublishManifestAndUpdateItemGroup>false</_ShouldReadEmbeddedPublishManifestAndUpdateItemGroup>
+        <_ShouldReadEmbeddedPublishManifestAndUpdateItemGroup Condition="@(_CachedEmbeddedPublishStaticWebAssets) == '' and @(_CachedEmbeddedPublishStaticWebAssetDiscoveryPatterns) == ''

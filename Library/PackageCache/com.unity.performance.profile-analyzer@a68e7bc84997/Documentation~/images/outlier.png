@@ -1,0 +1,457 @@
+ecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001779, 1.000000</rdf:li>
+          <rdf:li>0.151211, 0.994301</rdf:li>
+          <rdf:li>0.183059, 0.978729</rdf:li>
+          <rdf:li>0.202839, 0.959148</rdf:li>
+          <rdf:li>0.238943, 0.897091</rdf:li>
+          <rdf:li>0.260390, 0.857730</rdf:li>
+          <rdf:li>0.265731, 0.831920</rdf:li>
+          <rdf:li>0.269468, 0.804122</rdf:li>
+          <rdf:li>0.273339, 0.752203</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 7D"
+       stCamera:UniqueCameraModel="Canon EOS 7D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="36912"
+       stCamera:Lens="EF-S18-135mm f/3.5-5.6 IS USM"
+       stCamera:LensInfo="18/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 7D"
+       stCamera:LensPrettyName="Canon EF-S 18-135mm f/3.5-5.6 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-135mm f/3.5-5.6 IS USM)"
+       stCamera:SensorFormatFactor="1.58"
+       stCamera:ImageWidth="5202"
+       stCamera:ImageLength="3465"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.197386"
+        stCamera:FocalLengthY="2.197386"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499856"
+        stCamera:RadialDistortParam1="0.149019"
+        stCamera:RadialDistortParam2="-1.681952"
+        stCamera:RadialDistortParam3="21.932216">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.197386"
+         stCamera:FocalLengthY="2.197386"
+         stCamera:VignetteModelParam1="-1.20621"
+         stCamera:VignetteModelParam2="-7.12811"
+         stCamera:VignetteModelParam3="148.726181">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001779, 1.000000</rdf:li>
+          <rdf:li>0.151211, 0.996655</rdf:li>
+          <rdf:li>0.217651, 0.955339</rdf:li>
+          <rdf:li>0.268409, 0.924762</rdf:li>
+          <rdf:li>0.273339, 0.892647</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 7D"
+       stCamera:UniqueCameraModel="Canon EOS 7D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="36912"
+       stCamera:Lens="EF-S18-135mm f/3.5-5.6 IS USM"
+       stCamera:LensInfo="18/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 7D"
+       stCamera:LensPrettyName="Canon EF-S 18-135mm f/3.5-5.6 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-135mm f/3.5-5.6 IS USM)"
+       stCamera:SensorFormatFactor="1.58"
+       stCamera:ImageWidth="5202"
+       stCamera:ImageLength="3465"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.197386"
+        stCamera:FocalLengthY="2.197386"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499856"
+        stCamera:RadialDistortParam1="0.149019"
+        stCamera:RadialDistortParam2="-1.681952"
+        stCamera:RadialDistortParam3="21.932216">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.197386"
+         stCamera:FocalLengthY="2.197386"
+         stCamera:VignetteModelParam1="-1.035867"
+         stCamera:VignetteModelParam2="-13.518177"
+         stCamera:VignetteModelParam3="222.60937">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001779, 1.000000</rdf:li>
+          <rdf:li>0.160352, 0.989434</rdf:li>
+          <rdf:li>0.273339, 0.931997</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 7D"
+       stCamera:UniqueCameraModel="Canon EOS 7D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="36912"
+       stCamera:Lens="EF-S18-135mm f/3.5-5.6 IS USM"
+       stCamera:LensInfo="18/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 7D"
+       stCamera:LensPrettyName="Canon EF-S 18-135mm f/3.5-5.6 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-135mm f/3.5-5.6 IS USM)"
+       stCamera:SensorFormatFactor="1.58"
+       stCamera:ImageWidth="5202"
+       stCamera:ImageLength="3465"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.197386"
+        stCamera:FocalLengthY="2.197386"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499856"
+        stCamera:RadialDistortParam1="0.149019"
+        stCamera:RadialDistortParam2="-1.681952"
+        stCamera:RadialDistortParam3="21.932216">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.197386"
+         stCamera:FocalLengthY="2.197386"
+         stCamera:VignetteModelParam1="-1.292866"
+         stCamera:VignetteModelParam2="-8.962434"
+         stCamera:VignetteModelParam3="213.338045">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.005337, 1.000000</rdf:li>
+          <rdf:li>0.159561, 0.990019</rdf:li>
+          <rdf:li>0.273339, 0.934829</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 7D"
+       stCamera:UniqueCameraModel="Canon EOS 7D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="36912"
+       stCamera:Lens="EF-S18-135mm f/3.5-5.6 IS USM"
+       stCamera:LensInfo="18/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 7D"
+       stCamera:LensPrettyName="Canon EF-S 18-135mm f/3.5-5.6 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-135mm f/3.5-5.6 IS USM)"
+       stCamera:SensorFormatFactor="1.58"
+       stCamera:ImageWidth="5202"
+       stCamera:ImageLength="3465"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.197386"
+        stCamera:FocalLengthY="2.197386"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499856"
+        stCamera:RadialDistortParam1="0.149019"
+        stCamera:RadialDistortParam2="-1.681952"
+        stCamera:RadialDistortParam3="21.932216">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.197386"
+         stCamera:FocalLengthY="2.197386"
+         stCamera:VignetteModelParam1="-1.695203"
+         stCamera:VignetteModelParam2="-92.415194"
+         stCamera:VignetteModelParam3="762.527196">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.011391, 1.000000</rdf:li>
+          <rdf:li>0.088965, 0.987017</rdf:li>
+          <rdf:li>0.127105, 0.954125</rdf:li>
+          <rdf:li>0.157002, 0.921511</rdf:li>
+          <rdf:li>0.200485, 0.833658</rdf:li>
+          <rdf:li>0.263483, 0.691194</rdf:li>
+          <rdf:li>0.265445, 0.681448</rdf:li>
+          <rdf:li>0.269468, 0.656735</rdf:li>
+          <rdf:li>0.273339, 0.618517</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 7D"
+       stCamera:UniqueCameraModel="Canon EOS 7D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="36912"
+       stCamera:Lens="EF-S18-135mm f/3.5-5.6 IS USM"
+       stCamera:LensInfo="18/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 7D"
+       stCamera:LensPrettyName="Canon EF-S 18-135mm f/3.5-5.6 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-135mm f/3.5-5.6 IS USM)"
+       stCamera:SensorFormatFactor="1.58"
+       stCamera:ImageWidth="5202"
+       stCamera:ImageLength="3465"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.197386"
+        stCamera:FocalLengthY="2.197386"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499856"
+        stCamera:RadialDistortParam1="0.149019"
+        stCamera:RadialDistortParam2="-1.681952"
+        stCamera:RadialDistortParam3="21.932216">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.197386"
+         stCamera:FocalLengthY="2.197386"
+         stCamera:VignetteModelParam1="-1.251543"
+         stCamera:VignetteModelParam2="8.543809"
+         stCamera:VignetteModelParam3="-328.155884">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001779, 1.000000</rdf:li>
+          <rdf:li>0.183059, 0.978036</rdf:li>
+          <rdf:li>0.200485, 0.959567</rdf:li>
+          <rdf:li>0.236199, 0.901952</rdf:li>
+          <rdf:li>0.261602, 0.849746</rdf:li>
+          <rdf:li>0.265445, 0.831377</rdf:li>
+          <rdf:li>0.269468, 0.802322</rdf:li>
+          <rdf:li>0.273339, 0.753611</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 7D"
+       stCamera:UniqueCameraModel="Canon EOS 7D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="36912"
+       stCamera:Lens="EF-S18-135mm f/3.5-5.6 IS USM"
+       stCamera:LensInfo="18/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 7D"
+       stCamera:LensPrettyName="Canon EF-S 18-135mm f/3.5-5.6 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-135mm f/3.5-5.6 IS USM)"
+       stCamera:SensorFormatFactor="1.58"
+       stCamera:ImageWidth="5202"
+       stCamera:ImageLength="3465"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.197386"
+        stCamera:FocalLengthY="2.197386"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499856"
+        stCamera:RadialDistortParam1="0.149019"
+        stCamera:RadialDistortParam2="-1.681952"
+        stCamera:RadialDistortParam3="21.932216">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.197386"
+         stCamera:FocalLengthY="2.197386"
+         stCamera:VignetteModelParam1="-1.20621"
+         stCamera:VignetteModelParam2="-7.12811"
+         stCamera:VignetteModelParam3="148.726181">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001779, 1.000000</rdf:li>
+          <rdf:li>0.168663, 0.984832</rdf:li>
+          <rdf:li>0.236199, 0.944396</rdf:li>
+          <rdf:li>0.267582, 0.926195</rdf:li>
+          <rdf:li>0.273339, 0.893593</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 7D"
+       stCamera:UniqueCameraModel="Canon EOS 7D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="36912"
+       stCamera:Lens="EF-S18-135mm f/3.5-5.6 IS USM"
+       stCamera:LensInfo="18/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 7D"
+       stCamera:LensPrettyName="Canon EF-S 18-135mm f/3.5-5.6 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-135mm f/3.5-5.6 IS USM)"
+       stCamera:SensorFormatFactor="1.58"
+       stCamera:ImageWidth="5202"
+       stCamera:ImageLength="3465"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.197386"
+        stCamera:FocalLengthY="2.197386"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499856"
+        stCamera:RadialDistortParam1="0.149019"
+        stCamera:RadialDistortParam2="-1.681952"
+        stCamera:RadialDistortParam3="21.932216">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.197386"
+         stCamera:FocalLengthY="2.197386"
+         stCamera:VignetteModelParam1="-1.035867"
+         stCamera:VignetteModelParam2="-13.518177"
+         stCamera:VignetteModelParam3="222.60937">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.003978, 1.000000</rdf:li>
+          <rdf:li>0.151587, 0.991014</rdf:li>
+          <rdf:li>0.273339, 0.931973</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 7D"
+       stCamera:UniqueCameraModel="Canon EOS 7D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="36912"
+       stCamera:Lens="EF-S18-135mm f/3.5-5.6 IS USM"
+       stCamera:LensInfo="18/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 7D"
+       stCamera:LensPrettyName="Canon EF-S 18-135mm f/3.5-5.6 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-135mm f/3.5-5.6 IS USM)"
+       stCamera:SensorFormatFactor="1.58"
+       stCamera:ImageWidth="5202"
+       stCamera:ImageLength="3465"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.38"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.197386"
+        stCamera:FocalLengthY="2.197386"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499856"
+        stCamera:RadialDistortParam1="0.149019"
+        stCamera:RadialDistortParam2="-1.681952"
+        stCamera:RadialDistortParam3="21.932216">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:FocalLengthX="2.197386"
+         stCamera:FocalLengthY="2.197386"
+         stCamera:VignetteModelParam1="-1.292866"
+         stCamera:VignetteModelParam2="-8.962434"
+         stCamera:VignetteModelParam3="213.338045">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.001779, 1.000000</rdf:li>
+          <rdf:li>0.158246, 0.989031</rdf:li>
+          <rdf:li>0.260390, 0.936147</rdf:li>
+          <rdf:li>0.273339, 0.936110</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS 7D"
+       stCamera:UniqueCameraModel="Canon EOS 7D"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="36912"
+       stCamera:Lens="EF-S18-135mm f/3.5-5.6 IS USM"
+       stCamera:LensInfo="18/1 135/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS 7D"
+       stCamera:LensPrettyName="Canon EF-S 18-135mm f/3.5-5.6 IS USM"
+       stCamera:ProfileName="Adobe (Canon EF-S 18-135mm f/3.5-5.6 IS USM)"
+       stCamera:SensorFormatFactor="1.58"
+       stCamera:ImageWidth="5202"
+       stCamera:ImageLength="3465"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.39"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.197386"
+        stCamera:FocalLengthY="2.197386"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499856"
+        stCamera:RadialDistortParam1="0.149019"
+        stCamera:RadialDistortParam2="-1.681952"
+        stCamera:RadialDistortParam3="21.932216">
+    

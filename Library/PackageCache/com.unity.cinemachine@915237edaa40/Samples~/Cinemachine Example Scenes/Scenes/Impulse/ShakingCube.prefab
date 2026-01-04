@@ -1,0 +1,54 @@
+ry>
+        </member>
+        <member name="P:System.SR.Config_source_requires_file">
+            <summary>The 'configSource' property may not be set in a configuration that has no associated file.</summary>
+        </member>
+        <member name="P:System.SR.Config_source_syntax_error">
+            <summary>A section using 'configSource' may contain no other attributes or elements.</summary>
+        </member>
+        <member name="P:System.SR.Config_system_already_set">
+            <summary>The configuration system has already been initialized.</summary>
+        </member>
+        <member name="P:System.SR.Config_tag_name_already_defined">
+            <summary>Section or group name '{0}' is already defined. Updates to this may only occur at the configuration level where it is defined.</summary>
+        </member>
+        <member name="P:System.SR.Config_tag_name_already_defined_at_this_level">
+            <summary>Section or group name '{0}' is already defined. This can not be defined multiple times.</summary>
+        </member>
+        <member name="P:System.SR.Config_tag_name_cannot_be_location">
+            <summary>The section name 'location' is reserved for &lt;location&gt; sections.</summary>
+        </member>
+        <member name="P:System.SR.Config_tag_name_cannot_begin_with_config">
+            <summary>Section names beginning with config are reserved.</summary>
+        </member>
+        <member name="P:System.SR.Config_type_doesnt_inherit_from_type">
+            <summary>Type '{0}' does not inherit from '{1}'.</summary>
+        </member>
+        <member name="P:System.SR.Config_unexpected_element_end">
+            <summary>Unexpected end of element {0}.</summary>
+        </member>
+        <member name="P:System.SR.Config_unexpected_element_name">
+            <summary>Unexpected element name {0}.</summary>
+        </member>
+        <member name="P:System.SR.Config_unexpected_node_type">
+            <summary>expected XmlNodeType.Element, type is {0}.</summary>
+        </member>
+        <member name="P:System.SR.Config_unrecognized_configuration_section">
+            <summary>Unrecognized configuration section {0}.</summary>
+        </member>
+        <member name="P:System.SR.Config_write_failed">
+            <summary>Unable to save config to file '{0}'.</summary>
+        </member>
+        <member name="P:System.SR.Converter_timespan_not_in_second">
+            <summary>The expected format is an integer value in seconds.</summary>
+        </member>
+        <member name="P:System.SR.Converter_unsupported_value_type">
+            <summary>The converter cannot convert values with type '{0}'.</summary>
+        </member>
+        <member name="P:System.SR.Decryption_failed">
+            <summary>Failed to decrypt using provider '{0}'. Error message from the provider: {1}</summary>
+        </member>
+        <member name="P:System.SR.Default_value_conversion_error_from_string">
+            <summary>The default value of the property '{0}' cannot be parsed. The error is: {1}</summary>
+        </member>
+        <member name="P:System.

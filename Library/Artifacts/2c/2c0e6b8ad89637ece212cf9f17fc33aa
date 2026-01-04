@@ -1,0 +1,149 @@
+g kiểm tra...
+Đang mở...
+Đang quét...
+3400
+Giải nén
+Giải nén vào:
+Chọn nơi để giải nén tệp.
+3410
+Chọn đường dẫn
+Đường dẫn đầy đủ
+Không có đường dẫn
+3420
+Chế độ ghi đè
+Hỏi trước khi ghi đè
+Ghi đè không cần hỏi
+Bỏ qua tệp đã có
+Tự động đổi tên
+Tự động đổi tên tệp đã có
+3500
+Xác nhận thay thế
+Thư mục đích đã có tập tin đó.
+Bạn có muốn thay thế tập tin đã có
+bằng tập tin mới?
+{0} bytes
+Tự động đổi tên
+3700
+Phương thức nén không hỗ trợ cho '{0}'.
+Lỗi dữ liệu trong '{0}'. Tệp đã bị hỏng.
+Lỗi chẵn/lẻ (CRC) trong '{0}'. Tệp đã bị hỏng.
+Lỗi dữ liệu trong tệp nén bị mã hóa '{0}'. Mật khẩu sai?
+Kiểm tra CRC thất bại trong tệp nén bị mã hóa '{0}'. Mật khẩu sai?
+3800
+Vui lòng nhập mật khẩu
+Nhập mật khẩu:
+Nhập lại mật khẩu:
+Xem mật khẩu
+Mật khẩu không khớp nhau
+Chỉ đặt mật khẩu bằng tiếng Anh, số và những kí tự đặc biệt (!, #, $, ...) cho mật khẩu
+Mật khẩu quá dài
+Mật khẩu
+3900
+Thời gian đã qua:
+Thời gian còn lại:
+Tổng kích cỡ:
+Tốc độ:
+Đã nén:
+Tỷ lệ nén:
+Lỗi:
+Tệp nén:
+4000
+Thêm vào tệp nén
+Tệp nén:
+Chế độ cập nhật:
+Dạng tệp nén:
+Mức độ nén:
+Phương thức nén:
+Kích cỡ thư mục:
+Kích cỡ văn bản:
+Kích cỡ nén Solid:
+Số luồng xử lý CPU:
+Tham số:
+Tùy chọn
+Tạo trình tự giải nén tệp
+Nén tập tin chia sẻ
+Mã hóa
+Phương thức mã hóa:
+Mã hoá tên tệp
+Bộ nhớ dùng cho việc nén:
+Bộ nhớ dùng cho việc giải nén:
+4050
+Lưu trữ
+Nhanh nhất
+Nhanh
+Bình thường
+Tối đa
+Siêu nhanh
+4060
+Thêm và thay thế
+Thêm và cập nhật
+Cập nhật tập tin đã có
+Đồng bộ
+4070
+Duyệt
+Mọi tập tin
+Không nén dạng Solid
+Solid
+6000
+Sao chép
+Di chuyển
+Sao chép đến:
+Di chuyển đến:
+Đang thêm...
+Đang di chuyển...
+Đang đổi tên...
+Chọn thư mục đến.
+Thao tác không được hỗ trợ cho tập tin này.
+Lỗi khi đổi tên tệp hoặc thư mục
+Xác nhận thêm
+Bạn muốn thêm vào tệp nén?
+6100
+Xác nhận xoá
+Xác nhận xoá thư mục
+Xác nhận xoá nhiều tệp
+Bạn có chắc chắn muốn xoá '{0}'?
+Bạn có chắc chắn muốn xoá thư mục '{0}' và mọi tập tin bên trong?
+Bạn có chắc chắn muốn xoá {0} ?
+Đang xóa...
+Lỗi khi đang xóa tệp hoặc thư mục
+Hệ thống không thể xóa tệp với đường dẫn dài vào Thùng rác
+6300
+Tạo thư mục
+Tạo tệp nén
+Tên thư mục:
+Tên tệp mới:
+Thư mục mới
+Tệp mới
+Lỗi khi tạo thư mục
+Lỗi khi tạo tệp
+6400
+Chú thích
+Chú thích:
+Chọn
+Bỏ chọn
+Ẩn danh:
+6600
+Thuộc tính
+Lịch sử thư mục
+Thông tin chẩn đoán
+Thông tin
+7100
+Máy tính
+Mạng
+Tài liệu
+Hệ thống
+7200
+Thêm
+Giải nén
+Kiểm tra
+Sao chép
+Di chuyển
+Xoá
+Thông tin
+7300
+Chia nhỏ tệp
+Chia nhỏ và lưu tại:
+Chia thành nhiều phần, bytes:
+Đang chia nhỏ...
+Xác nhận việc chia nhỏ
+Bạn có chắc muốn chia nhỏ t�

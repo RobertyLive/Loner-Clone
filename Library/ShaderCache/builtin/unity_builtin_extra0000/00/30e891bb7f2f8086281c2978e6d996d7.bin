@@ -1,0 +1,24 @@
+ long': ctypes.c_longlong,
+        'signed char': ctypes.c_byte,
+        'unsigned char': ctypes.c_ubyte,
+        'unsigned short': ctypes.c_ushort,
+        'unsigned int': ctypes.c_uint,
+        'unsigned long': ctypes.c_ulong,
+        'unsigned long long': ctypes.c_ulonglong,
+        'float': ctypes.c_float,
+        'double': ctypes.c_double,
+        '_Bool': ctypes.c_bool,
+        }
+
+    for _name in ['unsigned long long', 'unsigned long',
+                  'unsigned int', 'unsigned short', 'unsigned char']:
+        _size = ctypes.sizeof(PRIMITIVE_TYPES[_name])
+        PRIMITIVE_TYPES['uint%d_t' % (8*_size)] = PRIMITIVE_TYPES[_name]
+        if _size == ctypes.sizeof(ctypes.c_void_p):
+            PRIMITIVE_TYPES['uintptr_t'] = PRIMITIVE_TYPES[_name]
+        if _size == ctypes.sizeof(ctypes.c_size_t):
+            PRIMITIVE_TYPES['size_t'] = PRIMITIVE_TYPES[_name]
+
+    for _name in ['long long', 'long', 'int', 'short', 'signed char']:
+        _size = ctypes.sizeof(PRIMITIVE_TYPES[_name])
+        PRIMITIVE_TYPES['int%d_t' 

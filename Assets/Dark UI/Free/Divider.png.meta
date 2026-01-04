@@ -1,0 +1,100 @@
+        hasSeenTutorialPath: false
+        hasSkippedTutorialPath: false
+        shouldSeeNewPlayerExperience: false
+    schemaVersion: 1
+lol-parties:
+    data:
+        hasSeenOpenPartyFirstExperience: true
+        hasSeenOpenPartyTooltip: true
+    schemaVersion: 1
+lol-parties-game-select:
+    data:
+        role-swap-ftux-modal-seen: true
+    schemaVersion: 0
+lol-perks:
+    data:
+        playerFlashOnFPreference: false
+        shouldEditAfterSelection: true
+        shouldIncludeSummonerSpells: true
+    schemaVersion: 1
+lol-player-behavior:
+    data:
+        codeOfConductAccepted: true
+    schemaVersion: 0
+lol-premade-voice:
+    data:
+        autoJoin: false
+        inputMode: "pushToTalk"
+        muteOnConnect: true
+        pushToTalkKey: "[v]"
+        showFirstExperienceInGame: false
+        showFirstExperienceInLCU: false
+    schemaVersion: 1
+lol-profiles:
+    data:
+        ranked-reference-modal-login-seen-for-season: 17
+    schemaVersion: 0
+lol-revivals:
+    data:
+        isEligible: false
+        isFirstTouch: false
+    schemaVersion: 0
+lol-skins-viewer:
+    data:
+        groupingDropdownKey: "myCollection"
+        lastVisitTime: 1761963095752
+        sortingDropdownKey: "acquisitionDate"
+        unownedFilter: false
+    schemaVersion: 2
+lol-tft:
+    data:
+        TFTContentRetierModalViewed: true
+        TFTLootDepPostModalViewed: true
+        lastTftGameQueueId: 1090
+        lastTftSetNameSeen: "TFTSet16"
+        previouslySeenSeasons: "S2_WarOfElements,S3_Galaxies-pass,S3_Galaxies-parties,S3_5_Galaxies-pass,S4_Fates-pass,TFTBattlepass_Fates2_Series,TFTBattlepass_Reckoning1_Series,TFT5_5_Series,TFT6_Series,TFT6_Act2_Series,TFT7_5_Series,TFT8_Series,1694628000000"
+        seenOfferIds:
+            storeOfferIds:
+            - "dd884ba1-cd0f-4548-ba41-1cb85cbf939a"
+            - "3aeae736-1e03-40c4-8dba-25634b21d18b"
+            tacticianOfferIds:
+            - "a2908c8d-ccc2-401b-986e-c84e038a1e09"
+        tftEmeraldModalSeen: true
+    schemaVersion: 1
+lol-tutorial:
+    data:
+        Map11_ULTBOOK_TutorialSeen: true
+        Map11_URF_TutorialSeen: true
+        Map21_NEXUSBLITZ_TutorialSeen: true
+        Map22_TFT_TutorialSeen: true
+        Map35_BRAWL_TutorialSeen: true
+        championSelectRunesTooltipSeenCount: 11
+        perksCreateNewPageSeen: true
+        perksPresetPagesSeen: true
+        perksPrimaryPathSeen: true
+        perksStatModsSeen: true
+        rpChangeEatDisplayed: true
+    schemaVersion: 1
+missions-settings:
+    data:
+        selected_series: "MSI2023_series"
+    schemaVersion: 0
+parties-settings:
+    data:
+        Parties:
+            defaultPartyType: "open"
+    schemaVersion: 0
+partiesPositionPreferences:
+    data:
+        firstPreference: "MIDDLE"
+        secondPreference: "TOP"
+    schemaVersion: 0
+personalized-offers:
+    data:
+        lastViewedTimestamp: "2022-05-01T21:59:52.777Z"
+    schemaVersion: 1
+ranked-eos-notification-10-RANKED_SOLO_5x5-SEASON_ENDED:
+    data:
+        notificationShown: true
+    schemaVersion: 1
+ranked-eos-notification-12-RANKED

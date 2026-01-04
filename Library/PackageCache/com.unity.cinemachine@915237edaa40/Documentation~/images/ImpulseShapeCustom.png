@@ -1,0 +1,137 @@
+> that represents a unique identifier of a constant.</param>
+      <param name="color">A <see cref="T:Microsoft.DirectX.Direct3D.ColorValue" /> structure to set to the constant table.</param>
+      <returns />
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.ConstantTable.SetValue(Microsoft.DirectX.Direct3D.Device,Microsoft.DirectX.Direct3D.EffectHandle,Microsoft.DirectX.Vector4[])">
+      <summary>Sets the value to the constant table.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the constant table.</param>
+      <param name="constant">An <see cref="T:Microsoft.DirectX.Direct3D.EffectHandle" /> that represents a unique identifier of a constant.</param>
+      <param name="vector">Array of <see cref="T:Microsoft.DirectX.Vector4" /> structures to set to the constant table.</param>
+      <returns />
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.ConstantTable.SetValue(Microsoft.DirectX.Direct3D.Device,Microsoft.DirectX.Direct3D.EffectHandle,Microsoft.DirectX.Vector4)">
+      <summary>Sets the value to the constant table.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the constant table.</param>
+      <param name="constant">An <see cref="T:Microsoft.DirectX.Direct3D.EffectHandle" /> that represents a unique identifier of a constant.</param>
+      <param name="vector">A <see cref="T:Microsoft.DirectX.Vector4" /> structure to set to the constant table.</param>
+      <returns />
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.ConstantTable.SetValue(Microsoft.DirectX.Direct3D.Device,Microsoft.DirectX.Direct3D.EffectHandle,System.Single[])">
+      <summary>Sets the value to the constant table.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the constant table.</param>
+      <param name="constant">An <see cref="T:Microsoft.DirectX.Direct3D.EffectHandle" /> that represents a unique identifier of a constant.</param>
+      <param name="f">Array of <see cref="T:System.Single" /> values to set to the constant table.</param>
+      <returns />
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.ConstantTable.SetValue(Microsoft.DirectX.Direct3D.Device,Microsoft.DirectX.Direct3D.EffectHandle,System.Single)">
+      <summary>Sets the value to the constant table.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the constant table.</param>
+      <param name="constant">An <see cref="T:Microsoft.DirectX.Direct3D.EffectHandle" /> that represents a unique identifier of a constant.</param>
+      <param name="f">A <see cref="T:System.Single" /> value to set to the constant table.</param>
+      <returns />
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.ConstantTable.SetValue(Microsoft.DirectX.Direct3D.Device,Microsoft.DirectX.Direct3D.EffectHandle,System.Int32[])">
+      <summary>Sets the value to the constant table.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the constant table.</param>
+      <param name="constant">An <see cref="T:Microsoft.DirectX.Direct3D.EffectHandle" /> that represents a unique identifier of a constant.</param>
+      <param name="n">Array of <see cref="T:System.Int32" /> values to set to the constant table.</param>
+      <returns />
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.ConstantTable.SetValue(Microsoft.DirectX.Direct3D.Device,Microsoft.DirectX.Direct3D.EffectHandle,System.Int32)">
+      <summary>Sets the value to the constant table.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the constant table.</param>
+      <param name="constant">An <see cref="T:Microsoft.DirectX.Direct3D.EffectHandle" /> that represents a unique identifier of a constant.</param>
+      <param name="n">An <see cref="T:System.Int32" /> value to set to the constant table.</param>
+      <returns />
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.ConstantTable.SetValueTranspose(Microsoft.DirectX.Direct3D.Device,Microsoft.DirectX.Direct3D.EffectHandle,Microsoft.DirectX.Matrix[])">
+      <summary>Sets a <see cref="T:Microsoft.DirectX.Matrix" /> or an array of matrices to the constant table.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the constant table.</param>
+      <param name="constant">An <see cref="T:Microsoft.DirectX.Direct3D.EffectHandle" /> that represents a unique identifier of a constant.</param>
+      <param name="matrix">Array of transposed matrices to set to the constant table.</param>
+      <returns />
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.ConstantTable.SetValueTranspose(Microsoft.DirectX.Direct3D.Device,Microsoft.DirectX.Direct3D.EffectHandle,Microsoft.DirectX.Matrix)">
+      <summary>Sets a <see cref="T:Microsoft.DirectX.Matrix" /> or an array of matrices to the constant table.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the constant table.</param>
+      <param name="constant">An <see cref="T:Microsoft.DirectX.Direct3D.EffectHandle" /> that represents a unique identifier of a constant.</param>
+      <param name="matrix">Transposed matrix to set to the constant table.</param>
+      <returns />
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.ConstantTable.UpdateUnmanagedPointer(Microsoft.DirectX.PrivateImplementationDetails.ID3DXConstantTable)">
+      <summary>Updates the unmanaged pointer for this <see cref="T:Microsoft.DirectX.Direct3D.ConstantTable" /> object. This method supports the Microsoft® .NET Framework infrastructure and is not intended to be used directly in your code.</summary>
+      <param name="pInterface">Pointer to the <see cref="T:Microsoft.DirectX.PrivateImplementationDetails.ID3DXConstantTable" /> structure used to update the unmanaged pointer for this <see cref="T:Microsoft.DirectX.Direct3D.ConstantTable" /> object.</param>
+      <returns />
+    </member>
+    <member name="P:Microsoft.DirectX.Direct3D.ConstantTable.Description">
+      <summary>Retrieves a description of the constant table.</summary>
+    </member>
+    <member name="P:Microsoft.DirectX.Direct3D.ConstantTable.Disposed">
+      <summary>Gets a value that indicates whether the object is disposed.</summary>
+    </member>
+    <member name="P:Microsoft.DirectX.Direct3D.ConstantTable.StreamData">
+      <summary>Retrieves a <see cref="T:Microsoft.DirectX.GraphicsStream" /> object that contains the constant table.</summary>
+    </member>
+    <member name="P:Microsoft.DirectX.Direct3D.ConstantTable.UnmanagedComPointer">
+      <summary>Returns the unmanaged Component Object Model (COM)<see cref="T:Microsoft.DirectX.PrivateImplementationDetails.ID3DXConstantTable" /> interface pointer.</summary>
+    </member>
+    <member name="T:Microsoft.DirectX.Direct3D.D3DX">
+      <summary>Contains default constant values for Microsoft® Direct3D® extensions.</summary>
+    </member>
+    <member name="F:Microsoft.DirectX.Direct3D.D3DX.Default">
+      <summary>Retrieves the value of the <see cref="F:Microsoft.DirectX.Direct3D.D3DX.Default" /> constant for Microsoft® Direct3D® extensions.</summary>
+    </member>
+    <member name="F:Microsoft.DirectX.Direct3D.D3DX.DefaultFloat">
+      <summary>Retrieves the value of the <see cref="F:Microsoft.DirectX.Direct3D.D3DX.DefaultFloat" /> constant for Microsoft® Direct3D® extensions.</summary>
+    </member>
+    <member name="F:Microsoft.DirectX.Direct3D.D3DX.DefaultNonPowerOf2">
+      <summary>Retrieves the value of the <see cref="F:Microsoft.DirectX.Direct3D.D3DX.DefaultNonPowerOf2" /> constant for Microsoft® Direct3D® extensions.</summary>
+    </member>
+    <member name="F:Microsoft.DirectX.Direct3D.D3DX.FormatFromFile">
+      <summary>Retrieves the value of the <see cref="F:Microsoft.DirectX.Direct3D.D3DX.FormatFromFile" /> constant for Microsoft® Direct3D® extensions.</summary>
+    </member>
+    <member name="F:Microsoft.DirectX.Direct3D.D3DX.FromFile">
+      <summary>Retrieves the value of the <see cref="F:Microsoft.DirectX.Direct3D.D3DX.FromFile" /> constant for Microsoft® Direct3D® extensions.</summary>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.D3DX.#ctor">
+      <summary>Initializes a new instance of the <see cref="T:Microsoft.DirectX.Direct3D.D3DX" /> class.</summary>
+    </member>
+    <member name="T:Microsoft.DirectX.Direct3D.DeviceInformation">
+      <summary>Contains functionality for retrieving the driver level for a device.</summary>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.DeviceInformation.GetDriverLevel(Microsoft.DirectX.Direct3D.Device)">
+      <summary>Retrieves the driver level for a device.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that is used to retrieve the driver level.</param>
+      <returns>An <see cref="T:System.Int32" /> value that indicates the driver level of the device.</returns>
+    </member>
+    <member name="T:Microsoft.DirectX.Direct3D.Direct3DXException">
+      <summary>Base exception class for D3DX. Derives from <see cref="T:Microsoft.DirectX.DirectXException" />.</summary>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Direct3DXException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+      <summary>Initializes a new instance of the <see cref="T:Microsoft.DirectX.Direct3D.Direct3DXException" /> class.</summary>
+      <param name="info">A <see cref="T:System.Runtime.Serialization.SerializationInfo" /> object that holds all of the data needed to serialize or deserialize the object.</param>
+      <param name="context">A <see cref="T:System.Runtime.Serialization.StreamingContext" /> object that describes the source and destination serialized stream.</param>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Direct3DXException.#ctor(System.String,System.Exception)">
+      <summary>Initializes a new instance of the <see cref="T:Microsoft.DirectX.Direct3D.Direct3DXException" /> class.</summary>
+      <param name="message">String that contains the error message to display.</param>
+      <param name="inner">An <see cref="T:System.Exception" /> object that represents errors that occur during application execution.</param>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Direct3DXException.#ctor(System.String)">
+      <summary>Initializes a new instance of the <see cref="T:Microsoft.DirectX.Direct3D.Direct3DXException" /> class.</summary>
+      <param name="message">String that contains the error message to display.</param>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Direct3DXException.#ctor">
+      <summary>Initializes a new instance of the <see cref="T:Microsoft.DirectX.Direct3D.Direct3DXException" /> class.</summary>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Direct3DXException.GetExceptionFromResultInternal(System.Int32)">
+      <summary>Retrieves an <see cref="T:System.Exception" /> object that represents the result code passed in.</summary>
+      <param name="resultCode">Integer that represents the result code of the exception.</param>
+      <returns>An <see cref="T:System.Exception" /> object that represents the error that occurred.</returns>
+    </member>
+    <member name="T:Microsoft.DirectX.Direct3D.DuplicateNamedFragmentException">
+      <summary>There is a duplicate named fragment.</summary>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.DuplicateNamedFragmentException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+      <summary>Initializes a new instance of the <see cref="T:Microsoft.DirectX.Direct3D.DuplicateNamedFragmentException" /> class.</summary>
+      <param name="info">A <see cref="T:System.Runtime.Serialization.Seriali

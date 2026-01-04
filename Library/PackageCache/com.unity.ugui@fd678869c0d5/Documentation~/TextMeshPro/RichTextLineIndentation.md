@@ -1,0 +1,3 @@
+.Net.Quic.QuicStream.ReadsClosed" /> is not completed or <see cref="M:System.Net.Quic.QuicStream.ReadAsync(System.Memory{System.Byte},System.Threading.CancellationToken)" /> hasn't returned <c>0</c>, aborts the read side with provided <see cref="P:System.Net.Quic.QuicConnectionOptions.DefaultStreamErrorCode" />. If the write side hasn't been closed, closes it gracefully as if <see cref="M:System.Net.Quic.QuicStream.CompleteWrites" /> was called. Finally, all resources associated with the stream will be released.</summary>
+      <returns>A task that represents the asynchronous dispose operation.</returns>
+    </memb

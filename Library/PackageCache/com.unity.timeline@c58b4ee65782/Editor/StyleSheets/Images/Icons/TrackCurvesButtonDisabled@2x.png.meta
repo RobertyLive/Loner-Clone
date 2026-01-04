@@ -1,0 +1,42 @@
+iewContainer .timelineViewGroup .timelineViewAndDetails .timelineEventHeaderLabel {
+                            -ms-grid-row-align: center;
+                            font-weight: 600;
+                            text-overflow: ellipsis;
+                            white-space: nowrap;
+                        }
+
+                        .mainView .dataViewContainer .detailedViewsContainer .timelineViewContainer .timelineViewGroup .timelineViewAndDetails .timelineEventHeaderDivider {
+                            background-color: TRANSPARENT; /*[{plugin-perftools-splitter}]*/
+                            height: 100%;
+                            position: relative;
+                            width: 3px;
+                        }
+
+
+                        .mainView .dataViewContainer .detailedViewsContainer .timelineViewContainer .timelineViewGroup .timelineViewAndDetails .timelineRuler {
+                            -ms-grid-column: 1;
+                            -ms-grid-row: 1;
+                            border-bottom: 1px solid TRANSPARENT; /*[1px solid {diagnostics-host-border}]*/
+                            position: relative;
+                        }
+
+                        .mainView .dataViewContainer .detailedViewsContainer .timelineViewContainer .timelineViewGroup .timelineViewAndDetails .timelineView {
+                            -ms-grid-column: 1;
+                            -ms-grid-row: 2;
+                            height: 100%;
+                            position: relative;
+                            width: 100%;
+                        }
+
+                            .mainView .dataViewContainer .detailedViewsContainer .timelineViewContainer .timelineViewGroup .timelineViewAndDetails .timelineView .verticalRulerLine {
+                                background-color: lightgrey; /*[{diagnostics-host-graph-line}]*/
+                                margin-top: 1px;
+                                position: absolute;
+                                width: 1px;
+                            }
+
+                        .mainView .dataViewContainer .detailedViewsContainer .timelineViewContainer .timelineViewGroup .timelineViewAndDetails .timelineDetailsHeader {
+                            -ms-grid-column: 3;
+                            -ms-grid-row: 1;
+                            color: white;
+    

@@ -1,0 +1,508 @@
+ avec declareParam pour dÃ©finir la valeur par dÃ©faut du paramÃ¨tre dÃ©clarÃ©. Si defaultValue est dÃ©clarÃ© lors de la crÃ©ation d'un package ou d'une archive, la spÃ©cification du paramÃ¨tre setParam est facultative au moment de la synchronisation.İ-declareParam:...,description=<texte>,... 
+    "description" est un champ de texte facultatif servant Ã  dÃ©crire le paramÃ¨tre. Si une description est spÃ©cifiÃ©e lors de la crÃ©ation d'un package ou d'une archive, elle figure dans le fichier Parameters.xml. Cette description peut Ãªtre affichÃ©e ultÃ©rieurement Ã  l'aide du verbe getParameters.è-setParamFile:<XMLFile> ou -declareParamFile:<XMLFile>
+    
+    Fournit un fichier XML qui contient les paramÃ¨tres ou les dÃ©clarations de paramÃ¨tre. Pour declareParamFile, le format XML correspond Ã  celui du XML des paramÃ¨tres trouvÃ©s dans une archive ou un package. Pour setParamFile, le format XML est identique, mais l'objet parameter est remplacÃ© par setParameter et n'a que des attributs name et value.
+
+    ExempleÂ :
+
+    msdeploy -verb:sync -source:metakey="lm\w3svc\1" -dest:package="c:\packages\myzip5.zip" -declareParamFile="c:\myparams.xml"
+
+    msdeploy -verb:sync -source:package="c:\packages\myzip5.zip" -dest:auto,computername=machine3 -setParamFile="c:\myparamsettings.xml"
+
+    RemarqueÂ : pour plus d'informations sur les paramÃ¨tres de paramÃ¨tre, tels que le type de paramÃ¨tres pris en charge, tapez "msdeploy -help -setParam".
+    á-declareParam:...,match=<correspondance>,... -setParam:...,match=<correspondance>,...
+    "match" choisit gÃ©nÃ©ralement une valeur spÃ©cifique qui a Ã©tÃ© paramÃ©trÃ©e et qui sera remplacÃ©e par la valeur fournie par le paramÃ¨tre. La chaÃ®ne exacte et la faÃ§on dont elle sera gÃ©rÃ©e dÃ©pendent du type de paramÃ¨tre appliquÃ©. Il s'agit le plus souvent d'une expression XPath. "match" ne peut Ãªtre spÃ©cifiÃ© avec setParam que si le paramÃ¨tre n'a pas dÃ©jÃ  Ã©tÃ© dÃ©clarÃ©.…-declareParam:name=<nom>,... -setParam:name=<nom>,...
+    UtilisÃ© avec declareParam, "name" sert Ã  identifier le paramÃ¨tre. Si les entrÃ©es sont spÃ©cifiÃ©es avec plusieurs appels declareParam sur la mÃªme ligne de commande, elles font toutes partie de la mÃªme dÃ©finition de paramÃ¨tre. UtilisÃ© avec setParam, "name" sert Ã  identifier le paramÃ¨tre qui contient la valeur Ã  dÃ©finir. "name" ne doit pas Ãªtre utilisÃ© avec setParam si aucun paramÃ¨tre n'a Ã©tÃ© dÃ©clarÃ© dans le package ou l'archive source.ê-removeParam:<nomparamÃ¨tre>
+    
+    Supprime une dÃ©finition de paramÃ¨tre.
+
+    ExempleÂ :
+
+    msdeploy -verb:sync -source:package="c:\packages\myzip.zip" -dest:package="c:\packages\myzip2.zip" -removeParam:MyParameter
+    —-declareParam:...,scope=<Ã©tendue>,... -setParam:...,scope=<Ã©tendue>,...
+    "scope" dÃ©limite l'ensemble des objets auxquels les paramÃ¨tres s'appliqueront. La chaÃ®ne exacte transmise dÃ©pend du type de paramÃ¨tre appliquÃ©. Il s'agit le plus souvent d'une expression rÃ©guliÃ¨re mise en correspondance. "scope" ne peut Ãªtre spÃ©cifiÃ© avec setParam que si le paramÃ¨tre n'a pas dÃ©jÃ  Ã©tÃ© dÃ©clarÃ©.¡-declareParam:...,tags=<balises>,... 
+    "tags" dÃ©finit facultativement des attributs d'un paramÃ¨tre pour rÃ©fÃ©rence ultÃ©rieure. Par exemple, le paramÃ¨tre peut Ãªtre marquÃ© en tant que mot de passe afin que la valeur du mot de passe ne s'affiche pas dans une interface utilisateur.»-declareParam:type=<type>,... -setParam:type=<type>,...
+    "type" identifie le type du paramÃ¨tre qui est dÃ©clarÃ©. Il ne peut Ãªtre spÃ©cifiÃ© avec setParam que si le paramÃ¨tre n'a pas dÃ©jÃ  Ã©tÃ© dÃ©clarÃ©. Les types de paramÃ¨tres disponibles sont les suivantsÂ : DeploymentObjectAttribute, DestinationBinding, DestinationVirtualDirectory, ProviderPath, SqlCommandVariable, TextFile, TextFilePosition et XMLFile. Pour plus d'informations sur chacun de ces types, tapez "-help -declareParam:type=<type>" (par exemple, "msdeploy -help -declareParam:type=TextFile").ö-declareParam:...,type=DeploymentObjectAttribute,... -setParam:...,type=DeploymentObjectAttribute,...
+
+    Le type DeploymentObjectAttribute vous permet de modifier la valeur d'un attribut.
+
+    "match" est une expression XPath requise pour identifier les attributs contenant des valeurs Ã  remplacer.
+    "scope" est une expression rÃ©guliÃ¨re requise qui correspond au chemin d'accÃ¨s absolu des objets auxquels le paramÃ¨tre s'applique. 
+
+    ExemplesÂ :
+
+    DÃ©claration d'un paramÃ¨tre DeploymentObjectAttributeÂ :
+
+    msdeploy -verb:sync  -source:apphostConfig="Site Web par dÃ©faut" -dest:archiveDir=c:\SmallArchWithParam -declareParam:name="ParamÃ¨treBandePassanteMax",type="DeploymentObjectAttribute",scope="apphostConfig",match="//@BandePassanteMax",defaultValue="4294967290",description="DÃ©finir tous les paramÃ¨tres BandePassanteMax Ã  cette valeur"
+
+    DÃ©finition d'un paramÃ¨tre DeploymentObjectAttribute qui a dÃ©jÃ  Ã©tÃ© dÃ©clarÃ©Â :
+    
+    msdeploy -verb:sync  -source:archiveDir=c:\SmallArchWithParam -dest:apphostConfig="Site Web par dÃ©faut" -setParam:name="ParamÃ¨treBandePassanteMax",value="4294967294"
+
+    Application d'une valeur par dÃ©faut d'un paramÃ¨tre dÃ©jÃ  dÃ©clarÃ©Â :
+
+    msdeploy -verb:sync  -source:archiveDir=c:\SmallArchWithParam -dest:apphostConfig="Site Web par dÃ©faut"
+
+    DÃ©finition d'un paramÃ¨tre DeploymentObjectAttribute qui n'a pas encore Ã©tÃ© dÃ©clarÃ©Â :
+
+    msdeploy -verb:sync  -source:archiveDir=c:\SmallArch - dest:apphostConfig="Site Web par dÃ©faut" -setParam:value="4294967294",type="DeploymentObjectAttribute",scope="apphostConfig",match="//@BandePassanteMax"-declareParam:...,type=DestinationBinding,... -setParam:...,type=DestinationBinding,...
+
+    Le type DestinationBinding vous permet de dÃ©finir une liaison sur le site de destination diffÃ©rente de la liaison sur le site source.
+
+    "match" est une expression rÃ©guliÃ¨re facultative qui correspond aux informations de liaison HTTP ou HTTPS lorsqu'il existe plusieurs liaisons pour un site. Les liaisons correspondantes sont ciblÃ©es par l'opÃ©ration de remplacement.
+
+    "scope" est une expression rÃ©guliÃ¨re requise qui correspond au nom du site.
+
+    ExemplesÂ :
+
+    DÃ©claration d'un paramÃ¨tre DestinationBinding avec une valeur tagsÂ :
+    
+    msdeploy -verb:sync -source:apphostConfig="test" -dest:archiveDir=c:\anSiteArchive -declareParam:name="ModificationLiaison",type="DestinationBinding",scope="test",tags="infoliaison"
+
+    DÃ©finition d'une liaison de destinationÂ :
+
+    msdeploy -verb:sync -source:archiveDir=c:\anSiteArchive -dest:apphostConfig="test" -setParam:name="ModificationLiaison",value="*:84:"÷	-declareParam:...,type=DestinationVirtualDirectory,... -setParam:...,type=DestinationVirtualDirectory,...
+
+    Le type DestinationVirtualDirectory permet de modifier le chemin d'accÃ¨s physique d'un rÃ©pertoire virtuel.
+
+    "match" n'est pas utilisÃ© avec ce type.
+
+    "scope" est une expression rÃ©guliÃ¨re requise qui identifie le ou les rÃ©pertoires virtuels qui correspondent au chemin d'accÃ¨s absolu des rÃ©pertoires virtuels.
+
+    ExemplesÂ :
+  
+    (Cet exemple s'applique Ã  un site nommÃ© "test", qui comporte une application "apptest" et sous lequel figure un rÃ©pertoire virtuel "Amodifier". L'exemple redÃ©finit le chemin d'accÃ¨s physique du rÃ©pertoire virtuel "Amodifier" vers c:\otherdir.)
+
+    DÃ©claration d'un paramÃ¨tre DestinationVirtualDirectory (pour modifier un chemin d'accÃ¨s physique)Â :
+
+    msdeploy -verb:sync -source:apphostConfig="test/apptest" -dest:archiveDir=c:\anAppArchive -declareParam:name="Modification",type="DestinationVirtualDirectory",scope="Amodifier"
+
+    DÃ©finition d'un paramÃ¨tre DestinationVirtualDirectory (pour dÃ©finir le chemin d'accÃ¨s physique)Â :
+
+    msdeploy -verb:sync -source:archiveDir=c:\anAppArchive -dest:apphostConfig="test/apptest" -setParam:name="Modification",value="c:\autrerÃ©p"è-declareParam:...,type={0},... -setParam:...,type={0},...
+
+      Le type {0} n'est pas valide.  
+      
+      Pour afficher les types de paramÃ¨tres valides, utilisezÂ :
+      
+      msdeploy.exe -declareParam:type -help
+    £-declareParam:...,type=ProviderPath,... -setParam:...,type=ProviderPath,...
+
+    Le type ProviderPath paramÃ¨tre le chemin d'accÃ¨s du fournisseur de sorte que la racine de l'arborescence du dÃ©ploiement puisse Ãªtre installÃ©e sous une racine diffÃ©rente lors d'une opÃ©ration de synchronisation. Par exemple, lorsque vous synchronisez un site, vous pouvez spÃ©cifier un nouveau nom au cours de la synchronisation afin de crÃ©er un site entiÃ¨rement nouveau sur la destination.
+
+    "match" n'est pas requis. Toutefois, si le fournisseur est rÃ©fÃ©rencÃ© plusieurs fois dans un manifeste, vous pouvez utiliser "match" pour identifier le chemin d'accÃ¨s auquel les paramÃ¨tres s'appliqueront.
+
+    "scope" est une expression rÃ©guliÃ¨re qui correspond au fournisseur Ã  utiliser pendant l'opÃ©ration de synchronisation. Par exemple, si vous utilisez un manifeste, "scope" peut Ãªtre le nom de l'un des fournisseurs rÃ©fÃ©rencÃ©s dans le manifeste.  
+
+    ExemplesÂ :
+
+    DÃ©claration d'un paramÃ¨tre ProviderPath sans manifesteÂ :
+
+    msdeploy -verb:sync -source:apphostConfig="test" -dest:archiveDir=c:\anSiteArchive -declareParam:name="Modification",type="ProviderPath",scope="apphostConfig"
+      ou (et Ã©quivalent)
+    msdeploy -verb:sync -source:apphostConfig="test" -dest:archiveDir=c:\anSiteArchive -declareParam:name="Modification",type="ProviderPath"
+
+    DÃ©finition du paramÃ¨tre ProviderPathÂ :
+
+    msdeploy -verb:sync -source:archiveDir=c:\anSiteArchive -dest:auto -setParam:name="Modification",value="testdeux"
+
+    Manifeste Ã  utiliser dans les exemples suivantsÂ :
+
+    <monmanifeste>
+       <apphostConfig path="testit"/>
+       <dirPath path="c:\testappsit6"/>
+       <dirPath path="c:\testappsit10"/>
+    </monmanifeste>
+
+    DÃ©claration d'un paramÃ¨tre ProviderPath avec des manifestesÂ :
+
+    msdeploy -verb:sync -source:manifest=mymanifest.xml -dest:archiveDir=c:\ManifestArchive -declareParam:name="TestProvider",type="ProviderPath",scope="dirPath",match="testappsit6"
+
+    DÃ©finition d'un paramÃ¨tre ProviderPathÂ :
+    
+    msdeploy -verb:sync -source:archiveDir=c:\ManifestArchive -dest:auto -setParam:name="FournisseurTest",value="c:\changed6"£-declareParam:...,type=SqlCommandVariable,... -setParam:...,type=SqlCommandVariable,...
+
+    Le type SqlCommandVariable vous permet de spÃ©cifier des valeurs pour les variables sqlcmd dÃ©finies dans un fichier de script SQL (scripts de donnÃ©es TS) via setVar:. 
+
+    "match" est le nom de la variable sqlcmd pour laquelle une valeur est spÃ©cifiÃ©e.
+
+    "scope" est une expression rÃ©guliÃ¨re qui correspond au chemin d'accÃ¨s absolu du fichier de script. 
+
+    Exemples
+
+    ParamÃ©trage de SqlCommandVariable sans dÃ©claration des paramÃ¨tresÂ :
+
+    msdeploy -verb:sync -source:dbfullsql="C:\sqlcmd.sql" -dest:dbfullsql="data source=contoso03-iis;initial catalog=testdatabase1;integrated security=true;" -setParam:kind=SqlCommandVariable,scope=script.sql,match=myvariable,value=newValueÇ-declareParam:...,type=TextFile,... -setParam:...,type=TextFile,...
+
+    Le type TextFile permet de remplacer des chaÃ®nes dans un fichier texte.
+
+    "match" est une expression XPath requise. Dans la mesure oÃ¹ il s'agit d'une mise en correspondance de texte dans un fichier texte, le plus simple est de spÃ©cifier le texte exact.
+
+    "scope" est une expression rÃ©guliÃ¨re qui correspond au chemin d'accÃ¨s absolu du fichier cible. Par exemple, lorsque vous utilisez le fournisseur contentPath, "scope" peut Ãªtre le nom du fichier contenant le texte Ã  modifier.
+    
+    ExemplesÂ :
+ 
+    ParamÃ©trage de TextFile sans dÃ©claration de paramÃ¨tresÂ :
+
+    msdeploy -verb:sync -source:contentPath=c:\adir -dest:contentPath=c:\adiffdir -setParam:type="TextFile",scope="nomfichier",match="texteÃ modifier",value="nouveautexte"Ÿ
+-declareParam:...,type=TextFilePosition,... -setParam:...,type=TextFilePosition,...
+
+    Le type TextFilePosition permet de remplacer des chaÃ®nes dans un fichier texte en fonction de la position des chaÃ®nes dans le fichier plutÃ´t que par correspondance de texte. Vous devez spÃ©cifier le dÃ©but et la longueur de la chaÃ®ne Ã  remplacer par la position de ligne et de colonne de la chaÃ®ne dans le fichier.
+
+    "match" indique la ligne et la colonne oÃ¹ commence le remplacement ainsi que le nombre de caractÃ¨res Ã  remplacer. Les valeurs sont dÃ©limitÃ©es par des points-virgulesÂ : Ligne;Colonne;Longueur. Les index ont une valeur de base unÂ ; la premiÃ¨re ligne et colonne est donc 1;1 (pas 0;0). Un caractÃ¨re de nouvelle ligne est comptabilisÃ© comme un caractÃ¨re. Il s'agit d'un paramÃ¨tre requis.
+
+    "scope" est une expression rÃ©guliÃ¨re qui correspond au chemin d'accÃ¨s absolu du fichier cible. Par exemple, si vous utilisez le fournisseur contentPath, "scope" peut Ãªtre le nom du fichier contenant le texte Ã  modifier. 
+
+    ExemplesÂ :
+
+    ParamÃ©trage de TextFilePosition sans dÃ©claration de paramÃ¨tresÂ :
+
+    msdeploy -verb:sync -source:contentPath=c:\adir -dest:contentPath=c:\adiffdir -setParam:type="TextFilePosition",scope="nomfichier",match="1;1;2",value="xxxxxxxx"-declareParam:...,type=XmlFile,... -setParam:...,type=XmlFile,...
+
+    Le type XmlFile permet de remplacer des valeurs dans un fichier XML.
+
+    "match" est une expression XPath requise qui identifie les attributs contenant des valeurs Ã  remplacer.
+    "scope" est une expression rÃ©guliÃ¨re qui correspond au chemin d'accÃ¨s absolu du fichier XML. Par exemple, si vous utilisez le fournisseur contentPath, "scope" peut Ãªtre le nom du fichier XML Ã  modifier.
+
+    ExemplesÂ :
+
+    DÃ©claration d'un paramÃ¨tre XmlFileÂ :
+
+    msdeploy -verb:sync -source:contentPath=c:\adir -dest:archiveDir=c:\adirarch -declareParam:name="ModificationPossible",type="XmlFile",scope="copieInfoSyst.xml",match="//@installÃ©"
+
+    Utilisation d'un paramÃ¨tre XmlFile dÃ©clarÃ©Â :
+    
+    msdeploy -verb:sync -source:archiveDir=c:\adirarch -dest:contentPath=c:\adirinstalled  -setParam:name="ModificationPossible",value="false"u-setParam:...,value=<valeur>,... 
+    "value" est la valeur Ã  laquelle l'entrÃ©e de paramÃ¨tre doit Ãªtre dÃ©finie.´-preSync et/ou -postSync
+
+    Autorise l'exÃ©cution d'une commande ou d'un fichier de commandes, comme le dÃ©marrage ou l'arrÃªt d'un service, avant ou aprÃ¨s la synchronisation.Ö
+    msdeploy -verb:sync -source:contentPath="C:\Test1" -dest:contentPath="C:\Test2" -preSync:runcommand="Appcmd stop sites MonSiteWeb" -postSync:runcommand="Appcmd start sites MonSiteWeb"
+
+    msdeploy -verb:sync -source:contentPath="C:\Test1" -dest:contentPath="C:\Test2" -preSync:runcommand="c:\MonFichierCommandes.bat"
+
+    msdeploy -verb:sync -source:contentPath="C:\Test1" -dest:contentPath="C:\Test2" -postSync:runcommand="c:\MonFichierCommandes.bat"
+
+    {0} n'est pas un fournisseur valide. Tapez msdeploy -help -source pour afficher une liste de tous les fournisseurs disponibles.    Objets du fournisseurÂ :ê
+-replace:[paramÃ¨treargument]=[valeur],...
+    
+    Replace permet Ã  l'utilisateur d'identifier les attributs Ã  remplacer lors de la synchronisation. Cette opÃ©ration s'effectue en identifiant l'attribut Ã  remplacer et en appliquant la nouvelle valeur Ã  l'aide de ReplaceRuleHandler. Cet argument accepte six (6) paramÃ¨tres d'argument diffÃ©rents.
+    ó
+    objectName          - Expression rÃ©guliÃ¨re qui identifie l'objet sur lequel sera effectuÃ©e l'opÃ©ration Replace.
+    scopeAttributeName  - Expression rÃ©guliÃ¨re qui spÃ©cifie les noms des attributs. Les objets qui comportent les attributs spÃ©cifiÃ©s seront ciblÃ©s par Replace.
+    scopeAttributeValue - Expression rÃ©guliÃ¨re qui spÃ©cifie la valeur d'un attribut. La valeur spÃ©cifiÃ©e sera recherchÃ©e dans les objets qui ont Ã©tÃ© identifiÃ©s par ScopeAttributeName. Les objets qui comportent les valeurs spÃ©cifiÃ©es seront ciblÃ©s par Replace.
+    targetAttributeName - Expression rÃ©guliÃ¨re qui identifie l'attribut contenant une valeur Ã  remplacer sur l'objet identifiÃ©.
+    match               - Expression rÃ©guliÃ¨re facultative qui spÃ©cifie des critÃ¨res supplÃ©mentaires pour le remplacement de la valeur d'attribut cible. Si la valeur correspond Ã  l'expression, elle sera remplacÃ©e.
+    replace             - Nouvelle valeur qui sera utilisÃ©e lors du remplacement.    
+    Ñ
+    
+    ExempleÂ :
+    
+    msdeploy -verb:sync -source:apphostConfig="Site Web par dÃ©faut" -dest:archiveDir=c:\myarchive -replace:objectName=site,targetAttributeName=ServerAutoStart,replace="false"
+  à
+-retryAttempts et/ou -retryInterval   
+
+    RetryAttempts dÃ©termine le nombre de tentatives effectuÃ©es par un fournisseur aprÃ¨s l'Ã©chec d'une action. Ceci n'est pas pris en charge par tous les fournisseurs. La valeur par dÃ©faut de cet argument est de 5Â tentatives.  
+    
+    RetryInterval dÃ©termine le dÃ©lai d'attente (en nombre de millisecondes) entre chaque nouvelle tentative. La valeur par dÃ©faut de cet argument est de 1Â 000Â millisecondes (soit 1Â seconde).kLa rÃ¨gle {0}:{1} n'existe pas. Tapez "msdeploy -help {0}" pour afficher une liste des rÃ¨gles disponibles.*RÃ¨gles (dans leur ordre de traitement)Â :ô
+-disableRule:<nom> et/ou -enableRule:<nom>
+
+    Active ou dÃ©sactive les rÃ¨gles de synchronisation spÃ©cifiÃ©es qui dÃ©finissent la logique de synchronisation. Cela inclut les rÃ¨gles sur les objets ignorÃ©s et sur les remplacements.
+    ƒ-showSecure
+
+    "showSecure" permet d'afficher les attributs sÃ©curisÃ©s en clair Ã  la place d'astÃ©risques dans la sortie XML.î
+-skip:[paramÃ¨treargument]=[valeur],...
+
+    L'argument skip vous permet d'utiliser une directive skip pour exclure des objets d'une opÃ©ration de synchronisation ou d'utiliser une rÃ¨gle skip pour exclure des actions d'une opÃ©ration. Une directive skip est utile si vous devez traiter tous les objets Ã  l'exception de ceux pour lesquels vous n'avez pas d'autorisations. Une rÃ¨gle skip est utile si vous voulez Ã©viter une action de suppression sur des objets spÃ©cifiques. Par dÃ©faut, un appel de skip est une directive skip (qui affecte les objets) sauf si le paramÃ¨tre d'argument skipAction est utilisÃ©.
+    æ
+    skipAction      - Action Ã  ignorer (Update, Delete, AddChild)  L'inclusion de ce paramÃ¨tre peut entraÃ®ner le traitement de skip en tant que rÃ¨gle sur les objets ignorÃ©s, ce qui empÃªche la rÃ©alisation des actions sur les objets identifiÃ©s par les autres paramÃ¨tres.
+    objectName      - La valeur est une expression rÃ©guliÃ¨re qui correspond au nom de l'objet.
+    absolutePath    - La valeur est une expression rÃ©guliÃ¨re qui correspond au nom de l'objet.
+    xPath           - La valeur est une expression XPath qui identifie l'objet.
+    keyAttribute    - Pris en charge uniquement lors de la dÃ©claration d'une directive skip. Cette valeur est une expression rÃ©guliÃ¨re qui correspond Ã  la valeur de l'attribut de clÃ© de l'objet.
+    attributes.[id] - Pris en charge uniquement lors de la dÃ©claration d'une directive skip. [id] est le nom d'un attribut spÃ©cifiqueÂ ; sa valeur est une expression rÃ©guliÃ¨re qui correspond Ã  la valeur de l'attribut de l'objet.
+    {La directive skip {0}:{1} n'existe pas. Tapez "msdeploy -help {0}" pour afficher une liste des directives skip disponibles.Directives skipÂ :¯
+-disableSkipDirective:<nom> et/ou -enableSkipDirective:<nom>
+
+    Active ou dÃ©sactive les directives skip spÃ©cifiÃ©es et prÃ©alablement dÃ©clarÃ©es sur le client. Pour les rÃ¨gles sur les objets ignorÃ©s qui peuvent Ãªtre utilisÃ©es pour des actions skip, utilisez enableRule ou disableRule.
+    ExemplesÂ :
+    
+    msdeploy -verb:sync -source:apphostconfig="Site Web par dÃ©faut" -dest:archiveDir=c:\myarchive1 -skip:objectName=dirPath
+  
+    msdeploy -verb:dump -source:metakey=/lm/w3svc/apppools/defaultapppool -xml -skip:KeyAttribute="ErreurWin32"
+    
+    msdeploy -verb:sync -source:contentPath=c:\testappsite6 -dest:archiveDir=c:\it2 -skip:absolutePath=webtest
+
+    msdeploy -verb:sync -source:contentPath=c:\testappsite6 -dest:contentPath=c:\newtestsite6 -skip:skipAction=Delete,objectName=filePath    
+   
+-source:<objet>  et/ou -dest:<objet>
+
+    L'argument source reprÃ©sente l'objet Ã  partir duquel la synchronisation doit Ãªtre effectuÃ©e. 
+    L'argument dest reprÃ©sente l'objet cible de la synchronisation.
+    Lors des opÃ©rations impliquant un seul objet, la source est requise.ıExemplesÂ :
+
+  {0} -verb:sync -source:contentPath=c:\sourcedir -dest:contentPath=c:\newdir -whatif
+
+  {0} -verb:dump -source:archivedir=c:\mydir
+
+  {0} -verb:sync -source:metakey=lm/w3svc/1,computerName=mycomputer -dest:metakey=lm/w3svc/2
+
+  {0} -verb:sync -source:dbFullSql=c:\myscript.sql -dest:dbFullSql="Data Source=.;Integrated Security=SSPI;Initial Catalog=Northwind"v-userAgent
+
+    Ajoute le champ HTTP UserAgent avec la valeur spÃ©cifiÃ©e pour un dÃ©ploiement web des demandes httpn
+    msdeploy -verb:sync -source:contentPath="C:\Test1" -dest:contentPath="C:\Test2" -userAgent="MyUserAgent"1
+-verb:<nom>
+
+    Action Ã  effectuer (requis)r    NomÂ :           delete
+    DescriptionÂ :    Supprime les donnÃ©es spÃ©cifiÃ©es dans l'objet de destination.S    NomÂ :           dump
+    DescriptionÂ :    Vide les donnÃ©es d'un fournisseurò    Verbes pris en chargeÂ :
+        dump^$^Affiche les dÃ©tails de l'objet source spÃ©cifiÃ©.
+        sync^$^Synchronise l'objet de destination avec l'objet source.
+        delete^$^Supprime l'objet de destination spÃ©cifiÃ©.        
+{0}b    NomÂ :           sync
+    DescriptionÂ :    Synchronise les donnÃ©es entre deux fournisseurs.ó
+-verbose
+
+    Lorsque -verbose est spÃ©cifiÃ© sur la ligne de commande, le systÃ¨me gÃ©nÃ¨re une sortie de toutes les informations disponibles sur l'opÃ©ration. Tous les messages d'information, d'avertissement et d'erreur seront affichÃ©s.¤
+-webApp=<nom_application> 
+
+    FournisseurÂ :  WebApp
+    
+    Synchronise les applications Web entre IIS Express et IIS Server. Lorsque vous installez une application Web sur IIS Express Ã  l'aide de Web Platform Installer ou de la ligne de Web Deploy, les informations importantes sur les composants de l'application sont stockÃ©es dans un manifeste contenu dans le magasin d'application. Vous pouvez utiliser l'alias du fournisseur WebApp pour synchroniser ces informations Ã  un serveur IIS distant.
+    
+    apphostconfigdir et webserverdir sont requis en permanence.
+    
+    Exemple(s)Â :
+
+        msdeploy.exe -verb:dump -source:webApp="My Application" -apphostconfigdir=<chemin_vers_config_IIS> -webserverdir=<chemin_vers_rÃ©pert_install_IIS>
+        
+    Pour publier une application Web installÃ©e sur IIS ExpressÂ :
+        msdeploy.exe -verb:sync -source:webApp="My Application" -dest:auto,computername=remoteServerName -apphostconfigdir=<chemin_vers_config_IIS> -webserverdir=<chemin_vers_rÃ©pert_install_IIS>
+
+    Pour tÃ©lÃ©charger une application Web publiÃ©e Ã  l'aide de WebAppÂ :
+        msdeploy.exe -verb:sync -source:webApp="My Application",computername=remoteServerName -dest:auto -apphostconfigdir=<chemin_vers_config_IIS> -webserverdir=<chemin_vers_rÃ©pert_install_IIS>
+  ê
+-webServerDir=C:\Program Files (x86)\Microsoft WebMatrix
+
+    Chemin d'accÃ¨s des fichiers programme pour l'instance actuelle d'IISExpress. Par dÃ©faut, le chemin d'accÃ¨s est %SystemDrive%\Program files (x86)\Microsoft WebMatrix.]
+-whatif
+
+    Affiche le rÃ©sultat projetÃ© d'une opÃ©ration, sans effectuer l'opÃ©ration.T    msdeploy -verb:sync -source:webserver -dest:auto,computerName=Microsoft1 -whatif“
+-xpath:<chemin d'accÃ¨s>  
+
+    Expression XPath Ã  appliquer Ã  la sortie XML. Si vous utilisez -xpath, vous devez Ã©galement spÃ©cifier -xml.S    msdeploy -verb:dump -source:dirpath="c:\inetpub\wwwroot" -xml -xpath://filePathq
+-xml
+
+    Lorsque -xml est spÃ©cifiÃ© sur la ligne de commande, une sortie XML des rÃ©sultats est gÃ©nÃ©rÃ©e.^Vous ne disposez pas des autorisations suffisantes pour exÃ©cuter des programmes exÃ©cutables."L'argument '{0}' n'est pas valide.IUtilisation incorrecte du commutateur debug. Utilisez -debug Ã  la place.:Impossible d'utiliser Â«Â {0}Â Â» en tant que destination.°Directive replace '{0}' non reconnue. Elle doit avoir l'une des valeurs suivantesÂ : objectName, scopeAttributeName, scopeAttributeValue, targetAttributeName, match ou replace.~ParamÃ¨tre skip '{0}' non reconnu. Il doit avoir l'une des valeurs suivantesÂ : objectName, absolutePath, xPath ou skipAction.'La source spÃ©cifiÃ©e n'est pas valide.rL'argument {0} doit avoir l'une des valeurs suivantesÂ : DÃ©sactivÃ©, Info, Avertissement, Erreur ou Commentaires.IUtilisation incorrecte du commutateur trace. Utilisez -trace Ã  la place.9Verbe '{0}' non reconnu. Valeurs prises en chargeÂ : {1}.8Une valeur doit Ãªtre spÃ©cifiÃ©e pour l'argument '{0}'.<Un argument '{0}' doit Ãªtre spÃ©cifiÃ© avec le verbe '{1}'.Type d'objet manquant>Le paramÃ¨tre '{0}' doit Ãªtre spÃ©cifiÃ© pour l'argument {1}.ALa source doit Ãªtre spÃ©cifiÃ©e Ã  l'aide de l'argument -source.=Le verbe doit Ãªtre spÃ©cifiÃ© Ã  l'aide de l'argument -verb.QAucune rÃ¨gle correspondant Ã  l'expression rÃ©guliÃ¨re '{0}' n'a Ã©tÃ© trouvÃ©e.YAucune directive skip correspondant Ã  l'expression rÃ©guliÃ¨re '{0}' n'a Ã©tÃ© trouvÃ©e.?Le paramÃ¨tre '{0}' ne doit Ãªtre spÃ©cifiÃ© qu'une seule fois.ParamÃ¨treÂ : {0}
+    {1}‚La propriÃ©tÃ© '{1}' (valeurÂ : '{2}') a dÃ©jÃ  Ã©tÃ© dÃ©finie pour le paramÃ¨tre '{0}'. Vous ne pouvez pas la redÃ©finir ('{3}').Entrez une valeurÂ : !
+ExÃ©cution de '{0}' en cours...PLe paramÃ¨tre de fournisseur '{0}' nÃ©cessite que '{1}' soit Ã©galement dÃ©fini.dLa rÃ¨gle nommÃ©e '{0}' correspond Ã  l'expression rÃ©guliÃ¨re '{1}', mais elle est dÃ©jÃ  activÃ©e.ILa modification des rÃ¨gles n'est prise en charge que pour le verbe Sync.({0:0.00}) {1}pLa directive skip nommÃ©e '{0}' correspond Ã  l'expression rÃ©guliÃ¨re '{1}', mais elle est dÃ©jÃ  dÃ©sactivÃ©e.lLa directive skip nommÃ©e '{0}' correspond Ã  l'expression rÃ©guliÃ¨re '{1}', mais elle est dÃ©jÃ  activÃ©e.aUn identificateur cible pour le stockage des informations d'identification doit Ãªtre spÃ©cifiÃ©.ºLigne de commande de l'Outil de dÃ©ploiement Web Microsoft (R) ({0})
+Version {1}
+Copyright (c) Microsoft Corporation. Tous droits rÃ©servÃ©s.
+
+{0} <-verb:<nom>> <-source:<objet>> [-dest:<objet>] [args ...]
+
+  -verb:<nom>^$^Action Ã  effectuer (requis).
+  -source:<objet>^$^Objet source pour l'opÃ©ration (requis).
+  -dest:<objet>^$^Objet de destination pour l'opÃ©ration. 
+  -declareParam:<paramÃ¨tres>^$^Declares<paramÃ¨tres>^$^DÃ©clare un paramÃ¨tre pour la synchronisation.
+  -setParam:<paramÃ¨tres>^$^Sets<paramÃ¨tres>^$^DÃ©finit un paramÃ¨tre pour la synchronisation.
+  -setParamFile:<fichierxml>^$^Applique les paramÃ¨tres du paramÃ¨tre Ã  partir d'un fichier XML.
+  -declareParamFile:<fichierxml>^$^Inclue des dÃ©clarations de paramÃ¨tre Ã  partir d'un fichier XML.
+  -removeParam:<nom>^$^Supprime un paramÃ¨tre de la liste des paramÃ¨tres dÃ©clarÃ©s.
+  -disableLink:<nom>^$^DÃ©sactive le ou les extensions de liens spÃ©cifiÃ©es.
+  -enableLink:<nom>^$^Active le ou les extensions de liens spÃ©cifiÃ©es.
+  -disableRule:<nom>^$^DÃ©sactive la ou les rÃ¨gles de synchronisation spÃ©cifiÃ©es.
+  -enableRule:<nom>^$^Active la ou les rÃ¨gles de synchronisation spÃ©cifiÃ©es.
+  -replace:<paramÃ¨tres d'arg.>^$^SpÃ©cifie une rÃ¨gle de remplacement des attributs.
+  -retryAttempts^$^Nombre de tentatives effectuÃ©es par un fournisseur aprÃ¨s l'Ã©chec d'une action (ceci n'est pas pris en charge par tous les fournisseurs). La valeur par dÃ©faut est de 5Â tentatives.
+  -retryInterval^$^DÃ©lai d'attente (en nombre de millisecondes) entre chaque nouvelle tentative (-retryAttempts). La valeur par dÃ©faut est de 1Â 000Â millisecondes.
+  -skip:<paramÃ¨tres d'arg.>^$^SpÃ©cifie un objet Ã  ignorer lors de la synchronisation.
+  -disableSkipDirective:<nom>^$^DÃ©sactive la directive skip spÃ©cifiÃ©e.
+  -enableSkipDirective:<nom>^$^Active la directive skip spÃ©cifiÃ©e.
+     -verbose^$^GÃ©nÃ¨re une sortie de toutes les informations disponibles.
+  -whatif^$^Affiche le rÃ©sultat projetÃ© d'une opÃ©ration, sans effectuer l'opÃ©ration.
+  -disableAppStore^$^DÃ©sactive l'enregistrement dans le magasin d'applications durant une synchronisation.
+  -xpath:<chemin d'accÃ¨s>^$^Expression XPath Ã  appliquer Ã  la sortie XML.
+  -xml^$^Renvoie les rÃ©sultats au format XML.
+  -allowUntrusted^$^Autorise l'utilisation d'un certificat de serveur non autorisÃ© avec SSL.
+  -showSecure^$^Affiche les attributs sÃ©curisÃ©s au format XML au lieu de les masquer.^
+  -preSync:<commande>^$^Commande Ã  exÃ©cuter avant la synchronisation sur la destination. Par exemple, net stop un service.
+  -postSync:<commande>^$^Commande Ã  exÃ©cuter aprÃ¨s la synchronisation sur la destination. Par exemple, net start un service.
+  
+Verbes pris en chargeÂ :
+
+  dump^$^Affiche les dÃ©tails de l'objet source spÃ©cifiÃ©.
+  sync^$^Synchronise l'objet de destination avec l'objet source.
+  delete^$^Supprimer l'objet de destination spÃ©cifiÃ©.
+{2}
+<objet> format:
+
+  provider-type=[provider-path],[provider settings],...
+  
+Types de fournisseurs pris en charge (et exemples de chemins d'accÃ¨s, s'il y a lieu)Â :
+
+{3}
+{4}®Pour une aide dÃ©taillÃ©e, ajoutez -help Ã  une ligne de commande partielle existante.
+
+  {0} -help -verb
+  {0} -help -source:apphostconfig
+  {0} -help -verb:sync -whatifErreur critique de traceÂ :
+Erreur de traceÂ :
+ErreurInfoAucunCommentairesAvertissement
+{0}Â : {1}Code d'erreurÂ : {0}$Informations supplÃ©mentairesÂ : {0}Avertissement de traceÂ :
+XLa valeur de l'argument {0} doit Ãªtre true ou false. '{1}' n'est pas une valeur valide.TLa valeur de l'argument {0} doit Ãªtre un entier. '{1}' n'est pas une valeur valide.0'{0}' n'est pas un paramÃ¨tre dÃ©clarÃ© reconnu.(Extension de lien non reconnueÂ : '{0}'.RÃ¨gle non reconnueÂ : '{0}'.`La source ne prend pas en charge le paramÃ¨tre appelÃ© '{0}'. Valeurs prises en chargeÂ : ({1}).Argument '{0}' non reconnu.Verbe '{0}' non reconnu.eLe fournisseur '{0}' ne prend pas en charge le paramÃ¨tre '{1}'. ParamÃ¨tres pris en chargeÂ : ({2}).RCliquez sur '{0}' pour utiliser la valeur par dÃ©faut ({1}) pour ce paramÃ¨treÂ : Un verbe doit Ãªtre spÃ©cifiÃ©.Nombre d'avertissementsÂ : {0}.Jh¶½DäwL_ÏûÎˆÿHÀé²\êC'¡P4v.p|T•|™_¦z)XvÆ¡T×~¤•ü7³Æ¶Ó›TR‡Fl±»{›HèŒÎ¹Ôğ_ÏÒƒé`c“ùG6±vÜöøÍãÜ^G•1İ|ÿ`¡ó"·¶ú¾DBSJB         v4.0.30319     l   d   #~  Ğ   X   #Strings    (     #US 0     #GUID   @  ¤   #Blob               ú%3                 @                 €        !    
+                <Module> MSDeploy.resources fr MSDeploy.Resources.fr.resources MSDeploy.resources.dll         ¥×s.²ı~I¾CŠ`L/l €  $  €  ”      $  RSA1     µüçg‡w:Ş‰8ÈÔºe¹ `Y>–Ä’eˆœÁ?ëµ?¬1®Ó3Åî`!g-—ê1¨®½ /%Ø}ºoÉıYÔÚ5äL9ŒECèã;„&=®Éõ–ƒo—È÷GPå—\dâŸEŞôk*+G­Ãe+õÃ]© ÀØ          ŞØ                          ĞØ                _CorDllMain mscoree.dll     ÿ%  @                                                                                                                                                                                                                                                                                                 €                  0  €               	  H   Xà              4   V S _ V E R S I O N _ I N F O     ½ïş     q   q                          D    V a r F i l e I n f o     $    T r a n s l a t i o n     °    S t r i n g F i l e I n f o   Ü   0 4 0 c 0 4 b 0   .   C o m m e n t s   W e b   D e p l o y     L   C o m p a n y N a m e     M i c r o s o f t   C o r p o r a t i o n   >   F i l e D e s c r i p t i o n     W e b   D e p l o y     <   F i l e V e r s i o n     7 . 1 . 8 3 0 5 . 0 5 2 5   N   I n t e r n a l N a m e   M S D e p l o y . r e s o u r c e s . d l l     ‚ /  L e g a l C o p y r i g h t   ©   M i c r o s o f t   C o r p o r a t i o n .     A l l   r i g h t s   r e s e r v e d .     ,‚  L e g a l T r a d e m a r k s     M i c r o s o f t   a n d   W i n d o w s   a r e   e i t h e r   r e g i s t e r e d   t r a d e m a r k s   o r   t r a d e m a r k s   o f   M i c r o s o f t   C o r p o r a t i o n   i n   t h e   U . S .   a n d / o r   o t h e r   c o u n t r i e s .   V   O r i g i n a l F i l e n a m e   M S D e p l o y . r e s o u r c e s . d l l     2 	  P r o d u c t N a m e     M S D e p l o y     @   P r o d u c t V e r s i o n   7 . 1 . 8 3 0 5 . 0 5 2 5                                                                                                                                                                                                                                                                            Ğ     ğ8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       (    0‚(	*†H†÷ ‚(0‚'ı10	`†He 0\
++‚7 N0L0
++‚70	  ¢€ 010	`†He  öE7yİt\^E9@D&P‹çÁ÷¯Z&Œl•é¸
+ ‚v0‚ô0‚Ü 3  ¯0@L£MA    ¯0	*†H†÷ 0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20110231116190900Z241114190900Z0t10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMicrosoft Corporation0‚"0	*†H†÷ ‚ 0‚
+‚ ÎKË5­®ŸÑ­ƒC¡¤şİĞú­LxV&Vã¹jfBœ¼03Í –$øU€…ãÏä¼pq(å§§ùşPécOw¡Älè¶õi6.o{Aıí-Åì/ÚÄ7ÊÇ#aÛSÑooKñ‹ûè­ÂÇ8¿búİƒë+ï2åçÔ	´ÿ1‚5Æ•‚\R>‘5òxĞÅ*J\ìX~¡Á‡<úap?KA3‰€nØí¦3´z,˜C‡€“Tá§:ûÂç`‚rt.A$K‰B6
+lÔò÷ŸG¬¤®ì³·ZÍ0ò<:¥‡BÔƒ)u9$Ú›“ÜÁ´³8zñ»‡«İeşòİT1ƒS £‚s0‚o0U%0
++‚7L+0UGq4ò<dòJ³ù¸†^Á0EU>0<¤:0810UMicrosoft Corporation10U230012+5018260U#0€HndåPÓ‚ª77"µm¨Êu•0TUM0K0I G E†Chttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a+U0S0Q+0†Ehttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0Uÿ0 0	*†H†÷ ‚ „±ßóGgëLSÁã–šiiÍ&ƒ¨‹ê¥ÄåœîÂV×ïcÃËú&‰Cæ¾…0—tDg Ï*õ8Øà»&‡•'¼®(™P~Ïìø9F* Ww¢r~8Î$vÏŞË‹,ì±$FãØÖb h=‹¶8d/Oµ¡¥,œÒ™ìÙ{{Uì"6”pk»ÍŞàƒŞŞ	H‹EÕd”ù©^†Çô! Y©PcH	ƒváE0¸r‰~£$SNé:2‡Ó¢Ì&Öêpjù•¦'M÷ŞîVœš‰.{Å#öA€9Ì¨Ğíf7 Úø¸E0zöûÉ2éŸ¯§^‚òÓ{ÌyæêĞ-äãŠ`P.=%$„S{¢+7qœ¦zÌq®@e »¤²;ÚûªJÄ¥-©F9Æf<vF`š™Ğœ7nø9Ÿ4CÀuÖ#h’{=9İøñ³åŠZg›—É->ô˜à«yííE‰2X,„¥ö¬hÙBwCúì(ë)ŒÌ6:Q©…9ö*aeäÜCîç€=®€¥.qÆ
+$”b‹?‹G#÷@Uq!Ñ-
+)ôß3 ëÿ[	»ëTqÑ Io€(ˆÅ…ŒàK÷Ú^š% {2Ìn®_İß1ö¬ÓÓ}c04ş±@(çm	D¨ƒO¹ˆÛKU '&HˆI0‚z0‚b 
+aÒ     0	*†H†÷ 0ˆ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20110110708205909Z260708210909Z0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20110‚"0	*†H†÷ ‚ 0‚
+‚ «ğúr.­Ønª‚M4ºò¶X!ŸB*kéZPª¸8IºÃİ7kÆØğ8Â™°È9Õ1BÓ‰yd‡~”`$l¯Iœéh^Òß›S²
+,Ã¯Ù©+®z	¯×–YÊ`éfvè2R&/ç«PÏ³D·]ØÄ.u«hóËmó:\¡ôFºà8d¬nd5x¦ c-Ó@“øãŞÕ\y¥I)ç¾ w¾”=ïûã+ZMV(¢zrà:·I^ØííC‘ƒÙ{²{†Ù>±Œ]è‰O„ò¡/Yä;-®3XÅ·>ş2Ó³=±²¯’8~Ò€,õNV‘!5%Ã9ndSºœ­#„Ëôº†÷_ğĞR¿Œ”‡¼À!t%_(¶Ì'(8%˜9J6Ï|±’®#§©fìajá(I_ˆâ%]Ó!K>RÄµW?$ğÑz[/Õ#ãp]QFw³ø á¼¬‚_ÛÀ³½ÔUKç9¡é#I¼¸D|EäÁÃrzàrç$ß¿F™ÅïÂWÛƒìMI0§«ßì[Ÿ¯üİ°fâÁ—{íÖíKçI)§(¦§}g€æŠbx_²/„×Wœ\¿w((ñímÃ(,@7OÁá…D‰Ä	LÅÔ¥C/t•÷nøx X,]`•š>O3„Ú°ˆŞNô–°¼F l˜ÒàÖˆŒ £‚í0‚é0	+‚7 0UHndåPÓ‚ª77"µm¨Êu•0	+‚7
+ S u b C A0U†0Uÿ0ÿ0U#0€r-:1C¹Náê§Ç1Ñ#‰40ZUS0Q0O M K†Ihttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^+R0P0N+0†Bhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0ŸU —0”0‘	+‚7.0ƒ0?+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@+042  L e g a l _ p o l i c y _ s t a t e m e n t . 0	*†H†÷ ‚ gò†¥˜àTy.ÓØtg"›–ác’™B–}ÒyÁe_.,>øÃrÑmƒş¾?è
+Ê;¿G©£óiÛc¿"5¥—]e„}‹FPUØ’|ÒKó<B‹RĞ°ıkã>.)›æ=¥Ôµw”9âédÉD=xz#ó}¦tƒôË&F*ÂŠ»¤©›íhúh.• *?*kXIc	inZ˜–äƒôÀóF+Şü;Ğ½5ïn%®å¯'íĞİó¯™(—˜M=ò‰ÖÃ2âğÅ-Î[´I9
+Æ
+ÂÆ­®å²ÙÛˆQEX82q'±ô'øŞ,: i˜²Y‰hno§·tÃ@¦*(>‚?MfÀ³Mõáo}E§vå@*e£Ã]Rb†Ãc6—†ßÚóøò¡š'áÍ¥—Ğî]cAã[œ‡>wÑ±u¾aaµğÜÆ¾ßAÇ(îŞe/ì—ö¡\–Ø Ö¡F½Yó—¥	KH™€Ğ )Å±›¥?Ew5ÆÒ¢¢Ÿzz"úH•«ûG#€õø¿k·K—âëuxìê7™yKÿÖ³#huæ¯úü‹ë€êi;¯ü0íLßßumc‘=ÑVNO¿€W"¡x2!zïA
+±?û¨Ì¤]Á¡ˆ›WqVNHEÀBÉ›v[
+€HkıyŸÁ½mmjÉRszPÍ1‚0‚	0•0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20113  ¯0@L£MA    ¯0	`†He  ®0	*†H†÷	1
++‚70
++‚710
++‚70/	*†H†÷	1"  KÉÃNÑ;T7eï£EZÅmòÏüŸ>\[9qY¶ 0B
++‚71402 € M i c r o s o f t¡€http://www.microsoft.com0	*†H†÷ ‚ [©@&ø†œfÀÙ_O.]^[0|%F3ƒ–Şª5v›¦Kµ§ÈÚ‡"½kßÜƒp
+« ô¨}šzV	„³ñí1ç‹•ÙŒÚJcÇ­P‰Ê%.õMU/òÚ§N;¦–eÇ…–ÔË<øEêåi45SEeN?S¨Õ„ì"­ÃøW“.(*z#,Bñ*®TUÏûĞ¯±ô|	¤%µ2âÀİáËlwf=Hù3…¤õ $ËáíVÔ)2¸Ù‡ÃÚŒ™i~ĞÀOrÿ.ó0ò…¤¤K[NèmRÒ I—¾HÍ#‘mŒìãîE–hC]mõ¡‚—0‚“
++‚71‚ƒ0‚	*†H†÷ ‚p0‚l10	`†He 0‚R*†H†÷	 ‚A‚=0‚9
++„Y
+010	`†He   -º"¤$İÈJÕ?ZÚqøâZ²j±€%ìNeÎCÒ20240305052612.034Z0€ô Ñ¤Î0Ë10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1%0#UMicrosoft America Operations1'0%UnShield TSS ESN:F002-05E0-D9471%0#UMicrosoft Time-Stamp Service ‚í0‚ 0‚ 3  ò>2×d¬p‘”   ò0	*†H†÷ 0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100231206184558Z250305184558Z0Ë10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1%0#UMicrosoft America Operations1'0%UnShield TSS ESN:F002-05E0-D9471%0#UMicrosoft Time-Stamp Service0‚"0	*†H†÷ ‚ 0‚
+‚ ¼åóË
+ibpcæ/@g`”í(¨ö¬s^—€‚+˜%¦¤©} ìï9ò“¨ÑèFEóĞÛ×ÌgeY°£Õ±äu52»Ñ%$éë½2¸En0»ØçüöIà®b¬—şÿ3èúoÛØu¶ÓV±'?(óºÒz¤n¹!SæL¤ÆüÁĞ¼hÅ.¨Z…Ö+¬1×½D”Xpƒ_\8TFõ½#Š=Úµ¿:Ü8¬Y‘ô1.\*Òœk;^+§ÔìR	°³'à]YŸÔpƒícšÏ‘qˆK`iE†0°ó­î"uçÊ‡T‰^êçƒ»öÙS3~7Ş¢Ä.ğ$d,V×~ù_—]aÕÃfYcDÒê!p7:Ú†î­†ûoÃ;¾ü!½1ëÛíaL²ËlqwätN`øÔšr˜`÷(~Ô9¨ğö<Õf¬müaÃ¡ˆ`Ûª<³û¾z¸úøµ¼V‰õçÀôZ¹¤ì+¦¹Äˆtrz‘T9ça¤ˆš‡ú÷}(Kè!à>„Áî†ıŞ‰:wŠ€Øª¤_Wl%¤¥Nñ¿•`rü†}u%qê½˜¿FÔ™éÑ¿QçÕšX|€”®˜!É	DL“ÈL@R×’,iK–Ğk×”´¨|gö·À 9.(&Âûu]>iXU £‚I0‚E0U•[‡ &êĞ1Î\À`Óæ:â†y0U#0€Ÿ§] ^b]ƒôåÒe§S5ér0_UX0V0T R P†Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l+`0^0\+0†Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0Uÿ0 0U%ÿ0
++0Uÿ€0	*†H†÷ ‚ =K§à{M¤èi·İ^Ê*`ŠWH6|ƒ¥B¿ÑU7R«ÕéÉce"Y ¥„‘3äê7Roíhùèl_¼
+@‘ÂĞ„·dJë÷Y3ËÛÃ>³¦” 6cVZjİ3}óÖŸ†şmºø«¥ÍE•S©£ó¹Ì:s ö-N½î]¤KOCv8¸öª~°ºvmQLˆ“3Æ•%½×ÖKB¾u·x0b9"ÇUÄ÷Å\`Œöû—İrúÇUå¬eòà´mÃ9°¦À­RíG¬!
+µX‘¾…¹Ğ]XÎÓVøâî‘ ~7¬‚ph?Â„»±ë£ÆÁ¢ìKÎM7 K¡w¤Z¾“Ofı#Y×õS¹3‡t¼7˜‰ü_8#ï{YÁ6•'¦"¤å…`ÆË™	køCô™xG!ïB¹·Ò©˜ï¬Ø¶ôİË²ĞÉQ*õ¼aAò$9[ÆK3“ğOËí°¡Àq›.Zk1’)ˆPm,à÷õ;¨İY<FC”·WXã	Pœò~H¦G;w©À/ØtS¨Ägî;Iı ëY¶øº»À~»ê6e¸>™j4ğÈ½‘å½´,b©së^Şï¨í&4Ã½~@ızä#İÍF7éëvJn)¾ÊD+Èe–­ÈaÌ—Òÿ=ïåıaçœ3SÛÖ0‚q0‚Y 3   Åçk›I™     0	*†H†÷ 0ˆ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100210930182225Z300930183225Z0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100‚"0	*†H†÷ ‚ 0‚
+‚ äá¦Lç´r!y¢Ë×$y½Õ‚ÓıîœÒ©lNuÈÊ5WölJàâ½¹>`3ÿ\OÇf÷•SqZâ~JZş¸6g…F#µÏw2Àè`}jRƒD·¦FkóÅvõ†PÜÁDÈq\Q17 
+8ní×Ø&S|9azÄªıri¯«¬ö6¾5&dÚ˜;º{3­€[~ŒRş¶èb%ÜjÏ]ôşSÏÖì…VMïİ¼¤ã‘²9,QœépiÊ6-p1È5(½ã´‡$ÃàÉ~µTÜúU˜mh;šF½í¤®z)7¬ËëƒEçFnÊ2ÕÀ†0\O,âb²Í¹âˆä–¬J»¾q©[g`Şø’‘=ı Ïs}AšFuÍÄ_4İ‰Öı¥ }~üÙEß¶r/Û}_€ºÛª~6ì6Lö+n¨Qè¿£Ñs¦M7t”4‚ğò·Gí§è™|?LÛ¯^ÂóÕØs=CNÁ39L¼Bh.ê„QFâÑ½jZasÊg¢^×(vâ3r×§ ğÂú
+×coÉ6d‹[ ¦ƒ!]_0t‘””Ø¹Pù‰aó65„GÛÜÑı²ÔÅkö\RQ]Û%º¯PzlÅrïùRÄ…“À<Û7Ç?x«E¶õ‡^ÚriÆ®{··>jâ.­ £‚İ0‚Ù0	+‚7 0#	+‚7*§RşdÄš¾‚‘<F5)Ïÿ/î0UŸ§] ^b]ƒôåÒe§S5ér0\U U0S0Q+‚7Lƒ}0A0?+3http://www.microsoft.com/pkiops/Docs/Repository.htm0U%0
++0	+‚7
+ S u b C A0U†0Uÿ0ÿ0U#0€ÕöVËè¢\bhÑ=”[×ÎšÄ0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0†>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0	*†H†÷ ‚ U}ü*­á,g1$[árKü©oê\¶>NGdx±“—=13µ9×Âq6?Údl|Ğu9m»1äÂûlÑ¡”"îéfg:SMİ˜º¶xØ6.œ©‚V °¾‰èiàº	î{ßjo¾)ËnØ?HuÙŞm‚õm#TäxSu$W¹İŸó=Æóhßeö¤Vª÷•¶(U'Ğ$½@ ¿¶]='à@–8¬÷ù)‰Ã¼°T…B³ü‹‰çğjÂBRuŠ6ÂÃas.,k{n?,	xé‘²©[ßI£t¼ì‘€Ò=æJ>f;O»†ú2Ù–ôö‘öÎÆtıöLro«u0Å4°zØPş
+Xİ@<ÇTmctH,±NG-Áq¿dù$¾smÊ	½³WITdÙs×[DZ‘kŸ¤(Üg($º8Kšnû!TkjEG©ñ·®Èè‰^OÒĞLvµWT	±iD~|¡alsş
+»ìAf=iıËÁAI~~“¾Ëø;ä·¿´Î>¥1Q„¼¿Á‚¢{‰pşçµĞ(‰6ÚºLù›ÿ
+é4ø$5g+à¸æŒ™Öá"êğ'B=%”ætt[jÑ>í~ 13}¼Ëé{¿8pDÑñÈ«:Š:bÙpcSMî‚m¥Áqj´U3X³¡pfò¡‚P0‚80ù¡Ñ¤Î0Ë10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1%0#UMicrosoft America Operations1'0%UnShield TSS ESN:F002-05E0-D9471%0#UMicrosoft Time-Stamp Service¢#
+0+ k‹Ş7pRÇÙ7Ğğtå"È
+ø ƒ0€¤~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100	*†H†÷  é‘$0"20240305045430Z20240306045430Z0w0=
++„Y
+1/0-0
+ é‘$ 0
+ åÿ0 {0
+ é’u† 06
++„Y
+1(0&0
++„Y
+ 
+0 ¡ ¡
+0 † 0	*†H†÷ ‚ ®<‹„t….1&Î<îm´ÈË9Æ’ÉGc€÷¿}¥óº‚zŸç…Ü(¤›˜Ï¬•)å<ÿt5Gü~SÀD€²óœM}-+›U“µÈ^šİªª.¶xÌ÷Ñ“ÿ7-r†
+%5Ç·¢f 5±0b¤6#Î¾Ê}¢‘?OS{,ş]k\İúÉá
+5¿<`;g{FÍ~¬ÍZÊÙmx…·RwİO`ªm'¸æ!ì2ĞÜtººLnÛˆeg™4Šá"ÎÒ³è3 —§M¥7—°äÚu?!6ùé…åÊ-ê[}_İ#s›¥&Hª@hSÕk->Ó± ´0ü1‚0‚	0“0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  ò>2×d¬p‘”   ò0	`†He  ‚J0	*†H†÷	1*†H†÷	0/	*†H†÷	1" Ò¯åT ëÕMk&1s³.% ‰
+uÜ>L_›#"0ú*†H†÷	/1ê0ç0ä0½ øÚ>.1R\Ó˜á¹EN,¹§Dt”»E×JCD0˜0€¤~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  ò>2×d¬p‘”   ò0" ¥[[«S4ï£.óÛ˜íAPfŠ°²pÁ¡yÚX0	*†H†÷ ‚ ŒhÃ#üŸŸ–+P>İÂnšLO!B¦8™hs”äÀËU^àìÄø°j9ÂÅR²\ç’¯)şñ)¢ñ~³…M°'›Ïéuu¨“ƒ¨<ãÖñßÏìøˆ)î¦…Œ
+•QCªËÒM—<`r%Ğ4IS'9”h±4¢â_ï.ÅuŸå@*Ãğ”†p_NWûårmpH4#iªŞ8€í4.ŒŞŠÈ]ß«²òy< 56ûcõMğ³'ëIµ\D«>…ùm»ß¹à)æ›ÕA¢d™…8”®³=ÒŠç$/7ÃûL%9ÅhúÓ–èù3Şo<ñY=³"õç–éã$ú>›ñKØÍ×26¾=Í~^ÚÊ*Ë³UÙü2Ç5^.¸ü¯ÓÛWôSªÈni´x # ¾®š{hvâÇÆ/†cäàsL
+¿–o¥ìø»‰@mâtq}óÏ†Õøsw?”}È÷˜œr'<€R§,€5èa¹zèëex!¯3lè…	mÊ²vì)Î?2 ®®3Íï¡Ö‡<Òjü€Àíù>|V@.øˆğ’[“K¯H
+]İriÄ[,ä›ç‘ĞM·R4GËÅÿÛ-ÛÖ›1öYÇxj¸÷n±PŠöF…ù	¼Ê oÂe[‰@>| ñÖ›ûï-°9Iõ?6w9t                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    " Vim script for testing colors
+" Maintainer:	The Vim Project <https://github.com/vim/vim>
+" Contributors:	Rafael Garcia-Suarez, Charles Campbell
+" Last Change:	2023 Aug 10
+" Former Maintainer:	Bram Moolenaar <Bram@vim.org>
+
+" edit this file, then do ":source %", and check if the colors match
+
+" black		black_on_white				white_on_black
+"				black_on_black		black_on_black
+" darkred	darkred_on_white			white_on_darkred
+"				darkred_on_black	black_on_darkred
+" darkgreen	darkgreen_on_white			white_on_darkgreen
+"				darkgreen_on_black	black_on_darkgreen
+" brown		brown_on_white				white_on_brown
+"				brown_on_black		black_on_brown
+" darkblue	darkblue_on_white			white_on_darkblue
+"				darkblue_on_black	black_on_darkblue
+" darkmagenta	darkmagenta_on_white			white_on_darkmagenta
+"				darkmagenta_on_black	black_on_darkmagenta
+" darkcyan	darkcyan_on_white			white_on_darkcyan
+"				darkcyan_on_black	black_on_darkcyan
+" lightgray	lightgray_on_white			white_on_lightgray
+"				lightgray_on_black	black_on_lightgray
+" darkgray	darkgray_on_white			white_on_darkgray
+"				darkgray_on_black	black_on_darkgray
+" red		red_on_white				white_on_red
+"				red_on_black		black_on_red
+" green		green_on_white				white_on_green
+"				green_on_black		black_on_green
+" yellow	yellow_on_white				white_on_yellow
+"				yellow_on_black		black_on_yellow
+" blue		blue_on_white				white_on_blue
+"				blue_on_black		black_on_blue
+" magenta	magenta_on_white			white_on_magenta
+"				magenta_on_black	black_on_magenta
+" cyan		cyan_on_white				white_on_cyan
+"				cyan_on_black		black_on_cyan
+" white		white_on_white				white_on_white
+"				white_on_black		black_on_white
+" grey		grey_on_white				white_on_grey
+"				grey_on_black		black_on_grey
+" lightred	lightred_on_white			white_on_lightred
+"				lightred_on_black	black_on_lightred
+" lightgreen	lightgreen_on_white			white_on_lightgreen
+"				lightgreen_on_black	black_on_lightgreen
+" lightyellow	lightyellow_on_white			white_on_lightyellow
+"				lightyellow_on_black	black_on_lightyellow
+" lightblue	lightblue_on_white			white_on_lightblue
+"				lightblue_on_black	black_on_lightblue
+" lightmagenta	lightmagenta_on_white			white_on_lightmagenta
+"				lightmagenta_on_black	black_on_lightmagenta
+" lightcyan	lightcyan_on_white			white_on_lightcyan
+"				lightcyan_on_black	black_on_lightcyan
+
+" Open this file in a window if it isn't edited yet.
+" Use the current window if it's empty.
+if expand('%:p') != expand('<sfile>:p')
+  let s:fname = expand('<sfile>')
+  if exists('*fnameescape')
+    let s:fname = fnameescape(s:fname)
+  else
+    let s:fname = escape(s:fname, ' \|')
+  endif
+  if &mod || line('$') != 1 || getline(1) != ''
+    exe "new " . s:fname
+  else
+    exe "edit " . s:fname
+  endif
+  unlet s:fname
+endif

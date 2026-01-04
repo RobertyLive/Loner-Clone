@@ -1,0 +1,12 @@
+[   
+    "amd64",
+    "arm64",
+    "..\\..\\..\\IDE\\CommonExtensions\\Platform\\DiagnosticsHub",
+    "..\\..\\..\\IDE\\CommonExtensions\\Platform\\DiagnosticsHub\\amd64",
+    "..\\..\\..\\IDE\\CommonExtensions\\Platform\\DiagnosticsHub\\arm64",
+    "..\\..\\..\\IDE\\CommonExtensions\\Platform\\CPUSampling",    
+    "..\\..\\..\\IDE\\CommonExtensions\\Platform\\Database",    
+    "..\\..\\..\\IDE\\CommonExtensions\\Platform\\Debugger",    
+    "..\\..\\..\\IDE\\CommonExtensions\\Platform\\DotNetAsync",    
+    "..\\..\\..\\IDE\\CommonExtensions\\Platform\\DotNetCounters",
+    "..\\..\\..\\IDE\\CommonExtension

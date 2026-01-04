@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eaeaea;
+      }
+
+      .cls-2 {
+        fill: #acc6e6;
+      }
+
+      .cls-3 {
+        fill: #1473e6;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Surfaces">
+      <g id="Video_Audio_Surface" data-name="Video Audio Surface">
+        <g id="Outline_no_shadow" data-name="Outline no shadow">
+          <path class="cls-1" d="M6.375,.5H29.625c3.5158-.00501,6.36998,2.84104,6.375,6.35684V29.14316c-.00502,3.5158-2.8592,6.36185-6.375,6.35684H6.375c-3.5158,.00501-6.36998-2.84104-6.375-6.35684V6.85684C.00502,3

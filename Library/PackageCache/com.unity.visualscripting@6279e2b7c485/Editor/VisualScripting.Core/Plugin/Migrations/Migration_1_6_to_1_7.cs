@@ -1,0 +1,21 @@
+ že ke shodě musí dojít na hranici mezi znakem slova (element jazyka \w) a znakem, který není znakem slova (element jazyka \W). Mezi znaky slova patří alfanumerické znaky a podtržítka. Znak, který není znakem slova, je jakýkoli znak, který není alfanumerický ani podtržítko. Ke shodě může dojít i na hranici slova na začátku nebo na konci řetězce.
+
+Ukotvení \b se často používá k ověření, že dílčí výraz odpovídá celému slovu, nikoli jenom začátku nebo konci slova.hranice slova�\w odpovídá jakémukoli znaku slova. Znak slova je členem libovolné z následujících kategorií Unicode:
+
+    Ll	písmeno, malá písmena
+    Lu	písmeno, velká písmena
+    Lt	písmeno, velká počáteční písmena
+    Lo	písmeno, jiné
+    Lm	písmeno, modifikátor
+    Mn	značka, bez mezer
+    Nd	číslo, desítkové číslo
+    Pc	interpunkce, spojovník
+
+Pokud je zadané chování kompatibilní s ECMAScriptem, je \w ekvivalentem [a-zA-Z_0-9].
+znak slovaano�Negativní kontrolní výraz dopředného vyhledávání s nulovou délkou, při kterém úspěšná shoda nastane v případě, že vstupní řetězec neodpovídá vzoru regulárního výrazu v dílčím výrazu. Hledaný řetězec se do výsledku porovnávání nezahrnuje.
+
+Negativní kontrolní výraz dopředného vyhledávání s nulovou délkou se obvykle používá na začátku nebo na konci regulárního výrazu. Na začátku regulárního výrazu může definovat konkrétní vzor, který by se neměl shodovat, pokud začátek regulárního výrazu definuje podobný, ale obecnější vzor, který se má shodovat. V tomto případě se často používá k omezení zpětného vyhledávání. Na konci regulárního výrazu může definovat dílčí výraz, který se nesmí vyskytovat na konci hledaného řetězce.Jnegativní kontrolní výraz dopředného vyhledávání s nulovou délkou�Negativní kontrolní výraz zpětného vyhledávání s nulovou délkou, při kterém úspěšná shoda nastane v případě, že se dílčí výraz nenachází ve vstupním řetězci nalevo od aktuální pozice. Dílčí řetězce, které neodpovídají dílčímu výrazu, se do výsledku porovnávání nezahrnují.
+
+Negativní kontrolní výrazy zpětného vyhledávání s nulovou délkou se obvykle používají na začátku regulárních výrazů. Vzor, který definují, vylučuje shodu v řetězci, který následuje. Používají se také k omezení zpětného vyhledávání, pokud poslední znak nebo znaky v zachycující skupině nesmí představovat jeden nebo více znaků, které odpovídají vzoru regulárního výrazu dané skupiny.Hnegativní kontrolní výraz zpětného vyhledávání s nulovou délkou�Pozitivní kontrolní výraz dopředného vyhledávání s nulovou délkou, při kterém úspěšná shoda nastane v případě, že vstupní řetězec odpovídá vzoru regulárního výrazu v dílčím výrazu. Odpovídající dílčí řetězec se do výsledku porovnávání nezahrnuje. Pozitivní kontrolní výraz dopředného vyhledávání s nulovou délkou neprovádí zpětné vyhledávání.
+
+Pozitivní kontrolní výraz dopředného vyhledávání s nulovou délkou se obvykle nachází na konci vzoru regulárního výrazu. Definuje dílčí řetězec, který musí být nalezen na konci řetězce, aby došlo ke shodě, ale který by shoda neměla zahrnovat. Je také užitečný k zabránění nadměrnému zpětnému vyhledávání. Pomocí pozitivního kontrolního výrazu dopředného vyhledávání s nulovou délkou můžete zajistit, aby určitá zachycující skupina začínala textem, který odpovídá podmnožině vzoru definovaného pro danou zachycující skupinu.Jpozitivní kontrolní výraz dopředného vyhledávání s nulovou délkou�Pozitivní kontrolní výraz zpětného vyhledávání s nulovou délkou, při kterém úspěšná shoda nastane v případě, že se dílčí výraz nachází ve vstupním řetězci nalevo od aktuální pozice. Dílčí výraz se do výsledku porovnávání nezahrnuje. Pozitivní kontrolní výraz zpětnéh

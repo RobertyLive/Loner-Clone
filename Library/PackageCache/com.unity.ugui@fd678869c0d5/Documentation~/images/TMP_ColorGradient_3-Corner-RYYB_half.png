@@ -1,0 +1,285 @@
+-Nov-23 18:39:15.615 -03:00][15856:13756][info ] (IPC Source): [02:36:04.839][PID 8612] Overlay2: Resizing overlay renderer to 1920x1080
+[2025-Nov-23 18:39:22.696 -03:00][15856:13756][info ] (IPC Source): [02:36:11.920][PID 8612] Overlay2: OverlayRenderer[16448]: Fetch API cannot load sentry-ipc://sentry-electron.renderer-start/sentry_key. URL scheme "sentry-ipc" is not supported.
+[2025-Nov-23 18:39:22.718 -03:00][15856:13756][info ] (IPC Source): [02:36:11.942][PID 8612] Overlay2: OverlayRenderer[16448]: Fetch API cannot load sentry-ipc://sentry-electron.scope/sentry_key. URL scheme "sentry-ipc" is not supported.
+[2025-Nov-23 18:39:22.719 -03:00][15856:13756][info ] (IPC Source): [02:36:11.942][PID 8612] Overlay2: OverlayRenderer[16448]: Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2025-Nov-23 18:39:25.442 -03:00][15856:13756][info ] Log source connected [PID15896]
+[2025-Nov-23 18:39:25.442 -03:00][15856:13756][info ] (IPC Source): [00:00:02.189][PID15896] Overlay2: Connecting overlay to 16448
+[2025-Nov-23 18:39:25.528 -03:00][15856:13756][info ] (IPC Source): [02:36:14.752][PID 8612] Overlay2: Resizing overlay renderer to 1920x1080
+[2025-Nov-23 18:39:25.530 -03:00][15856:13756][info ] (IPC Source): [02:36:14.754][PID 8612] Overlay2: Overlay renderer for 16448 started successfully.
+[2025-Nov-23 18:39:30.226 -03:00][15856:13756][info ] (IPC Source): [02:36:19.449][PID 8612] Overlay2: OverlayRenderer[16448]: Refused to connect to 'sentry-ipc://sentry-electron.renderer-start/sentry_key' because it violates the following Content Security Policy directive: "connect-src 'self' https://status.discordapp.com https://status.discord.com https://support.discordapp.com https://support.discord.com https://discordapp.com https://discord.com https://discord-attachments-uploads-prd.storage.googleapis.com https://cdn.discordapp.com https://media.discordapp.net https://images-ext-1.discordapp.net https://images-ext-2.discordapp.net https://router.discordapp.net wss://*.discord.gg https://best.discord.media https://latency.discord.media wss://*.discord.media:* wss://dealer.spotify.com https://api.spotify.com https://music.amazon.com/embed/oembed https://*.sentry.io https://api.twitch.tv https://api.stripe.com https://api.braintreegateway.com https://client-analytics.braintreegateway.com https://*.braintree-api.com https://www.googleapis.com https://*.algolianet.com https://*.hcaptcha.com https://hcaptcha.com https://www.google.com/recaptcha/ https://*.algolia.net https://api.sprig.com/ https://cdn.sprig.com https://cdn.userleap.com https://*.mux.com https://*.litix.io wss://*.shockbyte.host/ping ws://127.0.0.1:* http://127.0.0.1:*".
+
+[2025-Nov-23 18:39:30.227 -03:00][15856:13756][info ] (IPC Source): [02:36:19.450][PID 8612] Overlay2: OverlayRenderer[16448]: Fetch API cannot load sentry-ipc://sentry-electron.renderer-start/sentry_key. Refused to connect because it violates the document's Content Security Policy.
+[2025-Nov-23 18:39:30.949 -03:00][15856:13756][info ] Log source disconnected [PID15896]
+[2025-Nov-23 18:39:31.107 -03:00][15856:13756][info ] (IPC Source): [02:36:20.331][PID 8612] Overlay2: OverlayRenderer[16448]: Refused to connect to 'sentry-ipc://sentry-electron.scope/sentry_key' because it violates the following Content Security Policy directive: "connect-src 'self' https://status.discordapp.com https://status.discord.com https://support.discordapp.com https://support.discord.com https://discordapp.com https://discord.com https://discord-attachments-uploads-prd.storage.googleapis.com https://cdn.discordapp.com https://media.discordapp.net https://images-ext-1.discordapp.net https://images-ext-2.discordapp.net https://router.discordapp.net wss://*.discord.gg https://best.discord.media https://latency.discord.media wss://*.discord.media:* wss://dealer.spotify.com https://api.spotify.com https://music.amazon.com/embed/oembed https://*.sentry.io https://api.twitch.tv https://api.stripe.com https://api.braintreegateway.com https://client-analytics.braintreegateway.com https://*.braintree-api.com https://www.googleapis.com https://*.algolianet.com https://*.hcaptcha.com https://hcaptcha.com https://www.google.com/recaptcha/ https://*.algolia.net https://api.sprig.com/ https://cdn.sprig.com https://cdn.userleap.com https://*.mux.com https://*.litix.io wss://*.shockbyte.host/ping ws://127.0.0.1:* http://127.0.0.1:*".
+
+[2025-Nov-23 18:39:31.119 -03:00][15856:13756][info ] (IPC Source): [02:36:20.343][PID 8612] Overlay2: OverlayRenderer[16448]: Fetch API cannot load sentry-ipc://sentry-electron.scope/sentry_key. Refused to connect because it violates the document's Content Security Policy.
+[2025-Nov-23 18:39:31.120 -03:00][15856:13756][info ] (IPC Source): [02:36:20.343][PID 8612] Overlay2: OverlayRenderer[16448]: Sentry SDK failed to establish connection with the Electron main process.
+  - Ensure you have initialized the SDK in the main process
+  - If your renderers use custom sessions, be sure to set 'getSessions' in the main process options
+  - If you are bundling your main process code and using Electron < v5, you'll need to manually configure a preload script
+[2025-Nov-23 18:39:39.739 -03:00][15856:13756][info ] (IPC Source): [02:36:28.962][PID 8612] Overlay2: OverlayRenderer[16448]: %c[KvStore] 
+font-weight: bold;
+color: purple;
+ GuildStore initialized in mode: typescript
+[2025-Nov-23 18:39:40.018 -03:00][15856:13756][info ] (IPC Source): [02:36:29.242][PID 8612] Overlay2: OverlayRenderer[16448]: %c[KkvStore] 
+font-weight: bold;
+color: purple;
+ GuildRoleStore initialized in mode: typescript
+[2025-Nov-23 18:39:40.227 -03:00][15856:13756][info ] (IPC Source): [02:36:29.451][PID 8612] Overlay2: OverlayRenderer[16448]: Refused to connect to 'sentry-ipc://sentry-electron.scope/sentry_key' because it violates the following Content Security Policy directive: "connect-src 'self' https://status.discordapp.com https://status.discord.com https://support.discordapp.com https://support.discord.com https://discordapp.com https://discord.com https://discord-attachments-uploads-prd.storage.googleapis.com https://cdn.discordapp.com https://media.discordapp.net https://images-ext-1.discordapp.net https://images-ext-2.discordapp.net https://router.discordapp.net wss://*.discord.gg https://best.discord.media https://latency.discord.media wss://*.discord.media:* wss://dealer.spotify.com https://api.spotify.com https://music.amazon.com/embed/oembed https://*.sentry.io https://api.twitch.tv https://api.stripe.com https://api.braintreegateway.com https://client-analytics.braintreegateway.com https://*.braintree-api.com https://www.googleapis.com https://*.algolianet.com https://*.hcaptcha.com https://hcaptcha.com https://www.google.com/recaptcha/ https://*.algolia.net https://api.sprig.com/ https://cdn.sprig.com https://cdn.userleap.com https://*.mux.com https://*.litix.io wss://*.shockbyte.host/ping ws://127.0.0.1:* http://127.0.0.1:*".
+
+[2025-Nov-23 18:39:40.228 -03:00][15856:13756][info ] (IPC Source): [02:36:29.451][PID 8612] Overlay2: OverlayRenderer[16448]: Fetch API cannot load sentry-ipc://sentry-electron.scope/sentry_key. Refused to connect because it violates the document's Content Security Policy.
+[2025-Nov-23 18:39:40.228 -03:00][15856:13756][info ] (IPC Source): [02:36:29.451][PID 8612] Overlay2: OverlayRenderer[16448]: Failed to get data directory:  TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+[2025-Nov-23 18:39:40.234 -03:00][15856:13756][info ] (IPC Source): [02:36:29.457][PID 8612] Overlay2: OverlayRenderer[16448]: Refused to connect to 'sentry-ipc://sentry-electron.scope/sentry_key' because it violates the following Content Security Policy directive: "connect-src 'self' https://status.discordapp.com https://status.discord.com https://support.discordapp.com https://support.discord.com https://discordapp.com https://discord.com https://discord-attachments-uploads-prd.storage.googleapis.com https://cdn.discordapp.com https://media.discordapp.net https://images-ext-1.discordapp.net https://images-ext-2.discordapp.net https://router.discordapp.net wss://*.discord.gg https://best.discord.media https://latency.discord.media wss://*.discord.media:* wss://dealer.spotify.com https://api.spotify.com https://music.amazon.com/embed/oembed https://*.sentry.io https://api.twitch.tv https://api.stripe.com https://api.braintreegateway.com https://client-analytics.braintreegateway.com https://*.braintree-api.com https://www.googleapis.com https://*.algolianet.com https://*.hcaptcha.com https://hcaptcha.com https://www.google.com/recaptcha/ https://*.algolia.net https://api.sprig.com/ https://cdn.sprig.com https://cdn.userleap.com https://*.mux.com https://*.litix.io wss://*.shockbyte.host/ping ws://127.0.0.1:* http://127.0.0.1:*".
+
+[2025-Nov-23 18:39:40.234 -03:00][15856:13756][info ] (IPC Source): [02:36:29.458][PID 8612] Overlay2: OverlayRenderer[16448]: Fetch API cannot load sentry-ipc://sentry-electron.scope/sentry_key. Refused to connect because it violates the document's Content Security Policy.
+[2025-Nov-23 18:39:40.235 -03:00][15856:13756][info ] (IPC Source): [02:36:29.458][PID 8612] Overlay2: OverlayRenderer[16448]: service release channel: stable
+[2025-Nov-23 18:39:40.514 -03:00][15856:13756][info ] (IPC Source): [02:36:29.737][PID 8612] Overlay2: OverlayRenderer[16448]: %c[KkvStore] 
+font-weight: bold;
+color: purple;
+ RawGuildEmojiStore initialized in mode: typescript
+[2025-Nov-23 18:39:40.633 -03:00][15856:13756][info ] (IPC Source): [02:36:29.857][PID 8612] Overlay2: OverlayRenderer[16448]: %c[KkvStore] 
+font-weight: bold;
+color: purple;
+ GuildStickersStore initialized in mode: typescript
+[2025-Nov-23 18:39:40.634 -03:00][15856:13756][info ] (IPC Source): [02:36:29.857][PID 8612] Overlay2: OverlayRenderer[16448]: %c[KkvStore] 
+font-weight: bold;
+color: purple;
+ StickersPackStore initialized in mode: typescript
+[2025-Nov-23 18:39:41.107 -03:00][15856:13756][info ] (IPC Source): [02:36:30.330][PID 8612] Overlay2: OverlayRenderer[16448]: Overlay error handlers and console interception set up
+[2025-Nov-23 18:39:41.293 -03:00][15856:13756][info ] (IPC Source): [02:36:30.517][PID 8612] Overlay2: OverlayRenderer[16448]: %c[DatabaseManager] 
+font-weight: bold;
+color: purple;
+ active user changed (now: undefined, was: null, was: undefined)
+[2025-Nov-23 18:39:41.393 -03:00][15856:13756][info ] (IPC Source): [02:36:30.616][PID 8612] Overlay2: OverlayRenderer[16448]: %c[default] 
+font-weight: bold;
+color: purple;
+ [BUILD INFO] Release Channel: stable, Build Number: 471383, Version Hash: a5dffa59ecf35c19fd970891c7ebec921cc193a8
+[2025-Nov-23 18:39:42.728 -03:00][15856:13756][info ] (IPC Source): [02:36:31.951][PID 8612] Overlay2: OverlayRenderer[16448]: %c[KvStore] 
+font-weight: bold;
+color: purple;
+ NoteStore initialized in mode: typescript
+[2025-Nov-23 18:39:42.898 -03:00][15856:13756][info ] (IPC Source): [02:36:32.122][PID 8612] Overlay2: OverlayRenderer[16448]: %c[default] 
+font-weight: bold;
+color: purple;
+ [NATIVE INFO] host 1.0.9215, modules: , build: null
+[2025-Nov-23 18:39:44.305 -03:00][15856:13756][info ] (IPC Source): [02:36:33.528][PID 8612] Overlay2: OverlayRenderer[16448]: %c[Spellchecker] 
+font-weight: bold;
+color: purple;
+ sh is not a valid locale.
+[2025-Nov-23 18:39:44.541 -03:00][15856:13756][info ] (IPC Source): [02:36:33.764][PID 8612] Overlay2: OverlayRenderer[16448]: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discord.com/assets/66d715454104d24e.woff2
+[2025-Nov-23 18:39:44.558 -03:00][15856:13756][info ] (IPC Source): [02:36:33.781][PID 8612] Overlay2: OverlayRenderer[16448]: %c[Spellchecker] 
+font-weight: bold;
+color: purple;
+ Switching to pt-BR (available)
+[2025-Nov-23 18:39:44.657 -03:00][15856:13756][info ] (IPC Source): [02:36:33.880][PID 8612] Overlay2: OverlayRenderer[16448]: Uncaught (in promise) Error: Error invoking remote method 'DISCORD_NATIVE_MODULES_INSTALL': Error: Module updater is not available!
+[2025-Nov-23 18:39:57.080 -03:00][15856:13756][info ] (IPC Source): [02:36:46.304][PID 8612] Overlay2: Overlay is ready to show
+[2025-Nov-23 18:40:01.425 -03:00][15856:13756][info ] (IPC Source): [02:36:50.648][PID 8612] Overlay2: OverlayRenderer[16448]: %c[AuthenticationStore] 
+font-weight: bold;
+color: purple;
+ setAuthToken called. [object Object]
+[2025-Nov-23 18:40:01.847 -03:00][15856:13756][info ] (IPC Source): [02:36:51.070][PID 8612] Overlay2: OverlayRenderer[16448]: %c[MessageActionCreators] 
+font-weight: bold;
+color: purple;
+ Fetching messages for 346434597237555202 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2025-Nov-23 18:40:01.889 -03:00][15856:13756][info ] (IPC Source): [02:36:51.112][PID 8612] Overlay2: OverlayRenderer[16448]: %c[Flux] 
+font-weight: bold;
+color: purple;
+ Slow dispatch on OVERLAY_INITIALIZE: 519.6000000238419ms
+[2025-Nov-23 18:40:01.902 -03:00][15856:13756][info ] (IPC Source): [02:36:51.126][PID 8612] Overlay2: OverlayRenderer[16448]: %c[DatabaseManager] 
+font-weight: bold;
+color: purple;
+ active user changed (now: 402167385190170627, was: undefined, was: undefined)
+[2025-Nov-23 18:40:01.911 -03:00][15856:13756][info ] (IPC Source): [02:36:51.134][PID 8612] Overlay2: OverlayRenderer[16448]: %c[OverlayRenderStore] 
+font-weight: bold;
+color: purple;
+ setOverlayEnabled: supported [object Object]
+[2025-Nov-23 18:40:01.919 -03:00][15856:13756][info ] (IPC Source): [02:36:51.138][PID 8612] Overlay2: OverlayRenderer[16448]: %c[OverlayRenderStore] 
+font-weight: bold;
+color: purple;
+ setOverlayEnabled [object Object]
+[2025-Nov-23 18:40:03.133 -03:00][15856:13756][info ] (IPC Source): [02:36:52.308][PID 8612] Overlay2: OverlayRenderer[16448]: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discord.com/assets/b272b33815319bae.woff2
+[2025-Nov-23 18:40:03.133 -03:00][15856:13756][info ] (IPC Source): [02:36:52.309][PID 8612] Overlay2: OverlayRenderer[16448]: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discord.com/assets/2df2c3ff74408972.woff2
+[2025-Nov-23 18:40:03.133 -03:00][15856:13756][info ] (IPC Source): [02:36:52.311][PID 8612] Overlay2: OverlayRenderer[16448]: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discord.com/assets/189422196a4f8b53.woff2
+[2025-Nov-23 18:40:03.169 -03:00][15856:13756][info ] (IPC Source): [02:36:52.393][PID 8612] Overlay2: OverlayRenderer[16448]: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discord.com/assets/f72b5ce64feb2086.woff2
+[2025-Nov-23 18:40:04.029 -03:00][15856:13756][info ] (IPC Source): [02:36:53.226][PID 8612] Overlay2: OverlayRenderer[16448]: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discord.com/assets/ae8462614cb0ef23.woff2
+[2025-Nov-23 18:40:04.705 -03:00][15856:13756][info ] (IPC Source): [02:36:53.913][PID 8612] Overlay2: OverlayRenderer[16448]: %c[MessageActionCreators] 
+font-weight: bold;
+color: purple;
+ Fetched 50 messages for 346434597237555202 isBefore:false isAfter:false
+[2025-Nov-23 18:40:04.800 -03:00][15856:13756][info ] (IPC Source): [02:36:53.929][PID16448] HandleSetDrawingState: Updating state to 'Overlay' (was 'Initialize')
+[2025-Nov-23 18:40:04.806 -03:00][15856:13756][info ] (IPC Source): [02:36:54.005][PID 8612] Overlay2: OverlayRenderer[16448]: %c[ChannelMessages] 
+font-weight: bold;
+color: purple;
+ loadComplete: resetting state for channelId=346434597237555202, sending.length=0
+[2025-Nov-23 18:40:04.806 -03:00][15856:13756][info ] (IPC Source): [02:36:54.029][PID 8612] Overlay2: OverlayRenderer[16448]: %c[Flux] 
+font-weight: bold;
+color: purple;
+ Slow dispatch on LOAD_MESSAGES_SUCCESS: 115.79999995231628ms
+[2025-Nov-23 18:40:04.821 -03:00][15856:13756][info ] (IPC Source): [02:36:54.044][PID 8612] Overlay2: OverlayRenderer[16448]: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discord.com/assets/a4a3d323feb11add.woff2
+[2025-Nov-23 18:40:06.723 -03:00][15856:13756][info ] (IPC Source): [02:36:55.919][PID 8612] Overlay2: OverlayRenderer[16448]: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discord.com/assets/dd24010f3cf7def7.woff2
+[2025-Nov-23 18:40:06.761 -03:00][15856:13756][info ] (IPC Source): [02:36:55.985][PID 8612] Overlay2: OverlayRenderer[16448]: Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discord.com/assets/36e7b68ea0c05ae7.woff2
+[2025-Nov-23 18:40:07.441 -03:00][15856:13756][info ] (IPC Source): [02:36:56.664][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:40:07.441 -03:00][15856:13756][info ] (IPC Source): [02:36:56.665][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:40:07.442 -03:00][15856:13756][info ] (IPC Source): [02:36:56.665][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:40:07.442 -03:00][15856:13756][info ] (IPC Source): [02:36:56.666][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:40:07.442 -03:00][15856:13756][info ] (IPC Source): [02:36:56.666][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:40:07.442 -03:00][15856:13756][info ] (IPC Source): [02:36:56.666][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:40:07.489 -03:00][15856:13756][info ] (IPC Source): [02:36:56.708][PID 8612] Overlay2: OverlayRenderer[16448]: %c[LegacyOverlayNotificationsStore] 
+font-weight: bold;
+color: purple;
+ Overlay mounted [object Object]
+[2025-Nov-23 18:40:07.490 -03:00][15856:13756][info ] (IPC Source): [02:36:56.713][PID 8612] Overlay2: OverlayRenderer[16448]: %c[OverlayRenderStore] 
+font-weight: bold;
+color: purple;
+ Retracking 0 games (0 already tracked)
+[2025-Nov-23 18:40:07.490 -03:00][15856:13756][info ] (IPC Source): [02:36:56.714][PID 8612] Overlay2: OverlayRenderer[16448]: %c[OverlayRenderStore] 
+font-weight: bold;
+color: purple;
+ Retracked 0 games
+[2025-Nov-23 18:40:07.556 -03:00][15856:13756][info ] Log source connected [PID11704]
+[2025-Nov-23 18:40:07.556 -03:00][15856:13756][info ] (IPC Source): [00:00:00.228][PID11704] Overlay2: Connecting overlay to 16448
+[2025-Nov-23 18:40:07.558 -03:00][15856:13756][info ] (IPC Source): [02:36:56.781][PID 8612] Overlay2: Resizing overlay renderer to 1920x1080
+[2025-Nov-23 18:40:12.557 -03:00][15856:13756][info ] (IPC Source): [02:37:01.780][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:40:12.558 -03:00][15856:13756][info ] (IPC Source): [02:37:01.781][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:40:12.558 -03:00][15856:13756][info ] (IPC Source): [02:37:01.781][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:40:12.558 -03:00][15856:13756][info ] (IPC Source): [02:37:01.781][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:40:12.558 -03:00][15856:13756][info ] (IPC Source): [02:37:01.782][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:40:12.558 -03:00][15856:13756][info ] (IPC Source): [02:37:01.782][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:41:42.791 -03:00][15856:13756][info ] (IPC Source): [02:38:32.008][PID16448] D3D9State::ResetDevice: releasing resources
+[2025-Nov-23 18:42:09.097 -03:00][15856:13756][info ] (IPC Source): [02:38:58.320][PID16448] D3D9State::InitOverlay: initialized to 0F9C3CC0 (window 000F0952: 199x34)
+[2025-Nov-23 18:42:09.099 -03:00][15856:13756][info ] (IPC Source): [02:38:58.322][PID 8612] Overlay2: Resizing overlay renderer to 199x34
+[2025-Nov-23 18:42:09.099 -03:00][15856:13756][info ] (IPC Source): [02:38:58.323][PID16448] D3D9State::ResetDevice: releasing resources
+[2025-Nov-23 18:42:12.604 -03:00][15856:13756][info ] (IPC Source): [02:39:01.827][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:42:12.604 -03:00][15856:13756][info ] (IPC Source): [02:39:01.828][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:42:12.604 -03:00][15856:13756][info ] (IPC Source): [02:39:01.828][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:42:12.604 -03:00][15856:13756][info ] (IPC Source): [02:39:01.828][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:42:12.604 -03:00][15856:13756][info ] (IPC Source): [02:39:01.828][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:42:12.604 -03:00][15856:13756][info ] (IPC Source): [02:39:01.828][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:42:12.788 -03:00][15856:13756][info ] (IPC Source): [02:39:02.008][PID16448] D3D9State::InitOverlay: initialized to 0F9C3CC0 (window 000F0952: 1920x1080)
+[2025-Nov-23 18:42:12.809 -03:00][15856:13756][info ] (IPC Source): [02:39:02.032][PID 8612] Overlay2: Resizing overlay renderer to 1920x1080
+[2025-Nov-23 18:42:12.906 -03:00][15856:13756][info ] (IPC Source): [02:39:02.129][PID 8612] Overlay2: OverlayRenderer[16448]: %c[Flux] 
+font-weight: bold;
+color: purple;
+ Slow dispatch on VOICE_STATE_UPDATES: 112.60000002384186ms
+[2025-Nov-23 18:42:25.645 -03:00][15856:13756][info ] (IPC Source): [02:39:14.868][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:42:25.646 -03:00][15856:13756][info ] (IPC Source): [02:39:14.869][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:42:25.646 -03:00][15856:13756][info ] (IPC Source): [02:39:14.869][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:42:25.646 -03:00][15856:13756][info ] (IPC Source): [02:39:14.869][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:42:25.646 -03:00][15856:13756][info ] (IPC Source): [02:39:14.869][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:42:25.646 -03:00][15856:13756][info ] (IPC Source): [02:39:14.869][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:42:53.245 -03:00][15856:13756][info ] (IPC Source): [02:39:42.468][PID 8612] Overlay2: OverlayRenderer[16448]: %c[WindowVisibilityVideoManager] 
+font-weight: bold;
+color: purple;
+ Incoming video enabled changed, incomingVideoEnabled = false
+[2025-Nov-23 18:45:02.137 -03:00][15856:13756][info ] (IPC Source): [02:41:51.359][PID 8612] Overlay2: OverlayRenderer[16448]: %c[HTTPUtils] 
+font-weight: bold;
+color: purple;
+ cleanupRequestEntry: rate limit for /users/@me/meaningfully-online retry after 1402.268 seconds
+[2025-Nov-23 18:45:05.183 -03:00][15856:13756][info ] (IPC Source): [02:41:54.406][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:45:05.183 -03:00][15856:13756][info ] (IPC Source): [02:41:54.406][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:45:05.183 -03:00][15856:13756][info ] (IPC Source): [02:41:54.406][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:45:05.183 -03:00][15856:13756][info ] (IPC Source): [02:41:54.407][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:45:05.183 -03:00][15856:13756][info ] (IPC Source): [02:41:54.407][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:45:05.183 -03:00][15856:13756][info ] (IPC Source): [02:41:54.407][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:45:05.755 -03:00][15856:13756][info ] (IPC Source): [02:41:54.964][PID16448] D3D9State::ResetDevice: releasing resources
+[2025-Nov-23 18:45:05.873 -03:00][15856:13756][info ] (IPC Source): [02:41:54.986][PID 8612] Overlay2: OverlayRenderer[16448]: %c[WindowVisibilityVideoManager] 
+font-weight: bold;
+color: purple;
+ Incoming video enabled changed, incomingVideoEnabled = true
+[2025-Nov-23 18:45:16.506 -03:00][15856:13756][info ] (IPC Source): [02:42:05.729][PID16448] D3D9State::InitOverlay: initialized to 0F9C3CC0 (window 000F0952: 1920x1080)
+[2025-Nov-23 18:45:16.507 -03:00][15856:13756][info ] (IPC Source): [02:42:05.730][PID 8612] Overlay2: Resizing overlay renderer to 1920x1080
+[2025-Nov-23 18:45:16.511 -03:00][15856:13756][info ] (IPC Source): [02:42:05.735][PID16448] D3D9State::ResetDevice: releasing resources
+[2025-Nov-23 18:45:19.813 -03:00][15856:13756][info ] (IPC Source): [02:42:09.033][PID16448] D3D9State::InitOverlay: initialized to 0F9C3CC0 (window 000F0952: 1920x1080)
+[2025-Nov-23 18:45:19.833 -03:00][15856:13756][info ] (IPC Source): [02:42:09.057][PID 8612] Overlay2: Resizing overlay renderer to 1920x1080
+[2025-Nov-23 18:45:52.061 -03:00][15856:13756][info ] (IPC Source): [02:42:41.285][PID 8612] Overlay2: OverlayRenderer[16448]: %c[WindowVisibilityVideoManager] 
+font-weight: bold;
+color: purple;
+ Incoming video enabled changed, incomingVideoEnabled = false
+[2025-Nov-23 18:50:05.764 -03:00][15856:13756][info ] (IPC Source): [02:46:54.987][PID 8612] Overlay2: OverlayRenderer[16448]: %c[HTTPUtils] 
+font-weight: bold;
+color: purple;
+ makeRequest: queueing request for  /users/@me/meaningfully-online
+[2025-Nov-23 18:53:12.353 -03:00][15856:13756][info ] (IPC Source): [02:50:01.576][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:53:12.353 -03:00][15856:13756][info ] (IPC Source): [02:50:01.576][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:53:12.353 -03:00][15856:13756][info ] (IPC Source): [02:50:01.576][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:53:12.353 -03:00][15856:13756][info ] (IPC Source): [02:50:01.576][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:53:12.354 -03:00][15856:13756][info ] (IPC Source): [02:50:01.577][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:53:12.354 -03:00][15856:13756][info ] (IPC Source): [02:50:01.577][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:53:20.408 -03:00][15856:13756][info ] (IPC Source): [02:50:09.631][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:53:20.409 -03:00][15856:13756][info ] (IPC Source): [02:50:09.632][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:53:20.409 -03:00][15856:13756][info ] (IPC Source): [02:50:09.632][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:53:20.409 -03:00][15856:13756][info ] (IPC Source): [02:50:09.632][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:53:20.409 -03:00][15856:13756][info ] (IPC Source): [02:50:09.632][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:53:20.409 -03:00][15856:13756][info ] (IPC Source): [02:50:09.632][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:55:11.025 -03:00][15856:13756][info ] (IPC Source): [02:52:00.152][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:55:11.025 -03:00][15856:13756][info ] (IPC Source): [02:52:00.153][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:55:11.025 -03:00][15856:13756][info ] (IPC Source): [02:52:00.153][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:55:11.025 -03:00][15856:13756][info ] (IPC Source): [02:52:00.153][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:55:11.025 -03:00][15856:13756][info ] (IPC Source): [02:52:00.153][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:55:11.025 -03:00][15856:13756][info ] (IPC Source): [02:52:00.153][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:55:14.306 -03:00][15856:13756][info ] (IPC Source): [02:52:03.530][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:55:14.307 -03:00][15856:13756][info ] (IPC Source): [02:52:03.530][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:55:14.307 -03:00][15856:13756][info ] (IPC Source): [02:52:03.530][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:55:14.307 -03:00][15856:13756][info ] (IPC Source): [02:52:03.530][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:55:14.307 -03:00][15856:13756][info ] (IPC Source): [02:52:03.530][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:55:14.307 -03:00][15856:13756][info ] (IPC Source): [02:52:03.531][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:58:58.209 -03:00][15856:13756][info ] (IPC Source): [02:55:47.431][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:58:58.209 -03:00][15856:13756][info ] (IPC Source): [02:55:47.433][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:58:58.209 -03:00][15856:13756][info ] (IPC Source): [02:55:47.433][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:58:58.209 -03:00][15856:13756][info ] (IPC Source): [02:55:47.433][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:58:58.209 -03:00][15856:13756][info ] (IPC Source): [02:55:47.433][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 18:58:58.209 -03:00][15856:13756][info ] (IPC Source): [02:55:47.433][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:00:05.245 -03:00][15856:13756][info ] (IPC Source): [02:56:54.468][PID 8612] Overlay2: OverlayRenderer[16448]: %c[HTTPUtils] 
+font-weight: bold;
+color: purple;
+ makeRequest: queueing request for  /users/@me/meaningfully-online
+[2025-Nov-23 19:08:24.413 -03:00][15856:13756][info ] (IPC Source): [03:05:13.635][PID 8612] Overlay2: OverlayRenderer[16448]: %c[HTTPUtils] 
+font-weight: bold;
+color: purple;
+ rateLimitExpirationHandler: moving to next record for  /users/@me/meaningfully-online
+[2025-Nov-23 19:08:24.638 -03:00][15856:13756][info ] (IPC Source): [03:05:13.861][PID 8612] Overlay2: OverlayRenderer[16448]: %c[HTTPUtils] 
+font-weight: bold;
+color: purple;
+ cleanupRequestEntry: rate limit for  /users/@me/meaningfully-online expired
+[2025-Nov-23 19:08:24.638 -03:00][15856:13756][info ] (IPC Source): [03:05:13.861][PID 8612] Overlay2: OverlayRenderer[16448]: %c[HTTPUtils] 
+font-weight: bold;
+color: purple;
+ rateLimitExpirationHandler: moving to next record for  /users/@me/meaningfully-online
+[2025-Nov-23 19:08:24.822 -03:00][15856:13756][info ] (IPC Source): [03:05:14.045][PID 8612] Overlay2: OverlayRenderer[16448]: %c[HTTPUtils] 
+font-weight: bold;
+color: purple;
+ cleanupRequestEntry: extending rate limit for  /users/@me/meaningfully-online
+[2025-Nov-23 19:08:24.822 -03:00][15856:13756][info ] (IPC Source): [03:05:14.046][PID 8612] Overlay2: OverlayRenderer[16448]: %c[HTTPUtils] 
+font-weight: bold;
+color: purple;
+ cleanupRequestEntry: rate limit for /users/@me/meaningfully-online retry after 3599.802 seconds
+[2025-Nov-23 19:08:27.854 -03:00][15856:13756][info ] (IPC Source): [03:05:17.077][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:08:27.855 -03:00][15856:13756][info ] (IPC Source): [03:05:17.078][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:08:27.855 -03:00][15856:13756][info ] (IPC Source): [03:05:17.078][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:08:27.855 -03:00][15856:13756][info ] (IPC Source): [03:05:17.078][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:08:27.855 -03:00][15856:13756][info ] (IPC Source): [03:05:17.078][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:08:27.855 -03:00][15856:13756][info ] (IPC Source): [03:05:17.078][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:10:10.855 -03:00][15856:13756][info ] (IPC Source): [03:07:00.078][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:10:10.856 -03:00][15856:13756][info ] (IPC Source): [03:07:00.079][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:10:10.856 -03:00][15856:13756][info ] (IPC Source): [03:07:00.079][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:10:10.856 -03:00][15856:13756][info ] (IPC Source): [03:07:00.079][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:10:10.856 -03:00][15856:13756][info ] (IPC Source): [03:07:00.079][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:10:10.856 -03:00][15856:13756][info ] (IPC Source): [03:07:00.079][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:21:58.318 -03:00][15856:13756][info ] (IPC Source): [03:18:47.542][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:21:58.318 -03:00][15856:13756][info ] (IPC Source): [03:18:47.542][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:21:58.318 -03:00][15856:13756][info ] (IPC Source): [03:18:47.542][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:21:58.318 -03:00][15856:13756][info ] (IPC Source): [03:18:47.542][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:21:58.319 -03:00][15856:13756][info ] (IPC Source): [03:18:47.542][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:21:58.319 -03:00][15856:13756][info ] (IPC Source): [03:18:47.542][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:25:10.791 -03:00][15856:13756][info ] (IPC Source): [03:22:00.014][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:25:10.792 -03:00][15856:13756][info ] (IPC Source): [03:22:00.015][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:25:10.792 -03:00][15856:13756][info ] (IPC Source): [03:22:00.016][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:25:10.792 -03:00][15856:13756][info ] (IPC Source): [03:22:00.016][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/7a6a566c2e88a35d.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:25:10.793 -03:00][15856:13756][info ] (IPC Source): [03:22:00.016][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/e52f0cba712e2fb4.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:25:10.793 -03:00][15856:13756][info ] (IPC Source): [03:22:00.016][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/dd24010f3cf7def7.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:37:57.627 -03:00][15856:13756][info ] (IPC Source): [03:34:46.850][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/189422196a4f8b53.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:37:57.627 -03:00][15856:13756][info ] (IPC Source): [03:34:46.851][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/ce3b8055f5114434.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+[2025-Nov-23 19:37:57.627 -03:00][15856:13756][info ] (IPC Source): [03:34:46.851][PID 8612] Overlay2: OverlayRenderer[16448]: The resource https://discord.com/assets/cb2006dbced0e246.woff2 was preloaded using link preload but not used within a few seconds from the

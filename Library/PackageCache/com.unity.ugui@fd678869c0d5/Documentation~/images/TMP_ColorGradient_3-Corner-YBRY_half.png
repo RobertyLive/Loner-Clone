@@ -1,0 +1,1414 @@
+     stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="600"
+       stCamera:FocusDistance="2.6"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="8.718081"
+        stCamera:RadialDistortParam2="-193.746521"
+        stCamera:RadialDistortParam3="-3991.121094">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001214"
+        stCamera:VignetteModelParam1="-39.235971"
+        stCamera:VignetteModelParam2="45808.276367"
+        stCamera:VignetteModelParam3="-32373381.8"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.170132"
+        stCamera:RadialDistortParam2="0.17571"
+        stCamera:RadialDistortParam3="0.320539">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004997"
+         stCamera:VignetteModelParam1="-1.583453"
+         stCamera:VignetteModelParam2="48.950625"
+         stCamera:VignetteModelParam3="-529.544982">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.124826, 0.990212</rdf:li>
+          <rdf:li>0.269199, 0.956725</rdf:li>
+          <rdf:li>0.283199, 0.926801</rdf:li>
+          <rdf:li>0.304562, 0.828177</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="6.33985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.17289"
+        stCamera:RadialDistortParam2="0.171944"
+        stCamera:RadialDistortParam3="0.308854">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004986"
+         stCamera:VignetteModelParam1="-1.579717"
+         stCamera:VignetteModelParam2="48.740261"
+         stCamera:VignetteModelParam3="-527.159835">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.124821, 0.990212</rdf:li>
+          <rdf:li>0.269428, 0.956439</rdf:li>
+          <rdf:li>0.283706, 0.925274</rdf:li>
+          <rdf:li>0.304467, 0.828177</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="60"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.212411"
+        stCamera:RadialDistortParam2="0.093775"
+        stCamera:RadialDistortParam3="0.152339">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005251"
+         stCamera:VignetteModelParam1="-1.110912"
+         stCamera:VignetteModelParam2="23.49374"
+         stCamera:VignetteModelParam3="-185.675468">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.170047, 0.986410</rdf:li>
+          <rdf:li>0.320367, 0.950249</rdf:li>
+          <rdf:li>0.335438, 0.920981</rdf:li>
+          <rdf:li>0.351241, 0.824339</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.173776"
+        stCamera:RadialDistortParam2="0.168469"
+        stCamera:RadialDistortParam3="0.321066">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000522"
+        stCamera:VignetteModelParam1="-0.714541"
+        stCamera:VignetteModelParam2="4.234712"
+        stCamera:VignetteModelParam3="-40.088066"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="7"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.175715"
+        stCamera:RadialDistortParam2="0.166382"
+        stCamera:RadialDistortParam3="0.310923">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000522"
+        stCamera:VignetteModelParam1="-0.714581"
+        stCamera:VignetteModelParam2="4.235598"
+        stCamera:VignetteModelParam3="-40.139167"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.177097"
+        stCamera:RadialDistortParam2="0.163823"
+        stCamera:RadialDistortParam3="0.309252">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000522"
+        stCamera:VignetteModelParam1="-0.714611"
+        stCamera:VignetteModelParam2="4.236238"
+        stCamera:VignetteModelParam3="-40.176827"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.179831"
+        stCamera:RadialDistortParam2="0.160506"
+        stCamera:RadialDistortParam3="0.295439">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000522"
+        stCamera:VignetteModelParam1="-0.714669"
+        stCamera:VignetteModelParam2="4.237536"
+        stCamera:VignetteModelParam3="-40.250201"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.268465"
+        stCamera:RadialDistortParam2="0.032376"
+        stCamera:RadialDistortParam3="0.037298">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000279"
+        stCamera:VignetteModelParam1="-0.689697"
+        stCamera:VignetteModelParam2="2.600639"
+        stCamera:VignetteModelParam3="-22.825166"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="80"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.103856"
+        stCamera:RadialDistortParam2="0.263805"
+        stCamera:RadialDistortParam3="0.546469">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00027"
+        stCamera:VignetteModelParam1="-0.796761"
+        stCamera:VignetteModelParam2="1.615303"
+        stCamera:VignetteModelParam3="-11.86812"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="80"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.108803"
+        stCamera:RadialDistortParam2="0.25713"
+        stCamera:RadialDistortParam3="0.516816">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000245"
+        stCamera:VignetteModelParam1="-0.792461"
+        stCamera:VignetteModelParam2="1.422791"
+        stCamera:VignetteModelParam3="-10.042678"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="80"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.110661"
+        stCamera:RadialDistortParam2="0.253247"
+        stCamera:RadialDistortParam3="0.51851">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00027"
+        stCamera:VignetteModelParam1="-0.796815"
+        stCamera:VignetteModelParam2="1.608381"
+        stCamera:VignetteModelParam3="-11.925541"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="80"
+       stCamera:FocusDistance="7"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.114212"
+        stCamera:RadialDistortParam2="0.247429"
+        stCamera:RadialDistortParam3="0.503577">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00027"
+        stCamera:VignetteModelParam1="-0.796843"
+        stCamera:VignetteModelParam2="1.604788"
+        stCamera:VignetteModelParam3="-11.956508"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="80"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.116768"
+        stCamera:RadialDistortParam2="0.242651"
+        stCamera:RadialDistortParam3="0.497596">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00027"
+        stCamera:VignetteModelParam1="-0.796863"
+        stCamera:VignetteModelParam2="1.602182"
+        stCamera:VignetteModelParam3="-11.979049"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="60"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.213654"
+        stCamera:RadialDistortParam2="0.091475"
+        stCamera:RadialDistortParam3="0.151219">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005249"
+         stCamera:VignetteModelParam1="-1.10761"
+         stCamera:VignetteModelParam2="23.352689"
+         stCamera:VignetteModelParam3="-184.437174">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.170040, 0.986410</rdf:li>
+          <rdf:li>0.320809, 0.950154</rdf:li>
+          <rdf:li>0.335869, 0.919836</rdf:li>
+          <rdf:li>0.351168, 0.824339</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="80"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.121829"
+        stCamera:RadialDistortParam2="0.235683"
+        stCamera:RadialDistortParam3="0.470001">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00027"
+        stCamera:VignetteModelParam1="-0.796904"
+        stCamera:VignetteModelParam2="1.597105"
+        stCamera:VignetteModelParam3="-12.022932"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="80"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.272825"
+        stCamera:RadialDistortParam2="0.011329"
+        stCamera:RadialDistortParam3="-0.055189">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000262"
+        stCamera:VignetteModelParam1="-0.812339"
+        stCamera:VignetteModelParam2="2.062727"
+        stCamera:VignetteModelParam3="-19.726862"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019277"
+        stCamera:RadialDistortParam2="0.457431"
+        stCamera:RadialDistortParam3="1.15586">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000249"
+        stCamera:VignetteModelParam1="-1.123839"
+        stCamera:VignetteModelParam2="3.651743"
+        stCamera:VignetteModelParam3="-43.970794"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.009564"
+        stCamera:RadialDistortParam2="0.438435"
+        stCamera:RadialDistortParam3="1.091359">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000263"
+        stCamera:VignetteModelParam1="-1.115328"
+        stCamera:VignetteModelParam2="2.605372"
+        stCamera:VignetteModelParam3="-18.548264"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.005427"
+        stCamera:RadialDistortParam2="0.431728"
+        stCamera:RadialDistortParam3="1.034389">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00026"
+        stCamera:VignetteModelParam1="-1.14328"
+        stCamera:VignetteModelParam2="4.212208"
+        stCamera:VignetteModelParam3="-40.998775"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="7"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.002032"
+        stCamera:RadialDistortParam2="0.416936"
+        stCamera:RadialDistortParam3="0.997168">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00026"
+        stCamera:VignetteModelParam1="-1.14334"
+        stCamera:VignetteModelParam2="4.201602"
+        stCamera:VignetteModelParam3="-41.103057"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.007322"
+        stCamera:RadialDistortParam2="0.404192"
+        stCamera:RadialDistortParam3="0.99884">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00026"
+        stCamera:VignetteModelParam1="-1.143382"
+        stCamera:VignetteModelParam2="4.193995"
+        stCamera:VignetteModelParam3="-41.17807"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.017811"
+        stCamera:RadialDistortParam2="0.387449"
+        stCamera:RadialDistortParam3="0.88787">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00022"
+        stCamera:VignetteModelParam1="-1.134691"
+        stCamera:VignetteModelParam2="4.289487"
+        stCamera:VignetteModelParam3="-47.486718"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="100"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.295264"
+        stCamera:RadialDistortParam2="-0.08931"
+        stCamera:RadialDistortParam3="-0.470071">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000269"
+        stCamera:VignetteModelParam1="-1.107482"
+        stCamera:VignetteModelParam2="0.778433"
+        stCamera:VignetteModelParam3="4.450075"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.144668"
+        stCamera:RadialDistortParam2="0.653828"
+        stCamera:RadialDistortParam3="1.88708">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000177"
+        stCamera:VignetteModelParam1="-1.480612"
+        stCamera:VignetteModelParam2="4.236717"
+        stCamera:VignetteModelParam3="-35.321769"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="60"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.213998"
+        stCamera:RadialDistortParam2="0.091282"
+        stCamera:RadialDistortParam3="0.148871">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005249"
+         stCamera:VignetteModelParam1="-1.107687"
+         stCamera:VignetteModelParam2="23.357277"
+         stCamera:VignetteModelParam3="-184.493548">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.170039, 0.986410</rdf:li>
+          <rdf:li>0.320795, 0.950154</rdf:li>
+          <rdf:li>0.335852, 0.919836</rdf:li>
+          <rdf:li>0.351149, 0.824339</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.129787"
+        stCamera:RadialDistortParam2="0.620619"
+        stCamera:RadialDistortParam3="1.711856">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000174"
+        stCamera:VignetteModelParam1="-1.463592"
+        stCamera:VignetteModelParam2="1.846934"
+        stCamera:VignetteModelParam3="32.967998"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.122941"
+        stCamera:RadialDistortParam2="0.607903"
+        stCamera:RadialDistortParam3="1.582369">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000174"
+        stCamera:VignetteModelParam1="-1.463591"
+        stCamera:VignetteModelParam2="1.826221"
+        stCamera:VignetteModelParam3="33.046837"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="7"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.111034"
+        stCamera:RadialDistortParam2="0.57575"
+        stCamera:RadialDistortParam3="1.57935">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000174"
+        stCamera:VignetteModelParam1="-1.463586"
+        stCamera:VignetteModelParam2="1.78952"
+        stCamera:VignetteModelParam3="33.192009"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.102643"
+        stCamera:RadialDistortParam2="0.55207"
+        stCamera:RadialDistortParam3="1.587849">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000174"
+        stCamera:VignetteModelParam1="-1.463583"
+        stCamera:VignetteModelParam2="1.763638"
+        stCamera:VignetteModelParam3="33.29156"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.086144"
+        stCamera:RadialDistortParam2="0.516414"
+        stCamera:RadialDistortParam3="1.404391">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000174"
+        stCamera:VignetteModelParam1="-1.46358"
+        stCamera:VignetteModelParam2="1.713333"
+        stCamera:VignetteModelParam3="33.478825"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="120"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.315264"
+        stCamera:RadialDistortParam2="-0.281799"
+        stCamera:RadialDistortParam3="-1.289099">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000178"
+        stCamera:VignetteModelParam1="-1.522087"
+        stCamera:VignetteModelParam2="6.441499"
+        stCamera:VignetteModelParam3="-108.229006"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.343799"
+        stCamera:RadialDistortParam2="0.908491"
+        stCamera:RadialDistortParam3="2.68526">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000182"
+        stCamera:VignetteModelParam1="-2.09844"
+        stCamera:VignetteModelParam2="6.952595"
+        stCamera:VignetteModelParam3="49.557117"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.32041"
+        stCamera:RadialDistortParam2="0.849094"
+        stCamera:RadialDistortParam3="1.953789">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000182"
+        stCamera:VignetteModelParam1="-2.098421"
+        stCamera:VignetteModelParam2="6.849992"
+        stCamera:VignetteModelParam3="50.353751"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.309096"
+        stCamera:RadialDistortParam2="0.805212"
+        stCamera:RadialDistortParam3="2.167936">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000182"
+        stCamera:VignetteModelParam1="-2.098409"
+        stCamera:VignetteModelParam2="6.799386"
+        stCamera:VignetteModelParam3="50.761509"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="7"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.289558"
+        stCamera:RadialDistortParam2="0.772488"
+        stCamera:RadialDistortParam3="1.02196">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:VignetteModelParam1="-2.124415"
+        stCamera:VignetteModelParam2="8.936465"
+        stCamera:VignetteModelParam3="-21.594866"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="60"
+       stCamera:FocusDistance="7"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.21474"
+        stCamera:RadialDistortParam2="0.089863"
+        stCamera:RadialDistortParam3="0.147961">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005256"
+         stCamera:VignetteModelParam1="-1.088131"
+         stCamera:VignetteModelParam2="22.937095"
+         stCamera:VignetteModelParam3="-182.357571">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.150384, 0.989452</rdf:li>
+          <rdf:li>0.320763, 0.950154</rdf:li>
+          <rdf:li>0.335815, 0.919836</rdf:li>
+          <rdf:li>0.351105, 0.824339</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="6"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.276375"
+        stCamera:RadialDistortParam2="0.685101"
+        stCamera:RadialDistortParam3="2.492503">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000225"
+        stCamera:VignetteModelParam1="-2.151061"
+        stCamera:VignetteModelParam2="14.609689"
+        stCamera:VignetteModelParam3="-281.064145"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.250023"
+        stCamera:RadialDistortParam2="0.650803"
+        stCamera:RadialDistortParam3="0.648945">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000225"
+        stCamera:VignetteModelParam1="-2.151175"
+        stCamera:VignetteModelParam2="14.525749"
+        stCamera:VignetteModelParam3="-281.792706"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="150"
+       stCamera:FocusDistance="0.62"
+       stCamera:ApertureValue="7.61471">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.328346"
+        stCamera:RadialDistortParam2="-0.766513"
+        stCamera:RadialDistortParam3="-4.656745">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000201"
+        stCamera:VignetteModelParam1="-2.265731"
+        stCamera:VignetteModelParam2="16.292678"
+        stCamera:VignetteModelParam3="-258.132581"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.746074"
+        stCamera:RadialDistortParam2="0.776623"
+        stCamera:RadialDistortParam3="-2.092368">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00025"
+        stCamera:VignetteModelParam1="-3.369355"
+        stCamera:VignetteModelParam2="15.863883"
+        stCamera:VignetteModelParam3="640.474472"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="368"
+       stCamera:Lens="60-600mm F4.5-6.3 DG OS HSM | Sports 018"
+       stCamera:LensInfo="60/1 600/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 60-600mm F4.5-6.3 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 60-600mm F4.5-6.3 DG OS HSM S018, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.705727"
+        stCamera:RadialDistortParam2="0.662114"
+        stCamera:RadialDistortParam3="-5.969503">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000262"
+        stCamera:VignetteModelParam1="-3.54784"
+        stCamera:VignetteModelParam2="69.270896"
+        stCamera:VignetteModelParam3="-2776.200818"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+     

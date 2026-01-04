@@ -1,0 +1,66 @@
+s:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:02.853 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:02.854 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-10-26 19:54:02.861 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0076738
+2025-10-26 19:54:02.878 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-10-26 19:54:02.887 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed (ULF) license C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:02.888 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:02.889 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:02.890 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-10-26 19:54:02.894 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0041888
+2025-10-26 19:54:02.899 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-28 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Success, found: 2 groups
+2025-10-26 19:54:03.823 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.Licensing.GenesisLicensingService] Attempting to contact genesis update license api
+2025-10-26 19:54:04.211 - [ 14760] - [    42] - INFO  - [Unity.Licensing.Client.Services.Licensing.GenesisLicensingService] Trying to write updated entitlement license file...
+2025-10-26 19:54:04.234 - [ 14760] - [    42] - INFO  - [Unity.Licensing.Client.Services.Licensing.GenesisLicensingService] Successfully updated license file
+2025-10-26 19:54:04.348 - [ 14760] - [    42] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] OnLicenseDirUpdate
+2025-10-26 19:54:04.351 - [ 14760] - [    42] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] License file change detected. Reloading the resolver
+2025-10-26 19:54:04.353 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-10-26 19:54:04.366 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed (ULF) license C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:04.367 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:04.368 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:04.369 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-10-26 19:54:04.370 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0020280
+2025-10-26 19:54:04.373 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.LicenseOfflineValidityEndingPeriodicNotifierService] OnEntitlementResolverUpdated, will restart timer
+2025-10-26 19:54:04.380 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-29 | Sending ActivationManagementResponse for request ActivationManagementRequest from Hub 3.13.0 (LocalIPC/1.17) [207]:  Successfully processed activation management call
+2025-10-26 19:54:04.380 - [ 14760] - [    28] - INFO  - [Unity.Licensing.Client.Services.LicenseOfflineValidityEndingPeriodicNotifierService] Will execute periodic notification again in 22.18:04:55.6202722
+2025-10-26 19:54:04.430 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-10-26 19:54:04.443 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed (ULF) license C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:04.445 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:04.445 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:04.446 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-10-26 19:54:04.447 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0017300
+2025-10-26 19:54:04.458 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-10-26 19:54:04.470 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed (ULF) license C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:04.472 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:04.473 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 19:54:04.475 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-10-26 19:54:04.476 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0029115
+2025-10-26 19:54:04.478 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-30 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Success, found: 2 groups
+2025-10-26 19:54:04.502 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-31 | Sending EntitlementsResponse for request EntitlementsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Found 1 entitlements
+2025-10-26 20:52:46.034 - [ 14760] - [    46] - INFO  - [Unity.Licensing.Client.Configuration.ClientConfigurationLoader] Downloaded remote config from: "https://public-cdn.cloud.unity3d.com/config/production"
+2025-10-26 20:52:46.048 - [ 14760] - [    46] - INFO  - [Unity.Licensing.Client.Configuration.ClientConfigurationLoader] Unity remote config is updated: "C:\Users\rober\AppData\Local\Unity\config\production.json"
+2025-10-26 20:57:07.186 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-10-26 20:57:07.206 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed (ULF) license C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 20:57:07.208 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 20:57:07.208 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 20:57:07.209 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-10-26 20:57:07.215 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0068602
+2025-10-26 20:57:07.226 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-10-26 20:57:07.235 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed (ULF) license C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 20:57:07.237 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 20:57:07.237 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-10-26 20:57:07.238 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-10-26 20:57:07.238 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0010679
+2025-10-26 20:57:07.242 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-32 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Success, found: 2 groups
+2025-10-26 20:57:07.278 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-33 | Sending EntitlementsResponse for request EntitlementsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Found 1 entitlements
+2025-10-26 20:57:30.909 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-34 | Sending EntitlementsResponse for request EntitlementsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Found 1 entitlements
+2025-10-26 20:57:30.931 - [ 14760] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-35 | Sending EntitlementsResponse for request EntitlementsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Found 1 entitlements
+2025-10-26 20:57:31.322 - [ 14760] - [.NET Long Running Task] - INFO  - [Unity.Licensing.Client.MultiClientPipeServer] Waiting for a connection (pipe #4)
+2025-10-26 20:57:31.336 - [ 14760] - [    41] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#3] new pipe session: ace8efbfd85c415eb5974be7c035a25f
+2025-10-26 20:57:31.340 - [ 14760] - [    41] - INFO  - [Unity.Licensing.Client.MultiClientPipeServer] A new client is connecting (pipe #3)
+2025-10-26 20:57:31.341 - [ 14760] - [    41] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#3] Start accepting requests
+2025-10-26 20:57:31.560 - [ 14760] - [    41] - INFO  - [Unity.Licensing.Client.Communication.Controllers.HandshakeController] Received handshake from: UnityEditor/6000.1.13f1 (Windows; U; Windows NT 10.0; pt) (LocalIPC/1.16.2)
+2025-10-26 20:57:31.563 - [ 14760] - [    41] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#3] REQ-1 | Sending HandshakeResponse for request HandshakeRequest from UnityEditor/6000.1.13f1 (Windows; U; Windows NT 10.0; pt) (LocalIPC/1.16.2) [200]:  Handshake successful
+2025-10-26 20:57:31.570 - [ 14760] - [.NET Long Running Task] - INFO  - [Unity.Licensing.Client.Communication.Notifications.NotificationsPipeServer] Waiting for a connection (pipe #4)
+2025-10-26 20:57:31.570 - [ 14760] - [    46] - INFO  - [Unity.Licensing.Client.Communication.Notifications.NotificationsPipeServer] A new client is connecting (pipe #3)
+2025-10-26 20:57:31.582 - [ 14760] - [    41] - INFO  - [Unity.Licensing.Client.Communication.Controllers.AccessTokenContro

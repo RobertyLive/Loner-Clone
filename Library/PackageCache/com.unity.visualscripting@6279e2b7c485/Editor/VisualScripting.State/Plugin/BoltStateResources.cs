@@ -1,0 +1,41 @@
+{
+  "appliesTo": [
+    {
+      "when": {
+        "kind": "and",
+        "operands": [
+          {
+            "kind": "HasProjectCapability",
+            "capability": "DotNetCoreWeb"
+          },
+          {
+            "kind": "not",
+            "operand": {
+              "kind": "HasTargetFramework",
+              "tfmPrefixOrFull": ".NetStandard"
+            }
+          }
+        ]
+      },
+      "config": "ef.sqlServer.coreweb"
+    },
+    {
+      "when": {
+        "kind": "HasProjectCapability",
+        "capability": "DotNetCoreWorker"
+      },
+      "config": "ef.sqlServer.coreweb"
+    },
+    {
+      "when": {
+        "kind": "or",
+        "operands": [
+          {
+            "kind": "HasProjectCapability",
+            "capability": "AzureFunctions"
+          },
+          {
+            "kind": "and",
+            "operands": [
+              {
+                "

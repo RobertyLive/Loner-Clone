@@ -1,0 +1,22 @@
+le class="cls-1" cx="67.574" cy="34.112" r="0.75"/>
+      <circle class="cls-1" cx="34.112" cy="28.426" r="0.75"/>
+      <circle class="cls-1" cx="61.888" cy="67.574" r="0.75"/>
+      <circle class="cls-1" cx="37.237" cy="42.693" r="0.75"/>
+      <circle class="cls-1" cx="58.763" cy="53.307" r="0.75"/>
+      <circle class="cls-1" cx="53.307" cy="37.237" r="0.75"/>
+      <circle class="cls-1" cx="42.693" cy="58.763" r="0.75"/>
+      <circle class="cls-1" cx="36.156" cy="46.072" r="0.75"/>
+      <circle class="cls-1" cx="59.844" cy="49.928" r="0.75"/>
+      <circle class="cls-1" cx="49.928" cy="36.156" r="0.75"/>
+      <circle class="cls-1" cx="46.072" cy="59.844" r="0.75"/>
+      <circle class="cls-1" cx="36.11" cy="49.619" r="0.75"/>
+      <circle class="cls-1" cx="59.89" cy="46.381" r="0.75"/>
+      <circle class="cls-1" cx="46.381" cy="36.11" r="0.75"/>
+      <circle class="cls-1" cx="49.619" cy="59.89" r="0.75"/>
+      <circle class="cls-1" cx="37.102" cy="53.024" r="0.75"/>
+      <circle class="cls-1" cx="58.898" cy="42.976" r="0.75"/>
+      <circle class="cls-1" cx="42.976" cy="37.102" r="0.75"/>
+      <circle class="cls-1" cx="53.024" cy="58.898" r="0.75"/>
+      <circle class="cls-1" cx="64.971" cy="31.029" r="0.75"/>
+      <circle class="cls-1" cx="31.029" cy="31.029" r="0.75"/>
+      <circle class="cls-1" cx="39.515" 

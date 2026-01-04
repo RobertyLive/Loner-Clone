@@ -1,0 +1,59 @@
+amera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="153"
+       stCamera:Lens="50-500mm"
+       stCamera:LensInfo="50/1 500/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO 50-500mm F4-6.3 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO 50-500mm F4-6.3 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="5"
+       stCamera:ApertureValue="5.310704">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="11.830747"
+        stCamera:RadialDistortParam2="-142.414276"
+        stCamera:RadialDistortParam3="-11286.479492">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999526"
+        stCamera:RadialDistortParam1="0.13014"
+        stCamera:RadialDistortParam2="-39.513523"
+        stCamera:RadialDistortParam3="8440.223633"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="11.830747"
+        stCamera:RadialDistortParam2="-142.414276"
+        stCamera:RadialDistortParam3="-11286.479492"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000044"
+        stCamera:RadialDistortParam1="-0.184754"
+        stCamera:RadialDistortParam2="61.888935"
+        stCamera:RadialDistortParam3="-13760.710938"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.012859"
+        stCamera:VignetteModelParam1="-156.673706"
+        stCamera:VignetteModelParam2="-103813.25"
+        stCamera:VignetteModelParam3="28294522"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCam

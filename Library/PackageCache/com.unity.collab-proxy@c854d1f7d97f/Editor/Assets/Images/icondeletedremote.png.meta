@@ -1,0 +1,66 @@
+iguration.SettingChangingEventArgs)">
+            <summary>
+            Fires the SettingChanging event.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.ApplicationSettingsBase.OnSettingsLoaded(System.Object,System.Configuration.SettingsLoadedEventArgs)">
+            <summary>
+            Fires the SettingsLoaded event.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.ApplicationSettingsBase.OnSettingsSaving(System.Object,System.ComponentModel.CancelEventArgs)">
+            <summary>
+            Fires the SettingsSaving event.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.ApplicationSettingsBase.Reload">
+            <summary>
+            Causes a reload to happen on next setting access, by clearing the cached values.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.ApplicationSettingsBase.Reset">
+            <summary>
+            Calls Reset on the providers.
+            Providers must implement IApplicationSettingsProvider to support this.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.ApplicationSettingsBase.Save">
+            <summary>
+            Overridden from SettingsBase to support validation event.
+            </summary>
+        </member>
+        <member name="P:System.Configuration.ApplicationSettingsBase.Item(System.String)">
+            <summary>
+            Overridden from SettingsBase to support validation event.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.ApplicationSettingsBase.Upgrade">
+            <summary>
+            Called when the app is upgraded so that we can instruct the providers to upgrade their settings.
+            Providers must implement IApplicationSettingsProvider to support this.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.ApplicationSettingsBase.CreateSetting(System.Reflection.PropertyInfo)">
+            <summary>
+            Creates a SettingsProperty object using the metadata on the given property
+            and returns it.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.ApplicationSettingsBase.EnsureInitialized">
+            <summary>
+            Ensures this class is initialized. Initialization involves reflecting over properties and building
+            a list of SettingsProperty's.
+            </summary>
+        </member>
+        <member name="P:System.Configuration.ApplicationSettingsBase.Initializer">
+            <summary>
+            Returns a SettingsProperty used to initialize settings. We initialize a setting with values
+            derived from class level attributes, if present. Otherwise, we initialize to
+            reasonable defaults.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.ApplicationSettingsBase.GetPropertiesForProvider(System.Configuration.SettingsProvider)">
+            <summary>
+            Gets all the settings properties for this provider.
+            </summary>
+        </mem

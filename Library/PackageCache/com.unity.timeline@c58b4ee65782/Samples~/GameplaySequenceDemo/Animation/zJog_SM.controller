@@ -1,0 +1,30 @@
+to configure the internal LKG configuration cache.
+            See <see cref="T:Microsoft.IdentityModel.Tokens.EventBasedLRUCache`2"/> for more details.
+            
+            All fields/properties are now defined in the Microsoft.IdentityModel.Tokens.Configuration.LKGConfigurationCacheOptions class so they are more accessible from other assemblies/classes.
+            </summary>
+        </member>
+        <member name="F:Microsoft.IdentityModel.Protocols.Configuration.LastKnownGoodConfigurationCacheOptions.DefaultLastKnownGoodConfigurationSizeLimit">
+            <inheritdoc/>
+        </member>
+        <member name="T:Microsoft.IdentityModel.Protocols.StaticConfigurationManager`1">
+            <summary>
+            This type is for users that want a fixed and static Configuration.
+            In this case, the configuration is obtained and passed to the constructor.
+            </summary>
+            <typeparam name="T">must be a class.</typeparam>
+        </member>
+        <member name="M:Microsoft.IdentityModel.Protocols.StaticConfigurationManager`1.#ctor(`0)">
+            <summary>
+            Initializes an new instance of <see cref="T:Microsoft.IdentityModel.Protocols.StaticConfigurationManager`1"/> with a Configuration instance.
+            </summary>
+            <param name="configuration">Configuration of type OpenIdConnectConfiguration or OpenIdConnectConfiguration.</param>
+        </member>
+        <member name="M:Microsoft.IdentityModel.Protocols.StaticConfigurationManager`1.GetConfigurationAsync(System.Threading.CancellationToken)">
+            <summary>
+            Obtains an updated version of Configuration.
+            </summary>
+            <param name="cancel"><see cref="T:System.Threading.CancellationToken"/>.</param>
+            <returns>Configuration of type T.</returns>
+        </member>
+        <member name="M:Microsoft.IdentityModel.Protocols.StaticConfigurationManager`1.GetBaseConfigurationAsync(System.Threading.CancellationToke

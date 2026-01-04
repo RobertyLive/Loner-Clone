@@ -1,0 +1,28 @@
+="propagationFlags" />, or <paramref name="flags" /> specifies an invalid value.</exception>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="identityReference" /> is <see langword="null" />.  
+  
+ -or-  
+  
+ <paramref name="accessMask" /> is zero.</exception>
+      <exception cref="T:System.ArgumentException">
+        <paramref name="identityReference" /> is neither of type <see cref="T:System.Security.Principal.SecurityIdentifier" />, nor of a type such as <see cref="T:System.Security.Principal.NTAccount" /> that can be converted to type <see cref="T:System.Security.Principal.SecurityIdentifier" />.</exception>
+      <returns>A <see cref="T:System.Security.AccessControl.MutexAuditRule" /> object representing the specified audit rule for the specified user. The return type of the method is the base class, <see cref="T:System.Security.AccessControl.AuditRule" />, but the return value can be cast safely to the derived class.</returns>
+    </member>
+    <member name="M:System.Security.AccessControl.MutexSecurity.RemoveAccessRule(System.Security.AccessControl.MutexAccessRule)">
+      <summary>Searches for an access control rule with the same user and <see cref="T:System.Security.AccessControl.AccessControlType" /> (allow or deny) as the specified rule, and with compatible inheritance and propagation flags; if such a rule is found, the rights contained in the specified access rule are removed from it.</summary>
+      <param name="rule">A <see cref="T:System.Security.AccessControl.MutexAccessRule" /> that specifies the user and <see cref="T:System.Security.AccessControl.AccessControlType" /> to search for, and a set of inheritance and propagation flags that a matching rule, if found, must be compatible with. Specifies the rights to remove from the compatible rule, if found.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="rule" /> is <see langword="null" />.</exception>
+      <returns>
+        <see langword="true" /> if a compatible rule is found; otherwise <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.Security.AccessControl.MutexSecurity.RemoveAccessRuleAll(System.Security.AccessControl.MutexAccessRule)">
+      <summary>Searches for all access control rules with the same user and <see cref="T:System.Security.AccessControl.AccessControlType" /> (allow or deny) as the specified rule and, if found, removes them.</summary>
+      <param name="rule">A <see cref="T:System.Security.AccessControl.MutexAccessRule" /> that specifies the user and <see cref="T:System.Security.AccessControl.AccessControlType" /> to search for. Any rights specified by this rule are ignored.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="rule" /> is <see langword="null" />.</exception>
+    </member>
+    <member name="M:System.Security.AccessControl.MutexSecurity.RemoveAccessRuleSpecific(System.Security.AccessControl.MutexAccessRule)">
+      <summary>Searches for an access control rule that exactly matches the specified rule and, if found, removes it.</summary>
+      <param name="rule">The <see cref="T:System.Security.Acce

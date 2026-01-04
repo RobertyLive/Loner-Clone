@@ -1,0 +1,214 @@
+ções de caracteres da entrada.</param>
+      <param name="contentType">O tipo MIME Content-Type da mensagem.</param>
+      <param name="quotas">As cotas a serem aplicadas a este leitor.</param>
+      <returns>Uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.CreateMtomReader(System.Byte[],System.Int32,System.Int32,System.Text.Encoding[],System.String,System.Xml.XmlDictionaryReaderQuotas,System.Int32,System.Xml.OnXmlDictionaryReaderClose)">
+      <summary>Cria uma instância de <see cref="T:System.Xml.XmlDictionaryReader" /> que lê o XML no formato MTOM.</summary>
+      <param name="buffer">O buffer do qual ler.</param>
+      <param name="offset">A posição inicial da qual será feita a leitura no <paramref name="buffer" />.</param>
+      <param name="count">O número de bytes que podem ser lidos de <paramref name="buffer" />.</param>
+      <param name="encodings">As possíveis codificações de caracteres da entrada.</param>
+      <param name="contentType">O tipo MIME Content-Type da mensagem.</param>
+      <param name="quotas">O <see cref="T:System.Xml.XmlDictionaryReaderQuotas" /> a ser aplicado ao leitor.</param>
+      <param name="maxBufferSize">O tamanho máximo permitido do buffer.</param>
+      <param name="onClose">O delegado a ser chamado quando o leitor está fechado.</param>
+      <returns>Uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.CreateMtomReader(System.Byte[],System.Int32,System.Int32,System.Text.Encoding[],System.Xml.XmlDictionaryReaderQuotas)">
+      <summary>Cria uma instância de <see cref="T:System.Xml.XmlDictionaryReader" /> que lê o XML no formato MTOM.</summary>
+      <param name="buffer">O buffer do qual ler.</param>
+      <param name="offset">A posição inicial da qual será feita a leitura no <paramref name="buffer" />.</param>
+      <param name="count">O número de bytes que podem ser lidos de <paramref name="buffer" />.</param>
+      <param name="encodings">As possíveis codificações de caracteres da entrada.</param>
+      <param name="quotas">As cotas a serem aplicadas a este leitor.</param>
+      <returns>Uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.CreateMtomReader(System.IO.Stream,System.Text.Encoding,System.Xml.XmlDictionaryReaderQuotas)">
+      <summary>Cria uma instância de <see cref="T:System.Xml.XmlDictionaryReader" /> que lê o XML no formato MTOM.</summary>
+      <param name="stream">O fluxo do qual ler.</param>
+      <param name="encoding">A possível codificação de caracteres do fluxo.</param>
+      <param name="quotas">As cotas a serem aplicadas a este leitor.</param>
+      <returns>Uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</returns>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="encoding" /> é <see langword="null" />.</exception>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.CreateMtomReader(System.IO.Stream,System.Text.Encoding[],System.String,System.Xml.XmlDictionaryReaderQuotas)">
+      <summary>Cria uma instância de <see cref="T:System.Xml.XmlDictionaryReader" /> que lê o XML no formato MTOM.</summary>
+      <param name="stream">O fluxo do qual ler.</param>
+      <param name="encodings">As possíveis codificações de caracteres do fluxo.</param>
+      <param name="contentType">O tipo MIME Content-Type da mensagem.</param>
+      <param name="quotas">As cotas a serem aplicadas a este leitor.</param>
+      <returns>Uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.CreateMtomReader(System.IO.Stream,System.Text.Encoding[],System.String,System.Xml.XmlDictionaryReaderQuotas,System.Int32,System.Xml.OnXmlDictionaryReaderClose)">
+      <summary>Cria uma instância de <see cref="T:System.Xml.XmlDictionaryReader" /> que lê o XML no formato MTOM.</summary>
+      <param name="stream">O fluxo do qual ler.</param>
+      <param name="encodings">As possíveis codificações de caracteres do fluxo.</param>
+      <param name="contentType">O tipo MIME Content-Type da mensagem.</param>
+      <param name="quotas">O tipo MIME da mensagem.</param>
+      <param name="maxBufferSize">O <see cref="T:System.Xml.XmlDictionaryReaderQuotas" /> a ser aplicado ao leitor.</param>
+      <param name="onClose">O delegado a ser chamado quando o leitor está fechado.</param>
+      <returns>Uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.CreateMtomReader(System.IO.Stream,System.Text.Encoding[],System.Xml.XmlDictionaryReaderQuotas)">
+      <summary>Cria uma instância de <see cref="T:System.Xml.XmlDictionaryReader" /> que lê o XML no formato MTOM.</summary>
+      <param name="stream">O fluxo do qual ler.</param>
+      <param name="encodings">As possíveis codificações de caracteres do fluxo.</param>
+      <param name="quotas">As cotas a serem aplicadas a este leitor.</param>
+      <returns>Uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</returns>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="encoding" /> é <see langword="null" />.</exception>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.CreateTextReader(System.Byte[],System.Int32,System.Int32,System.Text.Encoding,System.Xml.XmlDictionaryReaderQuotas,System.Xml.OnXmlDictionaryReaderClose)">
+      <summary>Cria uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</summary>
+      <param name="buffer">O buffer do qual ler.</param>
+      <param name="offset">A posição inicial da qual será feita a leitura no <paramref name="buffer" />.</param>
+      <param name="count">O número de bytes que podem ser lidos de <paramref name="buffer" />.</param>
+      <param name="encoding">O objeto <see cref="T:System.Text.Encoding" /> que especifica as propriedades de codificação a serem aplicadas.</param>
+      <param name="quotas">O <see cref="T:System.Xml.XmlDictionaryReaderQuotas" /> a ser aplicado.</param>
+      <param name="onClose">O delegado a ser chamado quando o leitor está fechado.</param>
+      <returns>Uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.CreateTextReader(System.Byte[],System.Int32,System.Int32,System.Xml.XmlDictionaryReaderQuotas)">
+      <summary>Cria uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</summary>
+      <param name="buffer">O buffer do qual ler.</param>
+      <param name="offset">A posição inicial da qual será feita a leitura no <paramref name="buffer" />.</param>
+      <param name="count">O número de bytes que podem ser lidos de <paramref name="buffer" />.</param>
+      <param name="quotas">As cotas aplicadas ao leitor.</param>
+      <returns>Uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.CreateTextReader(System.Byte[],System.Xml.XmlDictionaryReaderQuotas)">
+      <summary>Cria uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</summary>
+      <param name="buffer">O buffer do qual ler.</param>
+      <param name="quotas">As cotas aplicadas ao leitor.</param>
+      <returns>Uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</returns>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="buffer" /> é <see langword="null" />.</exception>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.CreateTextReader(System.IO.Stream,System.Text.Encoding,System.Xml.XmlDictionaryReaderQuotas,System.Xml.OnXmlDictionaryReaderClose)">
+      <summary>Cria uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</summary>
+      <param name="stream">O fluxo do qual ler.</param>
+      <param name="encoding">O objeto <see cref="T:System.Text.Encoding" /> que especifica as propriedades de codificação a serem aplicadas.</param>
+      <param name="quotas">O <see cref="T:System.Xml.XmlDictionaryReaderQuotas" /> a ser aplicado.</param>
+      <param name="onClose">O delegado a ser chamado quando o leitor está fechado.</param>
+      <returns>Uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.CreateTextReader(System.IO.Stream,System.Xml.XmlDictionaryReaderQuotas)">
+      <summary>Cria uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</summary>
+      <param name="stream">O fluxo do qual ler.</param>
+      <param name="quotas">As cotas aplicadas ao leitor.</param>
+      <returns>Uma instância de <see cref="T:System.Xml.XmlDictionaryReader" />.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.EndCanonicalization">
+      <summary>Este método ainda não foi implementado.</summary>
+      <exception cref="T:System.NotSupportedException">Sempre.</exception>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.GetAttribute(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString)">
+      <summary>Quando substituído em uma classe derivada, obtém o valor de um atributo.</summary>
+      <param name="localName">Um <see cref="T:System.Xml.XmlDictionaryString" /> que representa o nome local do atributo.</param>
+      <param name="namespaceUri">Um <see cref="T:System.Xml.XmlDictionaryString" /> que representa o namespace do atributo.</param>
+      <returns>O valor do atributo.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.GetNonAtomizedNames(System.String@,System.String@)">
+      <summary>Obtém nomes não atomizado.</summary>
+      <param name="localName">O nome local.</param>
+      <param name="namespaceUri">O namespace para o <paramref name="localName" /> local.</param>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.IndexOfLocalName(System.String[],System.String)">
+      <summary>Obtém o índice do nome local do nó atual dentro de uma matriz de nomes.</summary>
+      <param name="localNames">A matriz de cadeia de caracteres de nomes locais a serem pesquisados.</param>
+      <param name="namespaceUri">O namespace do nó atual.</param>
+      <returns>O índice do nome local do nó atual dentro de uma matriz de nomes.</returns>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="localNames" /> ou um dos nomes na matriz é <see langword="null" />.
+
+ou -
+
+<paramref name="namespaceUri" /> é <see langword="null" />.</exception>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.IndexOfLocalName(System.Xml.XmlDictionaryString[],System.Xml.XmlDictionaryString)">
+      <summary>Obtém o índice do nome local do nó atual dentro de uma matriz de nomes.</summary>
+      <param name="localNames">A matriz <see cref="T:System.Xml.XmlDictionaryString" /> de nomes locais a ser pesquisada.</param>
+      <param name="namespaceUri">O namespace do nó atual.</param>
+      <returns>O índice do nome local do nó atual dentro de uma matriz de nomes.</returns>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="localNames" /> ou um dos nomes na matriz é <see langword="null" />.
+
+ou -
+
+<paramref name="namespaceUri" /> é <see langword="null" />.</exception>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.IsLocalName(System.String)">
+      <summary>Verifica se o parâmetro <paramref name="localName" /> é o nome local do nó atual.</summary>
+      <param name="localName">O nome local do nó atual.</param>
+      <returns>
+        <see langword="true" /> se <paramref name="localName" /> corresponder ao nome local do nó atual; caso contrário <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.IsLocalName(System.Xml.XmlDictionaryString)">
+      <summary>Verifica se o parâmetro <paramref name="localName" /> é o nome local do nó atual.</summary>
+      <param name="localName">Um <see cref="T:System.Xml.XmlDictionaryString" /> que representa o nome local do nó atual.</param>
+      <returns>
+        <see langword="true" /> se <paramref name="localName" /> corresponder ao nome local do nó atual; caso contrário <see langword="false" />.</returns>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="localName" /> é <see langword="null" />.</exception>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.IsNamespaceUri(System.String)">
+      <summary>Verifica se o parâmetro <paramref name="namespaceUri" /> é o namespace do nó atual.</summary>
+      <param name="namespaceUri">O namespace do nó atual.</param>
+      <returns>
+        <see langword="true" /> se <paramref name="namespaceUri" /> corresponder ao namespace do nó atual; caso contrário, <see langword="false" />.</returns>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="namespaceUri" /> é <see langword="null" />.</exception>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.IsNamespaceUri(System.Xml.XmlDictionaryString)">
+      <summary>Verifica se o parâmetro <paramref name="namespaceUri" /> é o namespace do nó atual.</summary>
+      <param name="namespaceUri">Namespace do nó atual.</param>
+      <returns>
+        <see langword="true" /> se <paramref name="namespaceUri" /> corresponder ao namespace do nó atual; caso contrário, <see langword="false" />.</returns>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="namespaceUri" /> é <see langword="null" />.</exception>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.IsStartArray(System.Type@)">
+      <summary>Verifica se o leitor está posicionado no início de uma matriz. Essa classe retorna <see langword="false" />, mas as classes derivadas que tem o conceito de matrizes podem retornar <see langword="true" />.</summary>
+      <param name="type">O tipo de nó, se for um nó válido; caso contrário, <see langword="null" />.</param>
+      <returns>
+        <see langword="true" /> se o leitor estiver posicionado no início de um nó da matriz; caso contrário, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.IsStartElement(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString)">
+      <summary>Testa se a primeira marca é uma marca de início ou marca de elemento vazio, e se o nome local e o URI de namespace correspondem àqueles do nó atual.</summary>
+      <param name="localName">Um <see cref="T:System.Xml.XmlDictionaryString" /> que representa o nome local do atributo.</param>
+      <param name="namespaceUri">Um <see cref="T:System.Xml.XmlDictionaryString" /> que representa o namespace do atributo.</param>
+      <returns>
+        <see langword="true" /> se a primeira marca na matriz é uma marca de início ou marca de elemento vazio e corresponde a <paramref name="localName" /> e <paramref name="namespaceUri" />; caso contrário, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.IsTextNode(System.Xml.XmlNodeType)">
+      <summary>Testa se o nó atual é um nó de texto.</summary>
+      <param name="nodeType">O tipo do nó que está sendo testado.</param>
+      <returns>
+        <see langword="true" /> se o tipo de nó for <see cref="F:System.Xml.XmlNodeType.Text" />, <see cref="F:System.Xml.XmlNodeType.Whitespace" />, <see cref="F:System.Xml.XmlNodeType.SignificantWhitespace" />, <see cref="F:System.Xml.XmlNodeType.CDATA" /> ou <see cref="F:System.Xml.XmlNodeType.Attribute" />; caso contrário <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.MoveToStartElement">
+      <summary>Testa se o nó de conteúdo atual é um elemento inicial ou um elemento vazio.</summary>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.MoveToStartElement(System.String)">
+      <summary>Testa se o nó de conteúdo atual é um elemento inicial ou um elemento vazio, e se a propriedade <see cref="P:System.Xml.XmlReader.Name" /> do elemento corresponde ao argumento fornecido.</summary>
+      <param name="name">A propriedade <see cref="P:System.Xml.XmlReader.Name" /> do elemento.</param>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.MoveToStartElement(System.String,System.String)">
+      <summary>Testa se o nó de conteúdo atual é um elemento inicial ou um elemento vazio, e se as propriedades <see cref="P:System.Xml.XmlReader.LocalName" /> e <see cref="P:System.Xml.XmlReader.NamespaceURI" /> do elemento correspondem ao argumento fornecido.</summary>
+      <param name="localName">O nome local do elemento.</param>
+      <param name="namespaceUri">O URI do namespace do elemento.</param>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.MoveToStartElement(System.Xml.XmlDictionaryString,System.Xml.XmlDictionaryString)">
+      <summary>Testa se o nó de conteúdo atual é um elemento inicial ou um elemento vazio, e se as propriedades <see cref="P:System.Xml.XmlReader.LocalName" /> e <see cref="P:System.Xml.XmlReader.NamespaceURI" /> do elemento correspondem ao argumento fornecido.</summary>
+      <param name="localName">O nome local do elemento.</param>
+      <param name="namespaceUri">O URI do namespace do elemento.</param>
+    </member>
+    <member name="P:System.Xml.XmlDictionaryReader.Quotas">
+      <summary>Obtém os valores de cota que se aplicam à instância atual dessa classe.</summary>
+      <returns>O <see cref="T:System.Xml.XmlDictionaryReaderQuotas" /> que aplica-se à instância atual dessa classe.</returns>
+    </member>
+    <member name="M:System.Xml.XmlDictionaryReader.ReadArray(System.String,System.String,System.Boolean[],System.Int32,System.Int32)">
+      <summary>Lê ocorrências repetidas de nós <see cref="T:System.Boolean" /> em uma matriz tipada.</summary>
+      <param 

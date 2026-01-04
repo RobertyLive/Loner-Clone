@@ -1,0 +1,47 @@
+{
+  "hasDefaultsForAllFields": false,
+  "requirements": [
+    "vsWebWorkload"
+  ],
+  "editSteps": [
+    {
+      "id": "AppServiceSelectCreate",
+      "dynamicProperties": []
+    }
+  ],
+  "staticProperties": {
+    "AppServiceKind": "app",
+    "ExcludeAppDataProperty": false,
+    "IsDotNetCoreWeb": true,
+    "IsLinuxAzureService": false,
+    "IsZipDeployDefaultMethod": false,
+    "IsZipDeploySelectable": true,
+    "Launcher": "AppServicePublish",
+    "ProfileVisualFactoryId": "AzureAppService",
+    "PublishProvider": "AzureWebSite",
+    "WebPublishMethod": "MSDeploy"
+  },
+  "dynamicProperties": {
+  },
+  "persistence": {
+    "handlerId": "Pubxml",
+    "profileBaseName": "AppService",
+    "targetedPropertyNames": {
+      "default": [
+        "DeployIisAppPath",
+        "DestinationType",
+        "EnableMSDeployBackup",
+        "LastUsedBuildConfiguration",
+        "LastUsedPlatform",
+        "LaunchSiteAfterPublish",
+        "MsDeployPublishMethod",
+        "MsDeployServiceUrl",
+        "ProjectGuid",
+        "PublishProvider",
+        "RemoteSitePhysicalPath",
+        "ResourceId",
+        "ResourceGroup",
+        "SCMUrl",
+        "SavePWD",
+        "SiteUrlToLaunchAfterPublish",
+        "SkipDotNetCoreVersio

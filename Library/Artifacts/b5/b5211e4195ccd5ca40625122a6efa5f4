@@ -1,0 +1,55 @@
+[2025-11-22 23:58:35.804] [info]                        Starting RiotClientUx electron with args {
+  appPort: 56639,
+  remotingAuthToken: 'K0oSVlaBz3Ty2mE_T351eQ',
+  logDir: 'C:/Users/rober/AppData/Local/Riot Games/Riot Client/Logs',
+  userDataRoot: 'C:/Users/rober/AppData/Local/Riot Games/Riot Client',
+  crashpadEnvironment: 'KeystoneFoundationLiveWin',
+  appPid: 10252,
+  machineId: 'n6DFT7M2xkSXgIBFmseTLA==',
+  allowChromeDevTools: false,
+  enableHardwareAcceleration: true,
+  launchProduct: 'league_of_legends',
+  sessionId: '81577b88-2628-b843-80d4-5b3c1f226298'
+}
+[2025-11-22 23:58:35.809] [info]                        Logging to C:\Users\rober\AppData\Local\Riot Games\Riot Client\Logs\Riot Client Electron Logs\2025-10-22T23-58-35_714_RiotClientElectron.log
+[2025-11-22 23:58:35.810] [info]                        RC_TEST_MODE environment variable: undefined
+[2025-11-22 23:58:35.811] [info]                        NODE_ENV production
+[2025-11-22 23:58:35.812] [info]                        isDevelopment false
+[2025-11-22 23:58:35.824] [info]  (InstallSettings)     Fetching RiotClientSettings.yaml from: C:\Users\rober\AppData\Local\Riot Games\Riot Client\Config\RiotClientSettings.yaml
+[2025-11-22 23:58:35.943] [info]                        Creating socket..
+[2025-11-22 23:58:35.969] [info]                        Watchdog check - appPid: 10252, RC_TEST_MODE: undefined
+[2025-11-22 23:58:35.971] [info]                        [E2E][watchdog-path] { appPid: 10252, starting: true }
+[2025-11-22 23:58:35.973] [info]                        Starting RCSWatchdog...
+[2025-11-22 23:58:35.975] [info]  (RCSWatchdog)         Interval set to check if process 10252 is running every 1000ms
+[2025-11-22 23:58:35.976] [info]                        RCSWatchdog started successfully
+[2025-11-22 23:58:36.117] [info]  (SplashScreenManager) Displaying splash screen from lol-splash1.html for 2000ms
+[2025-11-22 23:58:36.139] [info]                        app.isPackaged true
+[2025-11-22 23:58:36.146] [info]                        Loading page from http://127.0.0.1:56685/index.html
+[2025-11-22 23:58:36.277] [info]  (TelemetryCollector)  Ending time sample for phase:ux_launch_to_electron_loaded
+[2025-11-22 23:58:36.280] [info]  (TelemetryCollector)  Started time sample for phase:ux_electron_loaded_to_interactive
+[2025-11-22 23:58:36.300] [info]                        Starting CookieJarService
+[2025-11-22 23:58:36.443] [info]  (SentryService)       Resources initialized and set in Sentry
+[2025-11-22 23:58:36.548] [error]                       Firebase credentials are missing or empty
+[2025-11-22 23:58:36.736] [info]  (SplashScreenManager) Splash screen is ready to show
+[2025-11-22 23:58:38.669] [info]  (SplashScreenManager) Waited for 2546ms which is above 2000ms. Max showtime reached. Closing splash screen immediately
+[2025-11-22 23:58:38.677] [info]                        Initializing PresenceTracker
+[2025-11-22 23:58:38.709] [info]  (ipcRenderer)         get-args {
+  appPort: 56639,
+  remotingAuthToken: 'K0oSVlaBz3Ty2mE_T351eQ',
+  logDir: 'C:/Users/rober/AppData/Local/Riot Games/Riot Client/Logs',
+  userDataRoot: 'C:/Users/rober/AppData/Local/Riot Games/Riot Client',
+  crashpadEnvironment: 'KeystoneFoundationLiveWin',
+  appPid: 10252,
+  machineId: 'n6DFT7M2xkSXgIBFmseTLA==',
+  allowChromeDevTools: false,
+  enableHardwareAcceleration: true,
+  launchProduct: 'league_of_legends',
+  sessionId: '81577b88-2628-b843-80d4-5b3c1f226298'
+}
+[2025-11-22 23:58:38.727] [info]  (SplashScreenManager) Splash screen is closed
+[2025-11-22 23:58:38.821] [info]  (DataBinding)         port: 56639, token: K0oSVlaBz3Ty2mE_T351eQ
+[2025-11-22 23:58:38.828] [info]  (DataBinding)         created
+[2025-11-22 23:58:46.845] [info]                        Starting registration
+[2025-11-22 23:58:47.453] [warn]                        [notification-gcm-register] GCM register request has failed with Error=PHONE_REGISTRATION_ERROR
+[2025-11-22 23:58:47.454] [warn]                        [notification-gcm-register] Retry... 1
+[2025-11-22 23:58:50.107] [error]                       PUSH_RECEIVER:::Error while starting the service StatusCodeError: 403 - "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Method doesn't allow un

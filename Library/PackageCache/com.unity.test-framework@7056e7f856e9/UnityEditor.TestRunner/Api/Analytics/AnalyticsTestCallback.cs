@@ -1,0 +1,10 @@
+ bağlanır.
+DL_CREATE_PUBLISH_PUBLISH_MESSAGE=Tasarım sistemleri için tavsiye edilir.
+DL_CREATE_PUBLISH_PUBLISH_ACTION=Bağlantılı kitaplığı yayınlayın
+
+DL_RELINK_DOCUMENT_LIBRARY_HEADING=Belge varlıklarını geçerli kitaplıkta yayınla
+DL_RELINK_DOCUMENT_LIBRARY_READ_ONLY_HEADING=Bu kitaplığı düzenleme izniniz yok
+DL_RELINK_DOCUMENT_LIBRARY_CONTINUE=Devam
+DL_RELINK_DOCUMENT_LIBRARY_CREATE_NEW=Yeni oluştur
+DL_RELINK_DOCUMENT_LIBRARY_INFO=Bu dosyanın başka bir sürümüyle ilişkilendirilmiş bir kitaplık zaten var. Geçerli dosyanın öğelerini kitaplıkta yayınlayabilir veya yeni bir kitaplık oluşturabilirsiniz.
+DL_RELINK_DOCUMENT_LIBRARY_WARNING=Geçerli dosyadaki belge varlıkları, m

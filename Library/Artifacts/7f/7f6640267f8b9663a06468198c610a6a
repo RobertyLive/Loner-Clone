@@ -1,0 +1,889 @@
+elerinde geli≈ütirme a≈üamasƒ±ndaki √∂zellikleri ve d√ºzeltmeleri test edin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:41.889Z"},{"name":"cq:lastModified","value":"2025-06-11T02:22:47.199Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Premiere Pro (Beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:56:53.094Z"},{"name":"cq:lastModified","value":"2025-06-13T19:16:05.654Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Premiere Pro (Beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/xd-beta","_id":"40b5f227-6b7f-40a2-8a3d-292cdcb12144","_variation":"master","locReady":true,"contentId":"XD (Beta)","filterTags":["category:beta"],"platformPriority":["D"],"desktopVariation":null,"mobileVariation":null,"webVariation":null,"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/xd-beta","_id":"d8d3d1ec-9b7c-418f-8168-7d43e6fe1b20","_variation":"master","locReady":true,"contentId":"XD (Beta)","tagline":["Beta derlemelerinde geli≈ütirme a≈üamasƒ±ndaki √∂zellikleri ve d√ºzeltmeleri test edin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:43.095Z"},{"name":"cq:lastModified","value":"2025-06-10T02:22:01.590Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"XD (Beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:56:55.546Z"},{"name":"cq:lastModified","value":"2025-06-11T02:23:03.595Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"XD (Beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/lightroom-classic-pre-release","_id":"23ca4c11-0e3e-424e-85a1-fd4239398e7a","_variation":"master","locReady":true,"contentId":"Lightroom Classic","filterTags":["category:prerelease"],"platformPriority":["D"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/lightroom-classic-pre-release","_id":"55edc37d-e126-4dbf-8292-04de31a4faf4","_variation":"master","locReady":true,"contentId":"Lightroom Classic (Prerelease)","tagline":["Masa√ºst√º tabanlƒ± fotoƒüraf d√ºzenleme uygulamasƒ±"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:41.091Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:58.215Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Lightroom Classic (Prerelease)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":null,"webVariation":null,"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/lightroom-classic-pre-release","_id":"55edc37d-e126-4dbf-8292-04de31a4faf4","_variation":"master","locReady":true,"contentId":"Lightroom Classic (Prerelease)","tagline":["Masa√ºst√º tabanlƒ± fotoƒüraf d√ºzenleme uygulamasƒ±"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:41.091Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:58.215Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Lightroom Classic (Prerelease)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:48.025Z"},{"name":"cq:lastModified","value":"2025-06-13T19:16:04.851Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Lightroom Classic (Pre-release)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/substance-modeler-beta","_id":"65702c0a-8bc7-4dad-bce0-b1a4fb2d80c8","_variation":"master","locReady":true,"contentId":"Substance 3D Modeler (Beta)","filterTags":["category:beta"],"platformPriority":["D"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/substance-modeler-beta","_id":"eb1130fc-fd43-467e-879f-73cda4be7092","_variation":"master","locReady":true,"contentId":"Substance 3D Modeler (Beta)","tagline":["Beta derlemelerinde geli≈ütirme a≈üamasƒ±ndaki √∂zellikleri ve d√ºzeltmeleri test edin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:42.653Z"},{"name":"cq:lastModified","value":"2025-06-11T02:22:49.644Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Substance Modeler Beta"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":null,"webVariation":null,"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/substance-modeler-beta","_id":"eb1130fc-fd43-467e-879f-73cda4be7092","_variation":"master","locReady":true,"contentId":"Substance 3D Modeler (Beta)","tagline":["Beta derlemelerinde geli≈ütirme a≈üamasƒ±ndaki √∂zellikleri ve d√ºzeltmeleri test edin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:42.653Z"},{"name":"cq:lastModified","value":"2025-06-11T02:22:49.644Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Substance Modeler Beta"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:56:54.897Z"},{"name":"cq:lastModified","value":"2025-06-13T19:16:07.288Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Substance Modeler Beta"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/substance-stager-beta","_id":"49dccef0-aa73-4b0c-ab57-d41124e1abeb","_variation":"master","locReady":true,"contentId":"Substance 3D Stager (Beta)","filterTags":["category:beta"],"platformPriority":["D"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/substance-stager-beta","_id":"c18a1dbf-3174-4c55-a6a4-bc0f6e0cd95c","_variation":"master","locReady":true,"contentId":"Substance 3D Stager (Beta)","tagline":["Beta derlemelerinde geli≈ütirme a≈üamasƒ±ndaki √∂zellikleri ve d√ºzeltmeleri test edin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:42.989Z"},{"name":"cq:lastModified","value":"2025-06-10T02:22:01.215Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Substance Stager Beta"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":null,"webVariation":null,"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/substance-stager-beta","_id":"c18a1dbf-3174-4c55-a6a4-bc0f6e0cd95c","_variation":"master","locReady":true,"contentId":"Substance 3D Stager (Beta)","tagline":["Beta derlemelerinde geli≈ütirme a≈üamasƒ±ndaki √∂zellikleri ve d√ºzeltmeleri test edin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:42.989Z"},{"name":"cq:lastModified","value":"2025-06-10T02:22:01.215Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Substance Stager Beta"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:56:55.392Z"},{"name":"cq:lastModified","value":"2025-06-11T02:23:03.180Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Substance Stager Beta"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/substance-sampler-beta","_id":"07278b43-82e4-496b-9bd3-a039cdf9e1d8","_variation":"master","locReady":true,"contentId":"Substance 3D Sampler (Beta)","filterTags":["category:beta"],"platformPriority":["D"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/substance-sampler-beta","_id":"b48f6026-f182-4c15-bba1-1f8d5ca41caa","_variation":"master","locReady":true,"contentId":"Substance 3D Sampler (Beta)","tagline":["Beta derlemelerinde geli≈ütirme a≈üamasƒ±ndaki √∂zellikleri ve d√ºzeltmeleri test edin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:42.865Z"},{"name":"cq:lastModified","value":"2025-06-10T02:22:00.467Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Substance Sampler Beta"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":null,"webVariation":null,"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/substance-sampler-beta","_id":"b48f6026-f182-4c15-bba1-1f8d5ca41caa","_variation":"master","locReady":true,"contentId":"Substance 3D Sampler (Beta)","tagline":["Beta derlemelerinde geli≈ütirme a≈üamasƒ±ndaki √∂zellikleri ve d√ºzeltmeleri test edin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:42.865Z"},{"name":"cq:lastModified","value":"2025-06-10T02:22:00.467Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Substance Sampler Beta"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:56:55.209Z"},{"name":"cq:lastModified","value":"2025-06-11T02:23:02.266Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Substance Sampler Beta"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/incopy-prerelease","_id":"da359fb8-56b5-45b4-a99d-33b1f6f0120d","_variation":"master","locReady":true,"contentId":"InCopy (Prerelease)","filterTags":["category:prerelease"],"platformPriority":["D"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/incopy-pre-release","_id":"f0f3dcc2-02f9-447d-a19f-0dc209201d32","_variation":"master","locReady":true,"contentId":"InCopy (Prerelease)","tagline":["Geli≈ütirme a≈üamasƒ±ndaki √∂zellikleri ve d√ºzeltmeleri √ñn s√ºr√ºm derlemelerinde test edin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:40.660Z"},{"name":"cq:lastModified","value":"2025-06-11T02:22:45.615Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"InCopy (Prerelease)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":null,"webVariation":null,"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/incopy-pre-release","_id":"f0f3dcc2-02f9-447d-a19f-0dc209201d32","_variation":"master","locReady":true,"contentId":"InCopy (Prerelease)","tagline":["Geli≈ütirme a≈üamasƒ±ndaki √∂zellikleri ve d√ºzeltmeleri √ñn s√ºr√ºm derlemelerinde test edin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:40.660Z"},{"name":"cq:lastModified","value":"2025-06-11T02:22:45.615Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"InCopy (Prerelease)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:47.431Z"},{"name":"cq:lastModified","value":"2025-06-08T22:30:06.704Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"InCopy (Prerelease)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/indesign-prerelease","_id":"5f343e72-c71b-4078-9f9b-171910aa882d","_variation":"master","locReady":true,"contentId":"InDesign (Prerelease)","filterTags":["category:prerelease"],"platformPriority":["D"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/indesign-pre-release","_id":"1b1e06f1-fda5-42bd-b37a-5f09479296e9","_variation":"master","locReady":true,"contentId":"InDesign (Prerelease)","tagline":["Geli≈ütirme a≈üamasƒ±ndaki √∂zellikleri ve d√ºzeltmeleri √ñn s√ºr√ºm derlemelerinde test edin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:40.878Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:57.469Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"InDesign (Prerelease)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":null,"webVariation":null,"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/indesign-pre-release","_id":"1b1e06f1-fda5-42bd-b37a-5f09479296e9","_variation":"master","locReady":true,"contentId":"InDesign (Prerelease)","tagline":["Geli≈ütirme a≈üamasƒ±ndaki √∂zellikleri ve d√ºzeltmeleri √ñn s√ºr√ºm derlemelerinde test edin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:40.878Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:57.469Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"InDesign (Prerelease)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:47.665Z"},{"name":"cq:lastModified","value":"2025-06-08T22:30:07.111Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"InDesign (Prerelease)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/indesign-prerelease-debug","_id":"ac6c1fbb-fa71-4cdb-94ec-b271aa35658a","_variation":"master","locReady":true,"contentId":"InDesign (Prerelease-Debug)","filterTags":["category:prerelease"],"platformPriority":["D"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/indesign-pre-release-debug","_id":"6822d0e3-9633-4f54-8346-99ac752be48d","_variation":"master","locReady":true,"contentId":"InDesign (Prerelease)","tagline":["Bu g√ºncelleme ile InDesign'ƒ±n en son yayƒ±n √∂ncesi s√ºr√ºm√ºne eri≈üebilirsiniz. Yakƒ±nda sunulacak √∂zellikler hakkƒ±nda bilgi edinin ve bu √∂zellikleri InDesign'da sunulmadan √∂nce deneyin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:40.957Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:57.822Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"InDesign (Prerelease) Debug"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":null,"webVariation":null,"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/indesign-pre-release-debug","_id":"6822d0e3-9633-4f54-8346-99ac752be48d","_variation":"master","locReady":true,"contentId":"InDesign (Prerelease)","tagline":["Bu g√ºncelleme ile InDesign'ƒ±n en son yayƒ±n √∂ncesi s√ºr√ºm√ºne eri≈üebilirsiniz. Yakƒ±nda sunulacak √∂zellikler hakkƒ±nda bilgi edinin ve bu √∂zellikleri InDesign'da sunulmadan √∂nce deneyin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:40.957Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:57.822Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"InDesign (Prerelease) Debug"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:47.730Z"},{"name":"cq:lastModified","value":"2025-06-08T22:30:07.440Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"InDesign (Prerelease) Debug"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/incopy-prerelease-debug","_id":"60752f33-4b41-4e71-8364-31094551fab9","_variation":"master","locReady":true,"contentId":"InCopy (Prerelease-Debug)","filterTags":["category:prerelease"],"platformPriority":["D"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/incopy-pre-release-debug","_id":"82fce0ea-086d-4854-948d-d985d2c284bc","_variation":"master","locReady":true,"contentId":"InCopy (Prerelease)","tagline":["Bu g√ºncelleme ile InCopy'nin en son yayƒ±n √∂ncesi s√ºr√ºm√ºne eri≈üebilirsiniz. Yakƒ±nda sunulacak √∂zellikler hakkƒ±nda bilgi edinin ve bu √∂zellikleri InCopy'de sunulmadan √∂nce deneyin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:40.697Z"},{"name":"cq:lastModified","value":"2025-06-11T02:22:45.986Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"InCopy (Prerelease) Debug"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":null,"webVariation":null,"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/incopy-pre-release-debug","_id":"82fce0ea-086d-4854-948d-d985d2c284bc","_variation":"master","locReady":true,"contentId":"InCopy (Prerelease)","tagline":["Bu g√ºncelleme ile InCopy'nin en son yayƒ±n √∂ncesi s√ºr√ºm√ºne eri≈üebilirsiniz. Yakƒ±nda sunulacak √∂zellikler hakkƒ±nda bilgi edinin ve bu √∂zellikleri InCopy'de sunulmadan √∂nce deneyin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:40.697Z"},{"name":"cq:lastModified","value":"2025-06-11T02:22:45.986Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"InCopy (Prerelease) Debug"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:47.496Z"},{"name":"cq:lastModified","value":"2025-06-13T19:16:04.468Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"InCopy (Prerelease) Debug"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/SHELBETA","_id":"ef6cce63-17b3-4456-b477-327d2b5cdf35","_variation":"master","locReady":true,"contentId":"Substance 3D Viewer (Beta)","filterTags":["category:beta","type:essential-in-all"],"platformPriority":["D"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/SHELBETA","_id":"c0afbf7b-62fb-43bf-bac8-d911c506cb26","_variation":"master","locReady":true,"contentId":"Substance 3D Viewer (Beta)","tagline":["A√ßƒ±n, g√∂r√ºnt√ºleyin ve 3D modellerle i√ßerik olu≈üturun"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:39.061Z"},{"name":"cq:lastModified","value":"2025-06-10T11:23:03.476Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe Substance 3D Viewer (beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/SHELBETA","_id":"c0afbf7b-62fb-43bf-bac8-d911c506cb26","_variation":"master","locReady":true,"contentId":"Substance 3D Viewer (Beta)","tagline":["A√ßƒ±n, g√∂r√ºnt√ºleyin ve 3D modellerle i√ßerik olu≈üturun"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:39.061Z"},{"name":"cq:lastModified","value":"2025-06-10T11:23:03.476Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe Substance 3D Viewer (beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"webVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/SHELBETA","_id":"c0afbf7b-62fb-43bf-bac8-d911c506cb26","_variation":"master","locReady":true,"contentId":"Substance 3D Viewer (Beta)","tagline":["A√ßƒ±n, g√∂r√ºnt√ºleyin ve 3D modellerle i√ßerik olu≈üturun"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:39.061Z"},{"name":"cq:lastModified","value":"2025-06-10T11:23:03.476Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe Substance 3D Viewer (beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/SHELBETA","_id":"c0afbf7b-62fb-43bf-bac8-d911c506cb26","_variation":"master","locReady":true,"contentId":"Substance 3D Viewer (Beta)","tagline":["A√ßƒ±n, g√∂r√ºnt√ºleyin ve 3D modellerle i√ßerik olu≈üturun"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:39.061Z"},{"name":"cq:lastModified","value":"2025-06-10T11:23:03.476Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe Substance 3D Viewer (beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:44.526Z"},{"name":"cq:lastModified","value":"2025-06-11T02:22:53.263Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe Substance 3D Viewer (beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/FFC_neo","_id":"8885952e-083f-4fe2-9acc-33c915691dcb","_variation":"master","locReady":true,"contentId":"Project Neo","filterTags":["category:beta","category:design","type:essential-in-all"],"platformPriority":["W"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_neo","_id":"8b093aa1-1c53-4554-a40d-0b03415991ae","_variation":"master","locReady":true,"contentId":"Project Neo","tagline":["Tasarƒ±mlar, grafikler ve daha fazlasƒ± i√ßin 3D √ßizimler olu≈üturun"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:38.236Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:53.544Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Project Neo"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_neo","_id":"8b093aa1-1c53-4554-a40d-0b03415991ae","_variation":"master","locReady":true,"contentId":"Project Neo","tagline":["Tasarƒ±mlar, grafikler ve daha fazlasƒ± i√ßin 3D √ßizimler olu≈üturun"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:38.236Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:53.544Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Project Neo"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"webVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_neo","_id":"8b093aa1-1c53-4554-a40d-0b03415991ae","_variation":"master","locReady":true,"contentId":"Project Neo","tagline":["Tasarƒ±mlar, grafikler ve daha fazlasƒ± i√ßin 3D √ßizimler olu≈üturun"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:38.236Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:53.544Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Project Neo"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_neo","_id":"8b093aa1-1c53-4554-a40d-0b03415991ae","_variation":"master","locReady":true,"contentId":"Project Neo","tagline":["Tasarƒ±mlar, grafikler ve daha fazlasƒ± i√ßin 3D √ßizimler olu≈üturun"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:38.236Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:53.544Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Project Neo"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:44.186Z"},{"name":"cq:lastModified","value":"2025-06-11T05:07:02.456Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Project Neo"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/FFC_podcast","_id":"ae79a679-cf9c-4994-ba1c-725ec8fce510","_variation":"master","locReady":true,"contentId":"Adobe Podcast","filterTags":["category:all"],"platformPriority":["D","W","M"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_podcast","_id":"16d40558-a140-445d-bc43-d728bb8262fc","_variation":"master","locReady":true,"contentId":"Adobe Podcast","tagline":["Sesinizi iyile≈ütiren yapay zeka destekli ses ara√ßlarƒ±yla profesyonel ses kalitesine sahip y√ºksek kaliteli pod yayƒ±nlarƒ± ve seslendirmeler olu≈üturun."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:39.014Z"},{"name":"cq:lastModified","value":"2025-06-10T11:23:10.184Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe_Podcast"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_podcast","_id":"16d40558-a140-445d-bc43-d728bb8262fc","_variation":"master","locReady":true,"contentId":"Adobe Podcast","tagline":["Sesinizi iyile≈ütiren yapay zeka destekli ses ara√ßlarƒ±yla profesyonel ses kalitesine sahip y√ºksek kaliteli pod yayƒ±nlarƒ± ve seslendirmeler olu≈üturun."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:39.014Z"},{"name":"cq:lastModified","value":"2025-06-10T11:23:10.184Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe_Podcast"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"webVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_podcast","_id":"16d40558-a140-445d-bc43-d728bb8262fc","_variation":"master","locReady":true,"contentId":"Adobe Podcast","tagline":["Sesinizi iyile≈ütiren yapay zeka destekli ses ara√ßlarƒ±yla profesyonel ses kalitesine sahip y√ºksek kaliteli pod yayƒ±nlarƒ± ve seslendirmeler olu≈üturun."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:39.014Z"},{"name":"cq:lastModified","value":"2025-06-10T11:23:10.184Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe_Podcast"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_podcast","_id":"16d40558-a140-445d-bc43-d728bb8262fc","_variation":"master","locReady":true,"contentId":"Adobe Podcast","tagline":["Sesinizi iyile≈ütiren yapay zeka destekli ses ara√ßlarƒ±yla profesyonel ses kalitesine sahip y√ºksek kaliteli pod yayƒ±nlarƒ± ve seslendirmeler olu≈üturun."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:39.014Z"},{"name":"cq:lastModified","value":"2025-06-10T11:23:10.184Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe_Podcast"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2024-12-04T05:24:26.816Z"},{"name":"cq:lastModified","value":"2024-12-06T08:49:28.128Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe_Podcast"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/adobe-firefly","_id":"f967e028-e6eb-49d6-a5a7-58510c5604cd","_variation":"master","locReady":true,"contentId":"Adobe Firefly","filterTags":["category:all","category:photo","category:design","category:illustration","category:gen-ai"],"platformPriority":["D","W","M"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/adobe-firefly","_id":"2b7dbf22-2a79-41f8-9fc7-4b6c1fb514fe","_variation":"master","locReady":true,"contentId":"Adobe Firefly","tagline":["Adobe Firefly'da fikir √ºretin, i√ßerik olu≈üturun ve payla≈üƒ±n."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T04:59:19.053Z"},{"name":"cq:lastModified","value":"2025-10-17T20:14:56.821Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe Firefly (Beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/adobe-firefly","_id":"2b7dbf22-2a79-41f8-9fc7-4b6c1fb514fe","_variation":"master","locReady":true,"contentId":"Adobe Firefly","tagline":["Adobe Firefly'da fikir √ºretin, i√ßerik olu≈üturun ve payla≈üƒ±n."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T04:59:19.053Z"},{"name":"cq:lastModified","value":"2025-10-17T20:14:56.821Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe Firefly (Beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"webVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/adobe-firefly","_id":"2b7dbf22-2a79-41f8-9fc7-4b6c1fb514fe","_variation":"master","locReady":true,"contentId":"Adobe Firefly","tagline":["Adobe Firefly'da fikir √ºretin, i√ßerik olu≈üturun ve payla≈üƒ±n."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T04:59:19.053Z"},{"name":"cq:lastModified","value":"2025-10-17T20:14:56.821Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe Firefly (Beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/adobe-firefly","_id":"2b7dbf22-2a79-41f8-9fc7-4b6c1fb514fe","_variation":"master","locReady":true,"contentId":"Adobe Firefly","tagline":["Adobe Firefly'da fikir √ºretin, i√ßerik olu≈üturun ve payla≈üƒ±n."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T04:59:19.053Z"},{"name":"cq:lastModified","value":"2025-10-17T20:14:56.821Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe Firefly (Beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/sapcode-specific-data/ffc_firefly","_id":"b2c02ad7-a2da-4ac1-98c1-df5fec001602","_variation":"master","sapcode":"FFC_firefly","fulfillmentCode":["firefly_credits"],"merchInfo":null,"actionOverrides":[{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/sapcode-specific-data/app-action-override/ffc_firefly-buy-plan","_id":"e66151fb-bdc0-4a90-a9ee-72fb60b53150","_variation":"master","actionId":"buy","action":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/sapcode-specific-data/slice-action/ffc_firefly-buy-plan","_id":"6e018c7e-df69-44f3-b594-ad89cf254a22","_variation":"master","locReady":true,"name":"ffc_Firefly-buy-plan","contentId":"buy-plan","title":"Plan satƒ±n alƒ±n","ariaLabel":null,"style":null,"type":"deep-link","target":"inapp://ccd?workflow=routeToPath&routePath=%2FeditPlan%3Fpa%3DPA-859%26cli%3Dcc_desktop%26co%3DUS%26landing_page%3Dhttps%3A%2F%2Fcommerce.adobe.com%2Fstore%2Fsegmentation%26ctx%3Da%26svar%3Dccd_webproducts%26sapcode%3D%7Bsapcode%7D%26version%3D%7Bversion%7D%26action%3D%7Baction%7D%26clickSource%3D%7Bclick-source%7D&promoid=FHRLZ8YY","deeplinkUrl":null,"filter":null,"enableSSO":false,"ssoDetails":null,"data":null,"_extendedInfo":{"type":{"key":"deep-link","label":"Deeplink"}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T05:13:52.264Z"},{"name":"cq:lastModified","value":"2025-06-10T11:23:43.607Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"ffc_Firefly-buy-plan"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/slice-action","title":"SLiCE Action"},"_tags":[]},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T05:13:52.179Z"},{"name":"cq:lastModified","value":"2025-06-11T05:00:45.486Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"FFC_firefly-buy-plan"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton---app-action-override","title":"Apps Skeleton - App Action Override"},"_tags":[]}],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T05:13:52.221Z"},{"name":"cq:lastModified","value":"2025-06-11T05:00:46.193Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"FFC_firefly"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton---sapcode-specific-data","title":"Apps Skeleton - SAPCode Specific Data"},"_tags":[]}],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T05:13:52.359Z"},{"name":"cq:lastModified","value":"2025-06-10T11:23:11.188Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe Firefly (Beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/FFC_contentauth","_id":"bcbdb00e-2bd9-4dc1-8f1f-74f2aa35b610","_variation":"master","locReady":true,"contentId":"Adobe Content Authenticity","filterTags":["category:all"],"platformPriority":["D","W","M"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_contentauth","_id":"6cb175a0-d30b-4ee8-8ae8-f8d5d61d0bd9","_variation":"master","locReady":true,"contentId":"Adobe Content Authenticity","tagline":["√áalƒ±≈ümalarƒ±nƒ±zƒ±n nerede payla≈üƒ±lƒ±rsa payla≈üƒ±lsƒ±n sizinle baƒülantƒ±da kalmasƒ±nƒ± saƒülayƒ±n."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:38.185Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:58.620Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Content Authenticity"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_contentauth","_id":"6cb175a0-d30b-4ee8-8ae8-f8d5d61d0bd9","_variation":"master","locReady":true,"contentId":"Adobe Content Authenticity","tagline":["√áalƒ±≈ümalarƒ±nƒ±zƒ±n nerede payla≈üƒ±lƒ±rsa payla≈üƒ±lsƒ±n sizinle baƒülantƒ±da kalmasƒ±nƒ± saƒülayƒ±n."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:38.185Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:58.620Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Content Authenticity"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"webVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_contentauth","_id":"6cb175a0-d30b-4ee8-8ae8-f8d5d61d0bd9","_variation":"master","locReady":true,"contentId":"Adobe Content Authenticity","tagline":["√áalƒ±≈ümalarƒ±nƒ±zƒ±n nerede payla≈üƒ±lƒ±rsa payla≈üƒ±lsƒ±n sizinle baƒülantƒ±da kalmasƒ±nƒ± saƒülayƒ±n."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:38.185Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:58.620Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Content Authenticity"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_contentauth","_id":"6cb175a0-d30b-4ee8-8ae8-f8d5d61d0bd9","_variation":"master","locReady":true,"contentId":"Adobe Content Authenticity","tagline":["√áalƒ±≈ümalarƒ±nƒ±zƒ±n nerede payla≈üƒ±lƒ±rsa payla≈üƒ±lsƒ±n sizinle baƒülantƒ±da kalmasƒ±nƒ± saƒülayƒ±n."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:38.185Z"},{"name":"cq:lastModified","value":"2025-06-11T05:06:58.620Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Content Authenticity"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:44.074Z"},{"name":"cq:lastModified","value":"2025-06-13T19:15:35.978Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Content Authenticity"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/Adobe-Express-Photos","_id":"070b05c6-2f65-447f-b2f7-72fad03f5e1f","_variation":"master","locReady":true,"contentId":"Adobe Express Photos","filterTags":["category:all","type:essential-in-all","category:photo"],"platformPriority":["D"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/project-harmony","_id":"f4149365-59de-4d70-866f-ff03c5f843b5","_variation":"master","locReady":true,"contentId":"Adobe Express Photos","tagline":["Fotoƒüraflarƒ±nƒ±zƒ± anƒ±nda d√ºzenleyin ve payla≈üƒ±n!"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:41.949Z"},{"name":"cq:lastModified","value":"2025-08-05T19:58:07.389Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Project Harmony"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/project-harmony","_id":"f4149365-59de-4d70-866f-ff03c5f843b5","_variation":"master","locReady":true,"contentId":"Adobe Express Photos","tagline":["Fotoƒüraflarƒ±nƒ±zƒ± anƒ±nda d√ºzenleyin ve payla≈üƒ±n!"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:41.949Z"},{"name":"cq:lastModified","value":"2025-08-05T19:58:07.389Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Project Harmony"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"webVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/project-harmony","_id":"f4149365-59de-4d70-866f-ff03c5f843b5","_variation":"master","locReady":true,"contentId":"Adobe Express Photos","tagline":["Fotoƒüraflarƒ±nƒ±zƒ± anƒ±nda d√ºzenleyin ve payla≈üƒ±n!"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:41.949Z"},{"name":"cq:lastModified","value":"2025-08-05T19:58:07.389Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Project Harmony"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/project-harmony","_id":"f4149365-59de-4d70-866f-ff03c5f843b5","_variation":"master","locReady":true,"contentId":"Adobe Express Photos","tagline":["Fotoƒüraflarƒ±nƒ±zƒ± anƒ±nda d√ºzenleyin ve payla≈üƒ±n!"],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:41.949Z"},{"name":"cq:lastModified","value":"2025-08-05T19:58:07.389Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Project Harmony"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-09-16T06:32:26.533Z"},{"name":"cq:lastModified","value":"2025-08-05T20:00:42.766Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Adobe Express Photos"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/rush-beta","_id":"dd1c8897-4b59-4fff-8c50-76114302a9c2","_variation":"master","locReady":true,"contentId":"Premiere Rush (Beta)","filterTags":["category:beta"],"platformPriority":["D"],"desktopVariation":null,"mobileVariation":null,"webVariation":null,"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/rush-beta","_id":"0cb9746c-96b0-4042-a586-6be3e077b790","_variation":"master","locReady":true,"contentId":"Premiere Rush (Beta)","tagline":["Beta derlemelerinde geli≈ütirme a≈üamasƒ±ndaki √∂zellikleri ve d√ºzeltmeleri test edin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:42.003Z"},{"name":"cq:lastModified","value":"2025-06-11T02:22:47.589Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Premiere Rush (Beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:56:53.511Z"},{"name":"cq:lastModified","value":"2025-06-11T02:22:57.794Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Premiere Rush (Beta)"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/rush","_id":"d98949e5-2dab-4b5c-b725-1ed060ff7d9b","_variation":"master","locReady":true,"contentId":"premiere-rush","filterTags":["category:all"],"platformPriority":["D"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/desktop/premiere-rush","_id":"0fcb7f04-baec-4b9d-b5a6-9abce2e2c7c3","_variation":"master","locReady":true,"contentId":"premiere-rush","tagline":["Dilediƒüiniz yerde √ßevrimi√ßi videolar olu≈üturun ve payla≈üƒ±n."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:43.674Z"},{"name":"cq:lastModified","value":"2025-06-13T19:16:00.955Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Premiere Rush"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":null,"webVariation":null,"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/desktop/premiere-rush","_id":"0fcb7f04-baec-4b9d-b5a6-9abce2e2c7c3","_variation":"master","locReady":true,"contentId":"premiere-rush","tagline":["Dilediƒüiniz yerde √ßevrimi√ßi videolar olu≈üturun ve payla≈üƒ±n."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:55:43.674Z"},{"name":"cq:lastModified","value":"2025-06-13T19:16:00.955Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Premiere Rush"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:56:53.466Z"},{"name":"cq:lastModified","value":"2025-06-08T10:52:14.423Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"Premiere Rush"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]},{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/apps/baseline-apps/FFC_sbstreviewer","_id":"a622d780-d84d-4465-a954-9107946b350e","_variation":"master","locReady":true,"contentId":"Substance 3D2","filterTags":["category:all","category:3DAR","category:cc-services"],"platformPriority":["D","W","M"],"desktopVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_sbstreviewer","_id":"dd855803-87b2-4d78-8852-4e8acb8e5593","_variation":"master","locReady":true,"contentId":"Substance 3D2","tagline":["3D varlƒ±klarƒ± Web ve VR'da ger√ßek zamanlƒ± olarak inceleyin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-09-16T06:32:26.299Z"},{"name":"cq:lastModified","value":"2025-09-25T20:08:36.728Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"FFC_sbstreviewer"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"mobileVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_sbstreviewer","_id":"dd855803-87b2-4d78-8852-4e8acb8e5593","_variation":"master","locReady":true,"contentId":"Substance 3D2","tagline":["3D varlƒ±klarƒ± Web ve VR'da ger√ßek zamanlƒ± olarak inceleyin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-09-16T06:32:26.299Z"},{"name":"cq:lastModified","value":"2025-09-25T20:08:36.728Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"FFC_sbstreviewer"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"webVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_sbstreviewer","_id":"dd855803-87b2-4d78-8852-4e8acb8e5593","_variation":"master","locReady":true,"contentId":"Substance 3D2","tagline":["3D varlƒ±klarƒ± Web ve VR'da ger√ßek zamanlƒ± olarak inceleyin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-09-16T06:32:26.299Z"},{"name":"cq:lastModified","value":"2025-09-25T20:08:36.728Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"FFC_sbstreviewer"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"allVariation":{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appVariations/all/FFC_sbstreviewer","_id":"dd855803-87b2-4d78-8852-4e8acb8e5593","_variation":"master","locReady":true,"contentId":"Substance 3D2","tagline":["3D varlƒ±klarƒ± Web ve VR'da ger√ßek zamanlƒ± olarak inceleyin."],"description":{"markdown":null,"json":null,"plaintext":null,"html":null},"keyFeaturesArray":[],"mediaArray":[],"actionList":[],"layoutId":"card","enclosure":null,"_extendedInfo":{"layoutId":{"key":"card","label":"Card"},"enclosure":{"key":null,"label":null}},"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-09-16T06:32:26.299Z"},{"name":"cq:lastModified","value":"2025-09-25T20:08:36.728Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"FFC_sbstreviewer"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-variation","title":"Apps Skeleton - App Variation"},"_tags":[]},"sapcodeSpecificData":[],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-09-16T06:32:26.553Z"},{"name":"cq:lastModified","value":"2025-09-25T20:08:36.318Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"FFC_sbstreviewer"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app","title":"Apps Skeleton - App"},"_tags":[]}],"appsDefaultSortOrder":[{"_path":"/content/dam/ccsurfaces/AppsSkeleton/tr_TR/appSortOrder/default-v1","_id":"40b90110-0433-49f3-b7e1-411f08fae42e","_variation":"master","platforms":["all-platforms","desktop","web","mobile"],"appIdList":["photoshop","illustrator","Adobe Express","Adobe Firefly","acrobat","premiere-pro","indesign","lightroom","after-effects","stock","audition","media-encoder","Substance 3D Stager","Substance 3D Painter","Substance 3D Sampler","Substance 3D Designer","Substance 3D Modeler","Substance 3D","substance 3D1","Substance 3D2","Adobe Substance 3D Viewer (beta)","lightroom-classic","dreamweaver","animate","incopy","fonts","Adobe Content Authenticity","Frame.io","Photoshop Express","Adobe Express Photos","scan","character-animator","Fresco","behance","capture","portfolio","Fill & Sign","bridge","color","adobe-live","spark-page","spark-video","3D & AR","dimension","Adobe Podcast","Photoshop (Beta)","Premiere Pro (Beta)","Project Neo","After Effects (Beta)","Illustrator (Beta)","Character Animator (Beta)","InDesign (Beta)","Audition (Beta)","Media Encoder (Beta)","Illustrator (PreRelease)","Lightroom (Prerelease)","Fresco Prerelease","Bridge (Beta)","Bridge (Prerelease)","xd","UXP Developer Tools","Substance Alchemist","Aero (Beta)","Aero","creative-cloud","premiere-rush","Premiere Rush (Beta)"],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2023-09-13T04:59:40.360Z"},{"name":"cq:lastModified","value":"2025-09-25T20:08:37.445Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"default v1"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-app-sort-order","title":"Apps Skeleton - App Sort Order"},"_tags":[]}],"_variations":[],"_metadata":{"calendarMetadata":[{"name":"jcr:created","value":"2025-06-16T08:56:56.382Z"},{"name":"cq:lastModified","value":"2025-08-18T19:57:12.676Z"}],"floatMetadata":[],"booleanArrayMetadata":[],"stringMetadata":[{"name":"title","value":"default apps v1"},{"name":"description","value":""}],"intMetadata":[],"calendarArrayMetadata":[],"stringArrayMetadata":[],"floatArrayMetadata":[],"intArrayMetadata":[],"booleanMetadata":[]},"_model":{"_path":"/conf/ccsurfaces/settings/dam/cfm/models/apps-skeleton-apps-list","title":"Apps Skeleton - Apps List"},"_tags":[]},"_references":[]}}}}}}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    } *2(◊ å *0 `       ~Ï %-&~Î ˛¸. sá 
+%ÄÏ (  +,~Ò *~Ì %-&~Î ˛˝. sâ 
+%ÄÌ (  +(  +s *"(X *
+**(, *
+* (F -rÎ0 ps©  
+z-r˜0 ps©  
+z} } *nçR  %{ ¢{ (  +*í(F -r1 ps©  
+z} } *Ü{ ,{ { (  +*{ *{ *VoG (Â } *Rsn (F } *F(G tñ  oà *z{ ,çR  %{ ¢*(   +*0 :   Ä  (≈  
+r#1 p(È 
+o2 
+(„ 
+ ˛Ø  oü  
+oY 
+(Ê (é 
+*>(F } *
+*{ *û(≈  
+r?1 p(È 
+o2 
+(G { (é 
+*&s/ *r-r_1 ps©  
+zs/ *b-r}1 ps©  
+zs&/ *b-r}1 ps©  
+zs&/ *s3/ *
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* 0 
+   Å   ˛ *6uG  o *(‘  
+*˛*(ò  
+*  0       s / Ä s
+/ Ä s/ Ä s/ Ä s/ Ä s/ Ä s
+/ Ä s
+/ Ä  s
+/ Ä! s
+/ Ä" s
+/ Ä# s
+/ Ä$ s
+/ Ä% s
+/ Ä& s
+/ Ä' s
+/ Ä( s
+/ Ä) s
+/ Ä* 	s
+/ Ä+ 
+s
+/ Ä, s
+/ Ä- * (F -ró1 ps©  
+z-r£1 ps©  
+z}. }/ *J( }0 *>{/ oÚ ˛*BçR  %{. ¢*"(F *Z(F ( ( *
+*{2 *"}2 *{3 *"}3 *B~Ô s Ä1 * 0 o       (F -rπ1 ps©  
+z-r›1 ps©  
+z-r˚1 ps©  
+z-r2 ps©  
+z}4 }5 }6 }7 }8 }9 *"(F *≤(, %-&~è 
+}: %-&~è 
+}; *2(2 t≤  *{: *v(6 {: (  +{; (  +*R(& (F }< *   0 ?   Ç  -r12 ps©  
+zox 
+o8 3u±  ,o' ,tñ  oà **{< *>{< u±  ˛*2{< oy *^(( -{< oz **Z(≈  
+rC2 p{< (ê 
+* 0 r   É  %-&(. (F }@ }= uT  
+oÈ ,,oT ˛++}A u•  ,!oy }> {> ,oz }? *  0 S   Ñ  %-&(. (F }@ }= }A u•  
+,!oy }> {> ,oz }? * 0 G   Ö  o6 
+.	3o‰ %-&~Ô *o„ o8 3o„ tñ  oà *o„ *ö(F }@ }= }> }? *∫(F }@ }= }> }? }A *{@ *{= *{A *{> *{? *z{@ ,çR  %{@ ¢*(   +*Ü(≈  
+ru2 p(È 
+o2 
+{= (ë 
+*  0 J       oG (F -râ2 ps©  
+z-rù2 ps©  
+z}B }C ow }D }E *ﬁoG (F -rØ2 ps©  
+z-rù2 ps©  
+z}D }E *BçR  %{E ¢*N~Ò (F }F *{F *2{F o *Ü(≈  
+ru2 p(È 
+o2 
+{F (ë 
+*í(F -rÀ2 ps©  
+z}G }I *÷(F -rÀ2 ps©  
+z}G }H }J }I *{G *{I *{H *{J *{I *r(ò  
+-r›2 ps©  
+z}K *{K *
+*
+*
+* 0 G       çv %rÁ2 p¢%(È 
+o2 
+¢%rÎ2 p¢%{K %-&+oü  
+¢%rÔ2 p¢(Ó  
+*(   +*2(E 
+tR  *í(F -rÛ2 ps©  
+z}L }M *{L *2|M (í 
+*2{M åƒ  *  0 $   Ü  {L o9 
+ (ì 
+˛ (æ  
+_˛*>(F }N *{N * (F -ró1 ps©  
+z-r3 ps©  
+z}O }P *v(F -rÛ2 ps©  
+z}Q *{Q *"(F *>(G o8 ˛*Ê~Ô (F -r3 ps©  
+z}R }S (!  +sï 
+}T *{R *{S *{T *
+*û(≈  
+r'3 p(È 
+o2 
+{R {S (é 
+*r(Z ("  +sñ 
+}U *{U *j~Ô (F }V }W *{V *{W *
+*Ü(≈  
+ru2 p(È 
+o2 
+{V (ë 
+*v(ò  
+%-&rC3 ps©  
+z}ó 
+*:{ó 
+oò 
+*   0 ®  á  ,oÊ  
+-*
++-oÂ  
+/.+oÂ  
+\. oÂ  
+:31+X
+oÊ  
+2 /s‹  
+-(j ,
+\o€  
+&+K
+oÂ  
+/˛- -oÊ  
+2oÂ  
+:˛˛++oÊ  
+2oÂ  
+:3\8.  oÊ  
+.oÂ  
+/.oÂ  
+\@  YE         P   8≈   9ﬂ   o€  
+&8—   oÂ  
+.;¬   o, 
+1	o€  
+&oÂ  
+o€  
+&8ö   oÂ  
+.3nXoÂ  
+.3`o, 
+Y	+	Y		2	oô 
+3È	1	oö 
++L,
+oö 
++>	,;o, 
+-X+*oö 
++ o, 
+1	o€  
+&oõ 
+&XX
+oÊ  
+>∆˛ˇˇ:ó   	,+
++ rM3 p(Ï  
+(Ô  
+oú 
+&
+X
+
+2⁄o, 
+1"o, 
+Yoô 
+3%o, 
+Yoö 
+,/où 
+&o, 
+3oô 
+:3	o€  
+&o, 
+-rS3 p*oü  
+*ÍoÊ  
+1/oÂ  
+\.oÂ  
+/3oÂ  
+\.oÂ  
+/˛***N(i (i (É 
+* 0 R       ,-*(i  rS3 p(∫  
+-rÃ p(∫  
+,
+(û 
+˛*(m  (i (m oÆ 
+*  0 N     ,oÊ  
+-*oÊ  
+YoÂ  
+~Ö 
+.oÊ  
+YoÂ  
+~Ñ 
+3*(n 
+ (Ï  
+(Ô  
+*äoÊ  
+1oÂ  
+:.(j ,\*/*   0 9  à  ,oÊ  
+-*(i  (i rS3 p(ƒ  
+-çv +~Y oü 
+~Y oN 
+
+rS3 p(ƒ  
+-çv +~Y oü 
+~Y oN 
++ööo† 
+,Xéiéi(° 
+2‡-(û 
+-(û 
+,*éi3éi3rS3 p*s‹  
++	rM3 po. 
+&	~Ö 
+o€  
+&Xéi2€	~Ö 
+(Ï  
+éiY(¢ 
+o. 
+&		o, 
+Yoô 
+~Ö 
+3	%o, 
+Yoö 
+	oü  
+*   0   â  ,	oÊ  
+0*~Ö 
+
+~Ñ 
+o£ 
+2~Ö 
+o£ 
+/~Ñ 
+
+ç| %~Ö 
+ù%~Ñ 
+ùoN 
+éi+	YöoÊ  
+XX	Y	1	YöoÊ  
+X2⁄s‹  
+ &   o€  
+&	1kX0e	3öoÊ  
+0o§ 
+&öo. 
+&o€  
+&	YöYYoõ 
+& &   o€  
+&+o€  
+&	öo. 
+&	X	éi2‚oü  
+*rç| %~Ö 
+ù%~Ñ 
+ùÄY *F(• 
+(¶ 
+sß 
+*&sß 
+*6(¶ 
+sß 
+*6(• 
+sß 
+*6(#  +o® 
+*   0 F       (ò  
+-rW3 ps©  
+z-ro3 ps©  
+z-rá3 ps©  
+z}© 
+}™ 
+}´ 
+*í{™ 
+{© 
+o¨ 
+{© 
+o¨ 
+o≠ 
+*í{´ 
+{© 
+o¨ 
+{© 
+o¨ 
+oÆ 
+*0    ä  {© 
+o¨ 
+
+{´ 
+oØ 
+*s∞ 
+*n~ˇ ˛9/ s± 
+($  +Ä] *  0 π   ã  ~† 
+s≤ 
+s≥ 
+o¥ 
++[	oµ 
+%{∂ 
+{∑ 
+(8 |û (∏ 
++(π 
+o∫ 
+oª 
+(º 
+-ﬁ (< 
+	o)  
+-ùﬁ
+	,	o(  
+‹oΩ 
+}æ 
+oø 
+}¿ 
+{æ 
+{¿ 
+~] (%  +*       gÄ 
+    0 V     {æ 
+s! ~] (&  +
+/fY
+2({æ 
+èr  (% ,{¿ 
+£∂  Å∂  *˛∂  *  0    c   (√ 
+&*Nsƒ 
+%q' }≈ 
+*(∆ 
+*0 n  å  (ò  
+o« 
+}h s@/ }b {b o 
+
+ Œ Ôæ.rØ3 psµ 
+z{b o 
+{b o 
+2/r	4 psµ 
+z1{b o» 
+jo 
+&++{b o 
+rA4 p(∫  
+}d {b o 
+&{b o 
+}c {c .${c .rr5 p{c å (‰  
+sµ 
+z{b o 
+}e {e /r	4 psµ 
+z{b o 
+	/r	4 psµ 
+z	çv }f +{f {b o 
+¢X	2·{b o» 
+o« 
+{h Yi_,	+{b o 
+&	X		Y2Ê {b {e ÿjoB/ ﬁ&r	4 psµ 
+z{e ç }g 
++.{b o 
+/r	4 psµ 
+z{g 
+û
+X
+
+{e 2»{b o 
+/r	4 psµ 
+z{b o» 
+o« 
+}i {h jX}j {j {i /r	4 psµ 
+z*      †∑¶  2{b o… 
+*{e *   0 
+      (á *  0       (á &*0 ø   ç  {i {g îjX
+{b (  
+{b oB/ {b oA/ /ræ5 psµ 
+zçx ++{b YoÀ 
+-r6 psµ 
+zY0–{b o 
+TJ/rL6 psµ 
+zﬁ
+	,(Ã 
+‹(Õ 
+oŒ 
+*     è© 
+    0 s   é  {c .*{b 
+(  
++9(Ü {b {j 	jXoB/ {b oA/ !.ﬁX{e 2æﬁ
+,(Ã 
+‹**     Pd 
+    0 G   è  {b 
+(  
+{c 3
+(ã ﬁ!(å ﬁ,(Ã 
+‹rv6 p	sœ 
+z*    	 %. 
+        88 ß  é2{f éi2r¢6 psµ 
+z{f ö*0 s  ê  {b {j jXoB/ {b oA/ 
+3*(ä ,o£ 
+1	o– 
+9  (Ê  
+YE      I      ≥  á   8Ÿ  (Â  
+351;û   3;™   8≤  6;±   l;Ω   n.c8ï  
+(Â  
+351;Ë   3;Ù   8n  6;˚   t;≥   8W  (Â  
+D;   T;¸   87  r‘6 p(∫  
+:  8"  r6 p(∫  
+:;  8  r7 p(∫  
+:H  8¯  r(7 p(∫  
+:U  8„  rD7 p(∫  
+:Q  r`7 p(∫  
+:R  8æ  r|7 p(∫  
+:§   8©  rî7 p(∫  
+:†   8î  rÆ7 p(∫  
+:ú   8  r»7 p(∫  
+:©   8j  r‚7 p(∫  
+:∂   8U  r¸7 p(∫  
+:Â   8@  r8 p(∫  
+:Ê   8+  r<8 p(∫  
+:Á   8  {b o 
+*{b o 
+åx *{b o— 
+åú *{b o“ 
+åù *{b o” 
+åû *{b o 
+å *{b o 
+å~ *{b o 
+åü *{b o 
+å† *{b o‘ 
+å° *{b o’ 
+åz *{b o 
+s÷ 
+å-  *{b o 
+s◊ 
+å´  *ç +	{b o 
+ûX	éi2‰	sÿ 
+å™  *(ä {b o» 
+o« 
+{d sì * 0 c  ë  {b {j jXoB/ {b oA/ 
+E"            $   5   F   W   h   y   ä   õ   ¨   Ω   Œ   ﬂ        }  }  }  }  }  }  }  }  }  }  }  }  }  }  }     H  8x  *{b o 
+*{b oŸ 
+å¢ *{b o” 
+å| *{b o 
+åx *{b o— 
+åú *{b o“ 
+åù *{b o” 
+åû *{b o 
+å *{b o 
+å~ *{b o 
+åü *{b o 
+å† *{b o‘ 
+å° *{b o’ 
+åz *{b o⁄ 
+å™  *{b o 
+(€ 
+å-  *{b o 
+s◊ 
+å´  *{b o 
+	/rZ8 psµ 
+z{b 	o‹ 
+*{b o 
+/rZ8 psµ 
+z{b o‹ 
+s› 
+*@/rñ8 psµ 
+z@Y(ä {b o» 
+o« 
+{d sì * 0       (á &(â *:sC/ %}! *(é *   0 ≠   í  |k ('  +
+,*{b (  
+|k ('  +
+,ﬁt{e Zçü 
++5	%X{i {g îjXü	%X{j (Ü jXüX{e 2¡((  +|k ()  +ﬁ
+,(Ã 
+‹*       Ü† 
+    0 ï   ì  (ê 
+(*  +/f{b (  
+éi3{b o» 
+o‡ 
++ñYi{b oB/ ,{b oA/ {b oA/ {b o‹ 
+ﬁ
+	,(Ã 
+‹*       ià 
+    {l *Æ(ò  
+-+}l }m }n }o *z{m {n {o oë s› 
+*b{m {n {o oë *“(ò  
+-r∏8 ps©  
+zo· 
+-r∆8 pr∏8 psU 
+z}q *r(ò  
+-rˆ8 ps©  
+z}r *r(ò  
+-r9 ps©  
+z}p * 0        o¶ ﬁ(0  
+‹*        		     0 ¡       {p ,{p (‚ 
+}q {r -{q ( 
+s„ 
+}r {r s‰ 
+}s {s oÂ 
+{s oÊ 
+{s r9 poÁ 
+{s ~ oË 
+r(9 pr@9 p(õ rh9 prx9 p(õ rw prÄ9 p(õ rs( pr{: p(õ *   0 T       {s rv; poÁ 
+{s rä; poÈ 
+{s rŸ poÁ 
+{s oÍ 
+{s oÎ 
+{s oÎ 
+*0    P  (Ï 
+
+{s oÍ 
+* 0 Ï       {s rî; poÁ 
+{s rä; poÈ 
+,P{s r›2 poÈ 
+rû; p(ƒ  
+,{s rU< p~w oÈ 
+{s rŸ poÁ 
+(ú +0{s rU< p~v oÈ 
+{s rŸ poÁ 
+(ú {s oÎ 
+(8 
+-({s rg< poÁ 
+{s oÍ 
+{s oÎ 
+{s oÎ 
+*0 ¿       {s rî; poÁ 
+{s rä; poÈ 
+,{s r›2 poÈ 
++{s rw< prã< poÈ 
+{s rŸ poÁ 
+{s oÍ 
+{s oÎ 
+(8 
+-({s rg< poÁ 
+{s oÍ 
+{s oÎ 
+{s oÎ 
+{s rù< poÌ 
+*:~√  
+(° *:~√  
+(° *  0 ∏  î  -rä; ps©  
+z{t ,r•< ps   
+z{s -(ö 9y  uv :  u¢ ,•¢ 8v  u| ,•| 8{  uú ,•ú 8Ä  ux ,•x 8Ö  uù ,•ù 8ä  uû ,•û 8è  u ,• 	8î  u~ ,•~ 
+8ô  uü ,•ü 8û  u† ,•† 8£  u° ,•° 8®  uz ,•z 8≠  u™  ,•™  8≤  u-  ,•-  8∑  u´  ,•´  8º  u) :»  u¨  :Œ  ub  :÷  8Ó  rÃ prÎ< p(û *(û *(≈  
+(Ó 
+rÿ= p(û *(≈  
+(Ô 
+rë> p(û *(≈  
+( 
+rD? p(û *(≈  
+(Ò 
+r˘? p(û *(≈  
+(Ú 
+r¨@ p(û *(≈  
+(Û 
+raA p(û *	(≈  
+(Ù 
+rB p(û *
+(≈  
+(ı 
+rÕB p(û *(≈  
+(ˆ 
+rÑC p(û *(≈  
+(˜ 
+r9D p(û *(≈  
+(¯ 
+rD p(û *(≈  
+(«  
+rßE p(û *(≈  
+(˘ 
+r^F p(û *(≈  
+(˙ 
+rG p(û *˛´  oü  
+r“G p(û *rû; péi(ù *o˚ 
+
+éi(ù *oï oí éi(ù *rçH poÈ 
+o$ 
+( 
+s¸ 
+z:~√  
+(° *ﬁ{s ,.{t -(• {s o˝ 
+}q }p }r *:o¶ (˛ 
+*˛{s -(ö {t ,r•< ps   
+z}t {s oÎ 
+{s oˇ 
+**,(£ *{u *"}u *  0 e       rvI pÄv rÿI pÄw ~v Äx r@9 pÄy r@J pÄz rûJ pÄ{ r¶J pr	T prQ p(  
+ro( prT po  
+Ä *   0 A       3,o 
+
+3**
+." Ö   ... (   . )   3**Ê3	
+3**
+." Ö   ... (   . )   3** 0 ß       3",o 
+
+3T 
+  T+TT* Ö   5
+YE      1   :    Ö   .+Q (   .1 )   .5+?
+TT* Ö   TT*TT*TT* (   TT* )   TT*TT* 0 ü       3
+3T 
+  T+TT* Ö   5
+YE      1   :    Ö   .+Q (   .1 )   .5+?
+TT* Ö   TT*TT*TT* (   TT* )   TT*TT* 0 p        Ö   5#
+YE   2   ;   >       Ö   .-+C (   ./ )   .-+1,o 
+
+3 
+  **
+* Ö   *** (   * )   **0 h        Ö   5#
+YE   *   3   6       Ö   .%+; (   .' )   .%+)
+3 
+  **
+* Ö   *** (   * )   **æ.(
+.# Ö   ... (   .	 )   ˛**0 Ñ        Ö   0&,=
+YE   *   B   H   6    Ö   .4+P 
+  . (   .4 )   .2+6rÃ p*rT p*rT p*rT p*r!T p*r%T p*r)T p*r-T p*r1T p*só 
+z0 D   ï  ~ë 
+-s 
+%Äë 
++o 
+3~# *Xo 
+2„o 
+sI/ *0    ñ  {í  o 
+&*:{í o 
+*:{í o 
+*:{í o	 
+*^~© s
+ 
+}í (ò  
+*r(ò  
+-r5T ps©  
+z}ì * 0    ó  |ì (+  +
+,o 
+*n ( 
+Å-  ( 
+Å. *û~ 
+%-&~ 
+˛ 
+s 
+%Ä 
+(,  +* 0 !   ò  s 
+
+} 
+˛ 
+s 
+(-  +*Z˛s 
+%} 
+%} 
+*v˛s 
+%} 
+%} 
+%} 
+*Z˛s 
+%}  
+%}! 
+*s" 
+*>o# 
+Y(.  +*>o# 
+Y(/  +*   0    ô  o& 
+-
+ ˛- *o' 
+*   0    ô  o& 
+-
+ ˛- *o( 
+*   0 6   ö  
+o) 
++o* 
+o+ 
+	1	
+o)  
+-„ﬁ
+,o(  
+‹*     	 !* 
+    0 D   õ  (, 
+
+o) 
++o* 
+	o- 
+,ﬁXo)  
+-ﬁﬁ
+,o(  
+‹**    &5 
+    0 ,   ú  o) 
+
++o* 
+o. 
+o)  
+-Íﬁ
+,o(  
+‹*    ! 
+    0 F   ù  o/ 
+ç. 
+o) 
++o* 
+%X	o0 
+§. o)  
+-ﬂﬁ
+,o(  
+‹*      %: 
+    0 D   û  o# 
+(0  +
+o) 
++o* 
+o0 
+o1 
+o)  
+-‰ﬁ
+,o(  
+‹o2 
+*     3 
+    0 F   ù  o# 
+ç. 
+o) 
++o* 
+%X	o0 
+§. o)  
+-ﬂﬁ
+,o(  
+‹*      %: 
+    0 L   ü  o3 
+ç. 
+o4 
++(5 
+%X	o0 
+§. (6 
+-›ﬁ˛@ o(  
+‹*    '<     0 9   †  éiç. 
++ 	£- %Xo0 
+§. 	X	éi2⁄*   0 ?   °  o/ 
+s7 
+
+o) 
++o* 
+o0 
+o8 
+o)  
+-‰ﬁ
+,o(  
+‹*      3 
+    Z˛s9 
+%}: 
+%}; 
+*>˛s< 
+%}= 
+*v˛s> 
+%}? 
+%}@ 
+%}A 
+*6(• 
+(1  +* 0 å   ¢  -rÖ ps©  
+z-rW3 ps©  
+z-(• 
+o) 
+
+o)  
+-rCT ps   
+zo* 
+o0 
++!o* 
+	o0 
+oB 
+/	o)  
+-◊ﬁ
+,o(  
+‹*   - R 
+    6(• 
+(2  +*  0 å   ¢  -rÖ ps©  
+z-rW3 ps©  
+z-(• 
+o) 
+
+o)  
+-rCT ps   
+zo* 
+o0 
++!o* 
+	o0 
+oB 
+1	o)  
+-◊ﬁ
+,o(  
+‹*   - R 
+    v-rT ps©  
+zo/ 
+YoC 
+*6(3  +(4  +*0 H   £  
+˛- o) 
++o* 
+,˛- ﬁ	
+o)  
+-‹ﬁ
+,o(  
+‹**    (9 
+    0 N     /râT psD 
+zoE 
+//oE 
+,
+oE 
+Z+
+ «ˇˇ6 «ˇˇ
+/
+oF 
+oE 
+**o/ 
+˛*"(5  +*"oH 
+*"(6  +*"oJ 
+*"(7  +*"oL 
+*>o/ 
+YoM 
+*c*é(ò  
+@XY(· (N 
+ç† }ó *:(ò  
+}ó *Z{ó oO 
+tG s„ *j{ó (· ñj?_b_j˛*N,(Ò *(Û *   0 !     
++{ó ñ,*X
+{ó éi2Â*   0 {   §  2*(· 
+Y(· j?_bje?_d3{ó ñ	__	_˛*{ó ñ_.*X+{ó ñj.*X2Ê{ó ñ	_	˛* 0 )     
++{ó ñ{ó ñ.*X
+{ó éi2›*   0 +     
++{ó ñ{ó ñf_,*X
+{ó éi2€*"oÍ *Z(Í ,(È ˛**Z(Î ,(È ˛**  0 *     
++{ó ñ{ó ñ_,*X
+{ó éi2‹*  0 ,     
++{ó è† %L{ó ñ`UX
+{ó éi2Ÿ*0 ,     
++{ó è† %L{ó ñ_UX
+{ó éi2Ÿ*v{ó (· è† %Lj?_b`U*  0 ~   §  2*(· 
+Y(· j?_bje?_d3{ó è† %L	_`U*{ó è† %L`UX+{ó jüX2Í{ó è† %L	`U*z{ó (· è† %Lj?_bf_U*   0 Å   §  2*(· 
+Y(· j?_bje?_d3{ó è† %L	_f_U*{ó è† %Lf_UX+{ó jüX2Í{ó è† %L	f_U*   0      
++{ó jüX
+{ó éi2Á*  0 µ   •  2*(· 
+Y(· j?_bje?_d3{ó ñ_	_,v@Z(Æ  X*{ó ñ_,@Z(Æ  X*X+#{ó ñ,@Z(Æ  X*X2ÿ{ó ñ	_,@Z(Æ  X**v˛sà/ %}f %}h %}j *r{ó {ó {ó éi(P 
+*0 v   ¶  s‹  
+
+{o€  
+&+E(Â ,8o, 
+1r po. 
+&o, 
+ Ù  1rI% po. 
+&+o= 
+&X{ó éi@Z2≠}o€  
+&oü  
+*b-*,(˚ *(¸ * 0 g  ß  oÈ 
+(Q 
+
+3*YE      Á   À  Ø  ë  s  Q  2    ˙  ·  »	  8œ
+  YE   ñ   ì
+           +   7   D   Q   ^   k   x   Ö   8é
+  •ú ∂å| *•x å| *•ù ∂å| *•û å| *• ∂å| *•~ áå| *•ü ∂å| *•† áå| *•° ∂å| *•z ∂å| *•™  (R 
+å| *•¢ ˛∂å| *YE   ò      ±	        ,   9   F   S   `   m   z   á   8¨	  •| Çåú *•x Çåú *•ù ≥åú *•û Çåú *• ≥åú *•~ Çåú *•ü ≥åú *•† Çåú *•° ≥åú *•z ≥åú *•™  (S 
+åú *•¢ ˛≥åú *YE   ò         Õ     ,   9   F   S   `   m   z   á   8»  •| Üåx *•ú ¥åx *•ù ¥åx *•û Üåx *• ¥åx *•~ Üåx *•ü ¥åx *•† Üåx *•° ¥åx *•z ¥åx *•™  (T 
+åx *•¢ ˛¥åx *YE   ñ            È  *   7   D   Q   ^   k   x   Ö   8‰  •| Éåù *•ú åù *•x åù *•û Éåù *• µåù *•~ Éåù *•ü µåù *•† Éåù *•° µåù *•z µåù *•™  (U 
+åù *•¢ ˛µåù *YE   ñ            *     7   D   Q   ^   k   x   Ö   8  •| åû *•ú ∂åû *•x åû *•ù ∂åû *• ∂åû *•~ áåû *•ü ∂åû *•† áåû *•° ∂åû *•z ∂åû *•™  (V 
+åû *•¢ ˛∂åû *YE   ì            )   5   %  A   N   [   h   u   Ç   8   •| å *•ú å *•x å *•ù å *•û å *•~ Ñå *•ü ∑å *•† Ñå *•° ∑å *•z ∑å *•™  (W 
+å *•¢ ˛å *YE   ï            *   7   C   G  P   ]   j   w   Ñ   8B  •| å~ *•ú ∏å~ *•x å~ *•ù ∏å~ *•û å~ *• ∏å~ *•ü ∏å~ *•† àå~ *•° ∏å~ *•z ∏å~ *•™  (X 
+å~ *•¢ ˛∏å~ *YE   ò            ,   9   F   S   f  `   m   z   á   8a  •| nåü *•ú jåü *•x nåü *•ù jåü *•û nåü *• jåü *•~ nåü *•† Öåü *•° πåü *•z πåü *•™  (Y 
+åü *•¢ ˛jåü *YE   ò            ,   9   F   S   `   Ç  m   z   á   8}  •| nå† *•ú ∫å† *•x nå† *•ù ∫å† *•û nå† *• ∫å† *•~ nå† *•ü ∫å† *•° ∫å† *•z ∫å† *•™  (Z 
+å† *•¢ ˛∫å† *YE   õ            ,   9   F   S   a   n   û  |   â   8ô  •| kå° *•ú kå° *•x kå° *•ù kå° *•û kå° *• kå° *•~ vkå° *•ü kå° *•† vkå° *•z kå° *•™  ([ 
+kå° *•¢ ˛kå° *YE   õ            ,   9   F   S   a   n   |   ∑  â   8≤  •| låz *•ú låz *•x låz *•ù låz *•û låz *• låz *•~ vlåz *•ü låz *•† vlåz *•° låz *•™  (\ 
+låz *•¢ ˛låz *YE   ¿         '   8   I   Z   k   |   ç   û   Ø   8œ   •| (] 
+å™  *•ú (^ 
+å™  *•x (_ 
+å™  *•ù (` 
+å™  *•û (a 
+å™  *• (b 
+å™  *•~ (c 
+å™  *•ü (d 
+å™  *•† (e 
+å™  *•° (f 
+å™  *•z (g 
+å™  *•¢ ˛(b 
+å™  *çv %rõT p¢% ˛∑  oü  
+¢%r±T p¢% ˛∑  oü  
+¢%rªT p¢(Ó  
+sh 
+z 0 `  ß  oÈ 
+(Q 
+
+3*YE      Á   À  Ø  ë  s  P  -    Û  ⁄  ¡	  8»
+  YE   ñ   å
+           +   7   D   Q   ^   k   x   Ö   8á
+  •ú —å| *•x å| *•ù —å| *•û å| *• —å| *•~ —å| *•ü —å| *•† —å| *•° —å| *•z —å| *•™  (R 
+å| *•¢ ˛—å| *YE   ò      ™	        ,   9   F   S   `   m   z   á   8•	  •| gåú *•x gåú *•ù gåú *•û gåú *• gåú *•~ gåú *•ü gåú *•† gåú *•° gåú *•z gåú *•™  (S 
+åú *•¢ ˛gåú *YE   ò         ∆     ,   9   F   S   `   m   z   á   8¡  •| “åx *•ú “åx *•ù “åx *•û “åx *• “åx *•~ “åx *•ü “åx *•† “åx *•° “åx *•z “åx *•™  (T 
+åx *•¢ ˛“åx *YE   ñ            ‚  *   7   D   Q   ^   k   x   Ö   8›  •| håù *•ú åù *•x åù *•û håù *• håù *•~ håù *•ü håù *•† håù *•° håù *•z håù *•™  (U 
+åù *•¢ ˛håù *YE   ñ            *      7   D   Q   ^   k   x   Ö   8˚  •| åû *•ú —åû *•x åû *•ù —åû *• —åû *•~ —åû *•ü —åû *•† —åû *•° —åû *•z —åû *•™  (V 
+åû *•¢ ˛—åû *YE   í            )   5     A   M   Z   g   t   Å   8  •| å *•ú å *•x å *•ù å *•û å *•~ å *•ü iå *•† iå *•° iå *•z iå *•™  (W 
+å *•¢ ˛å *YE   í            )   5   A   A  M   Z   g   t   Å   8<  •| å~ *•ú å~ *•x å~ *•ù å~ *•û å~ *• å~ *•ü må~ *•† må~ *•° må~ *•z må~ *•™  (X 
+å~ *•¢ ˛å~ *YE   ó            ,   9   F   S   d  `   l   y   Ü   8_  •| nåü *•ú jåü *•x nåü *•ù jåü *•û nåü *• jåü *•~ nåü *•† åü *•° jåü *•z jåü *•™  (Y 
+åü *•¢ ˛jåü *YE   ó            ,   9   F   S   `   Å  l   y   Ü   8|  •| nå† *•ú jå† *•x nå† *•ù jå† *•û nå† *• jå† *•~ nå† *•ü å† *•° nå† *•z nå† *•™  (Z 
+å† *•¢ ˛jå† *YE   õ            ,   9   F   S   a   n   û  |   â   8ô  •| kå° *•ú kå° *•x kå° *•ù k

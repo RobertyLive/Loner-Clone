@@ -1,0 +1,25 @@
+RARY_NATIVE_EXCEEDED_FILE_COUNT_MESSAGE=Počet souborů, které se pokoušíte odeslat, přesahuje počet podporovaný touto operací. Zkuste najednou přidat méně než {{limit}} souborů.
+DL_ARTWORK_LABEL=Kresba
+DL_CHART_LABEL=Graf
+DL_TEXT_LABEL=Text
+
+DL_LAUNCH_CC_APP_MESSAGE=K synchronizaci knihoven je nutné zapnout synchronizaci souborů služby Creative Cloud
+DL_LAUNCH_CC_APP_ENABLE_BUTTON=Povolit
+DL_LAUNCH_CC_APP_CANCEL_BUTTON=Ne, děkuji
+
+DL_ADD_COLOR_NAME_FILL=Barva výplně
+DL_ADD_COLOR_NAME_STROKE=Barva tahu
+DL_ADD_COLOR_NAME_PS_FOREGROUND=Barva popředí
+DL_ADD_COLOR_NAME_PS_TEXT=Barva textu
+DL_ADD_COLOR_NAME_PS_EFFECT_FILL=Barva překrytí efektu vrstvy
+DL_ADD_COLOR_NAME_PS_EFFECT_STROKE=Barva tahu efektu vrstvy
+DL_ADD_COLOR_NAME_AI_TEXT_FILL=Barva výplně textu
+DL_ADD_COLOR_NAME_AI_TEXT_STROKE=Barvu tahu textu
+DL_ADD_COLOR_NAME_ID_TEXT_FILL=Barva výplně textu
+DL_ADD_COLOR_NAME_ID_TEXT_STROKE=Barvu tahu textu
+
+DL_OPEN_DOC_FROM_TEMPLATE=Otevřít nový dokument
+
+DL_ADOBE_STOCK_PHOTO=Obrázek služby Adobe Stock
+DL_ADOBE_STOCK_VIDEO=Video služby Adobe Stock
+DL_ADOBE_STOCK_LIGHT=Sv�

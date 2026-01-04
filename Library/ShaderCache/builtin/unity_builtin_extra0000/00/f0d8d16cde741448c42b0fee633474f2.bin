@@ -1,0 +1,30 @@
+</em> and <em>ls</em> can be used by remote-helpers
+to retrieve information about blobs and trees that already exist in
+fast-import&#8217;s memory. This requires a channel from fast-import to the
+remote-helper.
+If it is advertised in addition to "import", Git establishes a pipe from
+fast-import to the remote-helper&#8217;s stdin.
+It follows that Git and fast-import are both connected to the
+remote-helper&#8217;s stdin. Because Git can send multiple commands to
+the remote-helper it is required that helpers that use <em>bidi-import</em>
+buffer all <em>import</em> commands of a batch before sending data to fast-import.
+This is to prevent mixing commands and fast-import responses on the
+helper&#8217;s stdin.</p>
+</dd>
+<dt class="hdlist1"><em>export-marks</em> &lt;file&gt;</dt>
+<dd>
+<p>This modifies the <em>export</em> capability, instructing Git to dump the
+internal marks table to &lt;file&gt; when complete. For details,
+read up on <code>--export-marks=</code><em>&lt;file&gt;</em> in <a href="git-fast-export.html">git-fast-export(1)</a>.</p>
+</dd>
+<dt class="hdlist1"><em>import-marks</em> &lt;file&gt;</dt>
+<dd>
+<p>This modifies the <em>export</em> capability, instructing Git to load the
+marks specified in &lt;file&gt; before processing any input. For details,
+read up on <code>--import-marks=</code><em>&lt;file&gt;</em> in <a href="git-fast-export.html">git-fast-export(1)</a>.</p>
+</dd>
+<dt class="hdlist1"><em>signed-tags</em></dt>
+<dd>
+<p>This modifies the <em>export</em> capability, instructing Git to pass
+<code>--signed-tags=verbatim</code> to <a href="git-fast-export.html">git-fast-export(1)</a>.  In the
+absence of this capability, G

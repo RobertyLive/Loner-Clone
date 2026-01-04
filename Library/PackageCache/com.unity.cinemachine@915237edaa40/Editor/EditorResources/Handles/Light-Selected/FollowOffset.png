@@ -1,0 +1,28 @@
+ee cref="T:System.Diagnostics.Metrics.Meter"/> constructors (<see cref="F:Microsoft.Extensions.Diagnostics.Metrics.MeterScope.Global"/>)
+            and those created via Dependency Injection with <see cref="M:System.Diagnostics.Metrics.IMeterFactory.Create(System.Diagnostics.Metrics.MeterOptions)"/> (<see cref="F:Microsoft.Extensions.Diagnostics.Metrics.MeterScope.Local"/>)."/>.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Extensions.Diagnostics.Metrics.InstrumentRule.Enable">
+            <summary>
+            Indicates if the instrument should be enabled for the listener.
+            </summary>
+        </member>
+        <member name="T:Microsoft.Extensions.Diagnostics.Metrics.IObservableInstrumentsSource">
+            <summary>
+            An interface registered with each IMetricsListener using <see cref="M:Microsoft.Extensions.Diagnostics.Metrics.IMetricsListener.Initialize(Microsoft.Extensions.Diagnostics.Metrics.IObservableInstrumentsSource)"/>. The listener
+            can call <see cref="M:Microsoft.Extensions.Diagnostics.Metrics.IObservableInstrumentsSource.RecordObservableInstruments"/> to receive the current set of measurements for enabled observable instruments.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Diagnostics.Metrics.IObservableInstrumentsSource.RecordObservableInstruments">
+            <summary>
+            Requests that the current set of metrics for enabled instruments be sent to the listener's <see cref="T:System.Diagnostics.Metrics.MeasurementCallback`1"/>'s.
+            </summary>
+        </member>
+        <member name="T:Microsoft.Extensions.Diagnostics.Metrics.MeasurementHandlers">
+            <summary>
+            A set of supported measurement types. If a listener does not support a given type, the measurement will be skipped.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Extensions.Diagnostics.Metrics.MeasurementHandlers.ByteHandler">
+            <summary>
+            A <see cref="T:System.Diagnostics.

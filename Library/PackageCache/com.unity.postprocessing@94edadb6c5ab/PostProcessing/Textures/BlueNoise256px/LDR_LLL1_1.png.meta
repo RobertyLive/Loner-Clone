@@ -1,0 +1,50 @@
+SystemUniqueId -->
+            <Property PropertyName="UniqueId">
+              <Type PSType="System.String" />
+              <RegularQuery AllowGlobbing="false">
+                <CmdletParameterMetadata PSName="StorageSubSystemUniqueId" IsMandatory="true" ValueFromPipelineByPropertyName="true" CmdletParameterSets="ByUniqueId" Aliases="StorageSubsystemId" />
+              </RegularQuery>
+            </Property>
+            <!-- StorageSubSystemFriendlyName -->
+            <Property PropertyName="FriendlyName">
+              <Type PSType="System.String" />
+              <RegularQuery AllowGlobbing="true">
+                <CmdletParameterMetadata PSName="StorageSubSystemFriendlyName" IsMandatory="true" ValueFromPipelineByPropertyName="true" CmdletParameterSets="ByFriendlyName" Position="0" ErrorOnNoMatch="true" />
+              </RegularQuery>
+            </Property>
+            <!-- StorageSubSystemName -->
+            <Property PropertyName="Name">
+              <Type PSType="System.String" />
+              <RegularQuery AllowGlobbing="true">
+                <CmdletParameterMetadata PSName="StorageSubSystemName" IsMandatory="true" ValueFromPipelineByPropertyName="true" CmdletParameterSets="ByName" />
+              </RegularQuery>
+            </Property>
+          </QueryableProperties>
+        </GetCmdletParameters>
+      </Cmdlet>
+      <!--
+
+      //
+      // New-StorageSubsystemVirtualDisk
+      //
+
+      -->
+      <Cmdlet>
+        <CmdletMetadata Verb="New" Noun="StorageSubsystemVirtualDisk" />
+        <Method MethodName="CreateVirtualDisk">
+          <Parameters>
+            <!-- FriendlyName -->
+            <Parameter ParameterName="FriendlyName">
+              <Type PSType="System.String" />
+              <CmdletParameterMetadata Aliases="VirtualDiskFriendlyName">
+                <ValidateNotNull />
+                <ValidateNotNullOrEmpty />
+              </CmdletParameterMetadata>
+            </Parameter>
+            <!-- Usage -->
+            <Parameter ParameterName="Usage">
+              <Type PSType="StorageSubSystem.CreateVirtualDisk.Usage" />
+              <CmdletParameterMetadata />
+            </Parameter>
+            <!-- OtherUsageDescription -->
+         

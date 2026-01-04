@@ -1,0 +1,63 @@
+*|dsk	6144
+*|hd color settings	*|hdr	1
+*|adjust system volume	*|sound	4166
+*|view ram info	*|memory	3560
+*|turn windows features on or off	*|hyperv	4909
+*|printers & scanners	*|pronter	9408
+*|credential manager	*|windows cred	5396
+*|add or remove programs	*|delete	6312
+*|add or remove programs	*|repair	8517
+*|troubleshoot settings	*|troubleshooting	2093
+*|system	*|syste,	5017
+*|credential manager	*|credentials	4758
+*|printers & scanners	*|printre	9045
+*|device manager	*|deviec	9250
+*|bluetooth and other devices settings	*|bluettoth	7568
+*|sign-in options	*|user name	5222
+*|display settings	*|dis[	7478
+*|credential manager	*|credi	5946
+*|change wifi settings	*|wireless	4355
+*|app & browser control	*|smart screen	753
+*|change screen saver	*|scrre	6502
+*|printers & scanners	*|prinetr	8814
+*|dark theme settings	*|dark mode	2183
+*|storage	*|hard drive	5962
+*|identify and repair network problems	*|network troubleshooter	2750
+*|edit power plan	*|power option	3839
+*|date & time settings	*|date and time	4560
+*|perform recommended maintenance tasks automatically	*|defrag	1
+*|printers & scanners	*|printer settings	8178
+*|change display settings	*|dis[	7638
+*|sign-in options	*|fingerprint	4492
+*|date & time settings	*|change time	5391
+*|printers & scanners	*|priners	9434
+*|adjust system volume	*|vou	6524
+*|change your country or region	*|location	1479
+*|date & time settings	*|date time	5587
+*|audio settings	*|speak	4378
+*|change brightness level	*|brigth	7265
+*|default app settings	*|default apps	4588
+*|delete cookies or temporary files	*|temp files	4849
+*|adjust system volume	*|volume control	6492
+*|bluetooth and other devices settings	*|blueooth	7901
+*|identify and repair network problems	*|wifi	185
+*|sign-in options	*|windows hello	3607
+*|printers & scanners	*|prineter	9517
+*|change your homepage	*|home page	1
+*|internet options	*|internet connection	5268
+*|delete cookies or temporary files	*|clear cookies	4124
+*|storage	*|free space	6218
+*|device manager	*|devise	7890
+*|bluetooth and other devices settings	*|bluetooh	6900
+*|adjust cleartype text	*|clear type	3131
+*|change default printer	*|set default printer	4899
+*|internet options	*|internet settings	5503
+*|pen settings	*|stylus	4197
+*|change text-to-speech settings	*|text to	1
+*|apps & features	*|uninstall a program	5620
+*|sign-in options	*|sign in options	4867
+*|internet options	*|tools	4963
+*|bluetooth and other devices settings	*|bluetoth	7064
+*|change your mouse settings	*|mouse properties	5152
+*|edit power plan	*|power sett	4828
+*|invite someone to connect to your pc and help you, or offer to help someone else	*|remote assistance	17

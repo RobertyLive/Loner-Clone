@@ -1,0 +1,110 @@
+ct:"{0}" n'est pas pris en charge si la série de tests est configurée avec testsettings., {0}Erreur : {0}Informations : {0}Avertissement : {0}�-c|--Configuration|/c|/Configuration:<configuration>
+      Configuration pour laquelle le projet est généré. Exemple : Debug/ReleaseiLe nom convivial du collecteur de données '{0}' n'est pas valide. Le collecteur de données est ignoré.Jours#Déboguer les messages de traces :`Délai expiré pour se connecter ou traiter la requête pour DesignModeClient sur le port : {0}Y--DisableAutoFakes|/DisableAutoFakes:<true/false>
+     Exemple : /DisableAutoFakes:true�La couverture du code n'est pas disponible pour les applications du Windows Store. L'analyse de la couverture du code a été ignorée pour cette série de tests.�La couverture du code n'est pas disponible pour les applications Windows Phone. L'analyse de la couverture du code a été ignorée pour cette série de tests.�La lecture des paramètres de l'adaptateur de données de diagnostic a levé une exception durant l'exécution de '{0}'. Tous les adaptateurs de données de diagnostic seront ignorés dans cette série.�Les adaptateurs de données de diagnostic ne sont pas pris en charge durant l'exécution de tests unitaires pour les applications du Windows Store. Supprimez les adaptateurs de données de diagnostic des paramètres.�Les adaptateurs de données de diagnostic ne sont pas pris en charge durant l'exécution de tests unitaires pour les applications Windows Phone. Supprimez les adaptateurs de données de diagnostic des paramètres.FÉchec de la découverte pour les sources indiquées. Exception : {0};Le paramètre "{0}" ne doit être fourni qu'une seule fois.�--Blame|/Blame:[CollectDump];[CollectAlways]=[Value];[DumpType]=[Value]
+      Exécute le test en mode blame. Cette option est utile pour isoler le test problématique qui cause le plantage de l'hôte de test.
+      Il crée un fichier de sortie dans le répertoire actif nommé "Sequence.xml",
+      qui capture l'ordre d'exécution du test avant le plantage.
+      Vous pouvez éventuellement choisir de collecter le fichier dump du processus de l'hôte de test.
+      Quand vous choisissez de collecter le fichier dump, par défaut, un mini-dump est collecté lors du plantage.
+      Vous pouvez aussi choisir de remplacer ce comportement par défaut par des paramètres facultatifs :
+      CollectAlways - Pour collecter le fichier dump à la fermeture, même s'il n'y pas de plantage (true/false) 
+      DumpType - Pour spécifier le type de fichier dump (mini/full).
+      Exemple : /Blame
+               /Blame:CollectDump
+               /Blame:CollectDump;CollectAlways=true;DumpType=fullc/EnableCodeCoverage
+      Active le collecteur de données 'CodeCoverage' pour la série de tests.�--Diag|/Diag:<chemin du fichier journal>
+      Permet d'activer les journaux pour la plateforme de test.
+      Les journaux sont écrits dans le fichier fourni.
+
+      Change le niveau de trace des journaux comme indiqué ci-dessous
+      Exemple : /Diag:<chemin du fichier journal>;tracelevel=<"verbose" par défaut>
+      Valeurs autorisées pour tracelevel : off, error, warning, info et verbose.�--logger|/logger:<URI/nom convivial du journaliseur>
+      Spécifiez un journaliseur pour les résultats des tests. Par exemple, pour journaliser des résultats dans un 
+      fichier de résultats des tests Visual Studio (TRX), utilisez /logger:trx[;LogFileName=<nom de fichier unique par défaut>]
+      Crée un fichier dans le répertoire TestResults avec le LogFileName indiqué.
+
+      Change le niveau de verbosité des messages du journaliseur de la console, comme indiqué ci-dessous
+      Exemple : /logger:console;verbosity=<"minimal" par défaut>
+      Valeurs autorisées pour verbosity : quiet, minimal, normal et detailed.
+
+      Change le préfixe du niveau de diagnostic pour le journaliseur de la console, comme indiqué ci-dessous
+      Exemple : /logger:console;prefix=<"false" par défaut>
+      En savoir plus sur le journaliseur de la console : https://aka.ms/console-logger�--logger|/logger:<URI/nom convivial du journaliseur>
+      Spécifiez un journaliseur pour les résultats des tests. Par exemple, pour journaliser des résultats dans un 
+      fichier de résultats des tests Visual Studio (TRX), utilisez /logger:trx[;LogFileName=<nom de fichier unique par défaut>]
+      Crée un fichier dans le répertoire TestResults avec le LogFileName indiqué.
+
+      Change le niveau de verbosité des messages du journaliseur de la console, comme indiqué ci-dessous
+      Exemple : /logger:console;verbosity=<"normal" par défaut>
+      Valeurs autorisées pour verbosity : quiet, minimal, normal et detailed.
+
+      Change le préfixe du niveau de diagnostic pour le journaliseur de la console, comme indiqué ci-dessous
+      Exemple : /logger:console;prefix=<"false" par défaut>
+      En savoir plus sur le journaliseur de la console : https://aka.ms/console-logger�-e|--Environment|/e|/Environment:<NAME>=<VALUE>
+      Définit la valeur d'une variable d'environnement. Crée la variable si elle n'existe pas, remplace si elle existe. Cela impliquera le commutateur /InIsolation et forcera les tests à être exécutés dans un processus isolé.
+      
+      Cet argument peut être spécifié plusieurs fois pour fournir plusieurs variables.
+
+      Exemple: -e:VARIABLE1=VALUE1
+               -e:ANOTHER_VARIABLE="VALUE WITH SPACES"
+               -e:ANOTHER_VARIABLE="VALUE;seperated with;semicolons"mLa variable d'environnement '{0}' est déjà définie, mais elle est substituée par l'argument -Environment.9Erreur lors de l’hébergement du canal de communicationMessage d'erreur :�  Pour exécuter les tests :
+    >vstest.console.exe tests.dll 
+  Pour exécuter les tests avec des paramètres supplémentaires, par exemple des collecteurs de données :
+    >vstest.console.exe tests.dll /Settings:Local.RunSettingsOUne exception s'est produite durant l'instanciation de l'extension '{0}' : {1}  Durée totale : {0:0.0000} {1}        URI : {0}Échoué'{0}' introuvable.�Framework35 n'est pas pris en charge. Pour les projets ciblant .NET Framework 3.5, le test s'exécutera dans CLR 4.0 en « mode de compatibilité ».�--Framework|/Framework:<Framework Version>
+      Version cible de .Net Framework à utiliser pour l'exécution des tests. 
+      Les valeurs valides sont ".NETFramework,Version=v4.5.1", ".NETCoreApp,Version=v1.0" etc.
+      Les autres valeurs prises en charge sont Framework40, Framework45, FrameworkCore10 et FrameworkUap10.�L'argument /Framework nécessite la version cible du .Net Framework pour la série de tests. Exemple : /Framework:".NETFramework,Version=v4.5.1"E-?|--Help|/?|/Help
+      Permet d'afficher ce message d'utilisation.Arguments :EDescription : exécute les tests à partir des fichiers spécifiés.
+Options :]Utilisation : vstest.console.exe [Arguments] [Options] [[--] <arguments de RunSettings>...]]HeureshL'indicateur /InIsolation est déprécié. Les tests sont toujours exécutés dans un processus distinct�--InIsolation|/InIsolation
+      Exécute les tests dans un processus isolé. Le processus vstest.console.exe 
+      est moins susceptible de s'arrêter en cas d'erreur durant les tests, mais ces derniers 
+      risquent de s'exécuter plus lentement.1L’argument AeDebugger '{0}' n’est pas valide.iL’argument {0} n'est pas valide. Utilisez l'option /help pour vérifier la liste des arguments valides.iTaille de lot non valide {0}. La taille du lot doit être supérieure à zéro. Exemple : /BatchSize:10(L'argument blame '{0}' n'est pas valide.*La configuration indiquée est non valide.'L'argument diag '{0}' n'est pas valide.1Le chemin du fichier Diag '{0}' n'est pas valide.�L'argument {0} n'est pas attendu dans la commande 'EnableCodeCoverage'. Spécifiez la commande sans l'argument (exemple : vstest.console.exe myTests.dll /EnableCodeCoverage), puis réessayez.�Version non valide du .Net Framework : {0}. Indiquez le nom complet de TargetFramework (exemple : .NETCoreApp,Version=v2.0). Les autres versions du .Net Framework prises en charge sont Framework40, Framework45, FrameworkCore10 et FrameworkUap10.�L'argument {0} n'est pas attendu dans la commande 'InIsolation'. Spécifiez la commande sans l'argument (exemple : vstest.console.exe myTests.dll /InIsolation), puis réessayez.)L'argument logger '{0}' n'est pas valide.�L'argument {0} n'est pas attendu dans la commande 'Parallel'. Spécifiez la commande sans l'argument (exemple : vstest.console.exe myTests.dll /Parallel), puis réessayez.�L'argument --ParentProcessId|/ParentProcessId nécessite l'ID de processus, qui doit être indiqué sous forme d'entier. Spécifiez l'ID de processus du processus parent qui a lancé ce processus.RType de plate-forme non valide : {0}. Les types de plates-formes valides sont {1}.�L'argument --Port|/Port nécessite le numéro de port, qui doit être indiqué sous forme d'entier. Spécifiez le port de connexion du socket et de réception des messages d'événement.6Le répertoire spécifié n’est pas valide : «{0}»�Le répertoire spécifié pour l’exécutable procdump n’est pas valide et l’outil est introuvable dans les variables d’environnement (PROCDUMP_PATH, PATH)PLe chemin '{0}' spécifié dans 'ResultsDirectory' est non valide. Erreur : {1}OLe chemin '{0}' spécifié dans 'TestAdapterPath' est non valide. Erreur : {1}�Impossible de spécifier l'argument /TestCaseFilter avec /Tests. Le filtrage des cas de test est non applicable quand des tests sont spécifiés.�L'argument de paramètre de série de tests '{0}' est non valide. Utilisez le format ci-dessous.
+     Format : TestRunParameters.Parameter(name=\"<name>\", value=\"<value>\")#TestSessionCorrelationId non valide�L'argument {0} n'est pas attendu dans la commande 'UseVsixExtensions'. Spécifiez la commande indiquant si les extensions vsix doivent être utilisées ou ignorées (exemple : vstest.console.exe myTests.dll /UseVsixExtensions:true), puis réessayez.C/ListDiscoverers
+      Liste les découvreurs de tests installés.@/ListExecutors
+      Liste les exécuteurs de tests installés.O/ListLoggers
+      Liste les enregistreurs d'événements de tests installés.W/ListSettingsProviders
+      Liste les fournisseurs de paramètres de test installés.&Les tests suivants sont disponibles :~-lt|--ListTests|/lt|/ListTests:<nom de fichier>
+      Liste tous les tests découverts dans le conteneur de tests spécifié.*Le fichier {0} fourni est en lecture seule        FriendlyName : {0}eImpossible de localiser un enregistreur d'événements de tests ayant pour URI ou FriendlyName '{0}'.        URI : {0}~L'URI de l'enregistreur d'événements de tests '{0}' est non valide. L'enregistreur d'événements de tests va être ignoré.PUn ou plusieurs paramètres d'exécution fournis contiennent un jeton non valideVersion de VSTest {0}Minutes2Aucun fichier source de test n'a été spécifié.�Le chemin '{0}' spécifié dans 'TestAdapterPath' ne contient aucun adaptateur de test. Indiquez un chemin valide, puis réessayez.Paramètre non reconnu "{0}".$Aucun argument n'a été spécifié.�Le package d'application '{0}' n'a pas de point d'entrée pour l'exécuteur de tests. Pour exécuter les tests unitaires des applications du Windows Store, créez un package de l'application à l'aide du projet de bibliothèque de tests unitaires d'applications du Windows Store.�Au total, {0} tests ont été découverts mais aucun d'entre eux ne correspond aux critères de sélection spécifiés ({1}). Utilisez les valeurs appropriées, puis réessayez.�Aucun test disponible dans {0}. Vérifiez que les paramètres des découvreurs, des exécuteurs, de la plateforme et de la version de Framework installés sont appropriés, puis réessayez.�{0} est généré pour {1}/{2}. Les assemblys de tests spécifiés dans une série doivent avoir une version cible du .Net Framework et une plateforme communes.Aucun(e)Pas exécuté9Erreur au moment de l'ouverture du fichier réponse '{0}'`-o|--Output|/o|/Output:<sortie>
+      Répertoire contenant les fichiers binaires à exécuter.[Le chemin associé à Output est introuvable. Fournissez un chemin valide, puis réessayez.�--Parallel|/Parallel
+      Spécifie que les tests doivent être exécutés en parallèle. Par défaut, il est
+      possible d'utiliser la totalité des cœurs disponibles sur la machine.
+      Vous pouvez configurer le nombre de cœurs à utiliser à l'aide d'un fichier de paramètres.�--ParentProcessId|/ParentProcessId:<id du processus parent>
+      ID de processus du processus parent chargé de lancer le processus actuel.RéussiaImpossible de démarrer la série de tests pour les tests d'une application Windows Phone : {0}.�Le package d'application '{0}' n'a pas de point d'entrée pour l'exécuteur de tests. Pour exécuter les tests unitaires des applications Windows Phone, créez un package de l'application à l'aide du projet d'application de tests unitaires Windows Phone.�--Platform|/Platform:<Platform type>
+      Architecture de plate-forme cible à utiliser pour l'exécution des tests. 
+      Les valeurs valides sont x86, x64 et ARM.�Si vous utilisez l'argument /Platform, le type de plateforme cible de la série de tests doit être fourni. Exemple : /Platform:x86c--Port|/Port:<port>
+      Port de connexion du socket et de réception des messages d'événement.^Le débogueur post-mortem n’est pas pris en charge dans le système d’exploitation actuel.QDumpDirectoryPath doit être spécifié pour installer le débogueur post-mortem.+Nom de fichier procdump introuvable : '{0}'uProcDumpToolDirectoryPath doit être spécifié pour installer ou annuler l’installation du débogueur post-mortem.Série de tests en coursLe chemin {0} n'existe pas.VL’attente de la connexion du gestionnaire de demandes a expiré après {0} secondes.D@<fichier>
+      Consultez le fichier réponse pour plus d'options.�--ResultsDirectory|/ResultsDirectory
+      Le répertoire des résultats des tests est créé dans le chemin spécifié, s'il n'existe pas.
+      Exemple : /ResultsDirectory:<chemin du répertoire des résultats>�Le paramètre /ResultsDirectory nécessite une valeur, où les résultats des tests doivent être enregistrés. Exemple :  /ResultsDirectory:c:\MyTestResultsDirectoryk--Settings|/Settings:<fichier de paramètres>
+      Paramètres à utiliser durant l'exécution des tests.0Le fichier de paramètres '{0}' est introuvable.=Le paramètre /Settings nécessite un fichier de paramètres._Un seul package d'application (fichier .appx) peut être spécifié pour l'exécution de tests.�--Tests|/Tests:<noms de tests>
+      Permet d'exécuter les tests dont les noms correspondent aux valeurs fournies. Pour fournir plusieurs
+      valeurs, séparez-les par des virgules.
+      Exemples : /Tests:TestMethod1
+                /Tests:TestMethod1,testMethod2�[TestFileNames]
+      Exécutez des tests à partir des fichiers ou des modèles de caractères génériques spécifiés. Séparez plusieurs modèles ou noms de fichiers de test
+      par des espaces. Affectez à la verbosité du journaliseur de console la valeur Detailed pour voir les fichiers de test correspondants.
+      Exemples : mytestproject.dll
+                mytestproject.dll myothertestproject.exe
+                testproject*.dll my*project.dll�Les collecteurs de données autres que la couverture du code et Microsoft Fakes configurés via les paramètres d'exécution ne sont pas pris en charge avec les paramètres de test incorporés. Pour plus d'informations, consultez https://aka.ms/vstest-configure-datacollector. Paramètres d'exécution : {0}.,Secondes        SettingName : {0}Ignoré�Au total, {0} tests ont été découverts mais certains d'entre eux ne correspondent pas aux critères de sélection spécifiés ({1}). Utilisez les valeurs appropriées, puis réessayez.�L'argument /Tests nécessite un ou plusieurs noms de tests spécifiques ou leurs sous-chaînes.
+       Exemples : /Tests:TestsMethod1, /Tests:TestMethod1,method2 (Arborescence des appels de procédure :NL’attente du démarrage de la session de test a expiré après {0} secondes.3Démarrage de la découverte de tests, patientez...1Démarrage de l'exécution de tests, patientez...Messages d'erreur standard :Messages de sortie standard :KL’attente d’arrêt de la session de test a expiré après {0} secondes.{0} {1}�De plus, vous pouvez spécifier le chemin des adaptateurs de tests à l'aide de la commande /TestAdapterPath. Exemple : /TestAdapterPath:<chemin d'adaptateurs personnalisés>.*        Types de fichier pris en charge : {0}, {0}�Utilisation du mode Isolation pour exécuter les tests unitaires des applications du Windows Store. Utilisez le paramètre /InIsolation pour supprimer cet avertissement.�Utilisation du mode Isolation pour exécuter les tests, conformément aux paramètres effectifs de la plateforme : {0} et du .Net Framework :{1} de la série de tests. Utilisez le paramètre /inIsolation pour supprimer cet avertissement.�Utilisation du mode Isolation pour exécuter les tests unitaires des applications Windows Phone. Utilisez le paramètre /InIsolation pour supprimer cet avertissement.�Utilisation du mode Isolation pour exécuter les tests, car les adaptateurs de données de diagnostic ont été activés dans les paramètres d'exécution. Utilisez le paramètre /inIsolation pour supprimer cet avertissement.�--TestAdapterLoadingStrategy|/TestAdapterLoadingStrategy:<strategy>
+      Cela affecte le comportement de chargement de l'adaptateur.
+
+      Comportements actuellement pris en charge : 
+        – Explicite : la plate-forme de test ne chargera que les adaptateurs spécifiés par /TestAdapterPath (ou le nœud RunConfiguration.TestAdaptersPaths). 
+                    Si un chemin d'adaptateur spécifique est fourni, l'adaptateur sera chargé ; si un chemin de répertoire est fourni, les adaptateurs directement dans ce dossier seront chargés, sauf si l'option Récursif est également spécifiée.
+                    Si aucun chemin d'adaptateur n'est spécifié, l'exécution du test échouera.
+                    Cela impliquera le commutateur /InIsolation et forcera les tests à être exécutés dans un processus isolé.
+        
+        – Par défaut : la plate-forme de test chargera les adaptateurs si cet argument n'a pas été spécifié. 
+                   Il récupérera les extensions à côté de la source, a fourni des chemins d'adaptateur supplémentaires et à partir du répertoire par défaut.
+
+        – DefaultRuntimeProviders : charger les fournisseurs d'exécution par défaut fournis avec la plate-forme de test. 
+                                   Si cela n'est pas spécifié lorsque l'option "Explicit" est définie, un fournisseur d'hôte de test doit être spécifié explicitement.
+
+        – Répertoire des extensions : Charger les adaptateurs et le dossier Extensions.
+
+        – NextToSource : charger les adaptateurs à côté de la source. 
+
+        – Récursif : recherche récursive dans les dossiers lors du chargement des adaptateurs. Cela nécessite que "Explicit" ou "NextToSource" soit également spécifié.QLa valeur spécifiée ({0}) pour /TestAdapterLoadingStrategy n’est pas valide !�La stratégie de chargement de carte récursive ne peut pas être utilisée seule. Effectuez une combinaison avec un ou plusieurs des éléments suivants : {0}�Le chemin de recherche fourni pour l'adaptateur de test personnalisé est introuvable. Indiquez un chemin valide, puis réessayez.�--TestAdapterPath|/TestAdapterPath
+      Cela oblige le processus vstest.console.exe à utiliser des adaptateurs de test personnalisés
+      à partir d'un chemin donné (le cas échéa

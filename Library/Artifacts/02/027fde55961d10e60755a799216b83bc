@@ -1,0 +1,397 @@
+else-1">
+ <code lang="fsharp">
+ open FSharp.Quotations.DerivedPatterns
+
+ match &lt;@ true || false @&gt; with
+ | OrElse (a, b) -> (a, b)
+ | _ -> failwith "unexpected"
+ </code>
+ Evaluates to <c>&lt;@ true @&gt;, &lt;@ false @&gt;</c>.
+ </example>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.DerivedPatternsModule.AndAlsoPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions of the form <c>a &amp;&amp; b</c> </summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the left and right parts of the input expression</returns>
+
+ <example id="andalso-1">
+ <code lang="fsharp">
+ open FSharp.Quotations.DerivedPatterns
+
+ match &lt;@ true &amp;&amp; false @&gt; with
+ | AndAlso (a, b) -> (a, b)
+ | _ -> failwith "unexpected"
+ </code>
+ Evaluates to <c>&lt;@ true @&gt;, &lt;@ false @&gt;</c>.
+ </example>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.DerivedPatternsModule.ApplicationsPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent the application of a (possibly curried or tupled) first class function value</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the function and curried arguments of the input expression</returns>
+
+ <example id="applications-1">
+ <code lang="fsharp">
+ open FSharp.Quotations.Patterns
+ open FSharp.Quotations.DerivedPatterns
+
+ match &lt;@ (fun f -> f (1, 2) 3) @&gt; with
+ | Lambda(_, Applications (f, curriedArgs)) ->
+     curriedArgs |> List.map (fun args -> args.Length)
+ | _ -> failwith "unexpected"
+ </code>
+ Evaluates to <c>[2; 1]</c>.
+ </example>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.DerivedPatternsModule.LambdasPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent a (possibly curried or tupled) first class function value</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the curried variables and body of the input expression</returns>
+
+ <example id="lambdas-1">
+ <code lang="fsharp">
+ open FSharp.Quotations.Patterns
+ open FSharp.Quotations.DerivedPatterns
+
+ match &lt;@ (fun (a1, a2) b -> ()) @&gt; with
+ | Lambdas(curriedVars, _) ->
+     curriedVars |> List.map (List.map (fun arg -> arg.Name))
+ | _ -> failwith "unexpected"
+ </code>
+ Evaluates to <c>[["a1"; "a2"]; ["b"]]</c>.
+ </example>
+</member>
+<member name="T:Microsoft.FSharp.Quotations.DerivedPatternsModule">
+ <summary>Contains a set of derived F# active patterns to analyze F# expression objects</summary>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.VarSetPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent setting a mutable variable</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the variable and value expression of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.VarPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent a variable</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the variable of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.WithValuePattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that are a value with an associated definition</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the boxed value, its static type and its definition</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.ValueWithNamePattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent a constant value</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the boxed value, its static type and its name</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.ValuePattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent a constant value. This also matches expressions matched by ValueWithName.</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the boxed value and its static type</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.UnionCaseTestPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent a test if a value is of a particular union case</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the expression and union case being tested</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.TypeTestPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent a dynamic type test</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the expression and type being tested</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.TupleGetPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent getting a tuple field</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the expression and tuple field being accessed</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.TryFinallyPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent a try/finally construct </summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the body and handler parts of the try/finally expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.TryWithPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent a try/with construct for exception filtering and catching </summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the body, exception variable, filter expression and catch expression of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.SequentialPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent sequential execution of one expression followed by another</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the two sub-expressions of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.QuoteTypedPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent a nested typed quotation literal</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the nested quotation expression of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.QuoteRawPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent a nested raw quotation literal</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the nested quotation expression of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.QuotePattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent a nested quotation literal</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the nested quotation expression of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.PropertySetPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent setting a static or instance property, or a non-function value declared in a module</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the object, property, indexer arguments and setter value of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.PropertyGetPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent the read of a static or instance property, or a non-function value declared in a module</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the object, property and indexer arguments of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.NewStructTuplePattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent construction of struct tuple values</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the element expressions of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.NewTuplePattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent construction of tuple values</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the element expressions of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.NewUnionCasePattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent construction of particular union case values</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the union case and field values of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.NewRecordPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent construction of record values</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the record type and field values of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.NewObjectPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent invocation of object constructors</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the constructor and arguments of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.NewDelegatePattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent construction of delegate values</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the delegate type, argument parameters and body of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.DefaultValuePattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent invocations of a default constructor of a struct</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the relevant type of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.NewArrayPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent the construction of arrays </summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the element type and values of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.LetRecursivePattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent recursive let bindings of one or more variables</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the bindings and body of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.LetPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent let bindings</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the variable, binding expression and body of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.LambdaPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent first class function values</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the variable and body of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.IfThenElsePattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent conditionals</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the condition, then-branch and else-branch of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.WhileLoopPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent while loops </summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the guard and body of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.ForIntegerRangeLoopPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent loops over integer ranges</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the value, start, finish and body of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.FieldSetPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent setting a static or instance field </summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the object, field and value of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.FieldGetPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent getting a static or instance field </summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the object and field of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.CoercePattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent coercions from one type to another</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the source expression and target type of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.CallWithWitnessesPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent calls to static and instance methods, and functions defined in modules, including witness arguments</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the object, method, witness-argument and argument sub-expressions of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.CallPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent calls to static and instance methods, and functions defined in modules</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the object, method and argument sub-expressions of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.ApplicationPattern(Microsoft.FSharp.Quotations.FSharpExpr)">
+ <summary>An active pattern to recognize expressions that represent applications of first class function values</summary>
+
+ <param name="input">The input expression to match against.</param>
+
+ <returns>When successful, the pattern binds the function and argument of the input expression</returns>
+
+ <example-tbd></example-tbd>
+</member>
+<member name="M:Microsoft.FSharp.Quotations.PatternsModule.AddressSetPattern(Microsoft.F

@@ -1,0 +1,4 @@
+² essere vuoto o Null.Il file {0} non esiste."L'oggetto deve essere di tipo {0}.
+Interrotto
+CompletatoDisconnessoErroreNon superatoIn corsoSenza risultatiNon eseguitoNon eseguibileSuperato Superato (esecuzione interrotta)
+In sospesoTimeoutAvviso@Non Ã¨ stato trovato alcun convertitore di tipo per il tipo {0}."Il nodo '{0}' non Ã¨ stato trovato’Non Ã¨ possibile leggere dal flusso specificato. I dati di un flusso non possono essere inviati se il flusso non supporta l'operazione di lettura.OIl nome file '{0}' specificato contiene i seguenti caratteri non validi: '{1}'.,Il nome file '{0}'

@@ -1,0 +1,33 @@
+value must be inside the range {0}-{1}.</summary>
+        </member>
+        <member name="P:System.SR.Validation_scalar_range_violation_not_outside_range">
+            <summary>The value must not be in the range {0}-{1}.</summary>
+        </member>
+        <member name="P:System.SR.Validator_Attribute_param_not_validator">
+            <summary>Only types derived from {0} are valid validator types.</summary>
+        </member>
+        <member name="P:System.SR.Validator_does_not_support_elem_type">
+            <summary>The supplied validator does not support validating the configuration element type {0}.</summary>
+        </member>
+        <member name="P:System.SR.Validator_does_not_support_prop_type">
+            <summary>The supplied validator does not support the type of the property '{0}'.</summary>
+        </member>
+        <member name="P:System.SR.Validator_element_not_valid">
+            <summary>The configuration element '{0}' is not valid. The error is: {1}</summary>
+        </member>
+        <member name="P:System.SR.Validator_method_not_found">
+            <summary>The supplied method name '{0}' was not found. The callback method must be a public static void method with one object parameter.</summary>
+        </member>
+        <member name="P:System.SR.Validator_min_greater_than_max">
+            <summary>The upper range limit value must be greater than the lower range limit value.</summary>
+        </member>
+        <member name="P:System.SR.Validator_scalar_resolution_violation">
+            <summary>The value must have a resolution of {0}.</summary>
+        </member>
+        <member name="P:System.SR.Validator_string_invalid_chars">
+            <summary>The string cannot contain any of the following characters: '{0}'.</summary>
+        </member>
+        <member name="P:System.SR.Validator_string_max_length">
+            <summary>The string must be no more than {0} characters long.</summary>
+        </member>
+        <member name="P:System.SR.Validator_string_min_length">

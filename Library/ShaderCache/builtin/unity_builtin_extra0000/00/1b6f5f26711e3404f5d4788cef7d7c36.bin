@@ -1,0 +1,30 @@
+ the A in the first line:
+
+	A young intelligent turtle ~
+
+Now type xxxxxxx to delete "A young".  The result is as follows:
+
+	 intelligent turtle ~
+
+Type "u" to undo the last delete.  That delete removed the g, so the undo
+restores the character.
+
+	g intelligent turtle ~
+
+The next "u" command restores the next-to-last character deleted:
+
+	ng intelligent turtle ~
+
+The next "u" command gives you the u, and so on:
+
+	ung intelligent turtle ~
+	oung intelligent turtle ~
+	young intelligent turtle ~
+	 young intelligent turtle ~
+	A young intelligent turtle ~
+
+	Note:
+	If you type "u" twice, and the result is that you get the same text
+	back, you have Vim configured to work Vi compatible.  Look here to fix
+	this: |not-compatible|.
+	   Thi

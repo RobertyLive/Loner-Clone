@@ -1,0 +1,14 @@
+ Object) As String
+        If value Is Nothing OrElse value.GetType() IsNot GetType(TimeSpan) Then
+            Return _code.CreateLiteral(value)
+        End If
+
+        Return String.Format(CultureInfo.InvariantCulture, "new TimeSpan({0})", DirectCast(value, TimeSpan).Ticks)
+    End Function
+
+    Public Function VerifyCaseInsensitiveTypeUniqueness(types As IEnumerable(Of String), sourceFile As String) As Boolean
+        ArgumentNotNull(types, "types")
+        ArgumentNotNull(sourceFile, "sourceFile")
+
+        Dim hash As HashSet(Of String) = New HashSet(Of String)(StringComparer.InvariantCultureIgnoreCase)
+        If types.Any(Function(item) Not ha

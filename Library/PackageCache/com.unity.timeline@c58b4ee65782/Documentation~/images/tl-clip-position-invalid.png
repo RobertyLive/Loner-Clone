@@ -1,0 +1,263 @@
+a de arquivos para indexação, especifique o caminho do sistema de arquivos a ser indexado na Política de Grupo "Configuração do Computador".</string>
+      <string id="DefaultExcludedPaths">Caminhos excluídos por padrão</string>
+      <string id="DefaultExcludedPaths_Explain">A habilitação dessa política permite especificar uma lista de caminhos a serem excluídos da indexação por padrão. O usuário pode substituir esses caminhos e incluí-los na indexação.</string>
+      <string id="DefaultExcludedPaths_User_Explain">A habilitação dessa política permite especificar uma lista de caminhos a serem excluídos da indexação por padrão. O usuário pode substituir esses caminhos e incluí-los na indexação. De acordo com cada usuário, essa configuração de política funcionará apenas se um manipulador de protocolo, que estiver fazendo referência a um escopo de usuário com base em SID, como MAPI, for especificado. Caminhos do sistema de arquivos que não fizerem referência a um SID específico não serão excluídos da indexação se eles somente forem especificados na Política de Grupo em "Configuração do Usuário". Para restringir um caminho do sistema de arquivos da indexação, especifique o caminho do sistema de arquivos a ser indexado na Política de Grupo "Configuração do Computador".</string>
+      <string id="DataDirectory">Local dos dados do indexador</string>
+      <string id="ExplainDataDirectory">Banco de dados de indexador de repositório neste diretório. Este diretório deverá estar em uma unidade local fixa.</string>
+      <string id="PartDataDirectory">Caminho (abaixo de 128 caracteres):</string>
+      <string id="AddPrimaryIntranetSearchScope">Adicionar local primário de pesquisa na intranet</string>
+      <string id="AddPrimaryIntranetSearchScope_Explain">A habilitação dessa política permite adicionar um local principal de pesquisa na intranet no Windows Desktop Search. O valor desse texto deve ser:
+
+nome,url
+
+Por exemplo:
+
+Intranet,http://intranetsearch.aspx?k=$w 
+
+Você deve fornecer o seguinte:
+1) Um nome de escopo, como 'Intranet'.
+2) A URL do serviço de pesquisa. Use $w no lugar do termo de consulta para a URL do serviço de pesquisa.
+
+Se seu serviço de pesquisa na intranet for SharePoint Portal Server, a consulta deverá ser parecida com:
+http://sitename/Search.aspx?k=$w
+
+Se seu serviço de pesquisa na intranet for Windows SharePoint Services (WSS), a consulta deverá ser parecida com o exemplo a seguir, onde XXXX é a ID local do seu WSS Service. Por exemplo, a ID local em inglês é 1033.
+http://sitename/_layouts/XXXX/searchresults.aspx?SearchString=$w
+
+Isso adiciona o local de pesquisa na intranet a:
+1) Windows Deskbar
+2) caixa de pesquisa de resultados do Desktop Search
+3) caixa de pesquisa do WDS no Search Companion
+
+</string>
+      <string id="PrimaryIntranetSearchScopeUrl">URL de Escopo de Pesquisa na Intranet</string>
+      <string id="AddSecondaryIntranetSearchScope">Adicionar locais secundários de pesquisa na intranet</string>
+      <string id="AddSecondaryIntranetSearchScope_Explain">A habilitação dessa política permite que você adicione locais de pesquisa na intranet junto com o local principal de pesquisa na intranet definido na política Adicionar Principal Local de Pesquisa na Intranet. O valor desse texto deve ser:
+
+name1,url1;name2,url2;...nameN,urlN
+
+Por exemplo:
+
+MySearch,http://mysearch.aspx?q=$w;MySearch2,http://mysearch2?q=$w.
+
+Para cada escopo de pesquisa, forneça:
+1) Um nome de escopo, como 'Web TI'.
+2) A URL do serviço de pesquisa. Use $w no lugar do termo de consulta para a URL do serviço de pesquisa.
+
+Se seu serviço de pesquisa na intranet for SharePoint Portal Server, a consulta deverá ser parecida com:
+http://sitename/Search.aspx?k=$w
+
+Se seu serviço de pesquisa na intranet for Windows SharePoint Services (WSS), a consulta deverá ser parecida com: onde XXXX é a ID local do seu WSS Service. Por exemplo, a ID local em inglês é 1033.
+http://sitename/_layouts/XXXX/searchresults.aspx?SearchString=$w
+
+Esses locais de pesquisa na Intranet adicionais são adicionados à lista Todos os Locais nos resultados do Desktop Search.</string>
+      <string id="SecondaryIntranetSearchScopeUrl">URL de Escopo de Pesquisa na Intranet</string>
+      <string id="PreviewPaneLocation">Local do painel de visualização</string>
+      <string id="PreviewPaneLocation_Explain">A habilitação dessa política permite que você defina o local do painel de visualização nos resultados do Desktop Search. Você também pode desativar o painel de visualização. As quatro opções são:
+
+- Auto
+- Direita
+- Parte Inferior
+- Desativado
+
+Pense em habilitar essa política para desativar o painel de visualização se seu ambiente não oferecer suporte ao Office XP ou superior. A funcionalidade completa do painel de visualização só está disponível para documentos do Office no Office XP ou superior.
+
+Quando essa política é desabilitada ou não está configurada, o painel de visualização é exibido automaticamente à direita dos resultados do Desktop Search, e os usuários podem escolher o local do painel de visualização</string>
+      <string id="PreviewPaneLocation_Auto">Auto</string>
+      <string id="PreviewPaneLocation_Right">Direita</string>
+      <string id="PreviewPaneLocation_Bottom">Parte Inferior</string>
+      <string id="PreviewPaneLocation_Off">Desativado</string>
+      <string id="SearchResultIconSize">Definir exibição de ícone grande ou pequeno nos resultados do Desktop Search</string>
+      <string id="SearchResultIconSize_Explain">A habilitação dessa política permite que você especifique se deseja uma exibição de ícone grande ou pequeno nos resultados do Desktop Search. As duas opções são:
+
+- Ícone Grande
+- Ícone Pequeno.
+
+Se você tiver desabilitado o painel de visualização porque sua organização não oferece suporte ao Office XP ou superior, aplique a exibição de ícone grande para que os usuários possam ver fragmentos de texto relacionados às respectivas consultas de pesquisa na área de trabalho.
+
+Quando essa política está desabilitada ou não está configurada, a exibição padrão é de ícones pequenos.</string>
+      <string id="SearchResultIconSize_Small">Ícone Pequeno</string>
+      <string id="SearchResultIconSize_Large">Ícone Grande</string>
+      <string id="DisableWebSearch">Não permitir pesquisa na Web</string>
+      <string id="DisableWebSearch_Explain">A habilitação dessa política remove a opção de pesquisa na Web do Windows Desktop Search.
+
+Quando essa política é desabilitada ou não está configurada, a opção da Web fica disponível, e os usuários podem pesquisar na Web por meio dos mecanismos de pesquisa padrão do navegador.</string>
+      <string id="StopIndexingOnLimitedHardDriveSpace">Interromper indexação no caso de espaço em disco rígido limitado</string>
+      <string id="StopIndexingOnLimitedHardDriveSpace_Explain">A habilitação dessa política impede a indexação de continuar quando resta menos da quantidade de espaço em disco especificada na mesma unidade do local de indexação. Selecione entre 0 e 2147483647 MB.
+
+Habilite essa política se os computadores em seu ambiente tiverem espaço em disco rígido extremamente limitado.
+
+Quando essa política é desabilitada ou não está configurada, o Windows Desktop Search gerencia o tamanho do índice de forma automática.</string>
+      <string id="StopIndexingOnLimitedHardDriveSpace_MBLimit">Limite de MB</string>
+      <string id="RichAttachmentPreviews">Controlar visualizações avançadas de anexos</string>
+      <string id="RichAttachmentPreviews_Explain">A habilitação dessa política define uma lista delimitada por ponto-e-vírgula de extensões de arquivo que terão permissão para ter visualizações de anexo em rich.
+
+Quando essa política é desabilitada ou não está configurada, as configurações padrão são definidas como .bmp;.emf;.gif;.jpg;.jpeg;.png;.wmf;.wrn;.txt;.err;.xml;.cpp;.c;.h;.cxx;.hxx;.idl;.cs;.vb;.idl;.xsd;.doc;.docx;.xls;.xlsx;.ppt;.pptx;.vsd;.xlsb;.xltx;.dot;.rtf</string>
+      <string id="PreventUnwantedAddins">Impedir iFilters e manipuladores de protocolo indesejados</string>
+      <string id="PreventUnwantedAddins_Explain">A habilitação dessa política impede que o Windows Desktop Search use iFilters e manipuladores de protocolo a menos que estejam especificados na lista de permissões. Entretanto, essa política não impedirá que iFilters e manipuladores de protocolo sejam instalados, nem impedirá que eles sejam usados por outros aplicativos ou serviços. 
+Você também pode especificar uma lista de permissões de suplementos, fornecendo a sequência de caracteres ProgId ou classID. Por exemplo, se planejar implementar um determinado iFilter, verifique se o iFilter está na lista de permissões, como um GUID como {xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx} (incluir as chaves) ou um ProgID como VisFilter.CFilter.1.
+
+Se você mantiver um ambiente de desktop bloqueado, essa configuração será redundante, pois usuários não administrativos não terão permissão para instalar novos componentes. Se seus usuários tiverem permissões Administrativas ou puderem instalar softwares, essa política impedirá que eles usem especificamente suplementos relacionados ao Windows Desktop Search.
+
+Observação: Devido a uma limitação no editor de Política de Grupo, você deverá adicionar pelo menos uma entrada à lista de permissões, mesmo se desejar habilitar essa política sem uma lista de permissões. Crie uma entrada de lista colocando um espaço no campo de nome e um espaço no campo de valor e salve-a. Isso criará uma entrada de espaço reservado ignorada pelo programa.</string>
+      <string id="PreventUnwantedAddins_AllowList">Lista de Permissões</string>
+      <string id="ExcludedExtensionsMultiline">Impedir indexação de determinados tipos de arquivo</string>
+      <string id="ExcludedExtensionsMultiline_Explain">A habilitação dessa política permite que você edite uma lista de tipos de arquivos a serem excluídos da indexação. O usuário final não pode modificar essa lista. Você deve separar cada tipo de extensão por ponto-e-vírgula.
+
+Observe que limitações do Editor de Objeto de Política de Grupo exigem que essa lista seja dividida entre vários valores. O Desktop Search combina tudo em uma única lista de exclusão.
+
+Quando essa política estiver desabilitada ou não configurada, o usuário poderá editar a lista padrão de tipos de arquivos excluídos. Se você habilitar e, em seguida, desabilitar essa política, a lista de usuários original será restaurada.
+
+Se desejar especificar uma lista padrão inicial de tipos de arquivos excluídos que os usuários poderão alterar posteriormente, consulte o guia de administração para obter informações sobre como configurar a preferência inicial de uma máquina.</string>
+      <string id="ExcludedExtensionsMultiline_0">Excluir</string>
+      <string id="ExcludedExtensionsMultiline_1">e</string>
+      <string id="ExcludedExtensionsMultiline_2">e</string>
+      <string id="ExcludedExtensionsMultiline_3">e</string>
+      <string id="DisableSearchHistory">Desligar o armazenamento e a exibição do histórico de pesquisa</string>
+      <string id="ExplainDisableSearchHistory">Esta configuração de política impede que consultas de pesquisa sejam armazenadas no registro. Se você habilitar esta configuração de política, as sugestões de pesquisa baseadas em pesquisas anteriores não aparecerão no painel de pesquisa. As sugestões de pesquisa fornecidas por aplicativos ou pelo Windows baseadas em conteúdo local continuarão sendo exibidas.
+
+Se você desabilitar ou não definir esta configuração de política, os usuários receberão sugestões de pesquisa baseadas em pesquisas anteriores no painel de pesquisa.</string>
+      <string id="AllowCortana">Permitir Cortana</string>
+      <string id="ExplainAllowCortana">Essa configuração de política especifica se a Cortana é permitida no dispositivo. 
+ 
+Se você habilitar ou não definir essa configuração, a, Cortana será permitida no dispositivo. Se você desabilitar essa configuração, a Cortana será desativada. 
+ 
+Quando a Cortana é desativada, os usuários ainda podem usar a pesquisa para encontrar coisas no dispositivo.</string>
+      <string id="EnableDynamicContentInWSB">Permitir destaques de pesquisa</string>
+      <string id="ExplainEnableDynamicContentInWSB">Desabilitar esta configuração desativa os destaques da pesquisa na caixa pesquisar do menu Iniciar e na página inicial da pesquisa. Habilitar ou não definir essa configuração ativa os destaques da pesquisa na caixa pesquisar do menu Iniciar e na página inicial da pesquisa.</string>
+      <string id="AllowCortanaAboveLock">Permitir a Cortana acima da tela de bloqueio</string>
+      <string id="ExplainAllowCortanaAboveLock">Essa configuração de política determina se o usuário pode ou não interagir com a Cortana usando fala enquanto o sistema estiver bloqueado.
+
+Se você habilitar ou não definir essa configuração, o usuário poderá interagir com a Cortana usando fala enquanto o sistema estiver bloqueado.
+
+Se você desabilitar essa configuração, o sistema precisará ser desbloqueado para o usuário interagir com a Cortana usando fala.</string>
+      <string id="AllowSearchToUseLocation">Permitir que pesquisa e Cortana usem a localização</string>
+      <string id="ExplainAllowSearchToUseLocation">Essa configuração de política especifica se Cortana e pesquisa podem fornecer os resultados de Cortana e de pesquisa com reconhecimento de local.
+ 
+Se habilitado, a pesquisa e Cortana poderão acessar informações sobre o local.</string>
+      <string id="AllowCloudSearch">Permitir Pesquisa na Nuvem</string>
+      <string id="AllowCortanaInAADPathOOBE">Permitir a Página da Cortana na Configuração Inicial pelo Usuário em uma conta do AAD</string>
+      <string id="ExplainAllowCloudSearch">Permitir que Pesquisar e a Cortana façam pesquisas em fontes na nuvem, como OneDrive e SharePoint</string>
+      <string id="ExplainCortanaAAD">Permitir a página de aceitação da Cortana durante a configuração inicial pelo usuário do Windows</string>
+      <string id="AllowCloudSearchDisabled">Desabilitar Pesquisa na Nuvem</string>
+      <string id="AllowCortanainAADDisabled">Desabilitar a Página da Cortana no AAD</string>
+      <string id="AllowCortanainAADEnabled">Habilitar a Página da Cortana no AAD</string>
+      <string id="AllowCloudSearchEnabled">Habilitar Pesquisa na Nuvem</string>
+      <string id="AllowCloudSearchControlledByUser">Selecionado pelo Usuário</string>
+      <string id="DisableSearch_DisplayName">Desabilitar totalmente a IU de pesquisa</string>
+      <string id="DisableSearch_ExplainText">Se você habilitar essa política, a interface do usuário de Pesquisa será desabilitada juntamente com todos os seus pontos de entrada, como atalhos de teclado, gestos de touchpad e tipo de pesquisa no menu Iniciar. A menu Iniciar de pesquisa e o botão Pesquisar barra de tarefas também serão ocultados.
+
+Se você desabilitar ou não definir essa configuração de política, o usuário poderá abrir a interface do usuário de Pesquisa e seus diferentes pontos de entrada serão mostrados.</string>
+      <string id="ConfigureSearchOnTaskbarMode">Configura a pesquisa na barra de tarefas</string>
+      <string id="ConfigureSearchOnTaskbarMode_Help">Esta configuração de política permite configurar a pesquisa na barra de tarefas.
+
+Se você habilitar essa configuração de política e defini-la como oculta, a pesquisa na barra de tarefas será ocultada por padrão. Os usuários não podem alterá-lo em Configurações.
+
+Se você habilitar essa configuração de política e defini-la como somente ícone de pesquisa, o ícone de pesquisa será exibido na barra de tarefas por padrão. Os usuários não podem alterá-lo em Configurações.
+
+Se você habilitar essa configuração de política e defini-la como ícone e rótulo de pesquisa, o ícone e o rótulo da pesquisa serão exibidos na barra de tarefas por padrão. Os usuários não podem alterá-lo em Configurações.
+
+Se você habilitar essa configuração de política e defini-la como caixa de pesquisa, a caixa de pesquisa será exibida na barra de tarefas por padrão. Os usuários não podem alterá-lo em Configurações.
+
+Se você desabilitar ou não definir essa configuração de política, a pesquisa na barra de tarefas será definida de acordo com os padrões da edição do Windows. Os usuários poderão alterar a pesquisa na barra de tarefas em Configurações.
+      </string>
+      <string id="SearchOnTaskbarModeEnum_Hidden">Ocultar</string>
+      <string id="SearchOnTaskbarModeEnum_SearchIconOnly">Somente ícone de pesquisa</string>
+      <string id="SearchOnTaskbarModeEnum_SearchIconAndLabel">Pesquisar ícone e rótulo</string>
+      <string id="SearchOnTaskbarModeEnum_SearchBox">Caixa de pesquisa</string>
+    </stringTable>
+    <presentationTable>
+      <presentation id="RichAttachmentPreviews">
+        <textBox refId="RichAttachmentPreviews">
+          <label>Controlar Visualizações de Anexos em Rich</label>
+          <defaultValue></defaultValue>
+        </textBox>
+      </presentation>
+      <presentation id="DataDirectory">
+        <textBox refId="PartDataDirectory">
+          <label>Caminho (abaixo de 128 caracteres):</label>
+          <defaultValue></defaultValue>
+        </textBox>
+      </presentation>
+      <presentation id="AddPrimaryIntranetSearchScope">
+        <textBox refId="PrimaryIntranetSearchScopeUrl">
+          <label>URL de Escopo de Pesquisa na Intranet</label>
+          <defaultValue></defaultValue>
+        </textBox>
+      </presentation>
+      <presentation id="AddSecondaryIntranetSearchScope">
+        <textBox refId="SecondaryIntranetSearchScopeUrl">
+          <label>URL de Escopo de Pesquisa na Intranet</label>
+          <defaultValue></defaultValue>
+        </textBox>
+      </presentation>
+      <presentation id="PreviewPaneLocation">
+        <dropdownList refId="PreviewPaneLocation" defaultItem="0">Local do Painel de Visualização</dropdownList>
+      </presentation>
+      <presentation id="SearchResultIconSize">
+        <dropdownList refId="SearchResultIconSize" defaultItem="0">Definir Exibição de Ícone Grande ou Pequeno nos Resultados do Desktop Search</dropdownList>
+      </presentation>
+      <presentation id="StopIndexingOnLimitedHardDriveSpace">
+        <decimalTextBox refId="StopIndexingOnLimitedHardDriveSpace_MBLimit">Limite de MB</decimalTextBox>
+      </presentation>      
+      <presentation id="EnableThrottlingOnlineMailboxes">
+        <decimalTextBox refId="LimitEnableThrottlingOnlineMailboxes" defaultValue="120">Número de itens por minuto</decimalTextBox>
+      </presentation>
+      <presentation id="PreventUnwantedAddins">
+        <listBox refId="PreventUnwantedAddins_AllowList">Lista de Permissões</listBox>
+      </presentation>
+      <presentation id="PreventIndexingCertainPaths_1">
+        <listBox refId="PreventIndexingCertainPaths">Impedir Indexação de Determinados Caminhos</listBox>
+      </presentation>
+      <presentation id="PreventIndexingCertainPaths_2">
+        <listBox refId="PreventIndexingCertainPaths">Impedir Indexação de Determinados Caminhos</listBox>
+      </presentation>
+      <presentation id="DefaultIndexedPaths_1">
+        <listBox refId="DefaultIndexedPaths">Caminhos Indexados por Padrão</listBox>
+      </presentation>
+      <presentation id="DefaultIndexedPaths_2">
+        <listBox refId="DefaultIndexedPaths">Caminhos Indexados por Padrão</listBox>
+      </presentation>
+      <presentation id="DefaultExcludedPaths_1">
+        <listBox refId="DefaultExcludedPaths">Caminhos Excluídos por Padrão</listBox>
+      </presentation>
+      <presentation id="DefaultExcludedPaths_2">
+        <listBox refId="DefaultExcludedPaths">Caminhos Excluídos por Padrão</listBox>
+      </presentation>
+      <presentation id="ExcludedExtensionsMultiline">
+        <textBox refId="ExcludedExtensionsMultiline_0">
+          <label>Excluir</label>
+          <defaultValue>.386;.aps;.bin;.bk1;.bk2;.bkf;.blf;.bsc;.btr;.cat;.cfg;.cgm;.chk;.ci;.crwl;.cur;.dat;.dbg;.dct;.dir;.dl_;.el;.evt;.ex_;.exp;.eyb;.fnt;.fon;.ghi;.gthr;.hqx;.icm;.idb;.idx;.ilk;.imc;.in_;.inl;.inv</defaultValue>
+        </textBox>
+        <textBox refId="ExcludedExtensionsMultiline_1">
+          <label>e</label>
+          <defaultValue>.ipp;.jbf;.lib;.local;.log;.log1;.log2;.m14;.mac;.man;.manifest;.map;.MAPIMail;.mmf;.mui;.muimanifest;.mv;.ncb;.obj;.oc_;.ocx;.onecache;.onetoc;.onetoc2;.ost;.pch;.pdb;.pds;.pf;.pic;.pma;.pmc;.pml</defaultValue>
+        </textBox>
+        <textBox refId="ExcludedExtensionsMultiline_2">
+          <label>e</label>
+          <defaultValue>.pmr;.pst;.res;.rmp;.rpc;.rsp;.sbr;.sc2;.sit;.sr_;.sy_;.sym;.TMCONTAINER00000000000000000001;.tlb;.tlh;.tmf;.tmp;.ttc;.ttf;.ttx;.TMCONTAINER00000000000000000002;.ufm;.vbx;.vxd;.wll;.wlt;.xbm;.xix;.z96;.ZFSendToTarget</defaultValue>
+        </textBox>
+        <textBox refId="ExcludedExtensionsMultiline_3">
+          <label>e</label>
+          <defaultValue></defaultValue>
+        </textBox>
+      </presentation>
+      <presentation id="SharePrivacy">
+        <dropdownList refId="SharePrivacy_Dropdown" noSort="true" defaultItem="0">Tipo de informações</dropdownList>
+      </presentation>
+      <presentation id="SafeSearch">
+        <dropdownList refId="SafeSearch_Dropdown" noSort="true" defaultItem="1">Configuração Padrão da Pesquisa Segura</dropdownList>
+      </presentation>
+      <presentation id="AllowCloudSearch">
+        <dropdownList refId="AllowCloudSearch_Dropdown" noSort="true" defaultItem="2">Configuração de Pesquisa na Nuvem</dropdownList>
+      </presentation>
+      <presentation id="AllowCortanaAAD">
+        <dropdownList refId="AllowCortanaAAD_Dropdown" noSort="true" defaultItem="0">Configuração da Cortana no AAD</dropdownList>
+      </presentation>
+      <presentation id="ConfigureSearchOnTaskbarMode">
+        <dropdownList refId="ConfigureSearchOnTaskbarMode_Dropdown" noSort="true" defaultItem="0">Pesquisar na barra de tarefas</dropdownList>
+      </presentation>
+    </presentationTable>
+  </resources>
+</policyDefinitionResources>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

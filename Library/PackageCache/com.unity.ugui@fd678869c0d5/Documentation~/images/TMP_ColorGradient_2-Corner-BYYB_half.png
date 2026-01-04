@@ -1,0 +1,581 @@
+.Type)">
+      <summary>Converts the given value object from a <xref data-throw-if-not-resolved="true" uid="System.TimeOnly"></xref> object using the arguments.</summary>
+      <param name="context">An <xref data-throw-if-not-resolved="true" uid="System.ComponentModel.ITypeDescriptorContext"></xref> that provides a format context.</param>
+      <param name="culture">An optional <xref data-throw-if-not-resolved="true" uid="System.Globalization.CultureInfo"></xref>. If not supplied, the current culture is assumed.</param>
+      <param name="value">The <xref data-throw-if-not-resolved="true" uid="System.Object"></xref> to convert.</param>
+      <param name="destinationType">The <xref data-throw-if-not-resolved="true" uid="System.Type"></xref> to convert the value to.</param>
+      <returns>An <xref data-throw-if-not-resolved="true" uid="System.Object"></xref> that represents the converted <code data-dev-comment-type="paramref">value</code>.</returns>
+    </member>
+    <member name="T:System.ComponentModel.TimeSpanConverter">
+      <summary>Provides a type converter to convert <see cref="T:System.TimeSpan" /> objects to and from other representations.</summary>
+    </member>
+    <member name="M:System.ComponentModel.TimeSpanConverter.#ctor">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.TimeSpanConverter" /> class.</summary>
+    </member>
+    <member name="M:System.ComponentModel.TimeSpanConverter.CanConvertFrom(System.ComponentModel.ITypeDescriptorContext,System.Type)">
+      <summary>Gets a value indicating whether this converter can convert an object in the given source type to a <see cref="T:System.TimeSpan" /> using the specified context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="sourceType">A <see cref="T:System.Type" /> that represents the type you wish to convert from.</param>
+      <returns>
+        <see langword="true" /> if this converter can perform the conversion; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TimeSpanConverter.CanConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Type)">
+      <summary>Gets a value indicating whether this converter can convert an object to the given destination type using the context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="destinationType">A <see cref="T:System.Type" /> that represents the type you wish to convert to.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="destinationType" /> is <see langword="null" />.</exception>
+      <exception cref="T:System.FormatException">
+        <paramref name="value" /> is not a valid value for the target type.</exception>
+      <returns>
+        <see langword="true" /> if this converter can perform the conversion; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TimeSpanConverter.ConvertFrom(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object)">
+      <summary>Converts the given object to a <see cref="T:System.TimeSpan" />.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="culture">An optional <see cref="T:System.Globalization.CultureInfo" />. If not supplied, the current culture is assumed.</param>
+      <param name="value">The <see cref="T:System.Object" /> to convert.</param>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <exception cref="T:System.FormatException">
+        <paramref name="value" /> is not a valid value for the target type.</exception>
+      <returns>An <see cref="T:System.Object" /> that represents the converted value.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TimeSpanConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+      <summary>Converts the given object to another type.</summary>
+      <param name="context">A formatter context.</param>
+      <param name="culture">The culture into which <paramref name="value" /> will be converted.</param>
+      <param name="value">The object to convert.</param>
+      <param name="destinationType">The type to convert the object to.</param>
+      <returns>The converted object.</returns>
+    </member>
+    <member name="T:System.ComponentModel.ToolboxItemAttribute">
+      <summary>Represents an attribute of a toolbox item.</summary>
+    </member>
+    <member name="F:System.ComponentModel.ToolboxItemAttribute.Default">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.ToolboxItemAttribute" /> class and sets the type to the default, <see cref="T:System.Drawing.Design.ToolboxItem" />. This field is read-only.</summary>
+    </member>
+    <member name="F:System.ComponentModel.ToolboxItemAttribute.None">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.ToolboxItemAttribute" /> class and sets the type to <see langword="null" />. This field is read-only.</summary>
+    </member>
+    <member name="M:System.ComponentModel.ToolboxItemAttribute.#ctor(System.Boolean)">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.ToolboxItemAttribute" /> class and specifies whether to use default initialization values.</summary>
+      <param name="defaultType">
+        <see langword="true" /> to create a toolbox item attribute for a default type; <see langword="false" /> to associate no default toolbox item support for this attribute.</param>
+    </member>
+    <member name="M:System.ComponentModel.ToolboxItemAttribute.#ctor(System.String)">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.ToolboxItemAttribute" /> class using the specified name of the type.</summary>
+      <param name="toolboxItemTypeName">The names of the type of the toolbox item and of the assembly that contains the type.</param>
+    </member>
+    <member name="M:System.ComponentModel.ToolboxItemAttribute.#ctor(System.Type)">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.ToolboxItemAttribute" /> class using the specified type of the toolbox item.</summary>
+      <param name="toolboxItemType">The type of the toolbox item.</param>
+    </member>
+    <member name="M:System.ComponentModel.ToolboxItemAttribute.Equals(System.Object)">
+      <summary>Returns a value that indicates whether this instance is equal to a specified object.</summary>
+      <param name="obj">An <see cref="T:System.Object" /> to compare with this instance or a null reference (<see langword="Nothing" /> in Visual Basic).</param>
+      <returns>
+        <see langword="true" /> if <paramref name="obj" /> equals the type and value of this instance; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.ToolboxItemAttribute.GetHashCode">
+      <summary>Returns the hash code for this instance.</summary>
+      <returns>A 32-bit signed integer hash code.</returns>
+    </member>
+    <member name="M:System.ComponentModel.ToolboxItemAttribute.IsDefaultAttribute">
+      <summary>Gets a value indicating whether the current value of the attribute is the default value for the attribute.</summary>
+      <returns>
+        <see langword="true" /> if the current value of the attribute is the default; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="P:System.ComponentModel.ToolboxItemAttribute.ToolboxItemType">
+      <summary>Gets or sets the type of the toolbox item.</summary>
+      <exception cref="T:System.ArgumentException">The type cannot be found.</exception>
+      <returns>The type of the toolbox item.</returns>
+    </member>
+    <member name="P:System.ComponentModel.ToolboxItemAttribute.ToolboxItemTypeName">
+      <summary>Gets or sets the name of the type of the current <see cref="T:System.Drawing.Design.ToolboxItem" />.</summary>
+      <returns>The fully qualified type name of the current toolbox item.</returns>
+    </member>
+    <member name="T:System.ComponentModel.ToolboxItemFilterAttribute">
+      <summary>Specifies the filter string and filter type to use for a toolbox item.</summary>
+    </member>
+    <member name="M:System.ComponentModel.ToolboxItemFilterAttribute.#ctor(System.String)">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.ToolboxItemFilterAttribute" /> class using the specified filter string.</summary>
+      <param name="filterString">The filter string for the toolbox item.</param>
+    </member>
+    <member name="M:System.ComponentModel.ToolboxItemFilterAttribute.#ctor(System.String,System.ComponentModel.ToolboxItemFilterType)">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.ToolboxItemFilterAttribute" /> class using the specified filter string and type.</summary>
+      <param name="filterString">The filter string for the toolbox item.</param>
+      <param name="filterType">A <see cref="T:System.ComponentModel.ToolboxItemFilterType" /> indicating the type of the filter.</param>
+    </member>
+    <member name="M:System.ComponentModel.ToolboxItemFilterAttribute.Equals(System.Object)">
+      <summary>Returns a value that indicates whether this instance is equal to a specified object.</summary>
+      <param name="obj">An <see cref="T:System.Object" /> to compare with this instance or a null reference (<see langword="Nothing" /> in Visual Basic).</param>
+      <returns>
+        <see langword="true" /> if <paramref name="obj" /> equals the type and value of this instance; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.ToolboxItemFilterAttribute.GetHashCode">
+      <summary>Returns the hash code for this instance.</summary>
+      <returns>A 32-bit signed integer hash code.</returns>
+    </member>
+    <member name="M:System.ComponentModel.ToolboxItemFilterAttribute.Match(System.Object)">
+      <summary>Indicates whether the specified object has a matching filter string.</summary>
+      <param name="obj">The object to test for a matching filter string.</param>
+      <returns>
+        <see langword="true" /> if the specified object has a matching filter string; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.ToolboxItemFilterAttribute.ToString">
+      <summary>Returns a string that represents the current object.</summary>
+      <returns>A string that represents the current object.</returns>
+    </member>
+    <member name="P:System.ComponentModel.ToolboxItemFilterAttribute.FilterString">
+      <summary>Gets the filter string for the toolbox item.</summary>
+      <returns>The filter string for the toolbox item.</returns>
+    </member>
+    <member name="P:System.ComponentModel.ToolboxItemFilterAttribute.FilterType">
+      <summary>Gets the type of the filter.</summary>
+      <returns>A <see cref="T:System.ComponentModel.ToolboxItemFilterType" /> that indicates the type of the filter.</returns>
+    </member>
+    <member name="P:System.ComponentModel.ToolboxItemFilterAttribute.TypeId">
+      <summary>Gets the type ID for the attribute.</summary>
+      <returns>The type ID for this attribute. All <see cref="T:System.ComponentModel.ToolboxItemFilterAttribute" /> objects with the same filter string return the same type ID.</returns>
+    </member>
+    <member name="T:System.ComponentModel.ToolboxItemFilterType">
+      <summary>Defines identifiers used to indicate the type of filter that a <see cref="T:System.ComponentModel.ToolboxItemFilterAttribute" /> uses.</summary>
+    </member>
+    <member name="F:System.ComponentModel.ToolboxItemFilterType.Allow">
+      <summary>Indicates that a toolbox item filter string is allowed, but not required.</summary>
+    </member>
+    <member name="F:System.ComponentModel.ToolboxItemFilterType.Custom">
+      <summary>Indicates that custom processing is required to determine whether to use a toolbox item filter string. It is typically specified on a root designer class to indicate that the designer wishes to accept or reject a toolbox item through code. The designer must implement the <see cref="M:System.Drawing.Design.IToolboxUser.GetToolSupported(System.Drawing.Design.ToolboxItem)" /> method of the <see cref="T:System.Drawing.Design.IToolboxUser" /> interface.</summary>
+    </member>
+    <member name="F:System.ComponentModel.ToolboxItemFilterType.Prevent">
+      <summary>Indicates that a toolbox item filter string is not allowed. If a designer and a component class both have a filter string and the value of one is <c>ToolboxItemFilterType.Prevent</c>, the toolbox item will not be available.</summary>
+    </member>
+    <member name="F:System.ComponentModel.ToolboxItemFilterType.Require">
+      <summary>Indicates that a toolbox item filter string must be present for a toolbox item to be enabled.  For a toolbox item with a filter type of <c>Require</c> to be enabled, the designer and the component class must have a matching filter string. Additionally, neither the designer or component class can have a filter type of <c>Prevent</c> for the toolbox item to be enabled.</summary>
+    </member>
+    <member name="T:System.ComponentModel.TypeConverter">
+      <summary>Provides a unified way of converting types of values to other types, as well as for accessing standard values and subproperties.</summary>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.#ctor">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.TypeConverter" /> class.</summary>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.CanConvertFrom(System.ComponentModel.ITypeDescriptorContext,System.Type)">
+      <summary>Returns whether this converter can convert an object of the given type to the type of this converter, using the specified context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="sourceType">A <see cref="T:System.Type" /> that represents the type you want to convert from.</param>
+      <returns>
+        <see langword="true" /> if this converter can perform the conversion; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.CanConvertFrom(System.Type)">
+      <summary>Returns whether this converter can convert an object of the given type to the type of this converter.</summary>
+      <param name="sourceType">A <see cref="T:System.Type" /> that represents the type you want to convert from.</param>
+      <returns>
+        <see langword="true" /> if this converter can perform the conversion; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.CanConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Type)">
+      <summary>Returns whether this converter can convert the object to the specified type, using the specified context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="destinationType">A <see cref="T:System.Type" /> that represents the type you want to convert to.</param>
+      <returns>
+        <see langword="true" /> if this converter can perform the conversion; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.CanConvertTo(System.Type)">
+      <summary>Returns whether this converter can convert the object to the specified type.</summary>
+      <param name="destinationType">A <see cref="T:System.Type" /> that represents the type you want to convert to.</param>
+      <returns>
+        <see langword="true" /> if this converter can perform the conversion; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertFrom(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object)">
+      <summary>Converts the given object to the type of this converter, using the specified context and culture information.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="culture">The <see cref="T:System.Globalization.CultureInfo" /> to use as the current culture.</param>
+      <param name="value">The <see cref="T:System.Object" /> to convert.</param>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <returns>An <see cref="T:System.Object" /> that represents the converted value.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertFrom(System.Object)">
+      <summary>Converts the given value to the type of this converter.</summary>
+      <param name="value">The <see cref="T:System.Object" /> to convert.</param>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <returns>An <see cref="T:System.Object" /> that represents the converted value.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertFromInvariantString(System.ComponentModel.ITypeDescriptorContext,System.String)">
+      <summary>Converts the given string to the type of this converter, using the invariant culture and the specified context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="text">The <see cref="T:System.String" /> to convert.</param>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <returns>An <see cref="T:System.Object" /> that represents the converted text.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertFromInvariantString(System.String)">
+      <summary>Converts the given string to the type of this converter, using the invariant culture.</summary>
+      <param name="text">The <see cref="T:System.String" /> to convert.</param>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <returns>An <see cref="T:System.Object" /> that represents the converted text.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertFromString(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.String)">
+      <summary>Converts the given text to an object, using the specified context and culture information.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="culture">A <see cref="T:System.Globalization.CultureInfo" />. If <see langword="null" /> is passed, the current culture is assumed.</param>
+      <param name="text">The <see cref="T:System.String" /> to convert.</param>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <returns>An <see cref="T:System.Object" /> that represents the converted text.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertFromString(System.ComponentModel.ITypeDescriptorContext,System.String)">
+      <summary>Converts the given text to an object, using the specified context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="text">The <see cref="T:System.String" /> to convert.</param>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <returns>An <see cref="T:System.Object" /> that represents the converted text.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertFromString(System.String)">
+      <summary>Converts the specified text to an object.</summary>
+      <param name="text">The text representation of the object to convert.</param>
+      <exception cref="T:System.NotSupportedException">The string cannot be converted into the appropriate object.</exception>
+      <returns>An <see cref="T:System.Object" /> that represents the converted text.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertTo(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object,System.Type)">
+      <summary>Converts the given value object to the specified type, using the specified context and culture information.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="culture">A <see cref="T:System.Globalization.CultureInfo" />. If <see langword="null" /> is passed, the current culture is assumed.</param>
+      <param name="value">The <see cref="T:System.Object" /> to convert.</param>
+      <param name="destinationType">The <see cref="T:System.Type" /> to convert the <paramref name="value" /> parameter to.</param>
+      <exception cref="T:System.ArgumentNullException">The <paramref name="destinationType" /> parameter is <see langword="null" />.</exception>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <returns>An <see cref="T:System.Object" /> that represents the converted value.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertTo(System.Object,System.Type)">
+      <summary>Converts the given value object to the specified type, using the arguments.</summary>
+      <param name="value">The <see cref="T:System.Object" /> to convert.</param>
+      <param name="destinationType">The <see cref="T:System.Type" /> to convert the <paramref name="value" /> parameter to.</param>
+      <exception cref="T:System.ArgumentNullException">The <paramref name="destinationType" /> parameter is <see langword="null" />.</exception>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <returns>An <see cref="T:System.Object" /> that represents the converted value.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertToInvariantString(System.ComponentModel.ITypeDescriptorContext,System.Object)">
+      <summary>Converts the specified value to a culture-invariant string representation, using the specified context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="value">The <see cref="T:System.Object" /> to convert.</param>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <returns>A <see cref="T:System.String" /> that represents the converted value.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertToInvariantString(System.Object)">
+      <summary>Converts the specified value to a culture-invariant string representation.</summary>
+      <param name="value">The <see cref="T:System.Object" /> to convert.</param>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <returns>A <see cref="T:System.String" /> that represents the converted value.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertToString(System.ComponentModel.ITypeDescriptorContext,System.Globalization.CultureInfo,System.Object)">
+      <summary>Converts the given value to a string representation, using the specified context and culture information.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="culture">A <see cref="T:System.Globalization.CultureInfo" />. If <see langword="null" /> is passed, the current culture is assumed.</param>
+      <param name="value">The <see cref="T:System.Object" /> to convert.</param>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <returns>An <see cref="T:System.Object" /> that represents the converted value.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertToString(System.ComponentModel.ITypeDescriptorContext,System.Object)">
+      <summary>Converts the given value to a string representation, using the given context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="value">The <see cref="T:System.Object" /> to convert.</param>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <returns>An <see cref="T:System.Object" /> that represents the converted value.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.ConvertToString(System.Object)">
+      <summary>Converts the specified value to a string representation.</summary>
+      <param name="value">The <see cref="T:System.Object" /> to convert.</param>
+      <exception cref="T:System.NotSupportedException">The conversion cannot be performed.</exception>
+      <returns>An <see cref="T:System.Object" /> that represents the converted value.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.CreateInstance(System.Collections.IDictionary)">
+      <summary>Re-creates an <see cref="T:System.Object" /> given a set of property values for the object.</summary>
+      <param name="propertyValues">An <see cref="T:System.Collections.IDictionary" /> that represents a dictionary of new property values.</param>
+      <returns>An <see cref="T:System.Object" /> representing the given <see cref="T:System.Collections.IDictionary" />, or <see langword="null" /> if the object cannot be created. This method always returns <see langword="null" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.CreateInstance(System.ComponentModel.ITypeDescriptorContext,System.Collections.IDictionary)">
+      <summary>Creates an instance of the type that this <see cref="T:System.ComponentModel.TypeConverter" /> is associated with, using the specified context, given a set of property values for the object.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="propertyValues">An <see cref="T:System.Collections.IDictionary" /> of new property values.</param>
+      <returns>An <see cref="T:System.Object" /> representing the given <see cref="T:System.Collections.IDictionary" />, or <see langword="null" /> if the object cannot be created. This method always returns <see langword="null" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetConvertFromException(System.Object)">
+      <summary>Returns an exception to throw when a conversion cannot be performed.</summary>
+      <param name="value">The <see cref="T:System.Object" /> to convert, or <see langword="null" /> if the object is not available.</param>
+      <exception cref="T:System.NotSupportedException">Automatically thrown by this method.</exception>
+      <returns>An <see cref="T:System.Exception" /> that represents the exception to throw when a conversion cannot be performed.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetConvertToException(System.Object,System.Type)">
+      <summary>Returns an exception to throw when a conversion cannot be performed.</summary>
+      <param name="value">The <see cref="T:System.Object" /> to convert, or <see langword="null" /> if the object is not available.</param>
+      <param name="destinationType">A <see cref="T:System.Type" /> that represents the type the conversion was trying to convert to.</param>
+      <exception cref="T:System.NotSupportedException">Automatically thrown by this method.</exception>
+      <returns>An <see cref="T:System.Exception" /> that represents the exception to throw when a conversion cannot be performed.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetCreateInstanceSupported">
+      <summary>Returns whether changing a value on this object requires a call to the <see cref="M:System.ComponentModel.TypeConverter.CreateInstance(System.Collections.IDictionary)" /> method to create a new value.</summary>
+      <returns>
+        <see langword="true" /> if changing a property on this object requires a call to <see cref="M:System.ComponentModel.TypeConverter.CreateInstance(System.Collections.IDictionary)" /> to create a new value; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetCreateInstanceSupported(System.ComponentModel.ITypeDescriptorContext)">
+      <summary>Returns whether changing a value on this object requires a call to <see cref="M:System.ComponentModel.TypeConverter.CreateInstance(System.Collections.IDictionary)" /> to create a new value, using the specified context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <returns>
+        <see langword="true" /> if changing a property on this object requires a call to <see cref="M:System.ComponentModel.TypeConverter.CreateInstance(System.Collections.IDictionary)" /> to create a new value; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetProperties(System.ComponentModel.ITypeDescriptorContext,System.Object)">
+      <summary>Returns a collection of properties for the type of array specified by the value parameter, using the specified context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="value">An <see cref="T:System.Object" /> that specifies the type of array for which to get properties.</param>
+      <returns>A <see cref="T:System.ComponentModel.PropertyDescriptorCollection" /> with the properties that are exposed for this data type, or <see langword="null" /> if there are no properties.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetProperties(System.ComponentModel.ITypeDescriptorContext,System.Object,System.Attribute[])">
+      <summary>Returns a collection of properties for the type of array specified by the value parameter, using the specified context and attributes.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="value">An <see cref="T:System.Object" /> that specifies the type of array for which to get properties.</param>
+      <param name="attributes">An array of type <see cref="T:System.Attribute" /> that is used as a filter.</param>
+      <returns>A <see cref="T:System.ComponentModel.PropertyDescriptorCollection" /> with the properties that are exposed for this data type, or <see langword="null" /> if there are no properties.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetProperties(System.Object)">
+      <summary>Returns a collection of properties for the type of array specified by the value parameter.</summary>
+      <param name="value">An <see cref="T:System.Object" /> that specifies the type of array for which to get properties.</param>
+      <returns>A <see cref="T:System.ComponentModel.PropertyDescriptorCollection" /> with the properties that are exposed for this data type, or <see langword="null" /> if there are no properties.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetPropertiesSupported">
+      <summary>Returns whether this object supports properties.</summary>
+      <returns>
+        <see langword="true" /> if <see cref="M:System.ComponentModel.TypeConverter.GetProperties(System.Object)" /> should be called to find the properties of this object; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetPropertiesSupported(System.ComponentModel.ITypeDescriptorContext)">
+      <summary>Returns whether this object supports properties, using the specified context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <returns>
+        <see langword="true" /> if <see cref="M:System.ComponentModel.TypeConverter.GetProperties(System.Object)" /> should be called to find the properties of this object; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetStandardValues">
+      <summary>Returns a collection of standard values from the default context for the data type this type converter is designed for.</summary>
+      <returns>A <see cref="T:System.ComponentModel.TypeConverter.StandardValuesCollection" /> containing a standard set of valid values, or <see langword="null" /> if the data type does not support a standard set of values.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetStandardValues(System.ComponentModel.ITypeDescriptorContext)">
+      <summary>Returns a collection of standard values for the data type this type converter is designed for when provided with a format context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context that can be used to extract additional information about the environment from which this converter is invoked. This parameter or properties of this parameter can be <see langword="null" />.</param>
+      <returns>A <see cref="T:System.ComponentModel.TypeConverter.StandardValuesCollection" /> that holds a standard set of valid values, or <see langword="null" /> if the data type does not support a standard set of values.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetStandardValuesExclusive">
+      <summary>Returns whether the collection of standard values returned from <see cref="M:System.ComponentModel.TypeConverter.GetStandardValues" /> is an exclusive list.</summary>
+      <returns>
+        <see langword="true" /> if the <see cref="T:System.ComponentModel.TypeConverter.StandardValuesCollection" /> returned from <see cref="M:System.ComponentModel.TypeConverter.GetStandardValues" /> is an exhaustive list of possible values; <see langword="false" /> if other values are possible.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetStandardValuesExclusive(System.ComponentModel.ITypeDescriptorContext)">
+      <summary>Returns whether the collection of standard values returned from <see cref="M:System.ComponentModel.TypeConverter.GetStandardValues" /> is an exclusive list of possible values, using the specified context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <returns>
+        <see langword="true" /> if the <see cref="T:System.ComponentModel.TypeConverter.StandardValuesCollection" /> returned from <see cref="M:System.ComponentModel.TypeConverter.GetStandardValues" /> is an exhaustive list of possible values; <see langword="false" /> if other values are possible.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetStandardValuesSupported">
+      <summary>Returns whether this object supports a standard set of values that can be picked from a list.</summary>
+      <returns>
+        <see langword="true" /> if <see cref="M:System.ComponentModel.TypeConverter.GetStandardValues" /> should be called to find a common set of values the object supports; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.GetStandardValuesSupported(System.ComponentModel.ITypeDescriptorContext)">
+      <summary>Returns whether this object supports a standard set of values that can be picked from a list, using the specified context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <returns>
+        <see langword="true" /> if <see cref="M:System.ComponentModel.TypeConverter.GetStandardValues" /> should be called to find a common set of values the object supports; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.IsValid(System.ComponentModel.ITypeDescriptorContext,System.Object)">
+      <summary>Returns whether the given value object is valid for this type and for the specified context.</summary>
+      <param name="context">An <see cref="T:System.ComponentModel.ITypeDescriptorContext" /> that provides a format context.</param>
+      <param name="value">The <see cref="T:System.Object" /> to test for validity.</param>
+      <returns>
+        <see langword="true" /> if the specified value is valid for this object; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.IsValid(System.Object)">
+      <summary>Returns whether the given value object is valid for this type.</summary>
+      <param name="value">The object to test for validity.</param>
+      <returns>
+        <see langword="true" /> if the specified value is valid for this object; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.SortProperties(System.ComponentModel.PropertyDescriptorCollection,System.String[])">
+      <summary>Sorts a collection of properties.</summary>
+      <param name="props">A <see cref="T:System.ComponentModel.PropertyDescriptorCollection" /> that has the properties to sort.</param>
+      <param name="names">An array of names in the order you want the properties to appear in the collection.</param>
+      <returns>A <see cref="T:System.ComponentModel.PropertyDescriptorCollection" /> that contains the sorted properties.</returns>
+    </member>
+    <member name="T:System.ComponentModel.TypeConverter.SimplePropertyDescriptor">
+      <summary>Represents an <see langword="abstract" /> class that provides properties for objects that do not have properties.</summary>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.SimplePropertyDescriptor.#ctor(System.Type,System.String,System.Type)">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.TypeConverter.SimplePropertyDescriptor" /> class.</summary>
+      <param name="componentType">A <see cref="T:System.Type" /> that represents the type of component to which this property descriptor binds.</param>
+      <param name="name">The name of the property.</param>
+      <param name="propertyType">A <see cref="T:System.Type" /> that represents the data type for this property.</param>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.SimplePropertyDescriptor.#ctor(System.Type,System.String,System.Type,System.Attribute[])">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.TypeConverter.SimplePropertyDescriptor" /> class.</summary>
+      <param name="componentType">A <see cref="T:System.Type" /> that represents the type of component to which this property descriptor binds.</param>
+      <param name="name">The name of the property.</param>
+      <param name="propertyType">A <see cref="T:System.Type" /> that represents the data type for this property.</param>
+      <param name="attributes">An <see cref="T:System.Attribute" /> array with the attributes to associate with the property.</param>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.SimplePropertyDescriptor.CanResetValue(System.Object)">
+      <summary>Returns whether resetting the component changes the value of the component.</summary>
+      <param name="component">The component to test for reset capability.</param>
+      <returns>
+        <see langword="true" /> if resetting the component changes the value of the component; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.SimplePropertyDescriptor.ResetValue(System.Object)">
+      <summary>Resets the value for this property of the component.</summary>
+      <param name="component">The component with the property value to be reset.</param>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.SimplePropertyDescriptor.ShouldSerializeValue(System.Object)">
+      <summary>Returns whether the value of this property can persist.</summary>
+      <param name="component">The component with the property that is to be examined for persistence.</param>
+      <returns>
+        <see langword="true" /> if the value of the property can persist; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="P:System.ComponentModel.TypeConverter.SimplePropertyDescriptor.ComponentType">
+      <summary>Gets the type of component to which this property description binds.</summary>
+      <returns>A <see cref="T:System.Type" /> that represents the type of component to which this property binds.</returns>
+    </member>
+    <member name="P:System.ComponentModel.TypeConverter.SimplePropertyDescriptor.IsReadOnly">
+      <summary>Gets a value indicating whether this property is read-only.</summary>
+      <returns>
+        <see langword="true" /> if the property is read-only; <see langword="false" /> if the property is read/write.</returns>
+    </member>
+    <member name="P:System.ComponentModel.TypeConverter.SimplePropertyDescriptor.PropertyType">
+      <summary>Gets the type of the property.</summary>
+      <returns>A <see cref="T:System.Type" /> that represents the type of the property.</returns>
+    </member>
+    <member name="T:System.ComponentModel.TypeConverter.StandardValuesCollection">
+      <summary>Represents a collection of values.</summary>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.StandardValuesCollection.#ctor(System.Collections.ICollection)">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.TypeConverter.StandardValuesCollection" /> class.</summary>
+      <param name="values">An <see cref="T:System.Collections.ICollection" /> that represents the objects to put into the collection.</param>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.StandardValuesCollection.CopyTo(System.Array,System.Int32)">
+      <summary>Copies the contents of this collection to an array.</summary>
+      <param name="array">An <see cref="T:System.Array" /> that represents the array to copy to.</param>
+      <param name="index">The index to start from.</param>
+    </member>
+    <member name="M:System.ComponentModel.TypeConverter.StandardValuesCollection.GetEnumerator">
+      <summary>Returns an enumerator for this collection.</summary>
+      <returns>An enumerator of type <see cref="T:System.Collections.IEnumerator" />.</returns>
+    </member>
+    <member name="P:System.ComponentModel.TypeConverter.StandardValuesCollection.Count">
+      <summary>Gets the number of objects in the collection.</summary>
+      <returns>The number of objects in the collection.</returns>
+    </member>
+    <member name="P:System.ComponentModel.TypeConverter.StandardValuesCollection.Item(System.Int32)">
+      <summary>Gets the object at the specified index number.</summary>
+      <param name="index">The zero-based index of the <see cref="T:System.Object" /> to get from the collection.</param>
+      <returns>The <see cref="T:System.Object" /> with the specified index.</returns>
+    </member>
+    <member name="P:System.ComponentModel.TypeConverter.StandardValuesCollection.System#Collections#ICollection#IsSynchronized">
+      <summary>For a description of this member, see <see cref="P:System.Collections.ICollection.IsSynchronized" />.</summary>
+      <returns>
+        <see langword="false" /> in all cases.</returns>
+    </member>
+    <member name="P:System.ComponentModel.TypeConverter.StandardValuesCollection.System#Collections#ICollection#SyncRoot">
+      <summary>For a description of this member, see <see cref="P:System.Collections.ICollection.SyncRoot" />.</summary>
+      <returns>
+        <see langword="null" /> in all cases.</returns>
+    </member>
+    <member name="T:System.ComponentModel.TypeDescriptionProvider">
+      <summary>Provides supplemental metadata to the <see cref="T:System.ComponentModel.TypeDescriptor" />.</summary>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.#ctor">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.TypeDescriptionProvider" /> class.</summary>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.#ctor(System.ComponentModel.TypeDescriptionProvider)">
+      <summary>Initializes a new instance of the <see cref="T:System.ComponentModel.TypeDescriptionProvider" /> class using a parent type description provider.</summary>
+      <param name="parent">The parent type description provider.</param>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.CreateInstance(System.IServiceProvider,System.Type,System.Type[],System.Object[])">
+      <summary>Creates an object that can substitute for another data type.</summary>
+      <param name="provider">An optional service provider.</param>
+      <param name="objectType">The type of object to create. This parameter is never <see langword="null" />.</param>
+      <param name="argTypes">An optional array of types that represent the parameter types to be passed to the object's constructor. This array can be <see langword="null" /> or of zero length.</param>
+      <param name="args">An optional array of parameter values to pass to the object's constructor.</param>
+      <returns>The substitute <see cref="T:System.Object" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.GetCache(System.Object)">
+      <summary>Gets a per-object cache, accessed as an <see cref="T:System.Collections.IDictionary" /> of key/value pairs.</summary>
+      <param name="instance">The object for which to get the cache.</param>
+      <returns>An <see cref="T:System.Collections.IDictionary" /> if the provided object supports caching; otherwise, <see langword="null" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.GetExtendedTypeDescriptor(System.Object)">
+      <summary>Gets an extended custom type descriptor for the given object.</summary>
+      <param name="instance">The object for which to get the extended type descriptor.</param>
+      <returns>An <see cref="T:System.ComponentModel.ICustomTypeDescriptor" /> that can provide extended metadata for the object.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.GetExtenderProviders(System.Object)">
+      <summary>Gets the extender providers for the specified object.</summary>
+      <param name="instance">The object to get extender providers for.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="instance" /> is <see langword="null" />.</exception>
+      <returns>An array of extender providers for <paramref name="instance" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.GetFullComponentName(System.Object)">
+      <summary>Gets the name of the specified component, or <see langword="null" /> if the component has no name.</summary>
+      <param name="component">The specified component.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="component" /> is <see langword="null" />.</exception>
+      <returns>The name of the specified component.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.GetReflectionType(System.Object)">
+      <summary>Performs normal reflection against the given object.</summary>
+      <param name="instance">An instance of the type (should not be <see langword="null" />).</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="instance" /> is <see langword="null" />.</exception>
+      <returns>The type of reflection for this <paramref name="instance" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.GetReflectionType(System.Type)">
+      <summary>Performs normal reflection against a type.</summary>
+      <param name="objectType">The type of object for which to retrieve the <see cref="T:System.Reflection.IReflect" />.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="objectType" /> is <see langword="null" />.</exception>
+      <returns>The type of reflection for this <paramref name="objectType" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.GetReflectionType(System.Type,System.Object)">
+      <summary>Performs normal reflection against the given object with the given type.</summary>
+      <param name="objectType">The type of object for which to retrieve the <see cref="T:System.Reflection.IReflect" />.</param>
+      <param name="instance">An instance of the type. Can be <see langword="null" />.</param>
+      <returns>The type of reflection for this <paramref name="objectType" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.GetRuntimeType(System.Type)">
+      <summary>Converts a reflection type into a runtime type.</summary>
+      <param name="reflectionType">The type to convert to its runtime equivalent.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="reflectionType" /> is <see langword="null" />.</exception>
+      <returns>A <see cref="T:System.Type" /> that represents the runtime equivalent of <paramref name="reflectionType" />.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.GetTypeDescriptor(System.Object)">
+      <summary>Gets a custom type descriptor for the given object.</summary>
+      <param name="instance">An instance of the type. Can be <see langword="null" /> if no instance was passed to the <see cref="T:System.ComponentModel.TypeDescriptor" />.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="instance" /> is <see langword="null" />.</exception>
+      <returns>An <see cref="T:System.ComponentModel.ICustomTypeDescriptor" /> that can provide metadata for the type.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.GetTypeDescriptor(System.Type)">
+      <summary>Gets a custom type descriptor for the given type.</summary>
+      <param name="objectType">The type of object for which to retrieve the type descriptor.</param>
+      <returns>An <see cref="T:System.ComponentModel.ICustomTypeDescriptor" /> that can provide metadata for the type.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.GetTypeDescriptor(System.Type,System.Object)">
+      <summary>Gets a custom type descriptor for the given type and object.</summary>
+      <param name="objectType">The type of object for which to retrieve the type descriptor.</param>
+      <param name="instance">An instance of the type. Can be <see langword="null" /> if no instance was passed to the <see cref="T:System.ComponentModel.TypeDescriptor" />.</param>
+      <returns>An <see cref="T:System.ComponentModel.ICustomTypeDescriptor" /> that can provide metadata for the type.</returns>
+    </member>
+    <member name="M:System.ComponentModel.TypeDescriptionProvider.IsSupportedType(System.Type)">
+      <summary>Gets a value that indicates whether the specified type is compatible with the type description and its chain of type description providers.</summary>
+      <param name="type">The type to test for compatibility.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="type" /> is <see langword="null" />.</exception>
+      <returns>
+        <see langword="true" /> if <paramref name="type" /> is compatible with the type description and its chain of type description providers; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="T:System.ComponentModel.TypeDescriptor">
+      <summary>Provides information about the characteristics for a component, such as its attributes, properties, and events. This class cannot be inherited.</summary>
+    </member>
+    <member name="E:System.ComponentModel.TypeDescriptor.Refreshed">
+      <summary>Occurs when the cache for a comp

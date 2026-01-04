@@ -1,0 +1,14 @@
+  </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="493"
+       stCamera:Lens="EF500mm f/4L IS II USM +2.0x"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 500mm f/4L IS II USM +2.0x III"
+      

@@ -1,0 +1,94 @@
+, your changes are committed and there's no
+	turning back.  You can configure the Vim editor to produce backup
+	files; see |07.4|.
+
+
+DISCARDING CHANGES
+
+Sometimes you will make a sequence of changes and suddenly realize you were
+better off before you started.  Not to worry; Vim has a
+quit-and-throw-things-away command.  It is: >
+
+	:q!
+
+Don't forget to press <Enter> to finish the command.
+
+For those of you interested in the details, the three parts of this command
+are the colon (:), which enters Command-line mode; the q command, which tells
+the editor to quit; and the override command modifier (!).
+   The override command modifier is needed because Vim is reluctant to throw
+away changes.  If you were to just type ":q", Vim would display an error
+message and refuse to exit:
+
+	E37: No write since last change (use ! to override) ~
+
+By specifying the override, you are in effect telling Vim, "I know that what
+I'm doing looks stupid, but I really want to do this."
+
+If you want to continue editing with Vim: The ":e!" command reloads the
+original version of the file.
+
+==============================================================================
+*02.8*	Finding help
+
+Everything you always wanted to know can be found in the Vim help files.
+Don't be afraid to ask!
+
+If you know what you are looking for, it is usually easier to search for it
+using the help system, instead of using Google.  Because the subjects follow
+a certain style guide.
+
+Also the help has the advantage of belonging to your particular Vim version.
+You won't see help for commands added later.  These would not work for you.
+
+To get generic help use this command: >
+
+	:help
+
+You could also use the first function key <F1>.  If your keyboard has a <Help>
+key it might work as well.
+   If you don't supply a subject, ":help" displays the general help window.
+The creators of Vim did something very clever (or very lazy) with the help
+system: They made the help window a normal editing window.  You can use all
+the normal Vim commands to move through the help information.  Therefore h, j,
+k, and l move left, down, up and right.
+   To get out of the help window, use the same command you use to get out of
+the editor: "ZZ".  This will only close the help window, not exit Vim.
+
+As you read the help text, you will notice some text enclosed in vertical bars
+(for example, |help|).  This indicates a hyperlink.  If you position the
+cursor anywhere between the bars and press CTRL-] (jump to tag), the help
+system takes you to the indicated subject.  (For reasons not discussed here,
+the Vim terminology for a hyperlink is tag.  So CTRL-] jumps to the location
+of the tag given by the word under the cursor.)
+   After a few jumps, you might want to go back.  CTRL-T (pop tag) takes you
+back to the preceding position.  CTRL-O (jump to older position) also works
+nicely here.
+   At the top of the help screen, there is the notation *help.txt*.  This name
+between "*" characters is used by the help system to define a tag (hyperlink
+destination).
+   See |29.1| for details about using tags.
+
+To get help on a given subject, use the following command: >
+
+	:help {subject}
+
+To get help on the "x" command, for example, enter the following: >
+
+	:help x
+
+To find out how to delete text, use this command: >
+
+	:help deleting
+
+To get a complete index of all Vim commands, use the following command: >
+
+	:help index
+
+When you need to get help for a control character command (for example,
+CTRL-A), you need to spell it with the prefix "CTRL-". >
+
+	:help CTRL-A
+
+The Vim editor has many different modes.  By default, the help system displays
+the no

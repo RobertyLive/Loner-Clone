@@ -1,0 +1,17 @@
+ a libéré de la mémoire pour d'autres tâches. Vous pouvez modifier cette option à tout moment dans $1.Lorsque cet onglet était inactif, l'économiseur de mémoire a libéré de la mémoire pour d'autres tâches.Pendant que cet onglet était inactif, l'économiseur de mémoire a libéré $1 de mémoire pour d'autres tâches. Vous pouvez modifier cette option à tout moment dans $2.Pendant que cet onglet était inactif, l'économiseur de mémoire a libéré $1 de mémoire pour d'autres tâches.$1 de mémoire gagnéeExclure le siteMémoire économiséePetites économiesÉconomies moyennesÉconomies importantesÉconomies considérablesUtilisation de la mémoire : $1Utilisation élevée de la mémoire : $1Onglet inactif : $1 libérésOnglet inactifWebView7025https://chrome.google.com/webstore?hl=fr&category=theme81https://myactivity.google.com/myactivity/?utm_source=chrome_nhttps://myactivity.google.com/myactivity/?utm_source=chrome_hAccédez
+          au menu Chromium >
+          <span jscontent="settingsTitle"></span>
+          >
+          <span jscontent="advancedTitle"></span>,
+          puis désélectionnez "<span jscontent="noNetworkPredictionTitle"></span>".
+          Si le problème persiste, nous vous conseillons de
+          réactiver cette option pour des performances optimales.Autorisez Chromium à accéder au réseau depuis les paramètres du pare-feu ou
+        de l'antivirus.Cette page a été bloquée par ChromiumAccédez au
+          menu Chromium >
+          <span jscontent="settingsTitle"></span>
+          >
+          <span jscontent="advancedTitle"></span>
+          >
+          <span jscontent="proxyTitle"></span>
+          >
+   

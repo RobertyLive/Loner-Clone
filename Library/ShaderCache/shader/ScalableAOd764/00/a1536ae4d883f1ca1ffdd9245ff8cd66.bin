@@ -1,0 +1,71 @@
+DL_SHAPES=Formen
+DL_CAPTURE_SHAPE=Capture-Form
+DL_CAPTURE_PATTERN=Capture-Muster\n
+DL_CAPTURE_COLOR_THEME=Capture-Farbdesign
+DL_CAPTURE_GRADIENT=Capture-Farbverlauf
+DL_CAPTURE_CHAR_STYLE=Capture-Zeichenformat
+DL_CAPTURE_PARA_STYLE=Capture-Absatzformat
+//Capture Einf\u00FChrungsdialogfeld
+DL_CREATE=In CC-Bib. speichern
+DL_CLOSE=Schlie\u00DFen
+//Image Seite hochladen
+DL_CAPTURE_SELECT_FILE=Datei ausw\u00E4hlen
+DL_CAPTURE_DRAG_DROP=Datei hierher ziehen
+DL_CAPTURE_IMAGE_UPLOAD_MSG=Erstellen Sie ein Bibliotheks-Asset, indem Sie ein Bild hierher ziehen und ablegen oder hochladen.
+DL_CAPTURE_UPLOAD_BUTTON=Bild hochladen
+DL_CAPTURE_UPLOAD_FROM_COMPUTER=auf Ihrem Computer
+DL_UNSUPPORTED_FILE=Das Dateiformat wird nicht unterst\u00FCtzt.
+DL_CORRUPTED_FILE=Es ist ein Importfehler aufgetreten. Die Datei ist besch\u00E4digt.
+DL_SAVE=Speichern
+DL_CAPTURE_EDIT=Bearbeiten
+
+//Shape Modul
+DL_SHAPE_DETAIL_SLIDER_TITLE=Detail
+DL_SHAPE_INVERT=Umkehren
+DL_SHAPE_INVERT_SMOOTH=Beim Speichern gl\u00E4tten
+DL_SHAPE_SLIDER_SIZE=Strichst\u00E4rke
+DL_SHAPE_IMAGE_EDIT_ACCORDION_TITLE=Form
+
+//Pattern Modul
+DL_PATTERNS=Muster
+DL_PATTERN_ACCORDION_IMAGE=Bild
+DL_PATTERN_SCALE_SLIDER_TITLE=Skalieren
+DL_PATTERN_SCALE={{percent}}\u00A0%
+DL_PATTERN_ROTATION_SLIDER_TITLE=Drehung
+DL_PATTERN_TYPES_ACCORDION_TITLE=Muster
+DL_PATTERN_COLOR_MODE=Farbmodus
+DL_PATTERN_MODE_COLOR_TITLE=Farben
+DL_PATTERN_MODE_GREYSCALE_TITLE=Graustufen
+DL_PATTERN_OUTPUT_FORMAT_TITLE=Format
+DL_PATTERN_OUTPUT_FORMAT_RASTER=Raster
+
+//Color Modul
+DL_COLORS=Farbdesigns
+DL_COLOR_MOOD_LABEL=Farbstimmung
+DL_COLOR_MOODS_COLORFUL=Farbig
+DL_COLOR_MOODS_BRIGHT=Hell
+DL_COLOR_MOODS_MUTED=Ged\u00E4mpft
+DL_COLOR_MOODS_DEEP=Tief
+DL_COLOR_MOODS_DARK=Dunkel
+DL_COLOR_MOODS_BLANK=Keine
+//Gradient
+DL_GRADIENTS=Farbverl\u00E4ufe
+DL_GRADIENT_STOPS_SLIDER_LABEL=Verlaufspunkte
+DL_SWATCH_COLLECTION_HEADING=FARBFELDER
+DL_COPIED=Kopiert
+
+//Type
+DL_TYPE=Schrift
+DL_TYPE_FIND_FONTS=\u00C4hnliche Schriften suchen
+DL_TYPE_GET_STARTED=Erste Schritte mit Adobe Fonts-Empfehlungen f\u00FCr \u00E4hnliche Schriften
+DL_MY_LIBRARY=Meine Bibliothek
+DL_CREATE_NEW_LIBRARY=Neue Bibliothek erstellen
+DL_TYPE_BOUNDING_BOX_INFO=Platzieren Sie diese Auswahl um eine Textzeile.
+DL_TYPE_TEXT_SELECTOR_CUSTOM=Geben Sie eigenen Text ein
+DL_TYPE_TEXT_SELECTOR_CAPTURED=Erfasster Text
+DL_TYPE_EDIT_BUTTON=Bearbeiten
+DL_TYPE_SAMPLE_TEXTS_LABEL=Beispieltext
+DL_TYPE_FONT_RECOMMENDATIONS_TOAST_MESSAGE={{noOfRecommendations}} Schriftempfehlungen
+DL_TYPE_FONT_RECOMMENDATIONS_TITLE=Schriftempfehlungen ({{noOfRecommendations}})
+DL_TYPE_ACTIVATE_FONT_ERROR=Schrift wurde nicht aktiviert
+DL_TYPE_FONTS_NOT_FOUND=Keine passenden Schriften 

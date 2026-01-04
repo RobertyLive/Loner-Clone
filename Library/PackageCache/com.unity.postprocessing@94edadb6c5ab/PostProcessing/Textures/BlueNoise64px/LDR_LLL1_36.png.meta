@@ -1,0 +1,28 @@
+NETWORK_SETTINGS=Cliciwch yma i ddatrys problemau
+
+DL_BRUSHTYPE_SCATTER=Brwsh Photoshop
+DL_BRUSHTYPE_VECTOR=Brwsh fector
+DL_BRUSHTYPE_RIBBON=Brwsh braslunio
+DL_BRUSHTYPE_UNKNOWN=Brwsh anhysbys
+
+DL_ERROR_BRUSH_NOT_SUPPORTED_PS=Ni chefnogir y fformat brwsh hwn yn Photoshop
+DL_ERROR_BRUSH_NOT_SUPPORTED_AI=Ni chefnogir y fformat brwsh hwn yn Illustrator
+DL_ERROR_BRUSH_NOT_SUPPORTED_FP=Ni chefnogir y fformat brwsh hwn yn Animate
+DL_ERROR_BRUSH_NOT_SUPPORTED_ID=Ni chefnogir brwsys yn InDesign
+DL_ERROR_BRUSH_NOT_SUPPORTED_AE=Ni chefnogir brwsys yn After Effects
+DL_ERROR_BRUSH_NOT_SUPPORTED_PR=Ni chefnogir brwsys yn Premiere
+DL_ERROR_BRUSH_NOT_SUPPORTED_DW=Ni chefnogir brwsys yn Dreamweaver
+DL_ERROR_BRUSH_NOT_SUPPORTED_SG=Ni chefnogir brwsys yn Stager
+DL_ERROR_BRUSH_NOT_SUPPORTED_PP=Ni chefnogir brwsys yn PowerPoint
+DL_ERROR_BRUSH_NOT_SUPPORTED_WD=Ni chefnogir brwsys yn Word
+DL_ERROR_BRUSH_NOT_SUPPORTED_XD=Ni chefnogir brwsys yn XD
+
+DL_ERROR_CAPSULE_NOT_SUPPORTED_PS=Ni chefnogir templedi graffeg symud yn Photoshop
+DL_ERROR_CAPSULE_NOT_SUPPORTED_AI=Ni chefnogir templedi graffeg symud yn Illustrator
+DL_ERROR_CAPSULE_NOT_SUPPORTED_FP=Ni chefnogir templedi graffeg symud yn Animate
+DL_ERROR_CAPSULE_NOT_SUPPORTED_ID=Ni chefnogir templedi graffeg symud yn InDesign
+DL_ERROR_CAPSULE_NOT_SUPPORTED_PR=Ni chefnogir y templed graffeg Symud hwn yn Premiere
+DL_ERROR_CAPSULE_NOT_SUPPORTED_AE=Ni chefnogir y templed graffeg Symud hwn yn After Effects
+DL_ERROR_CAPSULE_NOT_SUPPORTED_DW=Ni chefnogir templedi graffeg symud yn Dreamweaver
+DL_ERROR_CAPSULE_NOT_SUPPORTED_SG=Ni chefnogir templedi graffeg symud yn Stager
+DL_ERROR_CAPSULE_NOT_SUPPORTED_PP=Ni chefnogir templedi 

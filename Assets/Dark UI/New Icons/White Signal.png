@@ -1,0 +1,370 @@
+www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS RP"
+       stCamera:UniqueCameraModel="Canon EOS RP"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="61182"
+       stCamera:Lens="RF100-500mm F4.5-7.1 L IS USM"
+       stCamera:LensInfo="100/1 500/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS RP"
+       stCamera:LensPrettyName="Canon RF 100-500mm F4.5-7.1 L IS USM"
+       stCamera:ProfileName="Adobe (Canon RF 100-500mm F4.5-7.1 L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6252"
+       stCamera:ImageLength="4168"
+       stCamera:FocalLength="500"
+       stCamera:FocusDistance="16.6"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:RadialDistortParam1="7.884056"
+        stCamera:RadialDistortParam2="220.639464"
+        stCamera:RadialDistortParam3="0.656535">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:VignetteModelParam1="-56.97886"
+        stCamera:VignetteModelParam2="32176.353737"
+        stCamera:VignetteModelParam3="-11482931.259673"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS RP"
+       stCamera:UniqueCameraModel="Canon EOS RP"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="61182"
+       stCamera:Lens="RF100-500mm F4.5-7.1 L IS USM"
+       stCamera:LensInfo="100/1 500/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS RP"
+       stCamera:LensPrettyName="Canon RF 100-500mm F4.5-7.1 L IS USM"
+       stCamera:ProfileName="Adobe (Canon RF 100-500mm F4.5-7.1 L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6252"
+       stCamera:ImageLength="4168"
+       stCamera:FocalLength="500"
+       stCamera:FocusDistance="16.6"
+       stCamera:ApertureValue="10.983706">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:RadialDistortParam1="7.884056"
+        stCamera:RadialDistortParam2="220.639464"
+        stCamera:RadialDistortParam3="0.656535">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:VignetteModelParam1="-55.323664"
+        stCamera:VignetteModelParam2="31560.735548"
+        stCamera:VignetteModelParam3="-11687847.643163"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS RP"
+       stCamera:UniqueCameraModel="Canon EOS RP"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="61182"
+       stCamera:Lens="RF100-500mm F4.5-7.1 L IS USM"
+       stCamera:LensInfo="100/1 500/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS RP"
+       stCamera:LensPrettyName="Canon RF 100-500mm F4.5-7.1 L IS USM"
+       stCamera:ProfileName="Adobe (Canon RF 100-500mm F4.5-7.1 L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6252"
+       stCamera:ImageLength="4168"
+       stCamera:FocalLength="500"
+       stCamera:FocusDistance="16.6"
+       stCamera:ApertureValue="11.344851">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:RadialDistortParam1="7.884056"
+        stCamera:RadialDistortParam2="220.639464"
+        stCamera:RadialDistortParam3="0.656535">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:VignetteModelParam1="-56.698984"
+        stCamera:VignetteModelParam2="32323.720174"
+        stCamera:VignetteModelParam3="-11663564.452634"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS RP"
+       stCamera:UniqueCameraModel="Canon EOS RP"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="61182"
+       stCamera:Lens="RF100-500mm F4.5-7.1 L IS USM"
+       stCamera:LensInfo="100/1 500/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS RP"
+       stCamera:LensPrettyName="Canon RF 100-500mm F4.5-7.1 L IS USM"
+       stCamera:ProfileName="Adobe (Canon RF 100-500mm F4.5-7.1 L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6252"
+       stCamera:ImageLength="4168"
+       stCamera:FocalLength="500"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="5.655638">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:RadialDistortParam1="7.884056"
+        stCamera:RadialDistortParam2="220.639464"
+        stCamera:RadialDistortParam3="0.656535">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:VignetteModelParam1="-303.983488"
+        stCamera:VignetteModelParam2="153213.436035"
+        stCamera:VignetteModelParam3="-36546754.58558"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS RP"
+       stCamera:UniqueCameraModel="Canon EOS RP"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="61182"
+       stCamera:Lens="RF100-500mm F4.5-7.1 L IS USM"
+       stCamera:LensInfo="100/1 500/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS RP"
+       stCamera:LensPrettyName="Canon RF 100-500mm F4.5-7.1 L IS USM"
+       stCamera:ProfileName="Adobe (Canon RF 100-500mm F4.5-7.1 L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6252"
+       stCamera:ImageLength="4168"
+       stCamera:FocalLength="500"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:RadialDistortParam1="7.884056"
+        stCamera:RadialDistortParam2="220.639464"
+        stCamera:RadialDistortParam3="0.656535">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:VignetteModelParam1="-150.388741"
+        stCamera:VignetteModelParam2="41794.433557"
+        stCamera:VignetteModelParam3="-13486753.919704"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS RP"
+       stCamera:UniqueCameraModel="Canon EOS RP"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="61182"
+       stCamera:Lens="RF100-500mm F4.5-7.1 L IS USM"
+       stCamera:LensInfo="100/1 500/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS RP"
+       stCamera:LensPrettyName="Canon RF 100-500mm F4.5-7.1 L IS USM"
+       stCamera:ProfileName="Adobe (Canon RF 100-500mm F4.5-7.1 L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6252"
+       stCamera:ImageLength="4168"
+       stCamera:FocalLength="500"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:RadialDistortParam1="7.884056"
+        stCamera:RadialDistortParam2="220.639464"
+        stCamera:RadialDistortParam3="0.656535">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:VignetteModelParam1="-60.299165"
+        stCamera:VignetteModelParam2="52818.703792"
+        stCamera:VignetteModelParam3="-26286913.670793"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS RP"
+       stCamera:UniqueCameraModel="Canon EOS RP"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="61182"
+       stCamera:Lens="RF100-500mm F4.5-7.1 L IS USM"
+       stCamera:LensInfo="100/1 500/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS RP"
+       stCamera:LensPrettyName="Canon RF 100-500mm F4.5-7.1 L IS USM"
+       stCamera:ProfileName="Adobe (Canon RF 100-500mm F4.5-7.1 L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6252"
+       stCamera:ImageLength="4168"
+       stCamera:FocalLength="500"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:RadialDistortParam1="7.884056"
+        stCamera:RadialDistortParam2="220.639464"
+        stCamera:RadialDistortParam3="0.656535">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:VignetteModelParam1="-51.538693"
+        stCamera:VignetteModelParam2="28211.978582"
+        stCamera:VignetteModelParam3="-10524026.708055"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS RP"
+       stCamera:UniqueCameraModel="Canon EOS RP"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="61182"
+       stCamera:Lens="RF100-500mm F4.5-7.1 L IS USM"
+       stCamera:LensInfo="100/1 500/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS RP"
+       stCamera:LensPrettyName="Canon RF 100-500mm F4.5-7.1 L IS USM"
+       stCamera:ProfileName="Adobe (Canon RF 100-500mm F4.5-7.1 L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6252"
+       stCamera:ImageLength="4168"
+       stCamera:FocalLength="500"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:RadialDistortParam1="7.884056"
+        stCamera:RadialDistortParam2="220.639464"
+        stCamera:RadialDistortParam3="0.656535">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:VignetteModelParam1="-57.954094"
+        stCamera:VignetteModelParam2="34066.041963"
+        stCamera:VignetteModelParam3="-12358685.596709"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS RP"
+       stCamera:UniqueCameraModel="Canon EOS RP"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="61182"
+       stCamera:Lens="RF100-500mm F4.5-7.1 L IS USM"
+       stCamera:LensInfo="100/1 500/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS RP"
+       stCamera:LensPrettyName="Canon RF 100-500mm F4.5-7.1 L IS USM"
+       stCamera:ProfileName="Adobe (Canon RF 100-500mm F4.5-7.1 L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6252"
+       stCamera:ImageLength="4168"
+       stCamera:FocalLength="500"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:RadialDistortParam1="7.884056"
+        stCamera:RadialDistortParam2="220.639464"
+        stCamera:RadialDistortParam3="0.656535">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:VignetteModelParam1="-58.296694"
+        stCamera:VignetteModelParam2="33763.490411"
+        stCamera:VignetteModelParam3="-12151357.199219"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS RP"
+       stCamera:UniqueCameraModel="Canon EOS RP"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="61182"
+       stCamera:Lens="RF100-500mm F4.5-7.1 L IS USM"
+       stCamera:LensInfo="100/1 500/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon EOS RP"
+       stCamera:LensPrettyName="Canon RF 100-500mm F4.5-7.1 L IS USM"
+       stCamera:ProfileName="Adobe (Canon RF 100-500mm F4.5-7.1 L IS USM)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="6252"
+       stCamera:ImageLength="4168"
+       stCamera:FocalLength="500"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="10.983706">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:RadialDistortParam1="7.884056"
+        stCamera:RadialDistortParam2="220.639464"
+        stCamera:RadialDistortParam3="0.656535">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.594047"
+        stCamera:FocalLengthY="13.594047"
+        stCamera:VignetteModelParam1="-57.437338"
+        stCamera:VignetteModelParam2="33072.490393"
+        stCamera:VignetteModelParam3="-12046140.063955"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      

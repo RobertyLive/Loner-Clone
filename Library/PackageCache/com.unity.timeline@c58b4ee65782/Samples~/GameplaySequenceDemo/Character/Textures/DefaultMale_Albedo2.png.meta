@@ -1,0 +1,59 @@
+ngs class that are to be treated
+            as settings. ApplicationSettingsBase will ignore all properties not marked with
+            this or a derived attribute.
+            </summary>
+        </member>
+        <member name="T:System.Configuration.SettingChangingEventArgs">
+            <summary>
+            Event args for the SettingChanging event.
+            </summary>
+        </member>
+        <member name="T:System.Configuration.SettingChangingEventHandler">
+            <summary>
+            Event handler for the SettingChanging event.
+            </summary>
+        </member>
+        <member name="T:System.Configuration.SettingsDescriptionAttribute">
+            <summary>
+            Description for a particular setting.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.SettingsDescriptionAttribute.#ctor(System.String)">
+            <summary>
+            Constructor takes the description string.
+            </summary>
+        </member>
+        <member name="P:System.Configuration.SettingsDescriptionAttribute.Description">
+            <summary>
+            Description string.
+            </summary>
+        </member>
+        <member name="T:System.Configuration.SettingsGroupDescriptionAttribute">
+            <summary>
+            Description for a particular settings group.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.SettingsGroupDescriptionAttribute.#ctor(System.String)">
+            <summary>
+            Constructor takes the description string.
+            </summary>
+        </member>
+        <member name="P:System.Configuration.SettingsGroupDescriptionAttribute.Description">
+            <summary>
+            Description string.
+            </summary>
+        </member>
+        <member name="T:System.Configuration.SettingsGroupNameAttribute">
+            <summary>
+            Name of a particular settings group.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.SettingsGroupNameAttribute.#ctor(System.String)">
+            <summary>
+            Constructor takes the group name.
+            </summary>
+        </member>
+        <member name="P:System.Configuration.SettingsGroupNameAttribute.GroupName">
+            <summary>
+            Name of the settings group.
+   

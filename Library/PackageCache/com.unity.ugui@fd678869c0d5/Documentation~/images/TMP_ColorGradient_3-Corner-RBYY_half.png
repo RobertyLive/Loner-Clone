@@ -1,0 +1,833 @@
+ameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>55</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.466719</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.466719</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.41405</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.175191</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-22.038556</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.466719</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.466719</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.197756</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>100.652311</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2291.590034</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>55</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.466719</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.466719</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.41405</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.175191</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-22.038556</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.466719</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.466719</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.184731</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>64.698713</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-848.624438</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>55</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.466719</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.466719</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.41405</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.175191</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-22.038556</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.466719</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.466719</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.482844</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>75.948595</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-972.756839</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>55</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>2.466719</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>2.466719</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.41405</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>2.175191</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-22.038556</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>2.466719</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>2.466719</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-2.297539</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>69.82296</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-919.715393</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.07</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.483112</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.483112</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>0.569809</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-17.292093</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>802.092602</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.483112</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.483112</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-39.405673</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1818.228967</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-91064.106733</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.07</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.483112</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.483112</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>0.569809</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-17.292093</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>802.092602</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.483112</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.483112</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-8.346085</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1777.594461</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-151846.058308</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.07</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.483112</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.483112</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>0.569809</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-17.292093</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>802.092602</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.483112</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.483112</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-13.374913</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2515.700971</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-144260.333399</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.07</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.483112</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.483112</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>0.569809</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-17.292093</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>802.092602</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.483112</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.483112</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-8.736066</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1077.468581</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-54935.758569</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.07</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>4.483112</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>4.483112</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>0.569809</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-17.292093</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>802.092602</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>4.483112</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>4.483112</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-8.366693</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>622.596756</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-23280.919105</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.39</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.955471</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.955471</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>0.091974</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-9.355753</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>403.278125</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.955471</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.955471</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-36.632257</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>2253.019255</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-73797.914917</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.39</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.955471</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.955471</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>0.091974</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-9.355753</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>403.278125</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.955471</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.955471</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-8.777822</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1311.245596</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-65230.42608</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.39</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.955471</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.955471</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>0.091974</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-9.355753</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>403.278125</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.955471</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.955471</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-5.225636</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>391.762003</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-15370.849703</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.39</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.955471</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.955471</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>0.091974</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-9.355753</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>403.278125</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.955471</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.955471</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-5.060886</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>284.087284</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-9381.437746</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>1.39</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.955471</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.955471</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>0.091974</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-9.355753</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>403.278125</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.955471</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.955471</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-6.285537</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>368.758594</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-10876.192318</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.06</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.381646</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.381646</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.077359</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-4.660406</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>162.933054</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.381646</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.381646</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-26.753313</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>1082.961631</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-21298.306828</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.06</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.381646</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.381646</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.077359</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-4.660406</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>162.933054</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.381646</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.381646</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.522623</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>318.82874</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-11057.105184</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.06</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.381646</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.381646</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.077359</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-4.660406</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>162.933054</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.381646</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.381646</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.578268</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>149.500033</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3741.268147</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.06</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.381646</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.381646</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.077359</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-4.660406</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>162.933054</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.381646</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.381646</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.78268</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>164.654795</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-3956.945672</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>2.06</stCamera:FocusDistance>
+      <stCamera:ApertureValue>8.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.381646</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.381646</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.077359</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>-4.660406</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>162.933054</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.381646</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.381646</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-4.540982</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>204.832361</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-4504.787469</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.046064</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.046064</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.23844</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.034024</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-95.439883</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.046064</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.046064</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-21.762762</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>724.078704</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-11590.122617</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>4.970854</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.046064</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.046064</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.23844</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.034024</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-95.439883</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.046064</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.046064</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.949591</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>229.48393</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-6269.59391</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.046064</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.046064</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.23844</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.034024</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-95.439883</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.046064</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.046064</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.189036</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>124.37407</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2477.858074</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</stCamera:CameraPrettyName>
+      <stCamera:LensPrettyName>Canon EF-S 55-250mm f/4-5.6 IS</stCamera:LensPrettyName>
+      <stCamera:ProfileName>Adobe (Canon EF-S 55-250mm f/4-5.6 IS)</stCamera:ProfileName>
+      <stCamera:SensorFormatFactor>1.579033</stCamera:SensorFormatFactor>
+      <stCamera:ImageWidth>4770</stCamera:ImageWidth>
+      <stCamera:ImageLength>3177</stCamera:ImageLength>
+      <stCamera:FocalLength>70</stCamera:FocalLength>
+      <stCamera:FocusDistance>10000</stCamera:FocusDistance>
+      <stCamera:ApertureValue>6.918863</stCamera:ApertureValue>
+      <stCamera:PerspectiveModel rdf:parseType="Resource">
+       <stCamera:Version>2</stCamera:Version>
+       <stCamera:FocalLengthX>3.046064</stCamera:FocalLengthX>
+       <stCamera:FocalLengthY>3.046064</stCamera:FocalLengthY>
+       <stCamera:ImageXCenter>0.5</stCamera:ImageXCenter>
+       <stCamera:ImageYCenter>0.499843</stCamera:ImageYCenter>
+       <stCamera:RadialDistortParam1>-0.23844</stCamera:RadialDistortParam1>
+       <stCamera:RadialDistortParam2>5.034024</stCamera:RadialDistortParam2>
+       <stCamera:RadialDistortParam3>-95.439883</stCamera:RadialDistortParam3>
+       <stCamera:VignetteModel rdf:parseType="Resource">
+        <stCamera:FocalLengthX>3.046064</stCamera:FocalLengthX>
+        <stCamera:FocalLengthY>3.046064</stCamera:FocalLengthY>
+        <stCamera:VignetteModelParam1>-3.071068</stCamera:VignetteModelParam1>
+        <stCamera:VignetteModelParam2>115.165188</stCamera:VignetteModelParam2>
+        <stCamera:VignetteModelParam3>-2265.203981</stCamera:VignetteModelParam3>
+       </stCamera:VignetteModel>
+      </stCamera:PerspectiveModel>
+     </rdf:li>
+     <rdf:li rdf:parseType="Resource">
+      <stCamera:Author>Adobe Systems, Inc.</stCamera:Author>
+      <stCamera:Make>Canon</stCamera:Make>
+      <stCamera:Model>Canon EOS 50D</stCamera:Model>
+      <stCamera:UniqueCameraModel>Canon EOS 50D</stCamera:UniqueCameraModel>
+      <stCamera:CameraRawProfile>True</stCamera:CameraRawProfile>
+      <stCamera:LensID>49</stCamera:LensID>
+      <stCamera:Lens>EF-S55-250mm f/4-5.6 IS</stCamera:Lens>
+      <stCamera:LensInfo>55/1 250/1 0/0 0/0</stCamera:LensInfo>
+      <stCamera:CameraPrettyName>Canon EOS 50D</st

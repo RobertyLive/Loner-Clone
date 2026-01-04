@@ -1,0 +1,1547 @@
+netteModelParam1="-18.093836"
+        stCamera:VignetteModelParam2="4044.313373"
+        stCamera:VignetteModelParam3="-373910.855772"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="2.37"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:RadialDistortParam1="1.212069"
+        stCamera:RadialDistortParam2="-16.446173"
+        stCamera:RadialDistortParam3="1095.305748">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:VignetteModelParam1="-14.68717"
+        stCamera:VignetteModelParam2="1948.840073"
+        stCamera:VignetteModelParam3="-111311.077217"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="2.37"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:RadialDistortParam1="1.212069"
+        stCamera:RadialDistortParam2="-16.446173"
+        stCamera:RadialDistortParam3="1095.305748">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:VignetteModelParam1="-14.664043"
+        stCamera:VignetteModelParam2="1941.879676"
+        stCamera:VignetteModelParam3="-110123.467495"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="2.37"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:RadialDistortParam1="1.212069"
+        stCamera:RadialDistortParam2="-16.446173"
+        stCamera:RadialDistortParam3="1095.305748">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:VignetteModelParam1="-14.230659"
+        stCamera:VignetteModelParam2="1929.681274"
+        stCamera:VignetteModelParam3="-116467.348819"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3.16"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:RadialDistortParam1="1.212069"
+        stCamera:RadialDistortParam2="-16.446173"
+        stCamera:RadialDistortParam3="1095.305748">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:VignetteModelParam1="-15.942901"
+        stCamera:VignetteModelParam2="-4051.512808"
+        stCamera:VignetteModelParam3="111727.199291"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3.16"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:RadialDistortParam1="1.212069"
+        stCamera:RadialDistortParam2="-16.446173"
+        stCamera:RadialDistortParam3="1095.305748">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:VignetteModelParam1="-19.165911"
+        stCamera:VignetteModelParam2="-3560.114556"
+        stCamera:VignetteModelParam3="90437.264398"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3.16"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:RadialDistortParam1="1.212069"
+        stCamera:RadialDistortParam2="-16.446173"
+        stCamera:RadialDistortParam3="1095.305748">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:VignetteModelParam1="1.394916"
+        stCamera:VignetteModelParam2="-5900.682628"
+        stCamera:VignetteModelParam3="330844.378013"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3.16"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:RadialDistortParam1="1.212069"
+        stCamera:RadialDistortParam2="-16.446173"
+        stCamera:RadialDistortParam3="1095.305748">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:VignetteModelParam1="-18.400394"
+        stCamera:VignetteModelParam2="4121.716242"
+        stCamera:VignetteModelParam3="-378988.053345"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3.16"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:RadialDistortParam1="1.212069"
+        stCamera:RadialDistortParam2="-16.446173"
+        stCamera:RadialDistortParam3="1095.305748">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:VignetteModelParam1="-15.170866"
+        stCamera:VignetteModelParam2="2022.94492"
+        stCamera:VignetteModelParam3="-113464.38124"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3.16"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:RadialDistortParam1="1.212069"
+        stCamera:RadialDistortParam2="-16.446173"
+        stCamera:RadialDistortParam3="1095.305748">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:VignetteModelParam1="-15.166958"
+        stCamera:VignetteModelParam2="2048.922969"
+        stCamera:VignetteModelParam3="-116773.363231"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="3.16"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:RadialDistortParam1="1.212069"
+        stCamera:RadialDistortParam2="-16.446173"
+        stCamera:RadialDistortParam3="1095.305748">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="6.450805"
+        stCamera:FocalLengthY="6.450805"
+        stCamera:VignetteModelParam1="-16.74577"
+        stCamera:VignetteModelParam2="2357.175076"
+        stCamera:VignetteModelParam3="-132672.8126"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6.31"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:RadialDistortParam1="0.81547"
+        stCamera:RadialDistortParam2="-87.77561"
+        stCamera:RadialDistortParam3="4654.260857">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:VignetteModelParam1="-10.280735"
+        stCamera:VignetteModelParam2="-1457.045096"
+        stCamera:VignetteModelParam3="21030.93467"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6.31"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:RadialDistortParam1="0.81547"
+        stCamera:RadialDistortParam2="-87.77561"
+        stCamera:RadialDistortParam3="4654.260857">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:VignetteModelParam1="-12.419663"
+        stCamera:VignetteModelParam2="-1273.914589"
+        stCamera:VignetteModelParam3="17550.084915"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6.31"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:RadialDistortParam1="0.81547"
+        stCamera:RadialDistortParam2="-87.77561"
+        stCamera:RadialDistortParam3="4654.260857">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:VignetteModelParam1="0.749258"
+        stCamera:VignetteModelParam2="-2207.363679"
+        stCamera:VignetteModelParam3="75195.416976"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6.31"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:RadialDistortParam1="0.81547"
+        stCamera:RadialDistortParam2="-87.77561"
+        stCamera:RadialDistortParam3="4654.260857">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:VignetteModelParam1="-11.561114"
+        stCamera:VignetteModelParam2="1570.408481"
+        stCamera:VignetteModelParam3="-88688.595274"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6.31"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:RadialDistortParam1="0.81547"
+        stCamera:RadialDistortParam2="-87.77561"
+        stCamera:RadialDistortParam3="4654.260857">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:VignetteModelParam1="-8.839097"
+        stCamera:VignetteModelParam2="663.401998"
+        stCamera:VignetteModelParam3="-21941.754878"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6.31"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:RadialDistortParam1="0.81547"
+        stCamera:RadialDistortParam2="-87.77561"
+        stCamera:RadialDistortParam3="4654.260857">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:VignetteModelParam1="-9.181652"
+        stCamera:VignetteModelParam2="684.565109"
+        stCamera:VignetteModelParam3="-21632.20426"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="6.31"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:RadialDistortParam1="0.81547"
+        stCamera:RadialDistortParam2="-87.77561"
+        stCamera:RadialDistortParam3="4654.260857">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="5.06277"
+        stCamera:FocalLengthY="5.06277"
+        stCamera:VignetteModelParam1="-8.992036"
+        stCamera:VignetteModelParam2="662.288413"
+        stCamera:VignetteModelParam3="-21289.310545"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="-8.178785"
+        stCamera:VignetteModelParam2="-834.00253"
+        stCamera:VignetteModelParam3="8412.645799"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="-9.224846"
+        stCamera:VignetteModelParam2="-781.28984"
+        stCamera:VignetteModelParam3="8173.952344"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="0.552506"
+        stCamera:VignetteModelParam2="-1296.86488"
+        stCamera:VignetteModelParam3="33545.854178"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="-8.868032"
+        stCamera:VignetteModelParam2="953.545889"
+        stCamera:VignetteModelParam3="-41968.326515"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="-7.089123"
+        stCamera:VignetteModelParam2="448.741038"
+        stCamera:VignetteModelParam3="-12251.065824"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="-7.733839"
+        stCamera:VignetteModelParam2="503.561159"
+        stCamera:VignetteModelParam3="-13375.024495"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="15"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="-7.628121"
+        stCamera:VignetteModelParam2="497.058203"
+        stCamera:VignetteModelParam3="-13433.342175"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="-8.465685"
+        stCamera:VignetteModelParam2="-801.007057"
+        stCamera:VignetteModelParam3="7000.931268"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="-8.989781"
+        stCamera:VignetteModelParam2="-799.029539"
+        stCamera:VignetteModelParam3="8241.945638"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="0.477735"
+        stCamera:VignetteModelParam2="-1281.446436"
+        stCamera:VignetteModelParam3="33101.402384"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="-8.7758"
+        stCamera:VignetteModelParam2="938.815299"
+        stCamera:VignetteModelParam3="-41499.366601"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="-6.934048"
+        stCamera:VignetteModelParam2="420.700682"
+        stCamera:VignetteModelParam3="-11189.711912"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="-7.171971"
+        stCamera:VignetteModelParam2="440.094084"
+        stCamera:VignetteModelParam3="-11573.286552"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="135"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:RadialDistortParam1="0.373262"
+        stCamera:RadialDistortParam2="-27.37482"
+        stCamera:RadialDistortParam3="1317.86331">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="4.4475"
+        stCamera:FocalLengthY="4.4475"
+        stCamera:VignetteModelParam1="-7.583917"
+        stCamera:VignetteModelParam2="471.280992"
+        stCamera:VignetteModelParam3="-12152.704454"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="2.37"
+       stCamera:ApertureValue="4.811985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:RadialDistortParam1="9.690712"
+        stCamera:RadialDistortParam2="171.579812"
+        stCamera:RadialDistortParam3="5568.921256">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:VignetteModelParam1="62.162491"
+        stCamera:VignetteModelParam2="-309534.435971"
+        stCamera:VignetteModelParam3="79314567.853591"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="2.37"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:RadialDistortParam1="9.690712"
+        stCamera:RadialDistortParam2="171.579812"
+        stCamera:RadialDistortParam3="5568.921256">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:VignetteModelParam1="10.583324"
+        stCamera:VignetteModelParam2="-241038.665556"
+        stCamera:VignetteModelParam3="56402756.228315"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="2.37"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:RadialDistortParam1="9.690712"
+        stCamera:RadialDistortParam2="171.579812"
+        stCamera:RadialDistortParam3="5568.921256">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:VignetteModelParam1="-67.00173"
+        stCamera:VignetteModelParam2="81614.577525"
+        stCamera:VignetteModelParam3="-60784875.752868"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="2.37"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:RadialDistortParam1="9.690712"
+        stCamera:RadialDistortParam2="171.579812"
+        stCamera:RadialDistortParam3="5568.921256">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:VignetteModelParam1="-62.839523"
+        stCamera:VignetteModelParam2="42483.253953"
+        stCamera:VignetteModelParam3="-13288631.008907"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="2.37"
+       stCamera:ApertureValue="8">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:RadialDistortParam1="9.690712"
+        stCamera:RadialDistortParam2="171.579812"
+        stCamera:RadialDistortParam3="5568.921256">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:VignetteModelParam1="-64.501003"
+        stCamera:VignetteModelParam2="38993.800473"
+        stCamera:VignetteModelParam3="-9606156.839254"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="2.37"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:RadialDistortParam1="9.690712"
+        stCamera:RadialDistortParam2="171.579812"
+        stCamera:RadialDistortParam3="5568.921256">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:VignetteModelParam1="-71.291915"
+        stCamera:VignetteModelParam2="46594.503757"
+        stCamera:VignetteModelParam3="-11908796.742387"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="2.37"
+       stCamera:ApertureValue="10">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:RadialDistortParam1="9.690712"
+        stCamera:RadialDistortParam2="171.579812"
+        stCamera:RadialDistortParam3="5568.921256">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:VignetteModelParam1="-85.713334"
+        stCamera:VignetteModelParam2="59616.754196"
+        stCamera:VignetteModelParam3="-14975436.568203"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="2.37"
+       stCamera:ApertureValue="10.983706">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:RadialDistortParam1="9.690712"
+        stCamera:RadialDistortParam2="171.579812"
+        stCamera:RadialDistortParam3="5568.921256">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="13.961101"
+        stCamera:FocalLengthY="13.961101"
+        stCamera:VignetteModelParam1="-88.958522"
+        stCamera:VignetteModelParam2="60937.728882"
+        stCamera:VignetteModelParam3="-14849455.739378"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3.16"
+       stCamera:ApertureValue="4.811985">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="11.563672"
+        stCamera:FocalLengthY="11.563672"
+        stCamera:RadialDistortParam1="6.436895"
+        stCamera:RadialDistortParam2="-453.960531"
+        stCamera:RadialDistortParam3="216061.422786">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="11.563672"
+        stCamera:FocalLengthY="11.563672"
+        stCamera:VignetteModelParam1="30.867458"
+        stCamera:VignetteModelParam2="-121299.855668"
+        stCamera:VignetteModelParam3="19353796.836426"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3.16"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="11.563672"
+        stCamera:FocalLengthY="11.563672"
+        stCamera:RadialDistortParam1="6.436895"
+        stCamera:RadialDistortParam2="-453.960531"
+        stCamera:RadialDistortParam3="216061.422786">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="11.563672"
+        stCamera:FocalLengthY="11.563672"
+        stCamera:VignetteModelParam1="1.424724"
+        stCamera:VignetteModelParam2="-94706.601026"
+        stCamera:VignetteModelParam3="13310571.052361"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON D3"
+       stCamera:UniqueCameraModel="Nikon D3"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="101"
+       stCamera:Lens="80.0-400.0 mm f/4.5-5.6"
+       stCamera:LensInfo="800/10 4000/10 45/10 56/10"
+       stCamera:CameraPrettyName="NIKON D3"
+       stCamera:LensPrettyName="Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED"
+       stCamera:ProfileName="Adobe (Nikon AF VR Zoom-NIKKOR 80-400mm f/4.5-5.6D ED)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:ImageWidth="4284"
+       stCamera:ImageLength="2844"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="3.16"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:Foca

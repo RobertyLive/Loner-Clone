@@ -1,0 +1,72 @@
+ Constructor takes the provider's type.
+            </summary>
+        </member>
+        <member name="P:System.Configuration.SettingsProviderAttribute.ProviderTypeName">
+            <summary>
+            Type name of the provider
+            </summary>
+        </member>
+        <member name="T:System.Configuration.SettingsSavingEventHandler">
+            <summary>
+            Event handler for the SettingsSaving event.
+            </summary>
+        </member>
+        <member name="T:System.Configuration.SettingsSerializeAsAttribute">
+            <summary>
+            Indicates the SettingsSerializeAs for a group of/individual setting.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.SettingsSerializeAsAttribute.#ctor(System.Configuration.SettingsSerializeAs)">
+            <summary>
+            Constructor takes a SettingsSerializeAs enum value.
+            </summary>
+        </member>
+        <member name="P:System.Configuration.SettingsSerializeAsAttribute.SerializeAs">
+            <summary>
+            SettingsSerializeAs value to use
+            </summary>
+        </member>
+        <member name="T:System.Configuration.SingleTagSectionHandler">
+             Single-tag dictionary config factory
+            
+             Use for tags of the form: &lt;MySingleTag key1="value1" ... keyN="valueN"/&gt;
+        </member>
+        <member name="M:System.Configuration.SingleTagSectionHandler.Create(System.Object,System.Object,System.Xml.XmlNode)">
+             Create
+            
+             Given a partially composed config object (possibly null)
+             and some input from the config system, return a
+             further partially composed config object
+        </member>
+        <member name="T:System.Configuration.SpecialSetting">
+            <summary>
+            Indicates settings that are to be treated "specially".
+            </summary>
+        </member>
+        <member name="T:System.Configuration.SpecialSettingAttribute">
+            <summary>
+            Indicates the SpecialSetting for a group of/individual settings.
+            </summary>
+        </member>
+        <member name="P:System.Configuration.SpecialSettingAttribute.SpecialSetting">
+            <summary>
+            SpecialSetting value to use
+            </summary>
+        </member>
+        <member name="M:System.Configuration.TypeUtil.GetImplicitType(System.String)">
+            <summary>
+            Find type references that used to be found without assembly names
+            </summary>
+        </member>
+        <member name="T:System.Configuration.UserScopedSettingAttribute">
+            <summary>
+                Indicates that a setting is to be stored on a per-user basis.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.XmlUtil.SkipToNextElement">
+            <summary>
+            Skip this element and its children, then read to next start element,
+            or until we hit end of file.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.XmlUtil.StrictReadToNextElement(System.Configuration.Exception

@@ -1,0 +1,63 @@
+  Attempts to bind the configuration instance to a new instance of type T.
+            If this configuration section has a value, that will be used.
+            Otherwise binding by matching property names against configuration keys recursively.
+            </summary>
+            <param name="configuration">The configuration instance to bind.</param>
+            <param name="type">The type of the new instance to bind.</param>
+            <param name="configureOptions">Configures the binder options.</param>
+            <returns>The new instance if successful, null otherwise.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.ConfigurationBinder.Bind(Microsoft.Extensions.Configuration.IConfiguration,System.String,System.Object)">
+            <summary>
+            Attempts to bind the given object instance to the configuration section specified by the key by matching property names against configuration keys recursively.
+            </summary>
+            <param name="configuration">The configuration instance to bind.</param>
+            <param name="key">The key of the configuration section to bind.</param>
+            <param name="instance">The object to bind.</param>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.ConfigurationBinder.Bind(Microsoft.Extensions.Configuration.IConfiguration,System.Object)">
+            <summary>
+            Attempts to bind the given object instance to configuration values by matching property names against configuration keys recursively.
+            </summary>
+            <param name="configuration">The configuration instance to bind.</param>
+            <param name="instance">The object to bind.</param>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.ConfigurationBinder.Bind(Microsoft.Extensions.Configuration.IConfiguration,System.Object,System.Action{Microsoft.Extensions.Configuration.BinderOptions})">
+            <summary>
+            Attempts to bind the given object instance to configuration values by matching property names against configuration keys recursively.
+            </summary>
+            <param name="configuration">The configuration instance to bind.</param>
+            <param name="instance">The object to bind.</param>
+            <param name="configureOptions">Configures the binder options.</param>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.ConfigurationBinder.GetValue``1(Microsoft.Extensions.Configuration.IConfiguration,System.String)">
+            <summary>
+            Extracts the value with the specified key and converts it to type T.
+            </summary>
+            <typeparam name="T">The type to convert the value to.</typeparam>
+            <param name="configuration">The configuration.</param>
+            <param name="key">The key of the configuration section's value to convert.</param>
+            <returns>The converted value.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.ConfigurationBinder.GetValue``1(Microsoft.Extensions.Configuration.IConfiguration,System.String,``0)">
+            <summary>
+            Extracts the value with the specified key and converts it to type T.
+            </summary>
+            <typeparam name="T">The type to convert the value to.</typeparam>
+            <param name="configuration">The configuration.</param>
+            <param name="key">The key of the configuration section's value to convert.</param>
+            <param name="defaultValue">The default value to use if no value is found.</param>
+            <returns>The converted value.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.ConfigurationBinder.GetValue(Microsoft.Extensions.Configuration.IConfiguration,System.Type,System.String)">
+            <summary>
+            Extracts the value with the specified key and converts it to the specified type.
+            </summary>
+            <param name="configuration">The configuration.</param>
+            <param name="type">The type to convert the value to.</param>
+            <param name="key">The key of the configuration section's value to convert.</param>
+            <returns>The converted value.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.Configuration.ConfigurationBinder.GetValue(Microsoft.Extensions.Configuration.IConfiguration,System.Type,System.String,System.Object)">
+            <summary>
+            Extracts the value with the specified key and converts it 

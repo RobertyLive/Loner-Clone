@@ -1,0 +1,1151 @@
+       
+        HRESULT ( STDMETHODCALLTYPE *GetAddressField3 )( 
+            __RPC__in ISymUnmanagedVariable * This,
+            /* [retval][out] */ __RPC__out ULONG32 *pRetVal);
+        
+        HRESULT ( STDMETHODCALLTYPE *GetStartOffset )( 
+            __RPC__in ISymUnmanagedVariable * This,
+            /* [retval][out] */ __RPC__out ULONG32 *pRetVal);
+        
+        HRESULT ( STDMETHODCALLTYPE *GetEndOffset )( 
+            __RPC__in ISymUnmanagedVariable * This,
+            /* [retval][out] */ __RPC__out ULONG32 *pRetVal);
+        
+        END_INTERFACE
+    } ISymUnmanagedVariableVtbl;
+
+    interface ISymUnmanagedVariable
+    {
+        CONST_VTBL struct ISymUnmanagedVariableVtbl *lpVtbl;
+    };
+
+    
+
+#ifdef COBJMACROS
+
+
+#define ISymUnmanagedVariable_QueryInterface(This,riid,ppvObject)	\
+    ( (This)->lpVtbl -> QueryInterface(This,riid,ppvObject) ) 
+
+#define ISymUnmanagedVariable_AddRef(This)	\
+    ( (This)->lpVtbl -> AddRef(This) ) 
+
+#define ISymUnmanagedVariable_Release(This)	\
+    ( (This)->lpVtbl -> Release(This) ) 
+
+
+#define ISymUnmanagedVariable_GetName(This,cchName,pcchName,szName)	\
+    ( (This)->lpVtbl -> GetName(This,cchName,pcchName,szName) ) 
+
+#define ISymUnmanagedVariable_GetAttributes(This,pRetVal)	\
+    ( (This)->lpVtbl -> GetAttributes(This,pRetVal) ) 
+
+#define ISymUnmanagedVariable_GetSignature(This,cSig,pcSig,sig)	\
+    ( (This)->lpVtbl -> GetSignature(This,cSig,pcSig,sig) ) 
+
+#define ISymUnmanagedVariable_GetAddressKind(This,pRetVal)	\
+    ( (This)->lpVtbl -> GetAddressKind(This,pRetVal) ) 
+
+#define ISymUnmanagedVariable_GetAddressField1(This,pRetVal)	\
+    ( (This)->lpVtbl -> GetAddressField1(This,pRetVal) ) 
+
+#define ISymUnmanagedVariable_GetAddressField2(This,pRetVal)	\
+    ( (This)->lpVtbl -> GetAddressField2(This,pRetVal) ) 
+
+#define ISymUnmanagedVariable_GetAddressField3(This,pRetVal)	\
+    ( (This)->lpVtbl -> GetAddressField3(This,pRetVal) ) 
+
+#define ISymUnmanagedVariable_GetStartOffset(This,pRetVal)	\
+    ( (This)->lpVtbl -> GetStartOffset(This,pRetVal) ) 
+
+#define ISymUnmanagedVariable_GetEndOffset(This,pRetVal)	\
+    ( (This)->lpVtbl -> GetEndOffset(This,pRetVal) ) 
+
+#endif /* COBJMACROS */
+
+
+#endif 	/* C style interface */
+
+
+
+
+#endif 	/* __ISymUnmanagedVariable_INTERFACE_DEFINED__ */
+
+
+#ifndef __ISymUnmanagedSymbolSearchInfo_INTERFACE_DEFINED__
+#define __ISymUnmanagedSymbolSearchInfo_INTERFACE_DEFINED__
+
+/* interface ISymUnmanagedSymbolSearchInfo */
+/* [unique][uuid][object] */ 
+
+
+EXTERN_C const IID IID_ISymUnmanagedSymbolSearchInfo;
+
+#if defined(__cplusplus) && !defined(CINTERFACE)
+    
+    MIDL_INTERFACE("F8B3534A-A46B-4980-B520-BEC4ACEABA8F")
+    ISymUnmanagedSymbolSearchInfo : public IUnknown
+    {
+    public:
+        virtual HRESULT STDMETHODCALLTYPE GetSearchPathLength( 
+            /* [out] */ __RPC__out ULONG32 *pcchPath) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE GetSearchPath( 
+            /* [in] */ ULONG32 cchPath,
+            /* [out] */ __RPC__out ULONG32 *pcchPath,
+            /* [length_is][size_is][out] */ __RPC__out_ecount_part(cchPath, *pcchPath) WCHAR szPath[  ]) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE GetHRESULT( 
+            /* [out] */ __RPC__out HRESULT *phr) = 0;
+        
+    };
+    
+    
+#else 	/* C style interface */
+
+    typedef struct ISymUnmanagedSymbolSearchInfoVtbl
+    {
+        BEGIN_INTERFACE
+        
+        HRESULT ( STDMETHODCALLTYPE *QueryInterface )( 
+            __RPC__in ISymUnmanagedSymbolSearchInfo * This,
+            /* [in] */ __RPC__in REFIID riid,
+            /* [annotation][iid_is][out] */ 
+            _COM_Outptr_  void **ppvObject);
+        
+        ULONG ( STDMETHODCALLTYPE *AddRef )( 
+            __RPC__in ISymUnmanagedSymbolSearchInfo * This);
+        
+        ULONG ( STDMETHODCALLTYPE *Release )( 
+            __RPC__in ISymUnmanagedSymbolSearchInfo * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *GetSearchPathLength )( 
+            __RPC__in ISymUnmanagedSymbolSearchInfo * This,
+            /* [out] */ __RPC__out ULONG32 *pcchPath);
+        
+        HRESULT ( STDMETHODCALLTYPE *GetSearchPath )( 
+            __RPC__in ISymUnmanagedSymbolSearchInfo * This,
+            /* [in] */ ULONG32 cchPath,
+            /* [out] */ __RPC__out ULONG32 *pcchPath,
+            /* [length_is][size_is][out] */ __RPC__out_ecount_part(cchPath, *pcchPath) WCHAR szPath[  ]);
+        
+        HRESULT ( STDMETHODCALLTYPE *GetHRESULT )( 
+            __RPC__in ISymUnmanagedSymbolSearchInfo * This,
+            /* [out] */ __RPC__out HRESULT *phr);
+        
+        END_INTERFACE
+    } ISymUnmanagedSymbolSearchInfoVtbl;
+
+    interface ISymUnmanagedSymbolSearchInfo
+    {
+        CONST_VTBL struct ISymUnmanagedSymbolSearchInfoVtbl *lpVtbl;
+    };
+
+    
+
+#ifdef COBJMACROS
+
+
+#define ISymUnmanagedSymbolSearchInfo_QueryInterface(This,riid,ppvObject)	\
+    ( (This)->lpVtbl -> QueryInterface(This,riid,ppvObject) ) 
+
+#define ISymUnmanagedSymbolSearchInfo_AddRef(This)	\
+    ( (This)->lpVtbl -> AddRef(This) ) 
+
+#define ISymUnmanagedSymbolSearchInfo_Release(This)	\
+    ( (This)->lpVtbl -> Release(This) ) 
+
+
+#define ISymUnmanagedSymbolSearchInfo_GetSearchPathLength(This,pcchPath)	\
+    ( (This)->lpVtbl -> GetSearchPathLength(This,pcchPath) ) 
+
+#define ISymUnmanagedSymbolSearchInfo_GetSearchPath(This,cchPath,pcchPath,szPath)	\
+    ( (This)->lpVtbl -> GetSearchPath(This,cchPath,pcchPath,szPath) ) 
+
+#define ISymUnmanagedSymbolSearchInfo_GetHRESULT(This,phr)	\
+    ( (This)->lpVtbl -> GetHRESULT(This,phr) ) 
+
+#endif /* COBJMACROS */
+
+
+#endif 	/* C style interface */
+
+
+
+
+#endif 	/* __ISymUnmanagedSymbolSearchInfo_INTERFACE_DEFINED__ */
+
+
+#ifndef __ISymUnmanagedWriter_INTERFACE_DEFINED__
+#define __ISymUnmanagedWriter_INTERFACE_DEFINED__
+
+/* interface ISymUnmanagedWriter */
+/* [unique][uuid][object] */ 
+
+
+EXTERN_C const IID IID_ISymUnmanagedWriter;
+
+#if defined(__cplusplus) && !defined(CINTERFACE)
+    
+    MIDL_INTERFACE("ED14AA72-78E2-4884-84E2-334293AE5214")
+    ISymUnmanagedWriter : public IUnknown
+    {
+    public:
+        virtual HRESULT STDMETHODCALLTYPE DefineDocument( 
+            /* [in] */ __RPC__in const WCHAR *url,
+            /* [in] */ __RPC__in const GUID *language,
+            /* [in] */ __RPC__in const GUID *languageVendor,
+            /* [in] */ __RPC__in const GUID *documentType,
+            /* [retval][out] */ __RPC__deref_out_opt ISymUnmanagedDocumentWriter **pRetVal) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE SetUserEntryPoint( 
+            /* [in] */ mdMethodDef entryMethod) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE OpenMethod( 
+            /* [in] */ mdMethodDef method) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE CloseMethod( void) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE OpenScope( 
+            /* [in] */ ULONG32 startOffset,
+            /* [retval][out] */ __RPC__out ULONG32 *pRetVal) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE CloseScope( 
+            /* [in] */ ULONG32 endOffset) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE SetScopeRange( 
+            /* [in] */ ULONG32 scopeID,
+            /* [in] */ ULONG32 startOffset,
+            /* [in] */ ULONG32 endOffset) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE DefineLocalVariable( 
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ],
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3,
+            /* [in] */ ULONG32 startOffset,
+            /* [in] */ ULONG32 endOffset) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE DefineParameter( 
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 sequence,
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE DefineField( 
+            /* [in] */ mdTypeDef parent,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ],
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE DefineGlobalVariable( 
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ],
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE Close( void) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE SetSymAttribute( 
+            /* [in] */ mdToken parent,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 cData,
+            /* [size_is][in] */ __RPC__in_ecount_full(cData) unsigned char data[  ]) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE OpenNamespace( 
+            /* [in] */ __RPC__in const WCHAR *name) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE CloseNamespace( void) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE UsingNamespace( 
+            /* [in] */ __RPC__in const WCHAR *fullName) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE SetMethodSourceRange( 
+            /* [in] */ __RPC__in_opt ISymUnmanagedDocumentWriter *startDoc,
+            /* [in] */ ULONG32 startLine,
+            /* [in] */ ULONG32 startColumn,
+            /* [in] */ __RPC__in_opt ISymUnmanagedDocumentWriter *endDoc,
+            /* [in] */ ULONG32 endLine,
+            /* [in] */ ULONG32 endColumn) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE Initialize( 
+            /* [in] */ __RPC__in_opt IUnknown *emitter,
+            /* [in] */ __RPC__in const WCHAR *filename,
+            /* [in] */ __RPC__in_opt IStream *pIStream,
+            /* [in] */ BOOL fFullBuild) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE GetDebugInfo( 
+            /* [out][in] */ __RPC__inout IMAGE_DEBUG_DIRECTORY *pIDD,
+            /* [in] */ DWORD cData,
+            /* [out] */ __RPC__out DWORD *pcData,
+            /* [length_is][size_is][out] */ __RPC__out_ecount_part(cData, *pcData) BYTE data[  ]) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE DefineSequencePoints( 
+            /* [in] */ __RPC__in_opt ISymUnmanagedDocumentWriter *document,
+            /* [in] */ ULONG32 spCount,
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 offsets[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 lines[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 columns[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 endLines[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 endColumns[  ]) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE RemapToken( 
+            /* [in] */ mdToken oldToken,
+            /* [in] */ mdToken newToken) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE Initialize2( 
+            /* [in] */ __RPC__in_opt IUnknown *emitter,
+            /* [in] */ __RPC__in const WCHAR *tempfilename,
+            /* [in] */ __RPC__in_opt IStream *pIStream,
+            /* [in] */ BOOL fFullBuild,
+            /* [in] */ __RPC__in const WCHAR *finalfilename) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE DefineConstant( 
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ VARIANT value,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ]) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE Abort( void) = 0;
+        
+    };
+    
+    
+#else 	/* C style interface */
+
+    typedef struct ISymUnmanagedWriterVtbl
+    {
+        BEGIN_INTERFACE
+        
+        HRESULT ( STDMETHODCALLTYPE *QueryInterface )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ __RPC__in REFIID riid,
+            /* [annotation][iid_is][out] */ 
+            _COM_Outptr_  void **ppvObject);
+        
+        ULONG ( STDMETHODCALLTYPE *AddRef )( 
+            __RPC__in ISymUnmanagedWriter * This);
+        
+        ULONG ( STDMETHODCALLTYPE *Release )( 
+            __RPC__in ISymUnmanagedWriter * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineDocument )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ __RPC__in const WCHAR *url,
+            /* [in] */ __RPC__in const GUID *language,
+            /* [in] */ __RPC__in const GUID *languageVendor,
+            /* [in] */ __RPC__in const GUID *documentType,
+            /* [retval][out] */ __RPC__deref_out_opt ISymUnmanagedDocumentWriter **pRetVal);
+        
+        HRESULT ( STDMETHODCALLTYPE *SetUserEntryPoint )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ mdMethodDef entryMethod);
+        
+        HRESULT ( STDMETHODCALLTYPE *OpenMethod )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ mdMethodDef method);
+        
+        HRESULT ( STDMETHODCALLTYPE *CloseMethod )( 
+            __RPC__in ISymUnmanagedWriter * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *OpenScope )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ ULONG32 startOffset,
+            /* [retval][out] */ __RPC__out ULONG32 *pRetVal);
+        
+        HRESULT ( STDMETHODCALLTYPE *CloseScope )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ ULONG32 endOffset);
+        
+        HRESULT ( STDMETHODCALLTYPE *SetScopeRange )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ ULONG32 scopeID,
+            /* [in] */ ULONG32 startOffset,
+            /* [in] */ ULONG32 endOffset);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineLocalVariable )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ],
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3,
+            /* [in] */ ULONG32 startOffset,
+            /* [in] */ ULONG32 endOffset);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineParameter )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 sequence,
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineField )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ mdTypeDef parent,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ],
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineGlobalVariable )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ],
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3);
+        
+        HRESULT ( STDMETHODCALLTYPE *Close )( 
+            __RPC__in ISymUnmanagedWriter * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *SetSymAttribute )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ mdToken parent,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 cData,
+            /* [size_is][in] */ __RPC__in_ecount_full(cData) unsigned char data[  ]);
+        
+        HRESULT ( STDMETHODCALLTYPE *OpenNamespace )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ __RPC__in const WCHAR *name);
+        
+        HRESULT ( STDMETHODCALLTYPE *CloseNamespace )( 
+            __RPC__in ISymUnmanagedWriter * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *UsingNamespace )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ __RPC__in const WCHAR *fullName);
+        
+        HRESULT ( STDMETHODCALLTYPE *SetMethodSourceRange )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ __RPC__in_opt ISymUnmanagedDocumentWriter *startDoc,
+            /* [in] */ ULONG32 startLine,
+            /* [in] */ ULONG32 startColumn,
+            /* [in] */ __RPC__in_opt ISymUnmanagedDocumentWriter *endDoc,
+            /* [in] */ ULONG32 endLine,
+            /* [in] */ ULONG32 endColumn);
+        
+        HRESULT ( STDMETHODCALLTYPE *Initialize )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ __RPC__in_opt IUnknown *emitter,
+            /* [in] */ __RPC__in const WCHAR *filename,
+            /* [in] */ __RPC__in_opt IStream *pIStream,
+            /* [in] */ BOOL fFullBuild);
+        
+        HRESULT ( STDMETHODCALLTYPE *GetDebugInfo )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [out][in] */ __RPC__inout IMAGE_DEBUG_DIRECTORY *pIDD,
+            /* [in] */ DWORD cData,
+            /* [out] */ __RPC__out DWORD *pcData,
+            /* [length_is][size_is][out] */ __RPC__out_ecount_part(cData, *pcData) BYTE data[  ]);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineSequencePoints )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ __RPC__in_opt ISymUnmanagedDocumentWriter *document,
+            /* [in] */ ULONG32 spCount,
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 offsets[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 lines[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 columns[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 endLines[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 endColumns[  ]);
+        
+        HRESULT ( STDMETHODCALLTYPE *RemapToken )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ mdToken oldToken,
+            /* [in] */ mdToken newToken);
+        
+        HRESULT ( STDMETHODCALLTYPE *Initialize2 )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ __RPC__in_opt IUnknown *emitter,
+            /* [in] */ __RPC__in const WCHAR *tempfilename,
+            /* [in] */ __RPC__in_opt IStream *pIStream,
+            /* [in] */ BOOL fFullBuild,
+            /* [in] */ __RPC__in const WCHAR *finalfilename);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineConstant )( 
+            __RPC__in ISymUnmanagedWriter * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ VARIANT value,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ]);
+        
+        HRESULT ( STDMETHODCALLTYPE *Abort )( 
+            __RPC__in ISymUnmanagedWriter * This);
+        
+        END_INTERFACE
+    } ISymUnmanagedWriterVtbl;
+
+    interface ISymUnmanagedWriter
+    {
+        CONST_VTBL struct ISymUnmanagedWriterVtbl *lpVtbl;
+    };
+
+    
+
+#ifdef COBJMACROS
+
+
+#define ISymUnmanagedWriter_QueryInterface(This,riid,ppvObject)	\
+    ( (This)->lpVtbl -> QueryInterface(This,riid,ppvObject) ) 
+
+#define ISymUnmanagedWriter_AddRef(This)	\
+    ( (This)->lpVtbl -> AddRef(This) ) 
+
+#define ISymUnmanagedWriter_Release(This)	\
+    ( (This)->lpVtbl -> Release(This) ) 
+
+
+#define ISymUnmanagedWriter_DefineDocument(This,url,language,languageVendor,documentType,pRetVal)	\
+    ( (This)->lpVtbl -> DefineDocument(This,url,language,languageVendor,documentType,pRetVal) ) 
+
+#define ISymUnmanagedWriter_SetUserEntryPoint(This,entryMethod)	\
+    ( (This)->lpVtbl -> SetUserEntryPoint(This,entryMethod) ) 
+
+#define ISymUnmanagedWriter_OpenMethod(This,method)	\
+    ( (This)->lpVtbl -> OpenMethod(This,method) ) 
+
+#define ISymUnmanagedWriter_CloseMethod(This)	\
+    ( (This)->lpVtbl -> CloseMethod(This) ) 
+
+#define ISymUnmanagedWriter_OpenScope(This,startOffset,pRetVal)	\
+    ( (This)->lpVtbl -> OpenScope(This,startOffset,pRetVal) ) 
+
+#define ISymUnmanagedWriter_CloseScope(This,endOffset)	\
+    ( (This)->lpVtbl -> CloseScope(This,endOffset) ) 
+
+#define ISymUnmanagedWriter_SetScopeRange(This,scopeID,startOffset,endOffset)	\
+    ( (This)->lpVtbl -> SetScopeRange(This,scopeID,startOffset,endOffset) ) 
+
+#define ISymUnmanagedWriter_DefineLocalVariable(This,name,attributes,cSig,signature,addrKind,addr1,addr2,addr3,startOffset,endOffset)	\
+    ( (This)->lpVtbl -> DefineLocalVariable(This,name,attributes,cSig,signature,addrKind,addr1,addr2,addr3,startOffset,endOffset) ) 
+
+#define ISymUnmanagedWriter_DefineParameter(This,name,attributes,sequence,addrKind,addr1,addr2,addr3)	\
+    ( (This)->lpVtbl -> DefineParameter(This,name,attributes,sequence,addrKind,addr1,addr2,addr3) ) 
+
+#define ISymUnmanagedWriter_DefineField(This,parent,name,attributes,cSig,signature,addrKind,addr1,addr2,addr3)	\
+    ( (This)->lpVtbl -> DefineField(This,parent,name,attributes,cSig,signature,addrKind,addr1,addr2,addr3) ) 
+
+#define ISymUnmanagedWriter_DefineGlobalVariable(This,name,attributes,cSig,signature,addrKind,addr1,addr2,addr3)	\
+    ( (This)->lpVtbl -> DefineGlobalVariable(This,name,attributes,cSig,signature,addrKind,addr1,addr2,addr3) ) 
+
+#define ISymUnmanagedWriter_Close(This)	\
+    ( (This)->lpVtbl -> Close(This) ) 
+
+#define ISymUnmanagedWriter_SetSymAttribute(This,parent,name,cData,data)	\
+    ( (This)->lpVtbl -> SetSymAttribute(This,parent,name,cData,data) ) 
+
+#define ISymUnmanagedWriter_OpenNamespace(This,name)	\
+    ( (This)->lpVtbl -> OpenNamespace(This,name) ) 
+
+#define ISymUnmanagedWriter_CloseNamespace(This)	\
+    ( (This)->lpVtbl -> CloseNamespace(This) ) 
+
+#define ISymUnmanagedWriter_UsingNamespace(This,fullName)	\
+    ( (This)->lpVtbl -> UsingNamespace(This,fullName) ) 
+
+#define ISymUnmanagedWriter_SetMethodSourceRange(This,startDoc,startLine,startColumn,endDoc,endLine,endColumn)	\
+    ( (This)->lpVtbl -> SetMethodSourceRange(This,startDoc,startLine,startColumn,endDoc,endLine,endColumn) ) 
+
+#define ISymUnmanagedWriter_Initialize(This,emitter,filename,pIStream,fFullBuild)	\
+    ( (This)->lpVtbl -> Initialize(This,emitter,filename,pIStream,fFullBuild) ) 
+
+#define ISymUnmanagedWriter_GetDebugInfo(This,pIDD,cData,pcData,data)	\
+    ( (This)->lpVtbl -> GetDebugInfo(This,pIDD,cData,pcData,data) ) 
+
+#define ISymUnmanagedWriter_DefineSequencePoints(This,document,spCount,offsets,lines,columns,endLines,endColumns)	\
+    ( (This)->lpVtbl -> DefineSequencePoints(This,document,spCount,offsets,lines,columns,endLines,endColumns) ) 
+
+#define ISymUnmanagedWriter_RemapToken(This,oldToken,newToken)	\
+    ( (This)->lpVtbl -> RemapToken(This,oldToken,newToken) ) 
+
+#define ISymUnmanagedWriter_Initialize2(This,emitter,tempfilename,pIStream,fFullBuild,finalfilename)	\
+    ( (This)->lpVtbl -> Initialize2(This,emitter,tempfilename,pIStream,fFullBuild,finalfilename) ) 
+
+#define ISymUnmanagedWriter_DefineConstant(This,name,value,cSig,signature)	\
+    ( (This)->lpVtbl -> DefineConstant(This,name,value,cSig,signature) ) 
+
+#define ISymUnmanagedWriter_Abort(This)	\
+    ( (This)->lpVtbl -> Abort(This) ) 
+
+#endif /* COBJMACROS */
+
+
+#endif 	/* C style interface */
+
+
+
+
+#endif 	/* __ISymUnmanagedWriter_INTERFACE_DEFINED__ */
+
+
+#ifndef __ISymUnmanagedWriter2_INTERFACE_DEFINED__
+#define __ISymUnmanagedWriter2_INTERFACE_DEFINED__
+
+/* interface ISymUnmanagedWriter2 */
+/* [unique][uuid][object] */ 
+
+
+EXTERN_C const IID IID_ISymUnmanagedWriter2;
+
+#if defined(__cplusplus) && !defined(CINTERFACE)
+    
+    MIDL_INTERFACE("0B97726E-9E6D-4f05-9A26-424022093CAA")
+    ISymUnmanagedWriter2 : public ISymUnmanagedWriter
+    {
+    public:
+        virtual HRESULT STDMETHODCALLTYPE DefineLocalVariable2( 
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ mdSignature sigToken,
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3,
+            /* [in] */ ULONG32 startOffset,
+            /* [in] */ ULONG32 endOffset) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE DefineGlobalVariable2( 
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ mdSignature sigToken,
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE DefineConstant2( 
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ VARIANT value,
+            /* [in] */ mdSignature sigToken) = 0;
+        
+    };
+    
+    
+#else 	/* C style interface */
+
+    typedef struct ISymUnmanagedWriter2Vtbl
+    {
+        BEGIN_INTERFACE
+        
+        HRESULT ( STDMETHODCALLTYPE *QueryInterface )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in REFIID riid,
+            /* [annotation][iid_is][out] */ 
+            _COM_Outptr_  void **ppvObject);
+        
+        ULONG ( STDMETHODCALLTYPE *AddRef )( 
+            __RPC__in ISymUnmanagedWriter2 * This);
+        
+        ULONG ( STDMETHODCALLTYPE *Release )( 
+            __RPC__in ISymUnmanagedWriter2 * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineDocument )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in const WCHAR *url,
+            /* [in] */ __RPC__in const GUID *language,
+            /* [in] */ __RPC__in const GUID *languageVendor,
+            /* [in] */ __RPC__in const GUID *documentType,
+            /* [retval][out] */ __RPC__deref_out_opt ISymUnmanagedDocumentWriter **pRetVal);
+        
+        HRESULT ( STDMETHODCALLTYPE *SetUserEntryPoint )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ mdMethodDef entryMethod);
+        
+        HRESULT ( STDMETHODCALLTYPE *OpenMethod )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ mdMethodDef method);
+        
+        HRESULT ( STDMETHODCALLTYPE *CloseMethod )( 
+            __RPC__in ISymUnmanagedWriter2 * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *OpenScope )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ ULONG32 startOffset,
+            /* [retval][out] */ __RPC__out ULONG32 *pRetVal);
+        
+        HRESULT ( STDMETHODCALLTYPE *CloseScope )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ ULONG32 endOffset);
+        
+        HRESULT ( STDMETHODCALLTYPE *SetScopeRange )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ ULONG32 scopeID,
+            /* [in] */ ULONG32 startOffset,
+            /* [in] */ ULONG32 endOffset);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineLocalVariable )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ],
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3,
+            /* [in] */ ULONG32 startOffset,
+            /* [in] */ ULONG32 endOffset);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineParameter )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 sequence,
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineField )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ mdTypeDef parent,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ],
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineGlobalVariable )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ],
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3);
+        
+        HRESULT ( STDMETHODCALLTYPE *Close )( 
+            __RPC__in ISymUnmanagedWriter2 * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *SetSymAttribute )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ mdToken parent,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 cData,
+            /* [size_is][in] */ __RPC__in_ecount_full(cData) unsigned char data[  ]);
+        
+        HRESULT ( STDMETHODCALLTYPE *OpenNamespace )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in const WCHAR *name);
+        
+        HRESULT ( STDMETHODCALLTYPE *CloseNamespace )( 
+            __RPC__in ISymUnmanagedWriter2 * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *UsingNamespace )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in const WCHAR *fullName);
+        
+        HRESULT ( STDMETHODCALLTYPE *SetMethodSourceRange )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in_opt ISymUnmanagedDocumentWriter *startDoc,
+            /* [in] */ ULONG32 startLine,
+            /* [in] */ ULONG32 startColumn,
+            /* [in] */ __RPC__in_opt ISymUnmanagedDocumentWriter *endDoc,
+            /* [in] */ ULONG32 endLine,
+            /* [in] */ ULONG32 endColumn);
+        
+        HRESULT ( STDMETHODCALLTYPE *Initialize )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in_opt IUnknown *emitter,
+            /* [in] */ __RPC__in const WCHAR *filename,
+            /* [in] */ __RPC__in_opt IStream *pIStream,
+            /* [in] */ BOOL fFullBuild);
+        
+        HRESULT ( STDMETHODCALLTYPE *GetDebugInfo )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [out][in] */ __RPC__inout IMAGE_DEBUG_DIRECTORY *pIDD,
+            /* [in] */ DWORD cData,
+            /* [out] */ __RPC__out DWORD *pcData,
+            /* [length_is][size_is][out] */ __RPC__out_ecount_part(cData, *pcData) BYTE data[  ]);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineSequencePoints )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in_opt ISymUnmanagedDocumentWriter *document,
+            /* [in] */ ULONG32 spCount,
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 offsets[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 lines[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 columns[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 endLines[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 endColumns[  ]);
+        
+        HRESULT ( STDMETHODCALLTYPE *RemapToken )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ mdToken oldToken,
+            /* [in] */ mdToken newToken);
+        
+        HRESULT ( STDMETHODCALLTYPE *Initialize2 )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in_opt IUnknown *emitter,
+            /* [in] */ __RPC__in const WCHAR *tempfilename,
+            /* [in] */ __RPC__in_opt IStream *pIStream,
+            /* [in] */ BOOL fFullBuild,
+            /* [in] */ __RPC__in const WCHAR *finalfilename);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineConstant )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ VARIANT value,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ]);
+        
+        HRESULT ( STDMETHODCALLTYPE *Abort )( 
+            __RPC__in ISymUnmanagedWriter2 * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineLocalVariable2 )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ mdSignature sigToken,
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3,
+            /* [in] */ ULONG32 startOffset,
+            /* [in] */ ULONG32 endOffset);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineGlobalVariable2 )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ mdSignature sigToken,
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineConstant2 )( 
+            __RPC__in ISymUnmanagedWriter2 * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ VARIANT value,
+            /* [in] */ mdSignature sigToken);
+        
+        END_INTERFACE
+    } ISymUnmanagedWriter2Vtbl;
+
+    interface ISymUnmanagedWriter2
+    {
+        CONST_VTBL struct ISymUnmanagedWriter2Vtbl *lpVtbl;
+    };
+
+    
+
+#ifdef COBJMACROS
+
+
+#define ISymUnmanagedWriter2_QueryInterface(This,riid,ppvObject)	\
+    ( (This)->lpVtbl -> QueryInterface(This,riid,ppvObject) ) 
+
+#define ISymUnmanagedWriter2_AddRef(This)	\
+    ( (This)->lpVtbl -> AddRef(This) ) 
+
+#define ISymUnmanagedWriter2_Release(This)	\
+    ( (This)->lpVtbl -> Release(This) ) 
+
+
+#define ISymUnmanagedWriter2_DefineDocument(This,url,language,languageVendor,documentType,pRetVal)	\
+    ( (This)->lpVtbl -> DefineDocument(This,url,language,languageVendor,documentType,pRetVal) ) 
+
+#define ISymUnmanagedWriter2_SetUserEntryPoint(This,entryMethod)	\
+    ( (This)->lpVtbl -> SetUserEntryPoint(This,entryMethod) ) 
+
+#define ISymUnmanagedWriter2_OpenMethod(This,method)	\
+    ( (This)->lpVtbl -> OpenMethod(This,method) ) 
+
+#define ISymUnmanagedWriter2_CloseMethod(This)	\
+    ( (This)->lpVtbl -> CloseMethod(This) ) 
+
+#define ISymUnmanagedWriter2_OpenScope(This,startOffset,pRetVal)	\
+    ( (This)->lpVtbl -> OpenScope(This,startOffset,pRetVal) ) 
+
+#define ISymUnmanagedWriter2_CloseScope(This,endOffset)	\
+    ( (This)->lpVtbl -> CloseScope(This,endOffset) ) 
+
+#define ISymUnmanagedWriter2_SetScopeRange(This,scopeID,startOffset,endOffset)	\
+    ( (This)->lpVtbl -> SetScopeRange(This,scopeID,startOffset,endOffset) ) 
+
+#define ISymUnmanagedWriter2_DefineLocalVariable(This,name,attributes,cSig,signature,addrKind,addr1,addr2,addr3,startOffset,endOffset)	\
+    ( (This)->lpVtbl -> DefineLocalVariable(This,name,attributes,cSig,signature,addrKind,addr1,addr2,addr3,startOffset,endOffset) ) 
+
+#define ISymUnmanagedWriter2_DefineParameter(This,name,attributes,sequence,addrKind,addr1,addr2,addr3)	\
+    ( (This)->lpVtbl -> DefineParameter(This,name,attributes,sequence,addrKind,addr1,addr2,addr3) ) 
+
+#define ISymUnmanagedWriter2_DefineField(This,parent,name,attributes,cSig,signature,addrKind,addr1,addr2,addr3)	\
+    ( (This)->lpVtbl -> DefineField(This,parent,name,attributes,cSig,signature,addrKind,addr1,addr2,addr3) ) 
+
+#define ISymUnmanagedWriter2_DefineGlobalVariable(This,name,attributes,cSig,signature,addrKind,addr1,addr2,addr3)	\
+    ( (This)->lpVtbl -> DefineGlobalVariable(This,name,attributes,cSig,signature,addrKind,addr1,addr2,addr3) ) 
+
+#define ISymUnmanagedWriter2_Close(This)	\
+    ( (This)->lpVtbl -> Close(This) ) 
+
+#define ISymUnmanagedWriter2_SetSymAttribute(This,parent,name,cData,data)	\
+    ( (This)->lpVtbl -> SetSymAttribute(This,parent,name,cData,data) ) 
+
+#define ISymUnmanagedWriter2_OpenNamespace(This,name)	\
+    ( (This)->lpVtbl -> OpenNamespace(This,name) ) 
+
+#define ISymUnmanagedWriter2_CloseNamespace(This)	\
+    ( (This)->lpVtbl -> CloseNamespace(This) ) 
+
+#define ISymUnmanagedWriter2_UsingNamespace(This,fullName)	\
+    ( (This)->lpVtbl -> UsingNamespace(This,fullName) ) 
+
+#define ISymUnmanagedWriter2_SetMethodSourceRange(This,startDoc,startLine,startColumn,endDoc,endLine,endColumn)	\
+    ( (This)->lpVtbl -> SetMethodSourceRange(This,startDoc,startLine,startColumn,endDoc,endLine,endColumn) ) 
+
+#define ISymUnmanagedWriter2_Initialize(This,emitter,filename,pIStream,fFullBuild)	\
+    ( (This)->lpVtbl -> Initialize(This,emitter,filename,pIStream,fFullBuild) ) 
+
+#define ISymUnmanagedWriter2_GetDebugInfo(This,pIDD,cData,pcData,data)	\
+    ( (This)->lpVtbl -> GetDebugInfo(This,pIDD,cData,pcData,data) ) 
+
+#define ISymUnmanagedWriter2_DefineSequencePoints(This,document,spCount,offsets,lines,columns,endLines,endColumns)	\
+    ( (This)->lpVtbl -> DefineSequencePoints(This,document,spCount,offsets,lines,columns,endLines,endColumns) ) 
+
+#define ISymUnmanagedWriter2_RemapToken(This,oldToken,newToken)	\
+    ( (This)->lpVtbl -> RemapToken(This,oldToken,newToken) ) 
+
+#define ISymUnmanagedWriter2_Initialize2(This,emitter,tempfilename,pIStream,fFullBuild,finalfilename)	\
+    ( (This)->lpVtbl -> Initialize2(This,emitter,tempfilename,pIStream,fFullBuild,finalfilename) ) 
+
+#define ISymUnmanagedWriter2_DefineConstant(This,name,value,cSig,signature)	\
+    ( (This)->lpVtbl -> DefineConstant(This,name,value,cSig,signature) ) 
+
+#define ISymUnmanagedWriter2_Abort(This)	\
+    ( (This)->lpVtbl -> Abort(This) ) 
+
+
+#define ISymUnmanagedWriter2_DefineLocalVariable2(This,name,attributes,sigToken,addrKind,addr1,addr2,addr3,startOffset,endOffset)	\
+    ( (This)->lpVtbl -> DefineLocalVariable2(This,name,attributes,sigToken,addrKind,addr1,addr2,addr3,startOffset,endOffset) ) 
+
+#define ISymUnmanagedWriter2_DefineGlobalVariable2(This,name,attributes,sigToken,addrKind,addr1,addr2,addr3)	\
+    ( (This)->lpVtbl -> DefineGlobalVariable2(This,name,attributes,sigToken,addrKind,addr1,addr2,addr3) ) 
+
+#define ISymUnmanagedWriter2_DefineConstant2(This,name,value,sigToken)	\
+    ( (This)->lpVtbl -> DefineConstant2(This,name,value,sigToken) ) 
+
+#endif /* COBJMACROS */
+
+
+#endif 	/* C style interface */
+
+
+
+
+#endif 	/* __ISymUnmanagedWriter2_INTERFACE_DEFINED__ */
+
+
+#ifndef __ISymUnmanagedWriter3_INTERFACE_DEFINED__
+#define __ISymUnmanagedWriter3_INTERFACE_DEFINED__
+
+/* interface ISymUnmanagedWriter3 */
+/* [unique][uuid][object] */ 
+
+
+EXTERN_C const IID IID_ISymUnmanagedWriter3;
+
+#if defined(__cplusplus) && !defined(CINTERFACE)
+    
+    MIDL_INTERFACE("12F1E02C-1E05-4B0E-9468-EBC9D1BB040F")
+    ISymUnmanagedWriter3 : public ISymUnmanagedWriter2
+    {
+    public:
+        virtual HRESULT STDMETHODCALLTYPE OpenMethod2( 
+            /* [in] */ mdMethodDef method,
+            /* [in] */ ULONG32 isect,
+            /* [in] */ ULONG32 offset) = 0;
+        
+        virtual HRESULT STDMETHODCALLTYPE Commit( void) = 0;
+        
+    };
+    
+    
+#else 	/* C style interface */
+
+    typedef struct ISymUnmanagedWriter3Vtbl
+    {
+        BEGIN_INTERFACE
+        
+        HRESULT ( STDMETHODCALLTYPE *QueryInterface )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ __RPC__in REFIID riid,
+            /* [annotation][iid_is][out] */ 
+            _COM_Outptr_  void **ppvObject);
+        
+        ULONG ( STDMETHODCALLTYPE *AddRef )( 
+            __RPC__in ISymUnmanagedWriter3 * This);
+        
+        ULONG ( STDMETHODCALLTYPE *Release )( 
+            __RPC__in ISymUnmanagedWriter3 * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineDocument )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ __RPC__in const WCHAR *url,
+            /* [in] */ __RPC__in const GUID *language,
+            /* [in] */ __RPC__in const GUID *languageVendor,
+            /* [in] */ __RPC__in const GUID *documentType,
+            /* [retval][out] */ __RPC__deref_out_opt ISymUnmanagedDocumentWriter **pRetVal);
+        
+        HRESULT ( STDMETHODCALLTYPE *SetUserEntryPoint )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ mdMethodDef entryMethod);
+        
+        HRESULT ( STDMETHODCALLTYPE *OpenMethod )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ mdMethodDef method);
+        
+        HRESULT ( STDMETHODCALLTYPE *CloseMethod )( 
+            __RPC__in ISymUnmanagedWriter3 * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *OpenScope )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ ULONG32 startOffset,
+            /* [retval][out] */ __RPC__out ULONG32 *pRetVal);
+        
+        HRESULT ( STDMETHODCALLTYPE *CloseScope )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ ULONG32 endOffset);
+        
+        HRESULT ( STDMETHODCALLTYPE *SetScopeRange )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ ULONG32 scopeID,
+            /* [in] */ ULONG32 startOffset,
+            /* [in] */ ULONG32 endOffset);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineLocalVariable )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ],
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3,
+            /* [in] */ ULONG32 startOffset,
+            /* [in] */ ULONG32 endOffset);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineParameter )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 sequence,
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineField )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ mdTypeDef parent,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ],
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineGlobalVariable )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 attributes,
+            /* [in] */ ULONG32 cSig,
+            /* [size_is][in] */ __RPC__in_ecount_full(cSig) unsigned char signature[  ],
+            /* [in] */ ULONG32 addrKind,
+            /* [in] */ ULONG32 addr1,
+            /* [in] */ ULONG32 addr2,
+            /* [in] */ ULONG32 addr3);
+        
+        HRESULT ( STDMETHODCALLTYPE *Close )( 
+            __RPC__in ISymUnmanagedWriter3 * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *SetSymAttribute )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ mdToken parent,
+            /* [in] */ __RPC__in const WCHAR *name,
+            /* [in] */ ULONG32 cData,
+            /* [size_is][in] */ __RPC__in_ecount_full(cData) unsigned char data[  ]);
+        
+        HRESULT ( STDMETHODCALLTYPE *OpenNamespace )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ __RPC__in const WCHAR *name);
+        
+        HRESULT ( STDMETHODCALLTYPE *CloseNamespace )( 
+            __RPC__in ISymUnmanagedWriter3 * This);
+        
+        HRESULT ( STDMETHODCALLTYPE *UsingNamespace )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ __RPC__in const WCHAR *fullName);
+        
+        HRESULT ( STDMETHODCALLTYPE *SetMethodSourceRange )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ __RPC__in_opt ISymUnmanagedDocumentWriter *startDoc,
+            /* [in] */ ULONG32 startLine,
+            /* [in] */ ULONG32 startColumn,
+            /* [in] */ __RPC__in_opt ISymUnmanagedDocumentWriter *endDoc,
+            /* [in] */ ULONG32 endLine,
+            /* [in] */ ULONG32 endColumn);
+        
+        HRESULT ( STDMETHODCALLTYPE *Initialize )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ __RPC__in_opt IUnknown *emitter,
+            /* [in] */ __RPC__in const WCHAR *filename,
+            /* [in] */ __RPC__in_opt IStream *pIStream,
+            /* [in] */ BOOL fFullBuild);
+        
+        HRESULT ( STDMETHODCALLTYPE *GetDebugInfo )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [out][in] */ __RPC__inout IMAGE_DEBUG_DIRECTORY *pIDD,
+            /* [in] */ DWORD cData,
+            /* [out] */ __RPC__out DWORD *pcData,
+            /* [length_is][size_is][out] */ __RPC__out_ecount_part(cData, *pcData) BYTE data[  ]);
+        
+        HRESULT ( STDMETHODCALLTYPE *DefineSequencePoints )( 
+            __RPC__in ISymUnmanagedWriter3 * This,
+            /* [in] */ __RPC__in_opt ISymUnmanagedDocumentWriter *document,
+            /* [in] */ ULONG32 spCount,
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 offsets[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 lines[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 columns[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 endLines[  ],
+            /* [size_is][in] */ __RPC__in_ecount_full(spCount) ULONG32 endColumns[  ]);
+        
+        HRESULT ( STDMETHODCALLTYPE *RemapToken )( 
+            __RPC__in ISymUnmanagedW

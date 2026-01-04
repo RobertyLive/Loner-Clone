@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.Extensions.WebEncoders</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Extensions.DependencyInjection.EncoderServiceCollectionExtensions">
+            <summary>
+            Extension methods for setting up web encoding services in an <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection" />.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.DependencyInjection.EncoderServiceCollectionExtensions.AddWebEncoders(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Adds <see cref="T:System.Text.Encodings.Web.HtmlEncoder"/>, <see cref="T:System.Text.Encodings.Web.JavaScriptEncoder"/> and <see cref="T:System.Text.Encodings.Web.UrlEncoder"/>
+            to the specified <paramref name="services" />.
+            </summary>
+            <param name="services">The <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/>.</param>
+            <returns>The <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/> so that additional calls can be chained.</returns>
+        </member>
+        <member name="M:Microsoft.Extensions.DependencyInjection.EncoderServiceCollectionExtensions.AddWebEncoders(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Action{Microsoft.Extensions.WebEncoders.WebEncoderOptions})">
+            <summary>
+            Adds <see cref="T:System.Text.Encodings.Web.HtmlEncoder"/>, <see cref="T:System.Text.Encodings.Web.JavaScriptEncoder"/> and <see cref="T:System.Text.Encodings.Web.UrlEncoder"/>
+            to the specified <paramref name="services" />.
+            </summary>
+            <param name="services">The <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/>.</param>
+            <param name="setupAction">An <see cref="T:System.Action`1"/> to configure the provided <see cref="T:Microsoft.Extensions.WebEncoders.WebEncoderOptions"/>.</param>
+            <returns>The <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/> so that additional calls can be chained.</returns>
+        </member>
+        <member name="T:Microsoft.Extensions.WebEncoders.Testing.HtmlTestEncoder">
+            <summary>
+            <see cref="T:System.Text.Encodings.Web.HtmlEncoder"/> used for unit testing. This encoder does not perform any encoding and should not be used in application code.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Extensions.WebEncoders.Testing.HtmlTestEncoder.MaxOutputCharactersPerInputCharacter">
+            <inheritdoc />
+        </member>
+        <member name="M:Microsoft.Extensions.WebEncoders.Testing.HtmlTestEncoder.Encode(System.String)">
+            <inheritdoc />
+        </

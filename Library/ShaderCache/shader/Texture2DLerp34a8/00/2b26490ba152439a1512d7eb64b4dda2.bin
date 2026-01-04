@@ -1,0 +1,35 @@
+"SteamService"
+{
+	"version"		"10260034"
+	"SteamService.dll"
+	{
+		"version"		"10260034"
+	}
+	"SteamService.exe"
+	{
+		"version"		"10260034"
+	}
+	"drivers.exe"
+	{
+		"version"		"10001752"
+	}
+	"secure_desktop_capture.exe"
+	{
+		"version"		"10260034"
+	}
+	"steamxboxutil.exe"
+	{
+		"version"		"10260034"
+	}
+	"steamxboxutil64.exe"
+	{
+		"version"		"10260034"
+	}
+}
+"kvsign2"
+{
+	"SteamService"		"30c8efc698e1d9c1814b1acb043b13b009caafbc0bbfca8a916c0d97c2a0c17ee2d192b605b53690248b85d5495cda69b163f47d549be4bc00d72b1facfc110c"
+}
+"kvsignatures"
+{
+	"SteamService"		"46d5419436d64ec1e5462f85a1bd6999513bda3d70117d6e40b64713ee549864d0cac078db436a910bbb948cad808458b989b87b4f3087550390a326852d4f199c7770ba81e56b5868c28ecfa115f77e528f06530660553a

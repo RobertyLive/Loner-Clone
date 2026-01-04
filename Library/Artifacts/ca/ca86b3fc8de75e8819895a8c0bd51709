@@ -1,0 +1,417 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:stCamera="http://ns.adobe.com/photoshop/1.0/camera-profile">
+   <photoshop:CameraProfiles>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON 1 V1"
+       stCamera:UniqueCameraModel="Nikon 1 V1"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:LensInfo="300/10 1100/10 38/10 56/10"
+       stCamera:CameraPrettyName="NIKON 1 V1"
+       stCamera:LensPrettyName="Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:ProfileName="Adobe (Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6)"
+       stCamera:SensorFormatFactor="2.7"
+       stCamera:ImageWidth="3904"
+       stCamera:ImageLength="2604"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.253651"
+        stCamera:FocalLengthY="2.253651"
+        stCamera:ImageXCenter="0.432871"
+        stCamera:ImageYCenter="0.446723"
+        stCamera:ResidualMeanError="0.000748"
+        stCamera:ResidualStandardDeviation="0.001264"
+        stCamera:RadialDistortParam1="-0.380388"
+        stCamera:RadialDistortParam2="-3.381517"
+        stCamera:RadialDistortParam3="27.553463">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.252516"
+        stCamera:FocalLengthY="2.252516"
+        stCamera:ImageXCenter="0.432888"
+        stCamera:ImageYCenter="0.446739"
+        stCamera:ResidualMeanError="0.000751"
+        stCamera:ResidualStandardDeviation="0.001271"
+        stCamera:ScaleFactor="1.000098"
+        stCamera:RadialDistortParam1="0.010486"
+        stCamera:RadialDistortParam2="-0.289403"
+        stCamera:RadialDistortParam3="2.254648"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.252516"
+        stCamera:FocalLengthY="2.252516"
+        stCamera:ImageXCenter="0.432888"
+        stCamera:ImageYCenter="0.446739"
+        stCamera:ResidualMeanError="0.00075"
+        stCamera:ResidualStandardDeviation="0.00127"
+        stCamera:RadialDistortParam1="-0.379388"
+        stCamera:RadialDistortParam2="-3.397344"
+        stCamera:RadialDistortParam3="27.624708"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.252516"
+        stCamera:FocalLengthY="2.252516"
+        stCamera:ImageXCenter="0.432888"
+        stCamera:ImageYCenter="0.446739"
+        stCamera:ResidualMeanError="0.000751"
+        stCamera:ResidualStandardDeviation="0.00127"
+        stCamera:ScaleFactor="1.000151"
+        stCamera:RadialDistortParam1="-0.010486"
+        stCamera:RadialDistortParam2="0.259865"
+        stCamera:RadialDistortParam3="-1.964689"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON 1 V1"
+       stCamera:UniqueCameraModel="Nikon 1 V1"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:LensInfo="300/10 1100/10 38/10 56/10"
+       stCamera:CameraPrettyName="NIKON 1 V1"
+       stCamera:LensPrettyName="Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:ProfileName="Adobe (Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6)"
+       stCamera:SensorFormatFactor="2.7"
+       stCamera:ImageWidth="3904"
+       stCamera:ImageLength="2604"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="1.3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.255341"
+        stCamera:FocalLengthY="2.255341"
+        stCamera:ImageXCenter="0.476414"
+        stCamera:ImageYCenter="0.538471"
+        stCamera:ResidualMeanError="0.000291"
+        stCamera:ResidualStandardDeviation="0.0005"
+        stCamera:RadialDistortParam1="-0.538845"
+        stCamera:RadialDistortParam2="3.15384"
+        stCamera:RadialDistortParam3="-26.894927">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.255547"
+        stCamera:FocalLengthY="2.255547"
+        stCamera:ImageXCenter="0.47649"
+        stCamera:ImageYCenter="0.538727"
+        stCamera:ResidualMeanError="0.000292"
+        stCamera:ResidualStandardDeviation="0.000501"
+        stCamera:ScaleFactor="1.000119"
+        stCamera:RadialDistortParam1="-0.002034"
+        stCamera:RadialDistortParam2="0.112075"
+        stCamera:RadialDistortParam3="-1.297285"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.255547"
+        stCamera:FocalLengthY="2.255547"
+        stCamera:ImageXCenter="0.47649"
+        stCamera:ImageYCenter="0.538727"
+        stCamera:ResidualMeanError="0.000289"
+        stCamera:ResidualStandardDeviation="0.000502"
+        stCamera:RadialDistortParam1="-0.53873"
+        stCamera:RadialDistortParam2="3.16024"
+        stCamera:RadialDistortParam3="-26.974547"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.255547"
+        stCamera:FocalLengthY="2.255547"
+        stCamera:ImageXCenter="0.47649"
+        stCamera:ImageYCenter="0.538727"
+        stCamera:ResidualMeanError="0.000291"
+        stCamera:ResidualStandardDeviation="0.000501"
+        stCamera:ScaleFactor="1.000133"
+        stCamera:RadialDistortParam1="0.001883"
+        stCamera:RadialDistortParam2="-0.126565"
+        stCamera:RadialDistortParam3="1.466681"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON 1 V1"
+       stCamera:UniqueCameraModel="Nikon 1 V1"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:LensInfo="300/10 1100/10 38/10 56/10"
+       stCamera:CameraPrettyName="NIKON 1 V1"
+       stCamera:LensPrettyName="Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:ProfileName="Adobe (Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6)"
+       stCamera:SensorFormatFactor="2.7"
+       stCamera:ImageWidth="3904"
+       stCamera:ImageLength="2604"
+       stCamera:FocalLength="30"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.283931"
+        stCamera:FocalLengthY="2.283931"
+        stCamera:ImageXCenter="0.477175"
+        stCamera:ImageYCenter="0.548276"
+        stCamera:ResidualMeanError="0.000111"
+        stCamera:ResidualStandardDeviation="0.000059"
+        stCamera:RadialDistortParam1="-0.452409"
+        stCamera:RadialDistortParam2="0.282628"
+        stCamera:RadialDistortParam3="-0.656691">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="2.28381"
+        stCamera:FocalLengthY="2.28381"
+        stCamera:ImageXCenter="0.477186"
+        stCamera:ImageYCenter="0.548313"
+        stCamera:ResidualMeanError="0.00011"
+        stCamera:ResidualStandardDeviation="0.000059"
+        stCamera:ScaleFactor="1.000097"
+        stCamera:RadialDistortParam1="-0.003179"
+        stCamera:RadialDistortParam2="0.147946"
+        stCamera:RadialDistortParam3="-1.664184"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="2.28381"
+        stCamera:FocalLengthY="2.28381"
+        stCamera:ImageXCenter="0.477186"
+        stCamera:ImageYCenter="0.548313"
+        stCamera:ResidualMeanError="0.000109"
+        stCamera:ResidualStandardDeviation="0.000057"
+        stCamera:RadialDistortParam1="-0.451989"
+        stCamera:RadialDistortParam2="0.279794"
+        stCamera:RadialDistortParam3="-0.659839"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="2.28381"
+        stCamera:FocalLengthY="2.28381"
+        stCamera:ImageXCenter="0.477186"
+        stCamera:ImageYCenter="0.548313"
+        stCamera:ResidualMeanError="0.000111"
+        stCamera:ResidualStandardDeviation="0.000058"
+        stCamera:ScaleFactor="1.000182"
+        stCamera:RadialDistortParam1="0.001506"
+        stCamera:RadialDistortParam2="-0.125488"
+        stCamera:RadialDistortParam3="1.54971"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON 1 V1"
+       stCamera:UniqueCameraModel="Nikon 1 V1"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:LensInfo="300/10 1100/10 38/10 56/10"
+       stCamera:CameraPrettyName="NIKON 1 V1"
+       stCamera:LensPrettyName="Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:ProfileName="Adobe (Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6)"
+       stCamera:SensorFormatFactor="2.7"
+       stCamera:ImageWidth="3904"
+       stCamera:ImageLength="2604"
+       stCamera:FocalLength="41.200001"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.177063"
+        stCamera:FocalLengthY="3.177063"
+        stCamera:ImageXCenter="0.558817"
+        stCamera:ImageYCenter="0.433417"
+        stCamera:ResidualMeanError="0.000394"
+        stCamera:ResidualStandardDeviation="0.000543"
+        stCamera:RadialDistortParam1="-0.208129"
+        stCamera:RadialDistortParam2="9.202005"
+        stCamera:RadialDistortParam3="-151.34713">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.17582"
+        stCamera:FocalLengthY="3.17582"
+        stCamera:ImageXCenter="0.558813"
+        stCamera:ImageYCenter="0.432239"
+        stCamera:ResidualMeanError="0.00039"
+        stCamera:ResidualStandardDeviation="0.000535"
+        stCamera:ScaleFactor="1.000185"
+        stCamera:RadialDistortParam1="0.002384"
+        stCamera:RadialDistortParam2="-0.092817"
+        stCamera:RadialDistortParam3="1.258533"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.17582"
+        stCamera:FocalLengthY="3.17582"
+        stCamera:ImageXCenter="0.558813"
+        stCamera:ImageYCenter="0.432239"
+        stCamera:ResidualMeanError="0.000389"
+        stCamera:ResidualStandardDeviation="0.000535"
+        stCamera:RadialDistortParam1="-0.206266"
+        stCamera:RadialDistortParam2="9.04118"
+        stCamera:RadialDistortParam3="-148.543294"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.17582"
+        stCamera:FocalLengthY="3.17582"
+        stCamera:ImageXCenter="0.558813"
+        stCamera:ImageYCenter="0.432239"
+        stCamera:ResidualMeanError="0.000389"
+        stCamera:ResidualStandardDeviation="0.000535"
+        stCamera:ScaleFactor="0.999896"
+        stCamera:RadialDistortParam1="-0.007029"
+        stCamera:RadialDistortParam2="0.255103"
+        stCamera:RadialDistortParam3="-3.371905"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON 1 V1"
+       stCamera:UniqueCameraModel="Nikon 1 V1"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:LensInfo="300/10 1100/10 38/10 56/10"
+       stCamera:CameraPrettyName="NIKON 1 V1"
+       stCamera:LensPrettyName="Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:ProfileName="Adobe (Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6)"
+       stCamera:SensorFormatFactor="2.7"
+       stCamera:ImageWidth="3904"
+       stCamera:ImageLength="2604"
+       stCamera:FocalLength="41.200001"
+       stCamera:FocusDistance="1.2"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.013231"
+        stCamera:FocalLengthY="3.013231"
+        stCamera:ImageXCenter="0.496963"
+        stCamera:ImageYCenter="0.497467"
+        stCamera:ResidualMeanError="0.000348"
+        stCamera:ResidualStandardDeviation="0.000548"
+        stCamera:RadialDistortParam1="-0.202974"
+        stCamera:RadialDistortParam2="12.991861"
+        stCamera:RadialDistortParam3="-220.58392">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.012911"
+        stCamera:FocalLengthY="3.012911"
+        stCamera:ImageXCenter="0.496754"
+        stCamera:ImageYCenter="0.497297"
+        stCamera:ResidualMeanError="0.000346"
+        stCamera:ResidualStandardDeviation="0.000547"
+        stCamera:ScaleFactor="1.000204"
+        stCamera:RadialDistortParam1="-0.00692"
+        stCamera:RadialDistortParam2="0.328167"
+        stCamera:RadialDistortParam3="-5.468613"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.012911"
+        stCamera:FocalLengthY="3.012911"
+        stCamera:ImageXCenter="0.496754"
+        stCamera:ImageYCenter="0.497297"
+        stCamera:ResidualMeanError="0.000345"
+        stCamera:ResidualStandardDeviation="0.000548"
+        stCamera:RadialDistortParam1="-0.202845"
+        stCamera:RadialDistortParam2="12.972195"
+        stCamera:RadialDistortParam3="-220.246081"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.012911"
+        stCamera:FocalLengthY="3.012911"
+        stCamera:ImageXCenter="0.496754"
+        stCamera:ImageYCenter="0.497297"
+        stCamera:ResidualMeanError="0.000348"
+        stCamera:ResidualStandardDeviation="0.000546"
+        stCamera:ScaleFactor="0.999847"
+        stCamera:RadialDistortParam1="0.008395"
+        stCamera:RadialDistortParam2="-0.395614"
+        stCamera:RadialDistortParam3="6.35469"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON 1 V1"
+       stCamera:UniqueCameraModel="Nikon 1 V1"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:LensInfo="300/10 1100/10 38/10 56/10"
+       stCamera:CameraPrettyName="NIKON 1 V1"
+       stCamera:LensPrettyName="Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:ProfileName="Adobe (Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6)"
+       stCamera:SensorFormatFactor="2.7"
+       stCamera:ImageWidth="3904"
+       stCamera:ImageLength="2604"
+       stCamera:FocalLength="41.200001"
+       stCamera:FocusDistance="3"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="3.233481"
+        stCamera:FocalLengthY="3.233481"
+        stCamera:ImageXCenter="0.519657"
+        stCamera:ImageYCenter="0.394435"
+        stCamera:ResidualMeanError="0.000149"
+        stCamera:ResidualStandardDeviation="0.000151"
+        stCamera:RadialDistortParam1="0.032321"
+        stCamera:RadialDistortParam2="5.209284"
+        stCamera:RadialDistortParam3="-92.583833">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:FocalLengthX="3.233558"
+        stCamera:FocalLengthY="3.233558"
+        stCamera:ImageXCenter="0.519675"
+        stCamera:ImageYCenter="0.394444"
+        stCamera:ResidualMeanError="0.000148"
+        stCamera:ResidualStandardDeviation="0.000152"
+        stCamera:ScaleFactor="1.00012"
+        stCamera:RadialDistortParam1="0.000598"
+        stCamera:RadialDistortParam2="-0.108408"
+        stCamera:RadialDistortParam3="2.838566"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:FocalLengthX="3.233558"
+        stCamera:FocalLengthY="3.233558"
+        stCamera:ImageXCenter="0.519675"
+        stCamera:ImageYCenter="0.394444"
+        stCamera:ResidualMeanError="0.000147"
+        stCamera:ResidualStandardDeviation="0.000152"
+        stCamera:RadialDistortParam1="0.032266"
+        stCamera:RadialDistortParam2="5.231172"
+        stCamera:RadialDistortParam3="-93.099154"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:FocalLengthX="3.233558"
+        stCamera:FocalLengthY="3.233558"
+        stCamera:ImageXCenter="0.519675"
+        stCamera:ImageYCenter="0.394444"
+        stCamera:ResidualMeanError="0.00015"
+        stCamera:ResidualStandardDeviation="0.000152"
+        stCamera:ScaleFactor="0.999945"
+        stCamera:RadialDistortParam1="-0.001297"
+        stCamera:RadialDistortParam2="0.135407"
+        stCamera:RadialDistortParam3="-3.629921"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:Model="NIKON 1 V1"
+       stCamera:UniqueCameraModel="Nikon 1 V1"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:LensInfo="300/10 1100/10 38/10 56/10"
+       stCamera:CameraPrettyName="NIKON 1 V1"
+       stCamera:LensPrettyName="Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6"
+       stCamera:ProfileName="Adobe (Nikon 1 NIKKOR VR 30-110mm f/3.8-5.6)"
+       stCamera:SensorFormatFactor="2.7"
+       stCamera:ImageWidth="3904"

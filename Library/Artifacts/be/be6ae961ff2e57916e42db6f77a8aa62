@@ -1,0 +1,19 @@
+             [notification-gcm-register] GCM register request has failed with Error=PHONE_REGISTRATION_ERROR
+[2025-11-23 15:48:48.710] [warn]                        [notification-gcm-register] Retry... 2
+[2025-11-23 15:48:51.037] [error]                       PUSH_RECEIVER:::Error while starting the service StatusCodeError: 403 - "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.\",\n    \"status\": \"PERMISSION_DENIED\"\n  }\n}\n"
+    at new r (C:\Riot Games\Riot Client\RiotClientElectron\resources\app.asar\dist\main\main.js:2:1174585)
+    at q.callback (C:\Riot Games\Riot Client\RiotClientElectron\resources\app.asar\dist\main\main.js:2:1176574)
+    at q.e.callback.t.callback [as _callback] (C:\Riot Games\Riot Client\RiotClientElectron\resources\app.asar\dist\main\main.js:2:1175622)
+    at q.t._callback.t.callback.t.callback [as callback] (C:\Riot Games\Riot Client\RiotClientElectron\resources\app.asar\dist\main\main.js:2:1245707)
+    at q.emit (node:events:513:28)
+    at q.emit (node:domain:489:12)
+    at q.<anonymous> (C:\Riot Games\Riot Client\RiotClientElectron\resources\app.asar\dist\main\main.js:2:1258287)
+    at q.emit (node:events:513:28)
+    at q.emit (node:domain:489:12)
+    at IncomingMessage.<anonymous> (C:\Riot Games\Riot Client\RiotClientElectron\resources\app.asar\dist\main\main.js:2:1257119)
+    at Object.onceWrapper (node:events:627:28)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1358:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[2025-11-23 15:48:51.039] [error] (FirebaseService)     Firebase notification service error:  403 - "{\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"Method doesn't allow unregistered callers (callers without established identity). Please use API Key or other form of API consumer identity to call this API.\",\n  

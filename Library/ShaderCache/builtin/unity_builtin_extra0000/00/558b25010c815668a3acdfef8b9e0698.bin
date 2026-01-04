@@ -1,0 +1,64 @@
+_le__')
+    __gt__ = _make_cmp('__gt__')
+    __ge__ = _make_cmp('__ge__')
+
+    def __hash__(self):
+        return hash(self._convert_to_address(None))
+
+    def _to_string(self, maxlen):
+        raise TypeError("string(): %r" % (self,))
+
+
+class CTypesGenericPrimitive(CTypesData):
+    __slots__ = []
+
+    def __hash__(self):
+        return hash(self._value)
+
+    def _get_own_repr(self):
+        return repr(self._from_ctypes(self._value))
+
+
+class CTypesGenericArray(CTypesData):
+    __slots__ = []
+
+    @classmethod
+    def _newp(cls, init):
+        return cls(init)
+
+    def __iter__(self):
+        for i in xrange(len(self)):
+            yield self[i]
+
+    def _get_own_repr(self):
+        return self._addr_repr(ctypes.addressof(self._blob))
+
+
+class CTypesGenericPtr(CTypesData):
+    __slots__ = ['_address', '_as_ctype_ptr']
+    _automatic_casts = False
+    kind = "pointer"
+
+    @classmethod
+    def _newp(cls, init):
+        return cls(init)
+
+    @classmethod
+    def _cast_from(cls, source):
+        if source is None:
+            address = 0
+        elif isinstance(source, CTypesData):
+            address = source._cast_to_integer()
+        elif isinstance(source, (int, long)):
+            address = source
+        else:
+            raise TypeError("bad type for cast to %r: %r" %
+                            (cls, type(source).__name__))
+        return cls._new_pointer_at(address)
+
+    @classmethod
+    def _new_pointer_at(cls, address):
+        self = cls.__new__(cls)
+        self._address = address
+        self._as_ctype_ptr = ctypes.cast(address, cls._ctype)
+        return self

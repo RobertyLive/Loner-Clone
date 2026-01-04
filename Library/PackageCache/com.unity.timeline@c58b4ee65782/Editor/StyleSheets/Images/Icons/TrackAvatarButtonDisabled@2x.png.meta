@@ -1,0 +1,58 @@
+ectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="12.366221"
+        stCamera:RadialDistortParam2="-157.528778"
+        stCamera:RadialDistortParam3="-8252.795898">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999774"
+        stCamera:RadialDistortParam1="-0.041002"
+        stCamera:RadialDistortParam2="44.431561"
+        stCamera:RadialDistortParam3="-5162.779297"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="12.366221"
+        stCamera:RadialDistortParam2="-157.528778"
+        stCamera:RadialDistortParam3="-8252.795898"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999685"
+        stCamera:RadialDistortParam1="-0.129394"
+        stCamera:RadialDistortParam2="58.360863"
+        stCamera:RadialDistortParam3="-14334.113281"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.011672"
+        stCamera:VignetteModelParam1="-291.123199"
+        stCamera:VignetteModelParam2="-9167.295898"
+        stCamera:VignetteModelParam3="10850141"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="153"
+       stCamera:Lens="50-500mm"
+       stCamera:LensInfo="50/1 500/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO 50-500mm F4-6.3 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO 50-500mm F4-6.3 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="20"
+       stCamera:ApertureValue="5.310704">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+      

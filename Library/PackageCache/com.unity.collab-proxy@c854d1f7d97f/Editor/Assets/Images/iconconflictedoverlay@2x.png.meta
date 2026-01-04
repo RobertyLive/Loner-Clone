@@ -1,0 +1,48 @@
+="P:System.SR.Property_Invalid">
+            <summary>The value assigned to property '{0}' is invalid.</summary>
+        </member>
+        <member name="P:System.SR.Unexpected_Error">
+            <summary>An unexpected error occurred in '{0}'.</summary>
+        </member>
+        <member name="P:System.SR.Wrapped_exception_message">
+            <summary>{0}: {1}</summary>
+        </member>
+        <member name="P:System.SR.Config_error_loading_XML_file">
+            <summary>An error occurred loading a configuration file</summary>
+        </member>
+        <member name="P:System.SR.Config_exception_creating_section_handler">
+            <summary>An error occurred creating the configuration section handler for {0}</summary>
+        </member>
+        <member name="P:System.SR.Config_exception_creating_section">
+            <summary>An error occurred creating the configuration section for {0}</summary>
+        </member>
+        <member name="P:System.SR.Config_tag_name_invalid">
+            <summary>Invalid format for a section or section group name</summary>
+        </member>
+        <member name="P:System.SR.Config_add_configurationsection_already_added">
+            <summary>Cannot add a ConfigurationSection that already belongs to the Configuration.</summary>
+        </member>
+        <member name="P:System.SR.Config_add_configurationsection_already_exists">
+            <summary>Cannot add a ConfigurationSection with the same name that already exists.</summary>
+        </member>
+        <member name="P:System.SR.Config_add_configurationsection_in_location_config">
+            <summary>Cannot add a ConfigurationSection to a Configuration with a location.</summary>
+        </member>
+        <member name="P:System.SR.Config_add_configurationsectiongroup_already_added">
+            <summary>Cannot add a ConfigurationSectionGroup that already belongs to the Configuration.</summary>
+        </member>
+        <member name="P:System.SR.Config_add_configurationsectiongroup_already_exists">
+            <summary>Cannot add a ConfigurationSectionGroup with the same name that already exists.</summary>
+        </member>
+        <member name="P:System.SR.Config_add_configurationsectiongroup_in_location_config">
+            <summary>Cannot add a ConfigurationSectionGroup to a Configuration with a location.</summary>
+        </member>
+        <member name="P:System.SR.Config_allow_exedefinition_error_application">
+            <summary>It is an error to use a section registered as allowExeDefinition='MachineToApplication' beyond the application, in the user's config.  (This is the default behavior if not specified)</summary>
+        </member>
+        <member name="P:System.SR.Config_allow_exedefinition_error_machine">
+            <summary>It is an error to use a section registered as allowExeDefinition='MachineOnly' beyond machine.config.</summary>
+        </member>
+        <member name="P:System.SR.Config_allow_exedefinition_error_roaminguser">
+            <summary>It is an error to use a section registered as allowExeDefinition='MachineToRoamingUser' beyond the roaming user config, in the local user config.</summary>
+   

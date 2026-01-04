@@ -1,0 +1,48 @@
+from __future__ import annotations
+
+import struct
+from typing import Any, Awaitable, Callable, NamedTuple, Optional, Sequence, Tuple
+
+from .. import extensions, frames
+from ..exceptions import PayloadTooBig, ProtocolError
+
+
+try:
+    from ..speedups import apply_mask
+except ImportError:
+    from ..utils import apply_mask
+
+
+class Frame(NamedTuple):
+    fin: bool
+    opcode: frames.Opcode
+    data: bytes
+    rsv1: bool = False
+    rsv2: bool = False
+    rsv3: bool = False
+
+    @property
+    def new_frame(self) -> frames.Frame:
+        return frames.Frame(
+            self.opcode,
+            self.data,
+            self.fin,
+            self.rsv1,
+            self.rsv2,
+            self.rsv3,
+        )
+
+    def __str__(self) -> str:
+        return str(self.new_frame)
+
+    def check(self) -> None:
+        return self.new_frame.check()
+
+    @classmethod
+    async def read(
+        cls,
+        reader: Callable[[int], Awaitable[bytes]],
+        *,
+        mask: bool,
+        max_size: Optional[int] = None,
+        extensions: Optional[Sequence[extensions.Extens

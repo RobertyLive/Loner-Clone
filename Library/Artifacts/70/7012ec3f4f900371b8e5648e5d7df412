@@ -1,0 +1,17 @@
+Burst supports [`Span<T>`](https://docs.microsoft.com/en-us/dotnet/api/system.span-1?view=net-6.0) and [`ReadOnlySpan<T>`](https://docs.microsoft.com/en-us/dotnet/api/system.readonlyspan-1?view=net-6.0) types in the Unity Editors that support them.
+
+You can only use span types in Burst jobs or function-pointers, but not across the interface to them. This is because in C#'s implementation of the span types it supports taking spans into managed data types (like a managed array). For example, the following code is invalid:
+
+```c#
+[BurstCompile]
+public static void SomeFunctionPointer(Span<int> span) {}
+```
+
+This is because `Span` is used across the managed and Burst boundary. In Burst, span types respect any safety check setting, and only perform performance-intensive checks when safety checks are enabled.
+
+    
+<a name="tuples"></a>
+    
+## Tuple types
+
+Burst supports value tuples [`ValueTuple<T1,T2>`](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples) in Burst-compiled jobs or static methods, but not across the interface to them. This is because value tuples are of struct layout [LayoutKind.Auto](https://learn.microsoft.com/en-us/dotnet/api/system.runtime.interopservices.layoutkind?view=net-7.0). Burst does not support [LayoutKind.Auto](https://learn.microsoft

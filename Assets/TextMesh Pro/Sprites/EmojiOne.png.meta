@@ -1,0 +1,123 @@
+ not selected and are not available.
+
+If you disable or do not configure this policy setting, users can change the setting of the Retrieve media information for CDs and DVDs from the Internet check box.</string>
+      <string id="PreventLibrarySharing">Prevent Media Sharing</string>
+      <string id="PreventLibrarySharingExplain">This policy setting allows you to prevent media sharing from Windows Media Player.
+
+If you enable this policy setting, any user on this computer is prevented from sharing digital media content from Windows Media Player with other computers and devices that are on the same network. Media sharing is disabled from Windows Media Player or from programs that depend on the Player's media sharing feature.
+
+If you disable or do not configure this policy setting, anyone using Windows Media Player can turn media sharing on or off.</string>
+      <string id="PreventMusicFileMetadataRetrieval">Prevent Music File Media Information Retrieval</string>
+      <string id="PreventMusicFileMetadataRetrievalExplain">This policy setting allows you to prevent media information for music files from being retrieved from the Internet.
+
+If you enable this policy setting, the Player is prevented from automatically obtaining media information for music files such as Windows Media Audio (WMA) and MP3 files from the Internet. In addition, the Update my music files (WMA and MP3 files) by retrieving missing media information from the Internet check box in the first use dialog box and on the Privacy and Media Library tabs in the Player are not selected and are not available.
+
+If you disable or do not configure this policy setting, users can change the setting of the Update my music files (WMA and MP3 files) by retrieving missing media information from the Internet check box.</string>
+      <string id="PreventQuickLaunchShortcut">Prevent Quick Launch Toolbar Shortcut Creation</string>
+      <string id="PreventQuickLaunchShortcutExplain">This policy setting allows you to prevent a shortcut for the Player from being added to the Quick Launch bar.
+
+If you enable this policy setting, the user cannot add the shortcut for the Player to the Quick Launch bar.
+
+If you disable or do not configure this policy setting, the user can choose whether to add the shortcut for the Player to the Quick Launch bar.</string>
+      <string id="PreventRadioPresetsRetrieval">Prevent Radio Station Preset Retrieval</string>
+      <string id="PreventRadioPresetsRetrievalExplain">This policy setting allows you to prevent radio station presets from being retrieved from the Internet.
+
+If you enable this policy setting, the Player is prevented from automatically retrieving radio station presets from the Internet and displaying them in Media Library. In addition, presets that exist before the policy is configured are not be updated, and presets a user adds are not be displayed.
+
+If you disable or do not configure this policy setting, the Player automatically retrieves radio station presets from the Internet.</string>
+      <string id="PreventWMPDeskTopShortcut">Prevent Desktop Shortcut Creation</string>
+      <string id="PreventWMPDeskTopShortcutExplain">This policy setting allows you to prevent a shortcut icon for the Player from being added to the user's desktop.
+
+If you enable this policy setting, users cannot add the Player shortcut icon to their desktops.
+
+If you disable or do not configure this policy setting, users can choose whether to add the Player shortcut icon to their desktops.</string>
+      <string id="SkinLockDown">Set and Lock Skin</string>
+      <string id="SKinLockDownExplain">This policy setting allows you to set and lock Windows Media Player in skin mode, using a specified skin.
+
+If you enable this policy setting, the Player displays only in skin mode using the skin specified in the Skin box on the Setting tab.
+
+You must use the complete file name for the skin (for example, skin_name.wmz), and the skin must be installed in the %programfiles%\Windows Media Player\Skins Folder on a user's computer. If the skin is not installed on a user's computer, or if the Skin box is blank, the Player opens by using the Corporate skin. The only way to specify the Corporate skin is to leave the Skin box blank.
+
+A user has access only to the Player features that are available with the specified skin. Users cannot switch the Player to full mode and cannot choose a different skin.
+
+If you disable or do not configure this policy setting, users can display the Player in full or skin mode and have access to all available features of the Player.</string>
+      <string id="SUPPORTED_WMP11">Windows Media Player 11 for Windows XP or Windows Media Player 11 for Windows Vista or later.</string>
+      <string id="SUPPORTED_WMP8">Windows Media Player for Windows XP and later.</string>
+      <string id="SUPPORTED_WMP9">Windows Media Player 9 Series and later.</string>
+      <string id="UseBrowserProxySettings">Use browser proxy settings</string>
+      <string id="WindowsStreamingMediaProtocols">Streaming Media Protocols</string>
+      <string id="WindowsStreamingMediaProtocolsExplain">This policy setting allows you to specify that Windows Media Player can attempt to use selected protocols when receiving streaming media from a server running Windows Media Services.
+
+If you enable this policy setting, the protocols that are selected on the Network tab of the Player are used to receive a stream initiated through an MMS or RTSP URL from a Windows Media server. If the RSTP/UDP check box is selected, a user can specify UDP ports in the Use ports check box. If the user does not specify UDP ports, the Player uses default ports when using the UDP protocol. This policy setting also specifies that multicast streams can be received if the "Allow the Player to receive multicast streams" check box on the Network tab is selected.
+
+If you enable this policy setting, the administrator must also specify the protocols that are available to users on the Network tab. If the administrator does not specify any protocols, the Player cannot access an MMS or RTSP URL from a Windows Media server. If the "Hide network tab" policy setting is enabled, the entire Network tab is hidden.
+
+If you do not configure this policy setting, users can select the protocols to use on the Network tab.
+
+If you disable this policy setting, the Protocols for MMS URLs and Multicast streams areas of the Network tab are not available and the Player cannot receive an MMS or RTSP stream from a Windows Media server.</string>
+      <string id="WMPCat">Windows Media Player</string>
+      <string id="WMPCatContent">Playback</string>
+      <string id="WMPCatUI">User Interface</string>
+      <string id="WMPNETWORK">Networking</string>
+    </stringTable>
+    <presentationTable>
+      <presentation id="ConfigureHTTPProxySettings">
+        <dropdownList refId="Proxytype">Proxy type</dropdownList>
+        <text>The following options apply only to custom proxies.</text>
+        <textBox refId="ProxyAddress">
+          <label>Proxy address</label>
+        </textBox>
+        <decimalTextBox refId="ProxyPort" defaultValue="80">Proxy port</decimalTextBox>
+        <checkBox refId="BypassProxyLocal">Bypass proxy for local addresses</checkBox>
+        <textBox refId="DoNotUseProxyLocal">
+          <label>Do not use proxy server for addresses beginning with</label>
+        </textBox>
+      </presentation>
+      <presentation id="ConfigureMMSProxySettings">
+        <dropdownList refId="Proxytype">Proxy type</dropdownList>
+        <text>The following options apply only to custom proxies.</text>
+        <textBox refId="ProxyAddress">
+          <label>Proxy address</label>
+        </textBox>
+        <decimalTextBox refId="ProxyPort" defaultValue="80">Proxy port</decimalTextBox>
+        <checkBox refId="BypassProxyLocal">Bypass proxy for local addresses</checkBox>
+        <textBox refId="DoNotUseProxyLocal">
+          <label>Do not use proxy server for addresses beginning with</label>
+        </textBox>
+      </presentation>
+      <presentation id="ConfigureRTSPProxySettings">
+        <dropdownList refId="Proxytype">Proxy type</dropdownList>
+        <text>The following options apply only to custom proxies.</text>
+        <textBox refId="ProxyAddress">
+          <label>Proxy address</label>
+        </textBox>
+        <decimalTextBox refId="ProxyPort" defaultValue="80">Proxy port</decimalTextBox>
+        <checkBox refId="BypassProxyLocal">Bypass proxy for local addresses</checkBox>
+        <textBox refId="DoNotUseProxyLocal">
+          <label>Do not use proxy server for addresses beginning with</label>
+        </textBox>
+      </presentation>
+      <presentation id="NetworkBuffering">
+        <dropdownList refId="BufferingTime">Buffering Time</dropdownList>
+        <text>Everything below this line applies to Custom network buffering only.</text>
+        <decimalTextBox refId="NetworkBuffering" defaultValue="3">Configure Network Buffering</decimalTextBox>
+      </presentation>
+      <presentation id="SkinLockDown">
+        <textBox refId="LockSkin">
+          <label>Skin</label>
+        </textBox>
+      </presentation>
+      <presentation id="WindowsStreamingMediaProtocols">
+        <text>Protocols</text>
+        <checkBox refId="MultiCastCheckBox">Multicast</checkBox>
+        <checkBox refId="UDPCheckBox">UDP</checkBox>
+        <textBox refId="UDPPorts">
+          <label>UDP Ports</label>
+        </textBox>
+        <checkBox refId="TCPCheckBox">TCP</checkBox>
+        <checkBox refId="HTTPCheckBox">HTTP</checkBox>
+      </presentation>
+    </presentationTable>
+  </resources>
+</policyDefinitionResources>
+     

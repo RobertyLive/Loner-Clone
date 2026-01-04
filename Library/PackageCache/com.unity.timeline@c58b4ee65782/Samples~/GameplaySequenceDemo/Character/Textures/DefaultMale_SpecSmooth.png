@@ -1,0 +1,89 @@
+Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:40.258 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0008384
+2025-11-23 20:46:40.261 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:40.266 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed (ULF) license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:40.267 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:40.268 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:40.268 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:40.269 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0012780
+2025-11-23 20:46:40.270 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-7 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Success, found: 2 groups
+2025-11-23 20:46:40.275 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:40.280 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed (ULF) license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:40.280 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:40.281 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:40.281 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:40.281 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0004088
+2025-11-23 20:46:40.284 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:40.286 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed (ULF) license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:40.287 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:40.287 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:40.288 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:40.288 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0008369
+2025-11-23 20:46:40.289 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-8 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Success, found: 2 groups
+2025-11-23 20:46:44.797 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Communication.Controllers.EntitlementDetailsController] Finished handling EntitlementDetails request
+2025-11-23 20:46:44.801 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-9 | Sending EntitlementDetailsResponse for request EntitlementDetailsRequest from Hub 3.13.0 (LocalIPC/1.17) [404]:  Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids
+2025-11-23 20:46:45.038 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:45.057 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed (ULF) license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:45.058 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:45.058 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:45.059 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:45.059 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0007717
+2025-11-23 20:46:45.065 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:45.068 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed (ULF) license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:45.069 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:45.069 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:45.069 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:45.070 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0005468
+2025-11-23 20:46:45.070 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-10 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Success, found: 2 groups
+2025-11-23 20:46:45.075 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Communication.Controllers.EntitlementDetailsController] Finished handling EntitlementDetails request
+2025-11-23 20:46:45.075 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-11 | Sending EntitlementDetailsResponse for request EntitlementDetailsRequest from Hub 3.13.0 (LocalIPC/1.17) [404]:  Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids
+2025-11-23 20:46:45.094 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-12 | Sending EntitlementsResponse for request EntitlementsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Found 1 entitlements
+2025-11-23 20:46:47.870 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:47.873 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed (ULF) license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:47.874 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:47.874 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:47.874 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:47.874 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0004500
+2025-11-23 20:46:47.878 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:47.880 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.Helpers.LicenseFilesMapper] Successfully parsed (ULF) license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:47.880 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Rebuilding resolvers from local files:  C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml, C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:47.880 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing ULF license C:\ProgramData\Unity\Unity_lic.ulf
+2025-11-23 20:46:47.881 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processing license C:\Users\rober\AppData\Local\Unity\licenses\UnityEntitlementLicense.xml
+2025-11-23 20:46:47.881 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.EntitlementResolverProvider] Processed 2 license files in 00:00:00.0003886
+2025-11-23 20:46:47.881 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-13 | Sending EntitlementGroupsDetailsResponse for request EntitlementGroupsDetailsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Success, found: 2 groups
+2025-11-23 20:46:47.900 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-14 | Sending EntitlementsResponse for request EntitlementsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Found 1 entitlements
+2025-11-23 21:33:26.822 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] REQ-15 | Sending EntitlementsResponse for request EntitlementsRequest from Hub 3.13.0 (LocalIPC/1.17) [200]:  Found 1 entitlements
+2025-11-23 21:33:28.432 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] Detected client disconnect
+2025-11-23 21:33:28.432 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Communication.ApiPipeHandler#1] End accepting requests
+2025-11-23 21:33:28.434 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.MultiClientPipeServer] Connection closed (pipe #1)
+2025-11-23 21:33:28.448 - [ 14504] - [     8] - INFO  - [Unity.Licensing.Client.Services.LicensingOrchestrator] Last active session ended.
+2026-01-04 00:06:42.724 - [ 10680] - [     1] - INFO  - [Unity.Licensing.Client.Program] ComİÁ Tş¢Ï:? ¬ûF;ÙÁ"º	UH bÁ şH–HÕ4…”1 4 6E½	 ¤zm40114}™ 
+=C–˜*±¯:CÀä–FCÁĞ ú‰Õ
+á«8 9Ã	ì ¹zì 55508F| Âì ğ•LÑ:ì €æªBIşì ì…6 Én5Ø.(aC Ñj
+$9881567015™-Ö–Ó.f5Fâ´>ê 2tFÚ	!Ö BÖIƒ›ş¼2¼(I {“6 26 8ÉG" »z625568™Ë- ¾ ŒBtìÔO>O%–òş#2#Ûß£Í` 7!2ái2 ¾v2Ác72FH &=,fa.HùÒ²Ã:HÀF2ù "“ .b  .şXX       æl – À &Á  5 5 9 8 8 2 2 5 1 1 5 8^Õ3    áÿş  |ÿo"id"559882251158"devicesA<IX"keyIndexI{	 Z  \   À {$ "rawIdN  àÇêâA"	timestampN   ¯uRÚA"validv‹I III?current2   @¸PletedF"
+expectedTs_"LastDİJob Update8advAccountTypeaX  {Ü3 7 1 4 6 8Ëª)|÷ÿrX37146=X-C =5XB. 9. ÀT{_:.@ı¬PÚ>.I ¶ğ?$ R1ğ?=1bó ¬4 7EO6 5“ä;ó±vó 472565bIK I6†Nô  ˆ. UMB
+ =
+ëŞ:
+ÀdÆTB
+$I II$ R  ş6–6İ5 4 9e’3ÎÖ!C«vC5495139CM6 ¼.-’7€„¡Ô:- \_NÚş7r7›9…~a07É9Eô øz7915377Bô  .ô f!}+@ÁÎÛè:ô À°LVjô  @^+ş&’&”%2 8!6½ig ¸~09181}gM$ ².0’$  »z:0@ĞTUN0I^)2Tş…^…(¸3 0 5 7’ 5Å©‡ öv‡305765=-” N“ fq.’<p›>AöÂFœ ½œ­¥Az ş æ ÖAv 7 3 2H$aª Å~M81732Bª ®ÆzeÙ·:9€şNêznÎØ3¥‹6 1 0ig ®vg3349610í ÉÎ b]% ï l  r $ t &Bö Ùö€+Â‰À:+ TF¥4I I$III&$ RZ 3şú–ú=4 3Ô 0K)o ¥zo44315=om© ’R\ –. fu
+.«Rg¡:G@qeFG= îV şCC›7Õ3 9ë5a ’~A79839Y°Í °.+’@oé!á>+SNÍšr
+şfš4 1 }aä7)4 ïvı419161F{ |}¥’3ÀzŒÙ>3<ÿOş3ş3f3Ü8Ö7¿éK õvş41987J- ¾-  »²Î>- ÀJ6şÒ2ÒÇ9:É8±,aT ¨z 96571FÅ ¾ó @!‚!Ñ:ó €ÍcQN |:¾Ia×è:é,I {       ;²Š!t &Ä  5 5 9 8 8 5 1 4 0 70ç;    Óÿş	|ÿo"id"559885140798"devicesAğ>I "keyIndexI {$ "rawIdN   &/ÚA"	timestampN  @ñuRÚA"validI7\esaI I II@"currentTF   ğ?yTletedF"advAccountType#P  {š7 4 9 3 1ß5< ~Ù 74931`	Ù 	Ù hÙ{Bî  î€"X»>î À™S>î AI ´@$ Vñ  @‘ñ4
+expectedTs_"LastD¶Job Updateb/<Ä9 9 0 6 8I Ò~/9906ºF™âA6 º¤P>şUD£2 3 7 1 0 0)åEã ÊzÛ 237100!y2
+ p]
+ 
+À}_?Ö:ğ ÀâU>ğ AU
+ğ?M@$ R şÜ3$ 7 2 5	7$aDšv398725B:  ¾: jùQç>:õÍOB:yDğ?^Dš5İ¡a0 7‡)1óÀvó 510607Bó ¾ô  `€Ò:ô €XRşô vô @“6 4 7 5 4 3§ª)ô ñzç647543ôÜßÌ>Ş ÉL>Ş jüIrFN  ÀzÊJfN  €‘nJN   Af$¹‰G 4QI ¿z71043] ÉU ] 2‘K ¸.3 Bk Ùk 7ŠÇã:U Ô²M>Ua@î   9ba 9şaa‰a 5Š/©™ Ëz™73958İtí.N’™`ŠwWè>8pïTB8ş__¸6 2åg 3ÁÂ³B!‰ ôvõ 629031İMC ]Cõ.
+f­]Bàòù®Bi¹õQB
+J£¶ R£ş¶’¶ÜÁ 2…À1 0ùäåß ÂvQ72247.QMF ,NQB~*é	 b’µ:F@‹şFrFº5ÁŸÅ0ÓÜ
+ zó 50759FD ¶.rUE2ˆ’F ¨ª«:
+ Ğ\F»şFşFFF“8 ë 6 5 2	àa•×rö7839652Á2#
+ $ÂD˜ÆÜ‘::ÀùƒFÂ ’â 
+&ış&2&$ú8 1 9 [1 9ÿ²…Á ëv}81974199,Á VN, X’{@P‰Ãï:A@FVşÁÁb•2…5
+8€şA=Ír=82242; `üunÀı×:ü €¥ÆNNü II^Rş¯’¯       $!ãÈ D &”  5 5 9 8\3 2 1 7 7 5zş    Ìÿş	|ÿo"id"559888321775"devicesA<I”"keyIndexI{  € {$ "rawIdN   .~¤ÕA"	timestamp,Ó¾NÚA"validLbI I;current.   @‹PletedF"
+expectedTs_"LastD°Job Update8advAccountTypea  {•)72{)1x¾~'5592œ2' = ’&”œ–>&zgRB&$I II$ R(  ş((H†4 8 2 4 2 5À.(!,Ív,48242FS †.S ’-RÊä³>-ÒiPB-AS BSI!°şLNLXI {Ü5 4 9 3 7 1ñ6$! –z549371™2I 6¾I€ìƒÔ:@®ONMûğ?B#‘-*b8Dº5 0 5 2 6ø²Bñêv550526`	ñ ‰a –. Q ˜.  Bw ™wÀ)¶7æ:€´VBI1@÷@^_ ş_–_@Ü6 8 6 2 3 5[5!Q úz‹68623F_ v¾BÀ‡pÙ>:5«SB: 5:îBEBH¬7 0 1 8 7 9cä;ó ©zD701879BD œ.. Q. .  nD d›‘Ü:
+ÀòœF
+¡•I^6 *ş66ÇA48 9 4º©“Ìv…7868949AíĞ 
+¾4 €Â1À:*€ƒsV’ 2åIƒVhI {¡T89 5 6 0 4 8íÓA cvİ 956048Z‰bİ2–4Èê:Ş @B±Mşnš9 0åf÷0åe Èv9082600Bö  ~=ÓfA*¸	@ª¿×>õ +WUjõ ¡8 6ÚµR‘ lş¿	v¿	›9 1“ 1 ¡B5‹©< ‚r59125168F< ‚.3–+Là¾:6€Î_Tj6š=şõ
+^õ
+a\7 a^Án1ı¢a\ên]9179523F° ]g’1@æñÓA6À-¸ş\r\Õi\ 9 6 1È”*ó ”ra9190896Fó  @¾ó €›C\Ú>ó yRQN$J-mS ğœ	Èa 3 1 8§ê írı9191631F: ªÂ@ïf>L@>Ošë ~¸… 8l9 7
++.á ¯vË

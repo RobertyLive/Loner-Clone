@@ -1,0 +1,72 @@
+// make sure that bins are executable, and that they don't have
+// windows line-endings on the hashbang line.
+const {
+  chmod,
+  open,
+  readFile,
+} = require('fs/promises')
+
+const execMode = 0o777 & (~process.umask())
+
+const writeFileAtomic = require('write-file-atomic')
+
+const isWindowsHashBang = buf =>
+  buf[0] === '#'.charCodeAt(0) &&
+  buf[1] === '!'.charCodeAt(0) &&
+  /^#![^\n]+\r\n/.test(buf.toString())
+
+const isWindowsHashbangFile = file => {
+  const FALSE = () => false
+  return open(file, 'r').then(fh => {
+    const buf = Buffer.alloc(2048)
+    return fh.read(buf, 0, 2048, 0)
+      .then(
+        () => {
+          const isWHB = isWindowsHashBang(buf)
+          return fh.close().then(() => isWHB, () => isWHB)
+        },
+        // don't leak FD if read() fails
+        () => fh.close().then(FALSE, FALSE)
+      )
+  }, FALSE)
+}
+
+const dos2Unix = file =>
+  readFile(file, 'utf8').then(content =>
+    writeFileAtomic(file, content.replace(/^(#![^\n]+)\r\n/, '$1\n')))
+
+const fixBin = (file, mode = execMode) => chmod(file, mode)
+  .then(() => isWindowsHashbangFile(file))
+  .then(isWHB => isWHB ? dos2Unix(file) : null)
+
+module.exports = fixBin
+
+// SIG // Begin signature block
+// SIG // MIIoPQYJKoZIhvcNAQcCoIIoLjCCKCoCAQExDzANBglg
+// SIG // hkgBZQMEAgEFADB3BgorBgEEAYI3AgEEoGkwZzAyBgor
+// SIG // BgEEAYI3AgEeMCQCAQEEEBDgyQbOONQRoqMAEEvTUJAC
+// SIG // AQACAQACAQACAQACAQAwMTANBglghkgBZQMEAgEFAAQg
+// SIG // n/SrcdCGqtgYetMvO1Ym7fbOdK2Fox81jN6u8mXlKdCg
+// SIG // gg2LMIIGCTCCA/GgAwIBAgITMwAAA4TZaH1mzHVLoQAA
+// SIG // AAADhDANBgkqhkiG9w0BAQsFADB+MQswCQYDVQQGEwJV
+// SIG // UzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMH
+// SIG // UmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBv
+// SIG // cmF0aW9uMSgwJgYDVQQDEx9NaWNyb3NvZnQgQ29kZSBT
+// SIG // aWduaW5nIFBDQSAyMDExMB4XDTIzMDcxMzIzNDUzOFoX
+// SIG // DTI0MDkxNTIzNDUzOFowgYgxCzAJBgNVBAYTAlVTMRMw
+// SIG // EQYDVQQIEwpXYXNoaW5ndG9uMRAwDgYDVQQHEwdSZWRt
+// SIG // b25kMR4wHAYDVQQKExVNaWNyb3NvZnQgQ29ycG9yYXRp
+// SIG // b24xMjAwBgNVBAMTKU1pY3Jvc29mdCAzcmQgUGFydHkg
+// SIG // QXBwbGljYXRpb24gQ29tcG9uZW50MIIBIjANBgkqhkiG
+// SIG // 9w0BAQEFAAOCAQ8AMIIBCgKCAQEAznLqoz/10YOqShXj
+// SIG // Gln6TE4BGUwZ3uJsXV3BIhK2/5WfWH8YMWvFoTgOul1P
+// SIG // rrDlA5qOs/1qSNylRSLn+DKx4e+sQC/x8qVPWx+4bwhu
+// SIG // NHaNGEMZsppPjtuc10OmdECsioQzVOyu/TlVohP0DUT1
+// SIG // w8V4+uR06k9qm+XVcw84nrH6xac865B7TswYpBBBZdaG
+// SIG // X5mTst5UnoomlS8JIGqD6WDAyvlmwDRl0C0Omj+b8lg7
+// SIG // ZJ4wz9hfYI6eo/kOu2wgYyLPBaXR9iDehwLxN1/xOGDi
+// SIG // Dq2WNiWFM/aaBYda645BrjOAk9rc3aoX5AdvEDp7oRMi
+// SIG // fgJgdwdNaC/WoTUomQIDAQABo4IBczCCAW8wHwYDVR0l
+// SIG // BBgwFgYKKwYBBAGCN0wRAQYIKwYBBQUHAwMwHQYDVR0O
+// SIG // BBYEFBzcFkQMR/V8OGV/cF0ZRXO9ery8MEUGA1UdEQQ+
+// SIG // MDykOjA4MR4wHAYDVQQLExVNaWNyb3Nv

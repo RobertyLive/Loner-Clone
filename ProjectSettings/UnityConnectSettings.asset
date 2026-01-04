@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PremiereData Version="3">
+	<ExportXMPOptionKey>10</ExportXMPOptionKey>
+	<StandardFilters Version="1">
+		<UseFrameBlending>false</UseFrameBlending>
+		<UsePreview>false</UsePreview>
+		<UseMaximumRenderQuality>false</UseMaximumRenderQuality>
+		<DeinterlaceState>false</DeinterlaceState>
+		<CropType>0</CropType>
+		<CropRect>0,0,0,0</CropRect>
+		<CropState>false</CropState>
+	</StandardFilters>
+	<FolderDisplayPath>System Presets/Broadcast/SD TV</FolderDisplayPath>
+	<DoEmulation>false</DoEmulation>
+	<DoVideo>true</DoVideo>
+	<DoAudio>true</DoAudio>
+	<PresetID>8fb12171-cc61-4f0f-a5ae-23f37397d84c</PresetID>
+	<ExportParamContainer ObjectRef="1"/>
+	<ExporterFileType>1211250228</ExporterFileType>
+	<ExporterClassID>1313424203</ExporterClassID>
+	<ExporterName></ExporterName>
+	<PresetUserComments></PresetUserComments>
+	<PresetComments>($$$/AME/EncoderHost/Presets/8fb12171-cc61-4f0f-a5

@@ -1,0 +1,46 @@
+aram1="-0.139561"
+        stCamera:RadialDistortParam2="0.068639"
+        stCamera:RadialDistortParam3="0.941052">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000345"
+        stCamera:RadialDistortParam1="-0.000947"
+        stCamera:RadialDistortParam2="-0.006036"
+        stCamera:RadialDistortParam3="-0.007818"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.139561"
+        stCamera:RadialDistortParam2="0.068639"
+        stCamera:RadialDistortParam3="0.941052"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="0.999821"
+        stCamera:RadialDistortParam1="0.001204"
+        stCamera:RadialDistortParam2="0.003382"
+        stCamera:RadialDistortParam3="0.03125"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000837"
+        stCamera:VignetteModelParam1="-1.072341"
+        stCamera:VignetteModelParam2="0.510067"
+        stCamera:VignetteModelParam3="-7.198797"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA 50mm F1.4 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA 50mm F1.4 EX DG HSM, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Desc

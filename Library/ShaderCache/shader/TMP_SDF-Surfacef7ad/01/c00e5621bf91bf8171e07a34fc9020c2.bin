@@ -1,0 +1,15 @@
+, group_id: 'rgrp', name: '$$$/Dialogs/Multimedia/RenditionSettings/LoopCount', next_tab: 'lnum' );
+							edit_text( item_id: 'lnum', SpinEdit: true, numeric: true, width: gMySpinWidth, alignment: align_left, next_tab: 'plst' );
+						}
+					}
+				}
+			}
+		}
+
+		cluster( name: '$$$/Dialogs/Multimedia/RenditionSettings/PlayerList', align_children: align_left, alignment: align_fill, dwidth: gPaneWidth )
+		{
+			mclv( item_id: 'plst', alignment: align_fill, height: gListHeight, width: gRowWidth, next_tab: 'add ' );
+			
+			view( alignment: align_right, align_children: align_row )
+			{
+				button( item_id: 'a

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Microsoft.Extensions.Diagnostics.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Extensions.Diagnostics.Metrics.IMetricsBuilder">
+            <summary>
+            Represents a type used to configure the metrics system by registering IMetricsListeners and using rules
+            to determine which metrics are enabled.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Extensions.Diagnostics.Metrics.IMetricsBuilder.Services">
+            <summary>
+            The application <see cref="T:Microsoft.Extensions.DependencyInjection.IServiceCollection"/>. This is used by extension methods to register services.
+            </summary>
+        </member>
+        <member name="T:Microsoft.Extensions.Diagnostics.Metrics.IMetricsListener">
+            <summary>
+            Represents a type used to listen to metrics emitted from the system.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Extensions.Diagnostics.Metrics.IMetricsListener.Name">
+            <summary>
+            The name of the listener. This is used to identify the listener in the rules configuration.
+            </summary>
+        </member>
+        <member name="M:Microsoft.Extensions.Diagnostics.Metrics.IMetricsListener.Initialize(Microsoft.Extensions.Diagnostics.Metrics.IObservableInstrumentsSource)">
+            <summary>
+            Called once by the runtime to provide a <see cref="T:Microsoft.Extensions.Diagnostics.Metrics.IObservableInstrumentsSource"/> used to pull for fresh metrics data.
+            </summary>
+            <param name="source">A <see cref="T:Microsoft.Extensions.Diagnostics.Metrics.IObservableInstrumentsSource"/> that can be called to request current metrics.</param>
+        </member>
+        <member name="M:Microsoft.Extensions.Diagnostics.Metrics.IMetricsListener.InstrumentPublished(System.Diagnostics.Metrics.Instrument,System.Object@)">
+            <summary>
+            Called when a new instrument is created and enabled by a matching rule.
+            </summary>
+            <param name="instrument">The new <see cref="T:System.Diagnostics.Metrics.Instrument"/>.</param>
+            <param name="userState">Listener stat

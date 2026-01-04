@@ -1,0 +1,140 @@
+esents the returned simplification mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.Sphere(Microsoft.DirectX.Direct3D.Device,System.Single,System.Int32,System.Int32)">
+      <summary>Uses a left-handed coordinate system to create a mesh that contains a sphere.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the created sphere mesh.</param>
+      <param name="radius">Radius of the sphere. This value should be greater than or equal to 0.0f.</param>
+      <param name="slices">Number of slices around the main axis.</param>
+      <param name="stacks">Number of stacks along the main axis.</param>
+      <returns>A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the sphere mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.Sphere(Microsoft.DirectX.Direct3D.Device,System.Single,System.Int32,System.Int32,Microsoft.DirectX.GraphicsStream@)">
+      <summary>Uses a left-handed coordinate system to create a mesh that contains a sphere.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the created sphere mesh.</param>
+      <param name="radius">Radius of the sphere. This value should be greater than or equal to 0.0f.</param>
+      <param name="slices">Number of slices around the main axis.</param>
+      <param name="stacks">Number of stacks along the main axis.</param>
+      <param name="adjacency">A <see cref="T:Microsoft.DirectX.GraphicsStream" /> object containing an array of three <see cref="T:System.Int32" /> values per face that specify the three neighbors for each face in the mesh.</param>
+      <returns>A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the sphere mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.Split(Microsoft.DirectX.Direct3D.Mesh,System.Int32[],System.Int32,Microsoft.DirectX.Direct3D.MeshFlags)">
+      <summary>Splits a mesh into multiple meshes that are smaller than the specified size.</summary>
+      <param name="mesh">A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the source mesh.</param>
+      <param name="adjacencyIn">Array of three <see cref="T:System.Int32" /> values per face that specify the three neighbors for each face in the mesh to be simplified.</param>
+      <param name="maxSize">Maximum number of vertices in the resulting mesh.</param>
+      <param name="options">One or more of the Option*<see cref="T:Microsoft.DirectX.Direct3D.MeshFlags" /> for the new meshes.</param>
+      <returns>Array of <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> objects for the new meshes. For a source mesh split into n meshes, the <see cref="M:Microsoft.DirectX.Direct3D.Mesh.Split" /> value is an array of n<see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> objects.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.Split(Microsoft.DirectX.Direct3D.Mesh,System.Int32[],System.Int32,Microsoft.DirectX.Direct3D.MeshFlags,Microsoft.DirectX.GraphicsStream@,Microsoft.DirectX.GraphicsStream@,Microsoft.DirectX.GraphicsStream@)">
+      <summary>Splits a mesh into multiple meshes that are smaller than the specified size.</summary>
+      <param name="mesh">A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the source mesh.</param>
+      <param name="adjacencyIn">Array of three <see cref="T:System.Int32" /> values per face that specify the three neighbors for each face in the mesh to be simplified.</param>
+      <param name="maxSize">Maximum number of vertices in the resulting mesh.</param>
+      <param name="options">One or more of the Option*<see cref="T:Microsoft.DirectX.Direct3D.MeshFlags" /> for the new meshes.</param>
+      <param name="adjacencyArrayOut">A <see cref="T:Microsoft.DirectX.GraphicsStream" /> that contains adjacency arrays (<see cref="T:System.Int32" /> values) for the new meshes.</param>
+      <param name="faceRemapArrayOut">A <see cref="T:Microsoft.DirectX.GraphicsStream" /> that contains an array of face remap arrays (<see cref="T:System.Int32" /> values) for the new meshes.</param>
+      <param name="vertRemapArrayOut">A <see cref="T:Microsoft.DirectX.GraphicsStream" /> that contains an array of vertex remap arrays for the new meshes.</param>
+      <returns>Array of <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> objects for the new meshes. For a source mesh split into n meshes, the <see cref="M:Microsoft.DirectX.Direct3D.Mesh.Split" /> value is an array of n<see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> objects.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.Teapot(Microsoft.DirectX.Direct3D.Device)">
+      <summary>Uses a left-handed coordinate system to create a mesh that contains a teapot.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the created teapot mesh.</param>
+      <returns>A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the teapot mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.Teapot(Microsoft.DirectX.Direct3D.Device,Microsoft.DirectX.GraphicsStream@)">
+      <summary>Uses a left-handed coordinate system to create a mesh that contains a teapot.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the created teapot mesh.</param>
+      <param name="adjacency">A <see cref="T:Microsoft.DirectX.GraphicsStream" /> object containing an array filled with three <see cref="T:System.Int32" /> values per face that specify the three neighbors for each face in the mesh.</param>
+      <returns>A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the teapot mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.TessellateNPatches(Microsoft.DirectX.Direct3D.Mesh,Microsoft.DirectX.GraphicsStream,System.Single,System.Boolean)">
+      <summary>Tessellates the given mesh using the N-patchtessellation scheme.</summary>
+      <param name="mesh">A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the mesh to tessellate.</param>
+      <param name="adjacencyIn">A <see cref="T:Microsoft.DirectX.GraphicsStream" /> containing three <see cref="T:System.Int32" /> values per face that specify the three neighbors for each face in the source mesh.</param>
+      <param name="numSegs">Number of segments per edge to tessellate.</param>
+      <param name="quadraticInterpNormals">Set to true if quadratic interpolation for normals is used. Set to false if linear interpolation is used.</param>
+      <returns>A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the returned tessellated mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.TessellateNPatches(Microsoft.DirectX.Direct3D.Mesh,Microsoft.DirectX.GraphicsStream,System.Single,System.Boolean,Microsoft.DirectX.GraphicsStream@)">
+      <summary>Tessellates the given mesh using the N-patchtessellation scheme.</summary>
+      <param name="mesh">A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the mesh to tessellate.</param>
+      <param name="adjacencyIn">A <see cref="T:Microsoft.DirectX.GraphicsStream" /> containing three <see cref="T:System.Int32" /> values per face that specify the three neighbors for each face in the source mesh.</param>
+      <param name="numSegs">Number of segments per edge to tessellate.</param>
+      <param name="quadraticInterpNormals">Set to true if quadratic interpolation for normals is used. Set to false if linear interpolation is used.</param>
+      <param name="adjacencyOut">A <see cref="T:Microsoft.DirectX.GraphicsStream" /> containing three <see cref="T:System.Int32" /> values per face that specify the three neighbors for each face in the output mesh.</param>
+      <returns>A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the returned tessellated mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.TessellateNPatches(Microsoft.DirectX.Direct3D.Mesh,System.Int32[],System.Single,System.Boolean)">
+      <summary>Tessellates the given mesh using the N-patchtessellation scheme.</summary>
+      <param name="mesh">A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the mesh to tessellate.</param>
+      <param name="adjacencyIn">Array of three <see cref="T:System.Int32" /> values per face that specify the three neighbors for each face in the source mesh.</param>
+      <param name="numSegs">Number of segments per edge to tessellate.</param>
+      <param name="quadraticInterpNormals">Set to true if quadratic interpolation for normals is used. Set to false if linear interpolation is used.</param>
+      <returns>A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the returned tessellated mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.TessellateNPatches(Microsoft.DirectX.Direct3D.Mesh,System.Int32[],System.Single,System.Boolean,Microsoft.DirectX.GraphicsStream@)">
+      <summary>Tessellates the given mesh using the N-patchtessellation scheme.</summary>
+      <param name="mesh">A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the mesh to tessellate.</param>
+      <param name="adjacencyIn">Array of three <see cref="T:System.Int32" /> values per face that specify the three neighbors for each face in the source mesh.</param>
+      <param name="numSegs">Number of segments per edge to tessellate.</param>
+      <param name="quadraticInterpNormals">Set to true if quadratic interpolation for normals is used. Set to false if linear interpolation is used.</param>
+      <param name="adjacencyOut">A <see cref="T:Microsoft.DirectX.GraphicsStream" /> containing three <see cref="T:System.Int32" /> values per face that specify the three neighbors for each face in the output mesh.</param>
+      <returns>A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the returned tessellated mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.TextFromFont(Microsoft.DirectX.Direct3D.Device,System.Drawing.Font,System.String,System.Single,System.Single)">
+      <summary>Creates a mesh that contains the specified text, using a .NET font object.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the text mesh.</param>
+      <param name="font">A <see cref="T:System.Drawing.Font" /> object that creates the mesh.</param>
+      <param name="text">String that specifies the text to generate.</param>
+      <param name="deviation">Maximum chordal deviation from  font outlines.</param>
+      <param name="extrusion">Amount to extrude text in the negative z-direction.</param>
+      <returns>A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the cylinder mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.TextFromFont(Microsoft.DirectX.Direct3D.Device,System.Drawing.Font,System.String,System.Single,System.Single,Microsoft.DirectX.Direct3D.GlyphMetricsFloat[]@)">
+      <summary>Creates a mesh that contains the specified text, using a .NET font object.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the text mesh.</param>
+      <param name="font">A <see cref="T:System.Drawing.Font" /> object that creates the mesh.</param>
+      <param name="text">String that specifies the text to generate.</param>
+      <param name="deviation">Maximum chordal deviation from  font outlines.</param>
+      <param name="extrusion">Amount to extrude text in the negative z-direction.</param>
+      <param name="glyphMetrics">Array of <see cref="T:Microsoft.DirectX.Direct3D.GlyphMetricsFloat" /> structures that contain the glyph metric data. See Remarks. If glyph sizes are not a concern, this parameter can be omitted.</param>
+      <returns>A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the cylinder mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.TextFromFont(Microsoft.DirectX.Direct3D.Device,System.Drawing.Font,System.String,System.Single,System.Single,Microsoft.DirectX.GraphicsStream@)">
+      <summary>Creates a mesh that contains the specified text, using a .NET font object.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the text mesh.</param>
+      <param name="font">A <see cref="T:System.Drawing.Font" /> object that creates the mesh.</param>
+      <param name="text">String that specifies the text to generate.</param>
+      <param name="deviation">Maximum chordal deviation from  font outlines.</param>
+      <param name="extrusion">Amount to extrude text in the negative z-direction.</param>
+      <param name="adjacency">A <see cref="T:Microsoft.DirectX.GraphicsStream" /> object containing an array of three <see cref="T:System.Int32" /> values per face that specify the three neighbors for each face in the mesh.</param>
+      <returns>A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the cylinder mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.TextFromFont(Microsoft.DirectX.Direct3D.Device,System.Drawing.Font,System.String,System.Single,System.Single,Microsoft.DirectX.GraphicsStream@,Microsoft.DirectX.Direct3D.GlyphMetricsFloat[]@)">
+      <summary>Creates a mesh that contains the specified text, using a .NET font object.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the text mesh.</param>
+      <param name="font">A <see cref="T:System.Drawing.Font" /> object that creates the mesh.</param>
+      <param name="text">String that specifies the text to generate.</param>
+      <param name="deviation">Maximum chordal deviation from  font outlines.</param>
+      <param name="extrusion">Amount to extrude text in the negative z-direction.</param>
+      <param name="adjacency">A <see cref="T:Microsoft.DirectX.GraphicsStream" /> object containing an array of three <see cref="T:System.Int32" /> values per face that specify the three neighbors for each face in the mesh.</param>
+      <param name="glyphMetrics">Array of <see cref="T:Microsoft.DirectX.Direct3D.GlyphMetricsFloat" /> structures that contain the glyph metric data. See Remarks. If glyph sizes are not a concern, this parameter can be omitted.</param>
+      <returns>A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the cylinder mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.Torus(Microsoft.DirectX.Direct3D.Device,System.Single,System.Single,System.Int32,System.Int32)">
+      <summary>Uses a left-handed coordinate system to create a mesh that contains a torus.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the text mesh.</param>
+      <param name="innerRadius">Inner radius of the torus; should be greater than or equal to 0.0f.</param>
+      <param name="outerRadius">Outer radius of the torus; should be greater than or equal to 0.0f.</param>
+      <param name="sides">Number of sides in a cross section; must be greater than or equal to 3.</param>
+      <param name="rings">Number of rings in the torus; must be greater than or equal to 3.</param>
+      <returns>A <see cref="T:Microsoft.DirectX.Direct3D.Mesh" /> object that represents the torus mesh.</returns>
+    </member>
+    <member name="M:Microsoft.DirectX.Direct3D.Mesh.Torus(Microsoft.DirectX.Direct3D.Device,System.Single,System.Single,System.Int32,System.Int32,Microsoft.DirectX.GraphicsStream@)">
+      <summary>Uses a left-handed coordinate system to create a mesh that contains a torus.</summary>
+      <param name="device">A <see cref="T:Microsoft.DirectX.Direct3D.Device" /> object that represents the device associated with the text mesh.</param>
+      <param name="innerRadius">Inner radius of the torus; should be greater than or equal to 0.0f.</param>
+      <param name="outerRadius">Outer radius of the torus; should be greater than or equal to 0.0f.</param>
+      <param name="sides">Number of sides in a cross section; must be greater than or equal to 3.</param>
+      <param name="rings">Number of rings in the torus; must be greater than or equal to 3.</param>
+      <param name="adjacency">A <see cref="T:Microsoft.DirectX.GraphicsStream" /> object contain

@@ -1,0 +1,21 @@
+name="count" /> が <paramref name="bytes" /> 内の有効な範囲を示していません。</exception>
+      <exception cref="T:System.Text.DecoderFallbackException">フォールバックが発生しました (詳細については、「.NET Framework における文字エンコーディング」を参照してください)。および<see cref="P:System.Text.Decoder.Fallback" /> が <see cref="T:System.Text.DecoderExceptionFallback" /> に設定されます。</exception>
+      <filterpriority>2</filterpriority>
+    </member>
+    <member name="M:System.Text.Decoder.GetChars(System.Byte[],System.Int32,System.Int32,System.Char[],System.Int32)">
+      <summary>派生クラスでオーバーライドされた場合、指定したバイト配列に格納されているバイト シーケンス、および内部バッファー内のバイトを、指定した文字配列にデコードします。</summary>
+      <returns>
+        <paramref name="chars" /> に書き込まれた実際の文字数。</returns>
+      <param name="bytes">デコード対象のバイト シーケンスが格納されたバイト配列。</param>
+      <param name="byteIndex">デコードする最初のバイトのインデックス。</param>
+      <param name="byteCount">デコードするバイト数。</param>
+      <param name="chars">結果の文字のセットを格納する文字配列。</param>
+      <param name="charIndex">結果の文字のセットを書き込む開始位置のインデックス。</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="bytes" /> が null  (Nothing) です。または<paramref name="chars" /> が null  (Nothing) です。</exception>
+      <exception cref="T:System.ArgumentOutOfRangeException">
+        <paramref name="byteIndex" />、<paramref name="byteCount" />、または <paramref name="charIndex" /> が 0 未満です。または<paramref name="byteindex" /> および <paramref name="byteCount" /> が <paramref name="bytes" /> 内の有効な範囲を示していません。または<paramref name="charIndex" /> が <paramref name="chars" /> の有効なインデックスではありません。</exception>
+      <exception cref="T:System.ArgumentException">
+        <paramref name="chars" /> には、<paramref name="charIndex" /> から配列の末尾までに十分なサイズがなく、結果の文字を格納できません。</exception>
+      <exception cref="T:System.Text.DecoderFallbackException">フォールバックが発生しました (詳細については、「.NET Framework における文字エンコーディング」を参照してください)。および<see cref="P:System.Text.Decoder.Fallback" /> が <see cref="T:System.Text.DecoderExceptionFallback" /> に設定されます。</exception>
+      <filterpriority>2</filterpr

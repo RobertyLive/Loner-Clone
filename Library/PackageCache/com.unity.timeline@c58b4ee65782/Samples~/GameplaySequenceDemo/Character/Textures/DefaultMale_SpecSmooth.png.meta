@@ -1,0 +1,59 @@
+ignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003611"
+         stCamera:VignetteModelParam1="-1.354742"
+         stCamera:VignetteModelParam2="469.864685"
+         stCamera:VignetteModelParam3="-158783.09375">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.079567, 0.981100</rdf:li>
+          <rdf:li>0.094940, 0.901100</rdf:li>
+          <rdf:li>0.110832, 0.780000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="187"
+       stCamera:Lens="70.0-200.0 mm f/2.8"
+       stCamera:LensInfo="700/10 2000/10 28/10 28/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 70-200mm F2.8 DG OS HSM S018"
+       stCamera:ProfileName="Adobe (SIGMA 70-200mm F2.8 DG OS HSM S018, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="200"
+       stCamera:FocusDistance="1.7"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="2.067677"
+        stCamera:RadialDistortParam2="4.267929"
+        stCamera:RadialDistortParam3="9.750738">
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004053"
+         stCamera:VignetteModelParam1="-0.534729"
+         stCamera:VignetteModelParam2="176.232208"
+         stCamera:VignetteModelParam3="-141822.5625">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.078442, 0.982600</rdf:li>
+          <rdf:li>0.092016, 0.915200</rdf:li>
+          <rdf:li>0.110830, 0.777000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:Vignette

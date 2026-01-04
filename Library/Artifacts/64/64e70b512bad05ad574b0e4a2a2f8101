@@ -1,0 +1,1677 @@
+ernateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.929291"
+        stCamera:FocalLengthY="1.929291"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.208995"
+        stCamera:RadialDistortParam2="1.655263"
+        stCamera:RadialDistortParam3="-8.540378">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.929291"
+        stCamera:FocalLengthY="1.929291"
+        stCamera:VignetteModelParam1="-1.790289"
+        stCamera:VignetteModelParam2="-6.457358"
+        stCamera:VignetteModelParam3="43.368465"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="2.72"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.929291"
+        stCamera:FocalLengthY="1.929291"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.208995"
+        stCamera:RadialDistortParam2="1.655263"
+        stCamera:RadialDistortParam3="-8.540378">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.929291"
+        stCamera:FocalLengthY="1.929291"
+        stCamera:VignetteModelParam1="-1.797533"
+        stCamera:VignetteModelParam2="-6.205039"
+        stCamera:VignetteModelParam3="42.609451"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="2.72"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.929291"
+        stCamera:FocalLengthY="1.929291"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.208995"
+        stCamera:RadialDistortParam2="1.655263"
+        stCamera:RadialDistortParam3="-8.540378">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.929291"
+        stCamera:FocalLengthY="1.929291"
+        stCamera:VignetteModelParam1="-1.939719"
+        stCamera:VignetteModelParam2="-3.537803"
+        stCamera:VignetteModelParam3="27.849422"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.958782"
+        stCamera:FocalLengthY="1.958782"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.221233"
+        stCamera:RadialDistortParam2="1.787776"
+        stCamera:RadialDistortParam3="-9.173893">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.958782"
+        stCamera:FocalLengthY="1.958782"
+        stCamera:VignetteModelParam1="-5.121902"
+        stCamera:VignetteModelParam2="31.719844"
+        stCamera:VignetteModelParam3="-349.353951"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.958782"
+        stCamera:FocalLengthY="1.958782"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.221233"
+        stCamera:RadialDistortParam2="1.787776"
+        stCamera:RadialDistortParam3="-9.173893">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.958782"
+        stCamera:FocalLengthY="1.958782"
+        stCamera:VignetteModelParam1="-2.410812"
+        stCamera:VignetteModelParam2="22.69145"
+        stCamera:VignetteModelParam3="-294.245592"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.958782"
+        stCamera:FocalLengthY="1.958782"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.221233"
+        stCamera:RadialDistortParam2="1.787776"
+        stCamera:RadialDistortParam3="-9.173893">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.958782"
+        stCamera:FocalLengthY="1.958782"
+        stCamera:VignetteModelParam1="-1.856304"
+        stCamera:VignetteModelParam2="-6.887954"
+        stCamera:VignetteModelParam3="48.928034"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.958782"
+        stCamera:FocalLengthY="1.958782"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.221233"
+        stCamera:RadialDistortParam2="1.787776"
+        stCamera:RadialDistortParam3="-9.173893">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.958782"
+        stCamera:FocalLengthY="1.958782"
+        stCamera:VignetteModelParam1="-1.842541"
+        stCamera:VignetteModelParam2="-7.032822"
+        stCamera:VignetteModelParam3="50.360078"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="1.958782"
+        stCamera:FocalLengthY="1.958782"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.221233"
+        stCamera:RadialDistortParam2="1.787776"
+        stCamera:RadialDistortParam3="-9.173893">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="1.958782"
+        stCamera:FocalLengthY="1.958782"
+        stCamera:VignetteModelParam1="-1.95807"
+        stCamera:VignetteModelParam2="-3.709701"
+        stCamera:VignetteModelParam3="28.900633"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.43"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.27418"
+        stCamera:FocalLengthY="2.27418"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.162826"
+        stCamera:RadialDistortParam2="-0.788639"
+        stCamera:RadialDistortParam3="8.094459">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.27418"
+        stCamera:FocalLengthY="2.27418"
+        stCamera:VignetteModelParam1="-10.971021"
+        stCamera:VignetteModelParam2="164.441141"
+        stCamera:VignetteModelParam3="-1347.449788"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.43"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.27418"
+        stCamera:FocalLengthY="2.27418"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.162826"
+        stCamera:RadialDistortParam2="-0.788639"
+        stCamera:RadialDistortParam3="8.094459">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.27418"
+        stCamera:FocalLengthY="2.27418"
+        stCamera:VignetteModelParam1="-1.451163"
+        stCamera:VignetteModelParam2="-41.029948"
+        stCamera:VignetteModelParam3="184.728764"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.43"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.27418"
+        stCamera:FocalLengthY="2.27418"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.162826"
+        stCamera:RadialDistortParam2="-0.788639"
+        stCamera:RadialDistortParam3="8.094459">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.27418"
+        stCamera:FocalLengthY="2.27418"
+        stCamera:VignetteModelParam1="-2.049079"
+        stCamera:VignetteModelParam2="-11.010193"
+        stCamera:VignetteModelParam3="111.389465"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.43"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.27418"
+        stCamera:FocalLengthY="2.27418"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.162826"
+        stCamera:RadialDistortParam2="-0.788639"
+        stCamera:RadialDistortParam3="8.094459">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.27418"
+        stCamera:FocalLengthY="2.27418"
+        stCamera:VignetteModelParam1="-2.08047"
+        stCamera:VignetteModelParam2="-9.18565"
+        stCamera:VignetteModelParam3="93.479503"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.43"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.27418"
+        stCamera:FocalLengthY="2.27418"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.162826"
+        stCamera:RadialDistortParam2="-0.788639"
+        stCamera:RadialDistortParam3="8.094459">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.27418"
+        stCamera:FocalLengthY="2.27418"
+        stCamera:VignetteModelParam1="-2.217783"
+        stCamera:VignetteModelParam2="-4.998899"
+        stCamera:VignetteModelParam3="60.368686"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.67"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.412167"
+        stCamera:FocalLengthY="2.412167"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.259566"
+        stCamera:RadialDistortParam2="1.123884"
+        stCamera:RadialDistortParam3="-11.292785">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.412167"
+        stCamera:FocalLengthY="2.412167"
+        stCamera:VignetteModelParam1="-12.584683"
+        stCamera:VignetteModelParam2="223.240729"
+        stCamera:VignetteModelParam3="-2275.492088"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.67"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.412167"
+        stCamera:FocalLengthY="2.412167"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.259566"
+        stCamera:RadialDistortParam2="1.123884"
+        stCamera:RadialDistortParam3="-11.292785">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.412167"
+        stCamera:FocalLengthY="2.412167"
+        stCamera:VignetteModelParam1="-1.99531"
+        stCamera:VignetteModelParam2="-30.140886"
+        stCamera:VignetteModelParam3="-58.996151"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.67"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.412167"
+        stCamera:FocalLengthY="2.412167"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.259566"
+        stCamera:RadialDistortParam2="1.123884"
+        stCamera:RadialDistortParam3="-11.292785">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.412167"
+        stCamera:FocalLengthY="2.412167"
+        stCamera:VignetteModelParam1="-2.29442"
+        stCamera:VignetteModelParam2="-14.978496"
+        stCamera:VignetteModelParam3="168.503771"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.67"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.412167"
+        stCamera:FocalLengthY="2.412167"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.259566"
+        stCamera:RadialDistortParam2="1.123884"
+        stCamera:RadialDistortParam3="-11.292785">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.412167"
+        stCamera:FocalLengthY="2.412167"
+        stCamera:VignetteModelParam1="-2.335484"
+        stCamera:VignetteModelParam2="-12.571279"
+        stCamera:VignetteModelParam3="140.385758"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.67"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.412167"
+        stCamera:FocalLengthY="2.412167"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.259566"
+        stCamera:RadialDistortParam2="1.123884"
+        stCamera:RadialDistortParam3="-11.292785">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.412167"
+        stCamera:FocalLengthY="2.412167"
+        stCamera:VignetteModelParam1="-2.549002"
+        stCamera:VignetteModelParam2="-4.856315"
+        stCamera:VignetteModelParam3="65.758207"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1.36"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.641602"
+        stCamera:FocalLengthY="2.641602"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.479753"
+        stCamera:RadialDistortParam2="-1.170433"
+        stCamera:RadialDistortParam3="41.260136">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.641602"
+        stCamera:FocalLengthY="2.641602"
+        stCamera:VignetteModelParam1="-15.566445"
+        stCamera:VignetteModelParam2="338.450796"
+        stCamera:VignetteModelParam3="-4384.772982"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1.36"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.641602"
+        stCamera:FocalLengthY="2.641602"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.479753"
+        stCamera:RadialDistortParam2="-1.170433"
+        stCamera:RadialDistortParam3="41.260136">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.641602"
+        stCamera:FocalLengthY="2.641602"
+        stCamera:VignetteModelParam1="-2.920444"
+        stCamera:VignetteModelParam2="-1.207792"
+        stCamera:VignetteModelParam3="-921.860141"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1.36"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.641602"
+        stCamera:FocalLengthY="2.641602"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.479753"
+        stCamera:RadialDistortParam2="-1.170433"
+        stCamera:RadialDistortParam3="41.260136">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.641602"
+        stCamera:FocalLengthY="2.641602"
+        stCamera:VignetteModelParam1="-2.883188"
+        stCamera:VignetteModelParam2="-17.249601"
+        stCamera:VignetteModelParam3="242.237925"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1.36"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.641602"
+        stCamera:FocalLengthY="2.641602"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.479753"
+        stCamera:RadialDistortParam2="-1.170433"
+        stCamera:RadialDistortParam3="41.260136">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.641602"
+        stCamera:FocalLengthY="2.641602"
+        stCamera:VignetteModelParam1="-2.76824"
+        stCamera:VignetteModelParam2="-20.506022"
+        stCamera:VignetteModelParam3="273.754267"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1.36"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.641602"
+        stCamera:FocalLengthY="2.641602"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.479753"
+        stCamera:RadialDistortParam2="-1.170433"
+        stCamera:RadialDistortParam3="41.260136">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.641602"
+        stCamera:FocalLengthY="2.641602"
+        stCamera:VignetteModelParam1="-2.992566"
+        stCamera:VignetteModelParam2="-13.339931"
+        stCamera:VignetteModelParam3="222.384007"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="2.72"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.745995"
+        stCamera:FocalLengthY="2.745995"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.637084"
+        stCamera:RadialDistortParam2="-1.278591"
+        stCamera:RadialDistortParam3="23.158301">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.745995"
+        stCamera:FocalLengthY="2.745995"
+        stCamera:VignetteModelParam1="-17.507229"
+        stCamera:VignetteModelParam2="413.14028"
+        stCamera:VignetteModelParam3="-5770.490693"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="2.72"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.745995"
+        stCamera:FocalLengthY="2.745995"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.637084"
+        stCamera:RadialDistortParam2="-1.278591"
+        stCamera:RadialDistortParam3="23.158301">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.745995"
+        stCamera:FocalLengthY="2.745995"
+        stCamera:VignetteModelParam1="-3.388692"
+        stCamera:VignetteModelParam2="20.806372"
+        stCamera:VignetteModelParam3="-1657.494046"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="2.72"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.745995"
+        stCamera:FocalLengthY="2.745995"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.637084"
+        stCamera:RadialDistortParam2="-1.278591"
+        stCamera:RadialDistortParam3="23.158301">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.745995"
+        stCamera:FocalLengthY="2.745995"
+        stCamera:VignetteModelParam1="-3.215109"
+        stCamera:VignetteModelParam2="-18.392739"
+        stCamera:VignetteModelParam3="291.733718"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="2.72"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.745995"
+        stCamera:FocalLengthY="2.745995"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.637084"
+        stCamera:RadialDistortParam2="-1.278591"
+        stCamera:RadialDistortParam3="23.158301">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.745995"
+        stCamera:FocalLengthY="2.745995"
+        stCamera:VignetteModelParam1="-3.040354"
+        stCamera:VignetteModelParam2="-24.012472"
+        stCamera:VignetteModelParam3="354.999614"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="2.72"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.745995"
+        stCamera:FocalLengthY="2.745995"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.637084"
+        stCamera:RadialDistortParam2="-1.278591"
+        stCamera:RadialDistortParam3="23.158301">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.745995"
+        stCamera:FocalLengthY="2.745995"
+        stCamera:VignetteModelParam1="-3.252746"
+        stCamera:VignetteModelParam2="-15.001138"
+        stCamera:VignetteModelParam3="259.82913"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.786334"
+        stCamera:FocalLengthY="2.786334"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.679349"
+        stCamera:RadialDistortParam2="-1.311966"
+        stCamera:RadialDistortParam3="18.292965">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.786334"
+        stCamera:FocalLengthY="2.786334"
+        stCamera:VignetteModelParam1="-18.830142"
+        stCamera:VignetteModelParam2="455.242734"
+        stCamera:VignetteModelParam3="-6465.153387"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.786334"
+        stCamera:FocalLengthY="2.786334"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.679349"
+        stCamera:RadialDistortParam2="-1.311966"
+        stCamera:RadialDistortParam3="18.292965">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.786334"
+        stCamera:FocalLengthY="2.786334"
+        stCamera:VignetteModelParam1="-3.805975"
+        stCamera:VignetteModelParam2="52.397825"
+        stCamera:VignetteModelParam3="-2534.758416"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.786334"
+        stCamera:FocalLengthY="2.786334"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.679349"
+        stCamera:RadialDistortParam2="-1.311966"
+        stCamera:RadialDistortParam3="18.292965">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.786334"
+        stCamera:FocalLengthY="2.786334"
+        stCamera:VignetteModelParam1="-3.375159"
+        stCamera:VignetteModelParam2="-17.080455"
+        stCamera:VignetteModelParam3="276.195951"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.786334"
+        stCamera:FocalLengthY="2.786334"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.679349"
+        stCamera:RadialDistortParam2="-1.311966"
+        stCamera:RadialDistortParam3="18.292965">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.786334"
+        stCamera:FocalLengthY="2.786334"
+        stCamera:VignetteModelParam1="-3.197747"
+        stCamera:VignetteModelParam2="-23.938815"
+        stCamera:VignetteModelParam3="380.977529"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe Systems, Inc."
+       stCamera:Make="Canon"
+       stCamera:Model="Canon EOS-1Ds Mark III"
+       stCamera:UniqueCameraModel="Canon EOS-1Ds Mark III"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="237"
+       stCamera:Lens="EF24-105mm f/4L IS USM"
+       stCamera:CameraPrettyName="Canon EOS-1Ds Mark III"
+       stCamera:LensPrettyName="Canon EF 24-105mm f/4 L IS USM"
+       stCamera:ProfileName="Adobe (Canon EF 24-105mm f/4 L IS USM)"
+       stCamera:SensorFormatFactor="0.995542"
+       stCamera:ImageWidth="5634"
+       stCamera:ImageLength="3753"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="8.918863">
+      <stCamera:AlternateLensIDs>
+       <rdf:Seq>
+        <rdf:li>61421</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensIDs>
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>EF24-105/4L IS USM</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:FocalLengthX="2.786334"
+        stCamera:FocalLengthY="2.786334"
+        stCamera:ImageXCenter="0.5"
+        stCamera:ImageYCenter="0.499867"
+        stCamera:RadialDistortParam1="0.679349"
+        stCamera:RadialDistortParam2="-1.311966"
+        stCamera:RadialDistortParam3="18.292965">
+       <stCamera:VignetteModel
+        stCamera:FocalLengthX="2.786334"
+        stCamera:FocalLengthY="2.786334"
+        stCamera:VignetteModelParam1="-3.354799"
+        stCamera:VignetteModelParam2="-17.017164"
+        stCamera:VignetteModelParam3="292.71865"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                MZê       ˇˇ  ∏       @                                   Ä   ∫ ¥	Õ!∏LÕ!This program cannot be run in DOS mode.
+$       PE  L ¸®Iæ        ‡ " 0  ,         ¶J       `                           †     }≈   @Ö                           TJ  O    `  $           6  8(   Ä     8J                                                               H           .text   ¨*       ,                    `.rsrc   $   `      .              @  @.reloc      Ä      4              @  B                àJ      H     P   ¯  	       H&  p#  ∏I  Ä                                   BSJB         v4.0.30319     l   <  #~  ®  ê  #Strings    8     #US <     #GUID   L  ¨  #Blob           	   ˙3      
+      	   	                    á { Ù {  h }   € P ¿ P D P a P ß P - P           	 b  b  b
+ ) b 1 b 9 b A b I b Q b .  ¿ .  … .  Ë . # Ò . + . 3 @. ; V. C t. K tÄ             õå          
+            &  ¿     ’     <Module> System.Runtime DebuggableAttribute AssemblyTitleAttribute AssemblyFileVersionAttribute AssemblyInformationalVersionAttribute CompilationRelaxationsAttribute AssemblyProductAttribute AssemblyCopyrightAttribute AssemblyCompanyAttribute RuntimeCompatibilityAttribute Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll System.Reflection .ctor System.Diagnostics System.Runtime.CompilerServices Microsoft.VisualStudio.TestPlatform.ObjectModel.resources Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.Resources.it.resources Microsoft.VisualStudio.TestPlatform.ObjectModel.Resources.CommonResources.it.resources DebuggingModes it      ¿ÂyäCµ£†∫zï∂      ∞?_’
+:Ä† $  Ä  î      $  RSA1     —˙WƒÆŸ£.Ñ™Æ˝ÈË˝jÏèá˚vlÉLôí≤;ÁöŸ’‹¡›ö“6!êr<˘Äïƒ·wè∆wO)Ë2íÍÏ‰Ë!¿•ÔËÒd\Lì¡´ô(]b,™e,˙÷=t]o-ÂÒ~^Øƒñ=&äCe m¿ì4MZ“ì        TWrapNonExceptionThrows       Microsoft Corporation  3 .¬© Microsoft Corporation. All rights reserved.   17.1200.24.50801   17.12.0-release-24508-01  4 /Microsoft.VisualStudio.TestPlatform.ObjectModel     π  Œ Ôæ   ë   lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet          PADPADPÊx¢íUÛœc§8 l/hõj+   ¿   è   Z       ≈  &C a n n o t B e N u l l O r E m p t y     *D i s p l a y C h o s e n S e t t i n g s ,   0M a l f o r m e d R u n S e t t i n g s F i l e J  ,N o M a t c h i n g S o u r c e s F o u n d ï  $S o u r c e I n c o m p a t i b l e »  *Il parametro non pu√≤ essere vuoto o Null.õL'esecuzione dei test ha rilevato DLL compilate per versioni diverse del framework e della piattaforma. Le DLL seguenti non corrispondono alle impostazioni correnti, ovvero al framework {0} e alla piattaforma {1}.{2}Per altri dettagli sulla gestione di queste impostazioni, vedi {3}.IIl file di impostazioni specificato non √® conforme al formato richiesto.∞Nessuno dei contenitori di test specificati corrisponde alle impostazioni di architettura della piattaforma e .NET Framework per l'esecuzione dei test. Piattaforma: {0} .NET Framework: {1}. Per altre informazioni sulla gestione di tali impostazioni, visitare http://go.microsoft.com/fwlink/?LinkID=330428*{0} userebbe Framework {1} e platform {2}.   ™  Œ Ôæ   ë   lSystem.Resources.ResourceReader, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet   D       PADPADP∂±ZÅË≠Mä∫îé∫ƒ/èÈ ùîﬂGó‹Üêöa⁄ªö+ÌƒúV£û@Îêû8Eü;z‰°Aö¸£8†“ØÃÔ∞4
+Ò∞ªÏ¿ø°≥√/◊é—W∑‹z}∫‹~9¯ﬂ‘åËoMìÒÜsÚÜÚªı+ºy¯ãå˛}ŒsˇÅÎˇ–>Ò Ë≠õÌà[ÁÂÇ‚ëï4rÚÖRü!¿ ±#¨Äï&#<*N÷*Ii,:	Ë,E¡§-ÎΩ+0Í\5{@∞5ã+Aù"KEË5I´HëJù„,Pk*™WÄzìZsq¸\ˆI‡_SF@aÈ“\d~ó≥n°µiusg„uCUw±7Ôxçﬁ|ygÌ  ∞    /   ü  »  ä    ä  $  ⁄  _  ·  ”  [    È  ˚  Ê
+  ô	  h   M  
+  e  X    F  ¡  *  à  	  ú  h  ﬁ	  ì  c    »  
+  ¸  d  ≥      E    …  è  p
+  <    ì   "  A  Œ  9  £
+      R	  «  }  x  q  “  *  ™  Â  ¢  Ø  –  *B a s i c T e s t R e s u l t F o r m a t     4C o m m o n _ C a n n o t B e N u l l O r E m p t y    &C o m m o n _ F i l e N o t E x i s t :   2C o m m o n _ O b j e c t M u s t B e O f T y p e S   2C o m m o n _ T e s t O u t c o m e A b o r t e d w   6C o m m o n _ T e s t O u t c o m e C o m p l e t e d É   <C o m m o n _ T e s t O u t c o m e D i s c o n n e c t e d è   .C o m m o n _ T e s t O u t c o m e E r r o r ú   0C o m m o n _ T e s t O u t c o m e F a i l e d §   8C o m m o n _ T e s t O u t c o m e I n P r o g r e s s ≤   <C o m m o n _ T e s t O u t c o m e I n c o n c l u s i v e º   :C o m m o n _ T e s t O u t c o m e N o t E x e c u t e d Õ   :C o m m o n _ T e s t O u t c o m e N o t R u n n a b l e €   0C o m m o n _ T e s t O u t c o m e P a s s e d Î   JC o m m o n _ T e s t O u t c o m e P a s s e d B u t R u n A b o r t e d ı   2C o m m o n _ T e s t O u t c o m e P e n d i n g   2C o m m o n _ T e s t O u t c o m e T i m e o u t #  2C o m m o n _ T e s t O u t c o m e W a r n i n g ,  *C o n v e r t e r N o t S u p p o r t e d 4  &C o u l d N o t F i n d X m l N o d e v  FD a t a C o l l e c t i o n S i n k _ C a n N o t R e a d S t r e a m ö  XD a t a C o l l e c t i o n S i n k _ I n v a l i d F i l e N a m e C h a r a c t e r s /  ND a t a C o l l e c t i o n S i n k _ R e s e r v e d F i l e n a m e U s e d Ä  jE x c e p t i o n _ R e g i s t e r e d T e s t P r o p e r t y H a s D i f f e r e n t V a l u e T y p e Æ  0F a i l e d T o C r e a t e D i a S e s s i o n #  "F a i l e d T o L o a d M s D i a i  BI n v a l i d D a t a C o l l e c t o r U r i I n S e t t i n g s ê  4I n v a l i d R u n S e t t i n g s R o o t N o d e ◊  :I n v a l i d S e t t i n g s I n c o r r e c t V a l u e 9  6I n v a l i d S e t t i n g s X m l A t t r i b u t e ú  2I n v a l i d S e t t i n g s X m l E l e m e n t Ì  (I n v a l i d U r i I n S e t t i n g s <  <M i s s i n g D a t a C o l l e c t o r A t t r i b u t e s l  .M i s s i n g L o g g e r A t t r i b u t e s   @N o T e s t C a s e F i l t e r F o r S p e c i f i c T e s t s á  DN o t i f i c a t i o n F r e q u e n c y I s N o t P o s i t i v e   2N o t i f i c a t i o n T i m e o u t I s Z e r o Q  N u l l S t r i n g ë  4S o l u t i o n D i r e c t o r y N o t E x i s t s ô  :T e s t C a s e F i l t e r E s c a p e E x c e p t i o n O	  BT e s t C a s e P r o p e r t y C o l u m n N u m b e r L a b e l ú	  @T e s t C a s e P r o p e r t y E x e c u t o r U r i L a b e l Ø	  :T e s t C a s e P r o p e r t y F i l e P a t h L a b e l Ω	  NT e s t C a s e P r o p e r t y F u l l y Q u a l i f i e d N a m e L a b e l Ã	  .T e s t C a s e P r o p e r t y I d L a b e l €	  >T e s t C a s e P r o p e r t y L i n e N u m b e r L a b e l ﬂ	  2T e s t C a s e P r o p e r t y N a m e L a b e l Ô	  6T e s t C a s e P r o p e r t y S o u r c e L a b e l ı	  6T e s t C a s e P r o p e r t y T r a i t s L a b e l ˛	  0T e s t F a i l u r e M e s s a g e F o r m a t 
+  6T e s t F a i l u r e S t a c k T r a c e F o r m a t 
+  "T e s t O u t c o m e F a i l e d 5
+  T e s t O u t c o m e N o n e C
+  &T e s t O u t c o m e N o t F o u n d L
+  "T e s t O u t c o m e P a s s e d Y
+  $T e s t O u t c o m e S k i p p e d c
+  .T e s t R e s u l t M e s s a g e F o r m a t m
+  FT e s t R e s u l t P r o p e r t y C o m p u t e r N a m e L a b e l z
+  DT e s t R e s u l t P r o p e r t y D i s p l a y N a m e L a b e l â
+  >T e s t R e s u l t P r o p e r t y D u r a t i o n L a b e l ß
+  <T e s t R e s u l t P r o p e r t y E n d T i m e L a b e l Ø
+  PT e s t R e s u l t P r o p e r t y E r r o r C o l u m n N u m b e r L a b e l º
+  FT e s t R e s u l t P r o p e r t y E r r o r M e s s a g e L a b e l ÷
+  LT e s t R e s u l t P r o p e r t y E r r o r S t a c k T r a c e L a b e l Î
+  <T e s t R e s u l t P r o p e r t y O u t c o m e L a b e l   @T e s t R e s u l t P r o p e r t y S t a r t T i m e L a b e l   8T e s t R e s u l t T e x t M e s s a g e s F o r m a t !  0U n e x p e c t e d T y p e O f P r o p e r t y ;  {0,-10}  {1}*Il parametro non pu√≤ essere vuoto o Null.Il file {0} non esiste."L'oggetto deve essere di tipo {0}.
+Interrotto
+CompletatoDisconnessoErroreNon superatoIn corsoSenza risultatiNon eseguitoNon eseguibileSuperato Superato (esecuzione interrotta)
+In sospesoTimeoutAvviso@Non √® stato trovato alcun convertitore di tipo per il tipo {0}."Il nodo '{0}' non √® stato trovatoíNon √® possibile leggere dal flusso specificato. I dati di un flusso non possono essere inviati se il flusso non supporta l'operazione di lettura.OIl nome file '{0}' specificato contiene i seguenti caratteri non validi: '{1}'.,Il nome file '{0}' specificato √® riservato.sNon √® possibile registrare la propriet√† '{0}' come tipo valore '{1}' perch√© √® stata gi√† registrata come '{2}'.DNon √® stato possibile creare la sessione msdia. HResult COM: '{0}'.%Non √® stato possibile caricare msdiaEURI non valido nelle impostazioni '{0}' dell'agente di raccolta dati.`Al nodo radice delle impostazioni esecuzione test √® necessario assegnare il nome 'RunSettings'.aLe impostazioni '{0}' non sono valide. √à stato specificato un valore '{1}' non valido per '{2}'.OLe impostazioni '{0}' non sono valide. Elemento XmlAttribute imprevisto: '{1}'.MLe impostazioni '{0}' non sono valide. Elemento XmlElement imprevisto: '{1}'..URI '{0}' non valido nelle impostazioni '{1}'.úImpostazioni agente di raccolta dati non valide. Attributo previsto '{0}' mancante. Un'impostazione tipica dell'agente di raccolta dati √® analoga alla seguente: <DataCollector uri="dataCollector://Samples/SampleCollector/1.0" assemblyQualifiedName="Samples.SampleCollector.SampleDataCollector, SampleCollectors, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1111111111111111" friendlyName="sampleCollector">.zImpostazioni '{0}' non valide. √à previsto almeno un elemento XmlAttribute, tra friendlyName, uri e assemblyQualifiedName.çNon √® possibile specificare TestCaseFilter per la specifica esecuzione dei test. FilterCriteria √® valido solo per l'esecuzione con origini.8La frequenza di notifica deve essere un valore positivo.>Il timeout di notifica deve essere un valore maggiore di zero.(Null)≥La directory '{0}' della soluzione non esiste. Assicurarsi che la directory della soluzione specificata in runsettings esista e che siano disponibili le autorizzazioni di lettura.KLa stringa di filtro '{0}' include una sequenza di escape non riconosciuta.Numero di colonnaURI executorPercorso fileNome completoIDNumero di rigaNomeOrigineTratti  Messaggio: {0}  Analisi dello stack:
+{0}Non superatoNessunoNon trovatoSuperatoIgnorato  {0}:
+{1}Nome computerNome visualizzato TestResultDurataOra di fineNumero di colonna erroreMessaggio di erroreAnalisi dello stack errore	RisultatoOra di inizio  Messaggi di test:
+{0}úIl tipo '{0}' della propriet√† di test '{1}' non √® supportato. Usare un tipo di propriet√† supportato (tipi primitivi, uri, string, string[]) e riprovare.   õws]SMRí6vƒ¥˝†Ç@@¥}ÿ(BÙåì æÕùN<•[
+ÆtkVÊΩÇˇ/OµïïW”™kXÂV≠r0g»UÎ }›SÂ¯€^vZ~DÒÆú;Ä"F± Ê_˜L6¥ÁNü∫€ß’tö¬sü`O pG“4Îá1e≥                           |J          ñJ                          àJ            _CorDllMain mscoree.dll     ˇ%                                                                                                                                                                                                                                                                                                                                                                           Ä                  0  Ä                   H   X`  ∆          ∆4   V S _ V E R S I O N _ I N F O     ΩÔ˛   ∞ q∆       ?                         D    V a r F i l e I n f o     $    T r a n s l a t i o n       ∞&   S t r i n g F i l e I n f o      0 0 0 0 0 4 b 0   L   C o m p a n y N a m e     M i c r o s o f t   C o r p o r a t i o n   à 0  F i l e D e s c r i p t i o n     M i c r o s o f t . V i s u a l S t u d i o . T e s t P l a t f o r m . O b j e c t M o d e l   B   F i l e V e r s i o n     1 7 . 1 2 0 0 . 2 4 . 5 0 8 0 1     ú >  I n t e r n a l N a m e   M i c r o s o f t . V i s u a l S t u d i o . T e s t P l a t f o r m . O b j e c t M o d e l . r e s o u r c e s . d l l   Ä .  L e g a l C o p y r i g h t   ©   M i c r o s o f t   C o r p o r a t i o n .   A l l   r i g h t s   r e s e r v e d .   § >  O r i g i n a l F i l e n a m e   M i c r o s o f t . V i s u a l S t u d i o . T e s t P l a t f o r m . O b j e c t M o d e l . r e s o u r c e s . d l l   Ä 0  P r o d u c t N a m e     M i c r o s o f t . V i s u a l S t u d i o . T e s t P l a t f o r m . O b j e c t M o d e l   V   P r o d u c t V e r s i o n   1 7 . 1 2 . 0 - r e l e a s e - 2 4 5 0 8 - 0 1     : 	  A s s e m b l y   V e r s i o n   1 5 . 0 . 0 . 0                                                                                                                                                                                                                                      @     ®:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      8(    0Ç(&	*ÜHÜ˜†Ç(0Ç(10	`ÜHe 0\
++Ç7†N0L0
++Ç70	 †¢Ä 010	`ÜHe  tå-4wÒ]!ìµ«Ã¿[˜/“zΩa©W*õœ†Çv0ÇÙ0Ç‹†3  Ø0@L£MA    Ø0	*ÜHÜ˜ 0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20110231116190900Z241114190900Z0t10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMicrosoft Corporation0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ŒKÀ5≠Æü—Å≠ÉC°§˛›–˙≠LxV&êV„πjfBúº03Õ†ñ$¯UÄÖ„œ‰ºpq(Âßß˘˛PÈcOw°ƒlË∂ıi6.o{A˝Ì-≈Ï/⁄ƒ7 «#a€S—ooKÒã˚Ë≠¬«8øb˙›ÉÎ+Ô2ÂÁ‘	¥ˇ1Ç5∆ïÇ\R>ë5Úx–≈*J\ùÏX~°¡á<˙ap?KA3âÄnÿÌ¶3¥zÅ,òêCáÄÅìT·ß:˚¬Á`Ççrt.A$KâB6
+l‘Ú˜üG¨§ÆÏ≥∑ZÕ0Ú<:•áB‘É)u9$⁄õìÅçè‹¡¥≥8zÒªá´›e˛Ú›T1ÉS £Çs0Ço0U%0
++Ç7L+0UGq4Ú<déÚJ≥˘∏Ü^¡0EU>0<§:0810UMicrosoft Corporation10U230012+5018260U#0ÄHndÂP”Ç™77"µm® uï0TUM0K0I†G†EÜChttp://www.microsoft.com/pkiops/crl/MicCodSigPCA2011_2011-07-08.crl0a+U0S0Q+0ÜEhttp://www.microsoft.com/pkiops/certs/MicCodSigPCA2011_2011-07-08.crt0Uˇ0 0	*ÜHÜ˜ Ç Ñ±ﬂÛGgÎLS¡„ñöiiÕ&É®ãÍ•ÅƒÂúÓ¬V◊Ôc√À˙&âCÊæÖ0ótDg œ*ı8ÿ‡ªÅ&áï'ºÆ(ôP~œÏ¯9F*†Ww¢r~8Œ$vœﬁÀã,Ï±$F„ÿ÷b†h=ã∂8d/Oµ°•,ú“ôÏŸ{{UÏ"6îpkªÕﬁ‡Éﬁﬁ	HãE’dî˘©^Ü«Ù! Y©PcH	Év·E0∏èrâ~£$SNÈ:2áè”¢Ã&÷Ípj˘ï¶'M˜ﬁÓVúöâ.è{≈#ˆAÄ9Ã®–Ìf7 ⁄¯∏E0zˆ˚…2ÈüØß^ÇÚ”{ÃyÊÍ–-‰„ä`PÅ.=%$ÑS{¢+7qúç¶zÃqÆ@e†ª§≤;⁄˚™Jƒ•-©F9∆f<vF`öô–ú7n¯9ü4C¿u÷#hí{=9›¯Ò≥ÂûäZgõó…-é>Ùò‡´yÌÌEâ2X,Ñ•ˆ¨hŸBwC˙Ï(Î)åÃ6:Q©Ö9ˆ*ae‰û‹CÓÁÄ=ÆÄ•.q∆
+$îbã?ãG#˜@Uq!—-
+)Ùﬂ3†Îˇ[	ªÎTq— IoÄ(à≈Öå‡K˜⁄^öÅ% {2ÃnÆ_›ﬂ1ˆ¨””}c04˛±@(Ám	D®ÉOπà€KU†'&HàI0Çz0Çb†
+aê“     0	*ÜHÜ˜ 0Åà10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20110110708205909Z260708210909Z0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20110Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ´˙r.≠ÿn™ÇM4∫Ú∂X!üB*kÈZP™∏8I∫√›7k∆ÿ8¬ô∞»9’1B”âydá~î`$lØûIúÈh^“ﬂõS≤
+,√ØŸ©+Æz	Ø◊ñY `ÈfvË2R&/Á´Pœ≥D∑]ÿƒ.u´hÛÀmÛ:\°ÙF∫‡8d¨nd5x¶†c-”@ì¯„ﬁ’\y•I)Áæ†wæî=Ô˚„+ZMV(¢zr‡:∑I^ÿÌÌCëÉŸ{≤{ÜŸ>±å]ËâOÑÚ°/Y‰ê;-Æ3X≈∑>˛2”≥=±≤Øí8~“ùÄ,ıNVë!5%√9ndS∫ú≠#ÑÀÙ∫Üç˜_–Røåîáº¿!t%_(∂Ã'(8%ò9J6œ|±íÆ#ß©fÏaj·(Iù_à‚%]”!K>RƒµW?$—z[/’#„p]QFw≥¯ ·º¨Ç_€¿≥Ω‘UKÁ9°È#Iº∏D|E‰¡√rz‡rÁ$ﬂøFô≈Ô¬W€ÉçÏMI0ß´éﬂÏ[üØ¸›∞f‚¡óÅ{Ì÷ÌKÁI)ß(¶ß}gÄÊäbx_≤/Ñ◊Wú\øw((ÒÌm√(è,è@7O¡·ÖDâƒ	L≈‘•C/tï˜n¯x X,]`ïö>O3Ñ⁄∞àﬁûNÙñ∞ºF†lò“‡÷àå £ÇÌ0ÇÈ0	+Ç7 0UHndÂP”Ç™77"µm® uï0	+Ç7
+ S u b C A0UÜ0Uˇ0ˇ0U#0Är-:1êCπN·Íß«1—#â40ZUS0Q0O†M†KÜIhttp://crl.microsoft.com/pki/crl/products/MicRooCerAut2011_2011_03_22.crl0^+R0P0N+0ÜBhttp://www.microsoft.com/pki/certs/MicRooCerAut2011_2011_03_22.crt0ÅüU Åó0Åî0Åë	+Ç7.0ÅÉ0?+3http://www.microsoft.com/pkiops/docs/primarycps.htm0@+042  L e g a l _ p o l i c y _ s t a t e m e n t . 0	*ÜHÜ˜ Ç gÚÜ•ò‡Ty.”ÿtg"õñ·cíôBñ}“yê¡e_.,>¯√r—mÉ˛æ?Ë
+ ;øG©£Ûi€cø"5•ó]eÑê}ãFPUÿí|“KÛ<BãR–∞˝k„>.)õÊ=•‘µwî9‚Èd…D=xz#Û}¶êtÉçÙÀ&F*¬äª§©õÌh˙h.ï†*?*kXIc	inZòñ‰ÉÙ¿èÛF+ﬁ¸;–Ω5Ôn%ÆÂØ'Ì–›ÛØô(óòM=Úâ÷√2‚≈-Œ[û¥I9
+∆
+¬∆≠ÆÂ≤Ÿ€àQEX82q'±Ù'¯ﬁ,: iò≤Yâhnoß∑t√@¶*(>Ç?Mf¿≥Mı·èo}EßvÂ@*e£√]RbÜ√c6óÜﬂ⁄Û¯Ú°ö'·Õ•ó–Ó]cA„[úá>w—±uæaaµ‹∆æﬂA«(Óﬁe/Ïóˆ°\ñÿ ÷°FΩYÛó•	KHôÄ– )≈±õ•?Ew5∆“¢¢üzz"˙Hï´˚G#Äıû¯øk∑Kó‚ÎuxÏÍ7ôyKˇ÷≥#huÊØ˙¸ãÎÄÍi;Ø¸0ÌLéﬂﬂumcë=—ùVNOøÄW"°x2!zÔA
+±?˚®Ã§]¡°àõWqVNHE¿B…õv[
+ÄHk˝yü¡Ωmmj…RszPÕ1Ç#0Ç0Åï0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20113  Ø0@L£MA    Ø0	`ÜHe †ÅÆ0	*ÜHÜ˜	1
++Ç70
++Ç710
++Ç70/	*ÜHÜ˜	1" X∑~ôS1îˆ£˜√ˆZ5˚∫TyÃxÀ^Ùã«‰w
+Y0B
++Ç71402†Ä M i c r o s o f t°Ähttp://www.microsoft.com0	*ÜHÜ˜ Ç î¢%.M{˛K÷≤s•˛eT3Ä≠H.û“∏!ÚùáT˙ﬂÔ˝xöâàµ˛∫¬ºHÙâÀÁ…≠¡ã·!ÃˇÅ√∂ƒË•—≤…˚˛'$HÃ≈ô≤5à
+`Aw≠ùÀJÄö{vàŸˆ‰àâ—ÛÒy ”z¿«§¨T.∂•»M 5ìﬁ	´œÍ2ë.∏Qõ§op∂'^˘’Œ˛‘´ R#W
+m:÷˙B∏˙m^óûÈ¸˘=|—€∑!>V˘∫ïú)_¥›Q4\29 GØÊèB.VﬂÏÍzæ@ãM¨0På0∂`c/$?39j&#‡Æ˝£ﬁ*ü≥S˙BD9P˙õuGñÄ 0B(á—{Ãêüá¢°Ç≠0Ç©
++Ç71Çô0Çï	*ÜHÜ˜†ÇÜ0ÇÇ10	`ÜHe 0ÇZ*ÜHÜ˜	†ÇIÇE0ÇA
++ÑY
+010	`ÜHe  	÷†Í$!,ˆÊn¬ñ™B◊Cm≠»ÃP,—˙Ç.v¯fÎ_1B20241008165438.422Z0ÄÙ†ÅŸ§Å÷0Å”10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1'0%UnShield TSS ESN:591A-05E0-D9471%0#UMicrosoft Time-Stamp Service†Ç˚0Ç(0Ç†3  ÙFÖ¿À?9Â   Ù0	*ÜHÜ˜ 0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100240725183059Z251022183059Z0Å”10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1'0%UnShield TSS ESN:591A-05E0-D9471%0#UMicrosoft Time-Stamp Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ßN¶–Ä/j´à…}Ä◊*m˘4©ÎPÚI#˚ô∑Ì`q[ÊÇgç¸«≤öèà·Õù≤€(Ä÷wˇY@ﬁﬂÙVßPáöá]ña› W nsØSow	‰†ôqpÏπ¸&]‡£ÛQ3$B™Â]Wƒìïûˆı0Ü-Â¢≥{∞ÕŸ_J]êv∆ŒÉΩ’Ñ É¢∆¢ò¢1´x*)úÇ±:˘+ÂVlèg˝‰ı,a/∫Hõª'+/&YX€k≤úÚ]YÓ£È&p¶Ja±Ωÿæ≥˙PäáÊuµµR¨÷ñ•–V
+]∂òêLöJ·xpè[n{‚‹∏Á ¯¡õ–.K
+hÆ:¢Kkzë·Ì"r¡¢d} øßÀâ•	C@ÛÅ{A8K‚n(;¬ ”k¶[Œ„,…8∂>*=]–FA`≈&È·©‚ü¬s·r»◊·)0g¿‹¸ÁIÍjl“à>KÊú~V◊¬ãC	M-ã]OiVpó%Y!X’Ø(áaÿ‘ˆËX—˜Ú<Ê.D«°úLŸüîÑóô¢Û„ù¶ˇÏkåkuÜ¨Â…ªHr€äœ-Q˛/ôÀ¿ß◊=°dÎ∂7»*¢»Ωã`%Œ5C≈±mì—Ïn~ﬂÀÛŸ”í.LO∑[-z ‹ªﬁ˝"§,@¡Aˆ,ãB›ƒ·à◊ˇ‡ëgÀ £ÇI0ÇE0U+te°
+—,>'u,úÏM¢”)ﬂõ0U#0Äüß] ^b]ÉÙÂ“eßS5Èr0_UX0V0T†R†PÜNhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l+`0^0\+0ÜPhttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0Uˇ0 0U%ˇ0
++0UˇÄ0	*ÜHÜ˜ Ç ›¡“JP; i¬E~¥∫ÉJ´DQQwÉôÜköè~∫5∑ÄÁÇ∑ÛõÓ9Ω˙g`nNKñ(√√_`à":%_úpoÍ®Õ<üo<∂´hØ4"&n¶¡8MV^)ÖÊo,{XﬂmuµH¨'•V>œÍ'Ã4ã∑†f Ñ∂∆P∂q¯
+<5ﬁÙ∑zÍîó¨{±ÄÜ7„5x îN5bov®+øAîD®Íô©çæí%©ﬁÈ63•–¬z
+ºiŸFŒH‘EäôÒoYs+.N0ÌûÙâ ñ¸ù•Kß–-Ï4Ki—Ëeâ=≠™ºç∆~ ÿ/Ãl∞H¬)#¬!FCÑ•¥ˆN¯˚Èqes£“
+sûÚÕ∏a˜ï:¥⁄∂÷±√HM›Å“ˆ ÊáF;Ü≥íÌ≥}0S”Æá√y·-k°Öd\yãàNâqWVU£t™;4xH#TøG.·÷$£ê«∑©!º(ÁÜ∫;dVhâ]…¸Ÿ™Y˙…ÀCvÂ˘õ’%dÿ&‚˛!í»Ÿ(∑"≤~7üoWÿˇø=äqãõ"2∫]ˆ/≠î·rõûÙ™–0 ˆ6ƒóÅ‚èOAH⁄∑hµ2œíÏì˜%`É|lR´≈TÜÍ„Z<–d#
+¬€4r˙SY∞‚ßÆÏ≤ƒ?∏ÚÂOv®A0Çq0ÇY†3   ≈ÁkûõIô     0	*ÜHÜ˜ 0Åà10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100210930182225Z300930183225Z0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ‰·¶LÁ¥r!y¢À◊$yΩ’Ç”˝Óú“©lNu» 5WˆlJ‡‚Ωπ>`3ˇ\O«f˜ïSqZ‚~JZ˛∏6gÖF#µçœw2¿Ë`}jRÉD∑¶éFkÛ≈vıÜP‹¡D»q\Q17†
+8nçÌ◊ÿ&S|9azƒ™˝riØ´¨ˆ6æ5&d⁄ò;∫{3≠Ä[~åùR˛∂Ëb%‹jœ]Ù˛éSœ÷ÏÖVMÔ›ºç§„ëè≤9,QúÈpi 6-pé1»5(Ω„¥á$√‡…è~µTè‹˙Uòmh;öFΩÌ§Æz)7¨ÀÎÉEÁFn 2’¿Ü0\O,‚b≤Õπ‚çà‰ñ¨Jªæq©[g`ﬁ¯íë=˝ œs}AöFuÕƒ_4›â÷˝• }~¸ŸûEﬂ∂r/€}_Ä∫€™~6Ï6Lˆ+n®QËø£—s¶M7tî4ÇÚ∑GÌßËô|?L€Ø^¬Û’ÿs=CN¡39LéºBh.ÍÑQF‚—ΩjZas g¢^◊(v‚3r◊ß ¬˙
+◊co…6dã[†¶É!]_0tëîîÿπP˘âaÛ65ÑG€‹—˝≤‘≈kˆ\RQ]€%∫ØPzl≈rÔç˘RƒÖì¿<€7«?x´E∂ıá^⁄èûri∆Æ{∑∑>j‚.≠ £Ç›0ÇŸ0	+Ç7 0#	+Ç7*ßR˛dƒöæÇë<F5)œˇ/Ó0Uüß] ^b]ÉÙÂ“eßS5Èr0\U U0S0Q+Ç7LÉ}0A0?+3http://www.microsoft.com/pkiops/Docs/Repository.htm0U%0
++0	+Ç7
+ S u b C A0UÜ0Uˇ0ˇ0U#0Ä’ˆVÀèË¢\bh—=îê[◊Œöƒ0VUO0M0K†I†GÜEhttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0Ü>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0	*ÜHÜ˜ Ç ùU}¸*≠·,g1$[·ûrK¸©oÍ\∂>NGdx±ìó=13µ9◊¬q6?⁄dl|–u9mª1‰¬è˚l—°î"ÓÈfg:SM›ò∫∂xÿ6.ú©ÇV ∞æâËi‡∫	Ó{ﬂjoæ)Ànÿ?HuŸﬁmÇım#T‰xSu$Wπ›üÛé=∆Ûhﬂeˆ§V™˜ï∂(U'–$Ω@†ø∂]='‡@ñ8¨˜˘)â√º∞TÖB≥¸ûãâÁjÅ¬ÅBRuä6¬√as.,k{n?,	xÈë≤©[ﬂI£tºÏëÄ“=ÊJ>f;OªÜ˙2ŸñÙèˆëˆŒ∆t˝ˆLro´u0≈4∞zÿP˛
+X›@<«TmùctH,±NG-¡qød˘$æsm é	Ω≥WITdŸs◊[DéZëkü§(‹g($∫8Kön˚!TkjEG©Ò∑Æ»Ëâ^Où“–LvµWT	±iD~|°als˛
+ªÏAf=i˝À¡AI~~ìæÀ¯;‰∑ø¥Œ>•1QÑºø¡Ç¢{âçp˛Áµ–(âè6⁄∫L˘õˇ
+È4¯$5g+‡∏Êåô÷·"Í'B=%îÊtt[j—û>Ì~†13}ºÀÈ{ø8pD—êÒ»´:ä:bŸpcSMçÓÇm•¡qj¥U3X≥°pfÚ°ÇV0Ç>0Ç°ÅŸ§Å÷0Å”10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1-0+U$Microsoft Ireland Operations Limited1'0%UnShield TSS ESN:591A-05E0-D9471%0#UMicrosoft Time-Stamp Service¢#
+0+ ø‚Ÿ˝X4≥^◊zN"‘}s˛˛ é†ÅÉ0ÅÄ§~0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100	*ÜHÜ˜  ÍØëŒ0"20241008111110Z20241009111110Z0t0:
++ÑY
+1,0*0
+ ÍØëŒ 0 NV0 ≤0
+ Í∞„N 06
++ÑY
+1(0&0
++ÑY
+†
+0 ° °
+0 Ü†0	*ÜHÜ˜ Ç ·£%x¿nπﬁò⁄r◊hõ©≥Ã∞yÀå —€|ÖôYz ÆeDÁ∫ZaTD∑!µ2^àé1£>∏ïY~ü"k=+Õslìè˙6Â…`ø‹6g5E0Å∏[$¨≤çéÁºáñqÆ,6≥åHm;–»ã‘íäNüõ+9t∏™éË√ÜÑ°ÎâX_∆˜|◊’∂%@•Hk≠˘Xu&~–_√nyqÑ∆åû1åÓ/˜û›g∂ÍLf¶Bÿ»†ŸÄÒk˚–J∆1Q}gà ∂˜ ◊§÷Ü≠»ßse5,„v¬ÿXû‰€~zµ˙[»ëkUk9«£
+)YzU≤á°èô<˚1Ç0Ç	0Åì0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  ÙFÖ¿À?9Â   Ù0	`ÜHe †ÇJ0	*ÜHÜ˜	1*Ü

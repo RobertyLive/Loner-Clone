@@ -1,0 +1,42 @@
+am1="-0.005088"
+        stCamera:RadialDistortParam2="0.135037"
+        stCamera:RadialDistortParam3="-0.827534"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000011"
+        stCamera:ResidualStandardDeviation="0.000009"
+        stCamera:RadialDistortParam1="0.060041"
+        stCamera:RadialDistortParam2="-2.934363"
+        stCamera:RadialDistortParam3="30.009321"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999329"
+        stCamera:RadialDistortParam1="0.006459"
+        stCamera:RadialDistortParam2="-0.138973"
+        stCamera:RadialDistortParam3="0.799404"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002087"
+         stCamera:VignetteModelParam1="-1.302946"
+         stCamera:VignetteModelParam2="35.569736"
+         stCamera:VignetteModelParam3="-520.288391">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.128713, 0.987800</rdf:li>
+          <rdf:li>0.220034, 0.958700</rdf:li>
+          <rdf:li>0.265358, 0.912700</rdf:li>
+          <rdf:li>0.274127, 0.884700</rdf:li>
+          <rdf:li>0.284484, 0.831000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf

@@ -1,0 +1,59 @@
+     since deployment or last upgrade.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.ApplicationSettingsBase.IsClickOnceDeployed(System.AppDomain)">
+            <summary>
+            Returns true if this is a clickonce deployed app.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.ApplicationSettingsBase.SettingsFilter(System.Reflection.PropertyInfo[])">
+            <summary>
+            Only those settings class properties that have a SettingAttribute on them are
+            treated as settings. This routine filters out other properties.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.ApplicationSettingsBase.ResetProviders">
+            <summary>
+            Resets the provider collection. This needs to be called when providers change after
+            first being set.
+            </summary>
+        </member>
+        <member name="T:System.Configuration.ApplicationScopedSettingAttribute">
+            <summary>
+            Indicates that a setting is to be stored on a per-application basis.
+            </summary>
+        </member>
+        <member name="T:System.Configuration.AppSettingsReader">
+            <summary>
+                The AppSettingsReader class provides a wrapper for System.Configuration.ConfigurationManager.AppSettings
+                which provides a single method for reading values from the config file of a particular type.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.AppSettingsReader.GetValue(System.String,System.Type)">
+            <summary>
+            Gets the value for specified key from ConfigurationManager.AppSettings, and returns
+            an object of the specified type containing the value from the config file.  If the key
+            isn't in the config file, or if it is not a valid value for the given type, it will
+            throw an exception with a descriptive message so the user can make the appropriate
+            change
+            </summary>
+        </member>
+        <member name="M:System.Configuration.BaseConfigurationRecord.AllowExeDefinitionToEnum(System.String,System.Configuration.XmlUtil)">
+            <summary>
+            Translate an ExeDefinition string from the Declaration in a file
+            to the appropriate enumeration
+            </summary>
+            <param name="allowExeDefinition">string representation of value</param>
+            <param name="xmlUtil">[optional] - can provide better error</param>
+        </member>
+        <member name="M:System.Configuration.BaseConfigurationRecord.AddImplicitSections(System.Collections.Hashtable)">
+            <summary>
+            Add implicit sections to the specified factory list.
+            </summary>
+            <param name="factoryList">The factory list to add to. If null, adds to the current record's factory list.</param>
+        </member>
+        <member name="T:System.Configuration.ClientSettingsSection">
+            <summary>
+            ConfigurationSection class for sections that store client settings.
+            </summary>
+      

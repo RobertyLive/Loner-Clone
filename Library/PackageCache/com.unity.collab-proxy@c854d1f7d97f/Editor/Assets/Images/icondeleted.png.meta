@@ -1,0 +1,61 @@
+
+            <summary>
+            Default value.
+            </summary>
+        </member>
+        <member name="P:System.Configuration.ElementInformation.LineNumber">
+            <summary>
+            The line number or 0 if no source.
+            </summary>
+        </member>
+        <member name="F:System.Configuration.ExceptionAction.NonSpecific">
+            <summary>
+            Not specific to a particular section, nor a global schema error
+            </summary>
+        </member>
+        <member name="F:System.Configuration.ExceptionAction.Local">
+            <summary>
+            Error specific to a particular section
+            </summary>
+        </member>
+        <member name="F:System.Configuration.ExceptionAction.Global">
+            <summary>
+            Error in the global (file) schema
+            </summary>
+        </member>
+        <member name="T:System.Configuration.IApplicationSettingsProvider">
+            <summary>
+            This interface is an extension to SettingsProvider that a provider can implement
+            to support additional functionality for settings classes that derive from ApplicationSettingsBase.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.IApplicationSettingsProvider.GetPreviousVersion(System.Configuration.SettingsContext,System.Configuration.SettingsProperty)">
+            <summary>
+            Retrieves the previous value of a given SettingsProperty. This is used in conjunction with Upgrade.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.IApplicationSettingsProvider.Reset(System.Configuration.SettingsContext)">
+            <summary>
+            Resets all settings to their "default" values.
+            </summary>
+        </member>
+        <member name="M:System.Configuration.IApplicationSettingsProvider.Upgrade(System.Configuration.SettingsContext,System.Configuration.SettingsPropertyCollection)">
+            <summary>
+            Indicates to the provider that the app has been upgraded. This is a chance for the provider to upgrade
+            its stored settings as appropriate.
+            </summary>
+        </member>
+        <member name="T:System.Configuration.IConfigurationSectionHandler">
+            <summary>
+                The IConfigurationSectionHandler interface defines the contract that all configuration section handlers
+                must implement in order to participate in the resolution of configuration settings.
+                Composes and creates config objects.
+                This interface is implemented by config providers. Classes implementing IConfigurationSectionHandler
+                define the rules for cooking XML config into usable objects. The cooked objects can be of arbitrary
+                type.
+                Configuration is composable (e.g., config in a child directory is layered over config in a parent
+                directory), so, IConfigurationSectionHandler is supplied with the parent config as well as any number of
+                XML fragments.
+            </summary>
+        </member>
+        <member name="M:System.Confi

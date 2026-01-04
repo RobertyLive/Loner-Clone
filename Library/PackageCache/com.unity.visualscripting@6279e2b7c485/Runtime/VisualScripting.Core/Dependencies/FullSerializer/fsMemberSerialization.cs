@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved.">
+  <assemblyIdentity name="Microsoft-Windows-TrustedExecution-Package" version="10.0.26100.1150" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+  <package identifier="Microsoft-Windows-TrustedExecution" releaseType="Feature Pack">
+    <update name="15350368ab228f892b2a463de4934dca" restart="required">
+      <driver inf="windowstrustedrtproxy.inf" ranking="normal">
+        <assemblyIdentity name

@@ -1,0 +1,68 @@
+dialDistortParam3="-0.000063"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003763"
+        stCamera:VignetteModelParam1="-0.011799"
+        stCamera:VignetteModelParam2="-0.253124"
+        stCamera:VignetteModelParam3="0.046349"/>
+       </rdf:Description>
+      </stCamera:FisheyeModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA 15mm F2.8 EX DG DIAGONAL FISHEYE"
+       stCamera:ProfileName="Adobe (SIGMA 15mm F2.8 EX DG DIAGONAL FISHEYE, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="15"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:FisheyeModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000072"
+        stCamera:ResidualStandardDeviation="0.000136"
+        stCamera:RadialDistortParam1="-0.015918"
+        stCamera:RadialDistortParam2="-0.004867">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000018"
+        stCamera:ResidualStandardDeviation="0.000022"
+        stCamera:ScaleFactor="0.999817"
+        stCamera:RadialDistortParam1="0.000531"
+        stCamera:RadialDistortParam2="-0.000338"
+        stCamera:RadialDistortParam3="0.000171"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000072"
+        stCamera:ResidualStandardDeviation="0.000136"
+        stCamera:RadialDistortParam1="-0.015918"
+        stCamera:RadialDistortParam2="-0.004867"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000018"
+        stCamera:ResidualStandardDeviation="0.000035"
+        stCamera:ScaleFactor="1.000805"
+        stCamera:RadialDistortParam1="-0.000282"
+        stCamera:RadialDistortParam2="0.000286"
+        stCamera:RadialDistortParam3="-0.000241"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00396"
+        stCamera:VignetteModelParam1="-0.01008"
+        stCamera:VignetteModelParam2="-0.251234"
+        stCamera:VignetteModelParam3="0.044594"/>
+       </rdf:Description>
+      </stCamera:FisheyeModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA 15mm F2.8 EX DG DIAGONAL FISHEYE"
+       stCamera:ProfileName="Adobe (SIGMA 15mm F2.8 EX DG DIAGONAL FISHEYE, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="15"
+       stCamera:FocusDis

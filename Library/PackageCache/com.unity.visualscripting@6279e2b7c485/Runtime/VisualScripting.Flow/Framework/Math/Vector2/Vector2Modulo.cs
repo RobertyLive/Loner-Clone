@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<supportedlanguages>
+   <englishsupport>
+     <language>en-AU</language>
+     <language>en-CA</language>
+     <language>en-GB</language>
+     <language>en-IN</language>
+     <language>en-NZ</language>
+     <language>en-US</language>
+     <language>en-IE</language>
+    </englishsupport>
+   <MultiLanguageSupport>
+     <language>en-AU</language>
+     <language>en-CA</language>
+     <language>en-GB</language>
+     <language>en-IN</language>
+     <language>en-NZ</language>
+     <language>en-US</language>
+     <language>en-IE</language>
+     <language>es-ES</language>
+     <lan

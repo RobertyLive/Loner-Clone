@@ -1,0 +1,8 @@
+neyin.
+DL_STOCK_LICENSE_TO_EDIT_PHOTO=Bu Adobe Stok görüntüsü, işbirliği ortaklarınızın biri tarafından lisanslanmış. Lisansladığınız takdirde görüntüyü düzenleyebilirsiniz.
+DL_STOCK_LICENSE_TO_USE_TEMPLATE_OWNED=Bu Adobe Stok şablonu, çalışma arkadaşlarınızdan biri tarafından lisanslanmış. Lisansladığınız takdirde şablonu kullanabilirsiniz.
+DL_STOCK_LICENSE_TO_USE_TEMPLATE=Bu Adobe Stok şablonu lisanslanmamış. Lisansladığınız takdirde şablonu kullanabilirsiniz.
+DL_STOCK_LICENSE_TO_EDIT_THREE_D=Bu Adobe Stock varlığı, işbirliği ortaklarınızın biri tarafından lisanslanmış. Lisansladığınız takdirde varlığı düzenleyebilirsiniz.
+DL_STOCK_PURCHASE_ERROR_TITLE=Satın alma hatası
+DL_STOCK_PURCHASE_OFFLINE_ERROR_TITLE=Çevrimdışı hatası
+DL_STO

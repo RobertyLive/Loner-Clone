@@ -1,0 +1,24 @@
+IP=Sdílená knihovna
+DL_LIB_FOLLOWED_TOOLTIP=Sledovaná knihovna
+DL_LIB_READONLY_TOOLTIP=Knihovna pouze ke čtení
+
+DL_APPLY_LAYER_STYLE=Použít styl vrstvy
+DL_APPLY_LOOK=Použít Vzhled
+DL_APPLY_LOOK_REQUIRES_RGB=Chcete-li aplikovat Vzhledy, převeďte dokumenty do prostoru RGB.
+DL_APPLY_PATTERN=Použít vzorek
+DL_ADD_PATTERN_TO_PRESETS=Vytvořit přednastavení vzorku
+DL_ADD_LOOK_NAME=Vzhled
+
+DL_PERCENTAGE={{percent}} %
+DL_SYNCING=Synchronizace...
+DL_SYNC_OK=Všechny knihovny jsou aktuální
+DL_SYNC_PROGRESS_PERCENT=Synchronizuji knihovny... {{percent}} %
+DL_SYNC_PROGRESS=Synchronizuji knihovny...
+DL_SYNC_PROGRESS_NUM_LIBRARIES=Synchronizuji knihovny (zbývá: {{number}})
+DL_SYNC_ERROR_QUOTA_EXCEEDED=Ve službě Creative Cloud nemáte dost místa <br/> k synchronizaci vašich knihoven.
+DL_SYNC_ERROR_CONNECTING=Nelze se připojit k serveru.
+DL_SYNC_ERROR_SERVER=Na serveru došlo k problémům
+DL_SYNC_ERROR_LIBRARY=Synchronizace "{{name}}" se nezdařila
+DL_SYNC_ERROR=Synchronizace se nezdařila
+DL_SYNC_LOGGED_OUT=Jste odhlášeni ze služby Creative Cloud.
+DL_SYNC_ERROR_NO_ACCESS=K této služ

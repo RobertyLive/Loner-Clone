@@ -1,0 +1,312 @@
+ing, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27025) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-lim1.steamserver.net:27037) starting...
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-scl1.steamserver.net:27029) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-lim1.steamserver.net:27022) starting...
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27029) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-lax1.steamserver.net:443) starting...
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-scl1.steamserver.net:27035) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-iad1.steamserver.net:27018) starting...
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-lim1.steamserver.net:27037) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-ord1.steamserver.net:27020) starting...
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-lim1.steamserver.net:27022) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp2-ord1.steamserver.net:27018) starting...
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-lax1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp2-atl3.steamserver.net:27018) starting...
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-iad1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-par1.steamserver.net:27036) starting...
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-ord1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp2-ord1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp2-atl3.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-par1.steamserver.net:27036) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:29:21] [Connecting, 4, 35] [U:1:835587130] Connect() starting connection (eNetQOSLevelHigh, ext1-eze1.steamserver.net:27025, WebSocket)
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2026-01-01 09:29:21] [Connecting, 4, 0] [U:1:835587130] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2026-01-01 09:29:21] [Logged Off, 4, 0] [U:1:835587130] StartAutoReconnect() will start in 382.0 seconds (attempt 8)
+[2026-01-01 09:29:36] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:29:36] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:29:36] Connectivity test: result=Failed (since 639.5s ago), prev=Unknown, in progress=0
+[2026-01-01 09:30:42] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:30:42] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:30:42] Connectivity test: result=Failed (since 705.8s ago), prev=Unknown, in progress=0
+[2026-01-01 09:31:59] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:31:59] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:31:59] Connectivity test: result=Failed (since 782.8s ago), prev=Unknown, in progress=0
+[2026-01-01 09:33:25] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:33:25] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:33:25] Connectivity test: result=Failed (since 869.2s ago), prev=Unknown, in progress=0
+[2026-01-01 09:34:51] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:34:51] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:34:51] Connectivity test: result=Failed (since 955.2s ago), prev=Unknown, in progress=0
+[2026-01-01 09:35:43] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=155&qoslevel=3
+[2026-01-01 09:35:43] GetCMListForConnect -- web API call failed (status = 0)
+[2026-01-01 09:35:43] No NetFilter CMs, defaulting to WebSockets
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (cmp2-ord1.steamserver.net:27020) results: 100000.0000ms + load 0.0000 (943 seconds ago)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (cmp2-ord1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (382 seconds ago)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (cmp1-ord1.steamserver.net:27020) results: 100000.0000ms + load 0.0000 (382 seconds ago)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (cmp1-iad1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (382 seconds ago)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (cmp1-lax1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (382 seconds ago)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext1-lim1.steamserver.net:27022) results: 100000.0000ms + load 0.0000 (382 seconds ago)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext2-lim1.steamserver.net:27037) results: 100000.0000ms + load 0.0000 (382 seconds ago)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext1-scl1.steamserver.net:27035) results: 100000.0000ms + load 0.0000 (382 seconds ago)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext1-eze1.steamserver.net:27029) results: 100000.0000ms + load 0.0000 (382 seconds ago)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext2-scl1.steamserver.net:27029) results: 100000.0000ms + load 0.0000 (382 seconds ago)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext1-eze1.steamserver.net:27025) results: 100000.0000ms + load 0.0000 (382 seconds ago)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27025) starting...
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-scl1.steamserver.net:27029) starting...
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27029) starting...
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-scl1.steamserver.net:27035) starting...
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27025) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-lim1.steamserver.net:27037) starting...
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-scl1.steamserver.net:27029) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-lim1.steamserver.net:27022) starting...
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27029) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-lax1.steamserver.net:443) starting...
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-scl1.steamserver.net:27035) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-iad1.steamserver.net:27018) starting...
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-lim1.steamserver.net:27037) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-ord1.steamserver.net:27020) starting...
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-lim1.steamserver.net:27022) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp2-ord1.steamserver.net:27018) starting...
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-lax1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp2-ord1.steamserver.net:27020) starting...
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-iad1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-scl1.steamserver.net:27038) starting...
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-ord1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp2-ord1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp2-ord1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-scl1.steamserver.net:27038) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:35:43] [Connecting, 4, 39] [U:1:835587130] Connect() starting connection (eNetQOSLevelHigh, ext1-eze1.steamserver.net:27025, WebSocket)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2026-01-01 09:35:43] [Connecting, 4, 0] [U:1:835587130] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2026-01-01 09:35:43] [Logged Off, 4, 0] [U:1:835587130] StartAutoReconnect() will start in 893.0 seconds (attempt 9)
+[2026-01-01 09:36:38] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:36:38] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:36:38] Connectivity test: result=Failed (since 1062.3s ago), prev=Unknown, in progress=0
+[2026-01-01 09:38:36] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:38:36] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:38:36] Connectivity test: result=Failed (since 1180.0s ago), prev=Unknown, in progress=0
+[2026-01-01 09:40:22] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:40:22] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:40:22] Connectivity test: result=Failed (since 1286.1s ago), prev=Unknown, in progress=0
+[2026-01-01 09:42:47] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:42:47] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:42:47] Connectivity test: result=Failed (since 1431.1s ago), prev=Unknown, in progress=0
+[2026-01-01 09:44:57] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:44:57] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:44:57] Connectivity test: result=Failed (since 1560.5s ago), prev=Unknown, in progress=0
+[2026-01-01 09:47:39] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:47:39] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:47:39] Connectivity test: result=Failed (since 1722.5s ago), prev=Unknown, in progress=0
+[2026-01-01 09:50:36] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=155&qoslevel=3
+[2026-01-01 09:50:36] GetCMListForConnect -- web API call failed (status = 0)
+[2026-01-01 09:50:36] No NetFilter CMs, defaulting to WebSockets
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext1-lim1.steamserver.net:27028) results: 100000.0000ms + load 0.0000 (1836 seconds ago)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (cmp2-ord1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (893 seconds ago)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (cmp1-ord1.steamserver.net:27020) results: 100000.0000ms + load 0.0000 (893 seconds ago)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (cmp1-iad1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (893 seconds ago)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (cmp1-lax1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (893 seconds ago)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext1-lim1.steamserver.net:27022) results: 100000.0000ms + load 0.0000 (893 seconds ago)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext2-lim1.steamserver.net:27037) results: 100000.0000ms + load 0.0000 (893 seconds ago)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext1-scl1.steamserver.net:27035) results: 100000.0000ms + load 0.0000 (893 seconds ago)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext1-eze1.steamserver.net:27029) results: 100000.0000ms + load 0.0000 (893 seconds ago)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext2-scl1.steamserver.net:27029) results: 100000.0000ms + load 0.0000 (893 seconds ago)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext1-eze1.steamserver.net:27025) results: 100000.0000ms + load 0.0000 (893 seconds ago)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27025) starting...
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-scl1.steamserver.net:27029) starting...
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27029) starting...
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-scl1.steamserver.net:27035) starting...
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27025) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-lim1.steamserver.net:27037) starting...
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-scl1.steamserver.net:27029) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-lim1.steamserver.net:27022) starting...
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27029) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-lax1.steamserver.net:443) starting...
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-scl1.steamserver.net:27035) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-iad1.steamserver.net:27018) starting...
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-lim1.steamserver.net:27037) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-ord1.steamserver.net:27020) starting...
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-lim1.steamserver.net:27022) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp2-ord1.steamserver.net:27018) starting...
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-lax1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-scl1.steamserver.net:27020) starting...
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-iad1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-lim1.steamserver.net:27028) starting...
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-ord1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp2-ord1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-scl1.steamserver.net:27020) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-lim1.steamserver.net:27028) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:50:36] [Connecting, 4, 43] [U:1:835587130] Connect() starting connection (eNetQOSLevelHigh, ext1-eze1.steamserver.net:27025, WebSocket)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] ConnectFailed('Connection Failed':0) (0.0.0.0:0, WebSocket)
+[2026-01-01 09:50:36] [Connecting, 4, 0] [U:1:835587130] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2026-01-01 09:50:36] [Logged Off, 4, 0] [U:1:835587130] StartAutoReconnect() will start in 519.0 seconds (attempt 10)
+[2026-01-01 09:50:46] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:50:46] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:50:46] Connectivity test: result=Failed (since 1910.0s ago), prev=Unknown, in progress=0
+[2026-01-01 09:53:42] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:53:42] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:53:42] Connectivity test: result=Failed (since 2086.2s ago), prev=Unknown, in progress=0
+[2026-01-01 09:57:11] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-01-01 09:57:11] Connectivity test (0.0.0.0:80 (0.0.0.0:80)): HTTP fetch failed
+[2026-01-01 09:57:11] Connectivity test: result=Failed (since 2294.4s ago), prev=Unknown, in progress=0
+[2026-01-01 09:59:15] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=155&qoslevel=3
+[2026-01-01 09:59:15] GetCMListForConnect -- web API call failed (status = 0)
+[2026-01-01 09:59:15] No NetFilter CMs, defaulting to WebSockets
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (cmp2-ord1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (519 seconds ago)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (cmp1-ord1.steamserver.net:27020) results: 100000.0000ms + load 0.0000 (519 seconds ago)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (cmp1-iad1.steamserver.net:27018) results: 100000.0000ms + load 0.0000 (519 seconds ago)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (cmp1-lax1.steamserver.net:443) results: 100000.0000ms + load 0.0000 (519 seconds ago)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext1-lim1.steamserver.net:27022) results: 100000.0000ms + load 0.0000 (519 seconds ago)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext2-lim1.steamserver.net:27037) results: 100000.0000ms + load 0.0000 (519 seconds ago)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext1-scl1.steamserver.net:27035) results: 100000.0000ms + load 0.0000 (519 seconds ago)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext1-eze1.steamserver.net:27029) results: 100000.0000ms + load 0.0000 (519 seconds ago)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext2-scl1.steamserver.net:27029) results: 100000.0000ms + load 0.0000 (519 seconds ago)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] Existing WebSocket ping data (ext1-eze1.steamserver.net:27025) results: 100000.0000ms + load 0.0000 (519 seconds ago)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27025) starting...
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-scl1.steamserver.net:27029) starting...
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27029) starting...
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-scl1.steamserver.net:27035) starting...
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27025) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-lim1.steamserver.net:27037) starting...
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-scl1.steamserver.net:27029) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-lim1.steamserver.net:27022) starting...
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-eze1.steamserver.net:27029) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-lax1.steamserver.net:443) starting...
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-scl1.steamserver.net:27035) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-iad1.steamserver.net:27018) starting...
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-lim1.steamserver.net:27037) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-ord1.steamserver.net:27020) starting...
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext1-lim1.steamserver.net:27022) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp2-ord1.steamserver.net:27018) starting...
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-lax1.steamserver.net:443) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-gru1.steamserver.net:27020) starting...
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (cmp1-iad1.steamserver.net:27018) failed talking to cm (timeout/neterror - Invalid)
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] PingWebSocketCM() (ext2-lim1.steamserver.net:27031) starting...
+[2026-01-01 09:59:15] [Connecting, 4, 0] [U:1:835587130] P0ƒ”	*†H†÷ ƒ„0ƒ10	`†He 0ƒêr	+‚7
+ ƒêb0ƒê]0
++‚7¢?Ê\ávIžéX¥/ü¢&251206145132Z0
++‚7 0ƒèÛ0  «ˆd;àF5«;éþÌÅÏSR×òÒKODÆ„1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He   «ˆd;àF5«;éþÌÅÏSR×òÒKODÆ„0* tÕy—ŒMÔŽÒ÷ÛZfzÜT10
++‚71‚ 0**u ÜK¾Êðqìe|ÀlÉ¿10
++‚71‚ 0*qìù×}
+êWÇ´WN­wÈÓ†10
++‚71‚ 0*„HºÝ>yºñ4´Iº¥yÅ»10
++‚71€ 0*²©:Nøµ.5bbåÑ5žòÐÖ®10
++‚71‚ 0*(ú˜B¸ÿŽ†90YÑE*’m10
++‚71‚ 0 KÑ«|V«8–Ü~bf¨£ý•µMešÒ'ô@yž1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He  KÑ«|V«8–Ü~bf¨£ý•µMešÒ'ô@yž0‚  Ùžl7›sáN‘ø®{; ¿œ¿$a}R…7Y&'1‚z0
++‚71€ 0]
++‚71O0M0
++‚70
+  ¢€ 010	`†He  Ùžl7›sáN‘ø®{; ¿œ¿$a}R…7Y&'0‚
++‚71ö0ó H i n t àa m d 6 4 _ m i c r o s o f t - w i n d o w s - k . . e o - c a p t u r e - p l u g - i n s _ 3 1 b f 3 8 5 6 a d 3 6 4 e 3 5 _ 1 0 . 0 . 2 6 1 0 0 . 1 8 8 2 _ n o n e _ 9 1 0 9 1 0 c 9 f 0 b 8 d 1 3 f \ v i d c a p . a x   0‚¤ ´!¡2ç¸›¥ê#ØY8úÅ`\Rmva’½Ó1‚~0
++‚71€ 0]
++‚71O0M0
++‚70
+  ¢€ 010	`†He  ´!¡2ç¸›¥ê#ØY8úÅ`\Rmva’½Ó0‚	
++‚71ú0÷ H i n t äa m d 6 4 _ m i c r o s o f t - w i n d o w s - t . . r e c o g n i t i o n - g e s t u r e _ 3 1 b f 3 8 5 6 a d 3 6 4 e 3 5 _ 1 0 . 0 . 2 6 1 0 0 . 1 8 8 2 _ n o n e _ 4 f f d 2 3 f a 8 4 b c 5 4 5 9 \ m s h w g s t . d l l   0*Õ"z
+ëé$¯Ðµýþl`–Å}˜10
++‚71‚ 0*@u¹‹—3Qtt|KÛT4·ó10
++‚71‚ 0\]ò±À9»ªôþ˜„QÿØÃ}1D0
++‚71€ 00
++‚71"0  P E T r u s t e d 1   0 ƒ;Êóöç‰7A¿$(ôIL`Ké¤q.aVw'õHÿ#î1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He  ƒ;Êóöç‰7A¿$(ôIL`Ké¤q.aVw'õHÿ#î0*ŠÙ/U‹>”Lã9æÙ–†FL`10
++‚71‚ 0*¯P4Ð?O+ºÏ¤Ró¯JÓo¼10
++‚71‚ 0 ¼ŸÞäVTý_µjä>¹6ëÞWeæ )ix‹
+ñBüü‘1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He  ¼ŸÞäVTý_µjä>¹6ëÞWeæ )ix‹
+ñBüü‘0‚¤ ìæEiõï‘Žs¾ÒGkÕ«æ!c“ŒÃù7wÿò¦1‚~0
++‚71€ 0]
++‚71O0M0
++‚70
+  ¢€ 010	`†He  ìæEiõï‘Žs¾ÒGkÕ«æ!c“ŒÃù7wÿò¦0‚	
++‚71ú0÷ H i n t äa m d 6 4 _ m i c r o s o f t - w i n d o w s - k . . e o - c a p t u r e - p l u g - i n s _ 3 1 b f 3 8 5 6 a d 3 6 4 e 3 5 _ 1 0 . 0 . 2 6 1 0 0 . 1 8 8 2 _ n o n e _ 9 1 0 9 1 0 c 9 f 0 b 8 d 1 3 f \ k s w d m c a p . a x   0*Žq
+š‚Ú´ãY‰Ÿ¦JØå¨10
++‚71‚ 0*ëï÷.Ä6;ÞjŽ^XoÕ0Ó³10
++‚71€ 0*‡ iüù4z¢œ„|3l€@10
++‚71‚ 0*a4-oêÞnšçÑ0Â5-vøhä10
++‚71‚ 0*Ô}¯à›í6RdGe"Sh‰B10
++‚71‚ 0¢ÿ=eñ_z¹•Tt*Ÿ_ÒÞL1‰0
++‚71€ 00
++‚71"0  P E T r u s t e d 1   0C
++‚71503 F i l e "m s k e y p r o t c l i . d l l   0 	/BÞËyÖ~I‰q›ÔwFž¦XßÓÜ`x&,O(E1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He  	/BÞËyÖ~I‰q›ÔwFž¦XßÓÜ`x&,O(E0 	sÃ1VülDezŒ`D¬w|Î~!ÍÐ,›@I×º1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He  	sÃ1VülDezŒ`D¬w|Î~!ÍÐ,›@I×º0‚Û 	€LDÕ9e_—íŽ1?”èJá4HWàXþý×ý±1‚µ0
++‚71€ 0]
++‚71O0M0
++‚70
+  ¢€ 010	`†He  	€LDÕ9e_—íŽ1?”èJá4HWàXþý×ý±0‚@
++‚71‚00‚, H i n t ‚a m d 6 4 _ m i c r o s o f t - w i n d o w s - r . . - p r o f i l e - h a r d w a r e i d _ 3 1 b f 3 8 5 6 a d 3 6 4 e 3 5 _ 1 0 . 0 . 2 6 1 0 0 . 7 3 0 9 _ n o n e _ 8 5 4 d 4 d 4 5 b a 6 0 1 0 4 3 \ w i n d o w s . s y s t e m . p r o f i l e . h a r d w a r e i d . d l l   0‚‰ 
+‰ðÏ°ò¤$zô4í'Pˆ'§•÷BJEÃq5¥¨´1‚c0
++‚71€ 0]
++‚71O0M0
++‚70
+  ¢€ 010	`†He  
+‰ðÏ°ò¤$zô4í'Pˆ'§•÷BJEÃq5¥¨´0ï
++‚71à0Ý H i n t Êa m d 6 4 _ m i c r o s o f t - w i n d o w s - c e r t u t i l _ 3 1 b f 3 8 5 6 a d 3 6 4 e 3 5 _ 1 0 . 0 . 2 6 1 0 0 . 7 3 0 9 _ n o n e _ 5 1 5 0 f 5 7 5 e 3 5 c 0 a 1 1 \ c e r t u t i l . e x e   0*
+ÑÊ<Dè%¾Q¿[«3M÷_Ð10
++‚71‚ 0 VvXëó•]M;¢K÷Ì|–íb‹Ã°6;ñÚï¼‚1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He  VvXëó•]M;¢K÷Ì|–íb‹Ã°6;ñÚï¼‚0 §M©Ä©x÷±?SÉ¡Š{!„Ù¾/ifó™ûŽV¹â¾Ó1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He  §M©Ä©x÷±?SÉ¡Š{!„Ù¾/ifó™ûŽV¹â¾Ó0 ƒ=ÉƒdúðÅWž²p_qé|Hr@GIÞg»Í=×1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He  ƒ=ÉƒdúðÅWž²p_qé|Hr@GIÞg»Í=×0 Î¾cdÓÔ¦ –GêâS¯ÂïžãÖ±Ç»–Yw¦1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He  Î¾cdÓÔ¦ –GêâS¯ÂïžãÖ±Ç»–Yw¦0*Ñ¶_¦ã"nÁ2Ì™È"R10
++‚71€ 0*<Õ†?ÍÉÆäœ PÏÓ\Þ10
++‚71‚ 0*5ÓK—IˆŒ’;­
+Í£­n10
++‚71‚ 0*<qËAºƒ—èØì)ìB´310
++‚71‚ 0 nýÉL°â:gÅGÇ£&É€ˆ;ŠfÁ»Ù€A1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He  nýÉL°â:gÅGÇ£&É€ˆ;ŠfÁ»Ù€A0*shã_˜‰¶¢2¶6Æ¦Ã÷Ù6ó10
++‚71‚ 0* ÈD4º%;…Z°IÊ;8Q×110
++‚71‚ 0*îÉ*/³äÞ v²rp“ˆ>z10
++‚71‚ 0*º’Z§-¢¾J½J?½JìLÏ~10
++‚71€ 0 @q;=©uIñßGh-ÜeÕ,>/óm›Ç§O¸Ùã1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He  @q;=©uIñßGh-ÜeÕ,>/óm›Ç§O¸Ùã0*šnZQ¥¯[F’xÓ
+R„j10
++‚71€ 0‚¨ Ä6ÒP¶¸¨SÃæ"ÊK ­­íôÔÀPÕê6ò-j1‚‚0
++‚71€ 0]
++‚71O0M0
++‚70
+  ¢€ 010	`†He  Ä6ÒP¶¸¨SÃæ"ÊK ­­íôÔÀPÕê6ò-j0‚
++‚71þ0û H i n t èa m d 6 4 _ m i c r o s o f t - w i n d o w s - h w v i d - m i g r a t i o n - 2 _ 3 1 b f 3 8 5 6 a d 3 6 4 e 3 5 _ 1 0 . 0 . 2 6 1 0 0 . 5 0 7 4 _ n o n e _ f b d 5 7 a 2 1 0 2 d f b a b 2 \ h w v i d m i g p l u g i n . d l l   0*_‡PñEÚ%ôå0¼ëf:ÿEv10
++‚71€ 0‚‹ ÓBuê4¨:@¯;êgeP\Ño‹P]zè¾mÄËBV1‚e0
++‚71€ 0]
++‚71O0M0
++‚70
+  ¢€ 010	`†He  ÓBuê4¨:@¯;êgeP\Ño‹P]zè¾mÄËBV0ñ
++‚71â0ß H i n t Ìa m d 6 4 _ m i c r o s o f t - w i n d o w s - w s p - s p a c e s _ 3 1 b f 3 8 5 6 a d 3 6 4 e 3 5 _ 1 0 . 0 . 2 6 1 0 0 . 7 3 0 9 _ n o n e _ 0 2 0 4 e f b a 5 d 8 a 5 e e 1 \ s m p h o s t . d l l   0*:KP—)i
+Eo[\I@Âø¤6ž10
++‚71‚ 0‚“ LøqÙ–Ð€çñ7Õ-…”°ƒgXqJ°$Ø-§1‚m0
++‚71€ 0]
++‚71O0M0
++‚70
+  ¢€ 010	`†He  LøqÙ–Ð€çñ7Õ-…”°ƒgXqJ°$Ø-§0ù
++‚71ê0ç H i n t Ôa m d 6 4 _ m i c r o s o f t - w i n d o w s - w s p - r e p l i c a t i o n _ 3 1 b f 3 8 5 6 a d 3 6 4 e 3 5 _ 1 0 . 0 . 2 6 1 0 0 . 1 8 8 2 _ n o n e _ f 9 0 4 d 0 a a c 2 0 5 c 6 9 a \ w s p _ s r . d l l   0 q,ü)i™Y·ØÂ-¬7ö7‡)Yy°èÛó¨ÎöWµ#1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He  q,ü)i™Y·ØÂ-¬7ö7‡)Yy°èÛó¨ÎöWµ#0 œÁ˜¯›w«•G®ýžD‰QœÀ‡¬6¢¼XÈšÚ\l!8d1i0
++‚71‚ 0U
++‚71G0E0
++‚7¢€ 010	`†He  œÁ˜¯›w«•G®ýžD‰QœÀ‡¬6¢¼XÈšÚ\l!8d0‚

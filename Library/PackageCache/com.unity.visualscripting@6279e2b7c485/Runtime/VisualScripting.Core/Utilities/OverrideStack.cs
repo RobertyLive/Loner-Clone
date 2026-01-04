@@ -1,0 +1,60 @@
+elParam3="0.049186"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="137"
+       stCamera:Lens="10-20mm"
+       stCamera:LensInfo="10/1 20/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 10-20mm F3.5 EX DC HSM"
+       stCamera:ProfileName="Adobe (SIGMA 10-20mm F3.5 EX DC HSM, Canon)"
+       stCamera:SensorFormatFactor="1.5"
+       stCamera:FocalLength="14"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.643856">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000147"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.032364"
+        stCamera:RadialDistortParam2="0.042032"
+        stCamera:RadialDistortParam3="-0.02115">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="0.999625"
+        stCamera:RadialDistortParam1="0.001857"
+        stCamera:RadialDistortParam2="-0.001797"
+        stCamera:RadialDistortParam3="0.000765"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000147"
+        stCamera:ResidualStandardDeviation="0.0001"
+        stCamera:RadialDistortParam1="-0.032364"
+        stCamera:RadialDistortParam2="0.042032"
+        stCamera:RadialDistortParam3="-0.02115"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="1.001221"
+        stCamera:RadialDistortParam1="-0.00225"
+        stCamera:RadialDistortParam2="0.002135"
+        stCamera:RadialDistortParam3="-0.000854"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002331"
+        stCamera:VignetteModelParam1="-0.413139"
+        stCamera:VignetteModelParam2="-0.088421"
+        stCamera:VignetteModelParam3="0.053214"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www

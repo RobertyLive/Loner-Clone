@@ -1,0 +1,20 @@
+am2="-0.011633"
+        stCamera:RadialDistortParam3="0.011027"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.145188"
+        stCamera:RadialDistortParam2="0.056681"
+        stCamera:RadialDistortParam3="0.9033"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="0.9998"
+        stCamera:RadialDistortParam1="0.000143"
+        stCamera:RadialDistortParam2="0.013234"
+        stCamera:RadialDistortParam3="-0.00781"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00233"
+        stCamera:VignetteModelParam1="-1.245303"
+        stCamera:VignetteModelParam2="7.997956"
+        stCamera:Vi

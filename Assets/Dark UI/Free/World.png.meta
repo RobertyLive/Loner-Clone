@@ -1,0 +1,52 @@
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.AI;
+
+namespace Unity.AI.Navigation
+{
+#if UNITY_2022_2_OR_NEWER
+    /// <summary> Component that modifies the properties of the GameObjects used for building a NavMesh. </summary>
+    /// <remarks>The properties apply to the current GameObject and can be optionally applied recursively to all its children
+    /// in the hierarchy. This modifier overrides the properties set to this GameObject by
+    /// any other NavMeshModifier in the parent hierarchy.</remarks>
+#else
+    /// <summary> Component that modifies the properties of the GameObjects used for building a NavMesh. </summary>
+    /// <remarks>The properties apply to the current GameObject and recursively to all its children
+    /// in the hierarchy. This modifier overrides the properties set to this GameObject by
+    /// any other NavMeshModifier in the parent hierarchy.</remarks>
+#endif
+    [ExecuteAlways]
+    [AddComponentMenu("Navigation/NavMeshModifier", 32)]
+    [HelpURL(HelpUrls.Manual + "NavMeshModifier.html")]
+    public class NavMeshModifier : MonoBehaviour
+    {
+        [SerializeField]
+        bool m_OverrideArea;
+
+        [SerializeField]
+        int m_Area;
+
+#if UNITY_2022_2_OR_NEWER
+        [SerializeField]
+        bool m_OverrideGenerateLinks;
+
+        [SerializeField]
+        bool m_GenerateLinks;
+#endif
+        
+        [SerializeField]
+        bool m_IgnoreFromBuild;
+        
+#if UNITY_2022_2_OR_NEWER
+        [SerializeField]
+        bool m_ApplyToChildren = true;
+#endif
+
+        // List of agent types the modifier is applied for.
+        // Special values: empty == None, m_AffectedAgents[0] =-1 == All.
+        [SerializeField]
+        List<int> m_AffectedAgents = new List<int>(new int[] { -1 });    // Default value is All
+
+        /// <summary> Gets or sets whether to assign the <see cref="area"/> type to this object instead of the <see cref="NavMeshSurface.defaultArea"/>. </summary>
+        /// <remarks> The area type information is used when baking the NavMesh. </remarks>
+        /// <seealso href="https://docs.unity3d.co

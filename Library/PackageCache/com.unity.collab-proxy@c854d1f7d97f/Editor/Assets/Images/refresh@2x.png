@@ -1,0 +1,17 @@
+CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO 50-500mm F4-6.3 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO 50-500mm F4-6.3 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="400"
+       stCamera:FocusDistance="10"
+       stCamera:ApertureValue="5.310704">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="12.089677"
+        stCamera:RadialDistortParam2="-150.578064"
+        stCamera:RadialDistortParam3="-9547.685547">
+       <stCamera:ChromaticRedGreenModel
+        stCam

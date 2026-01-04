@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700&display=swap"
+        rel="stylesheet">
+    <title>Home Linkedin</title>
+</head>
+
+<body>
+    <header>
+        <div class="header-bg content">
+            <div class="items-bar">
+                <img class="logo" src="./icons/linkdin.svg" alt="">
+
+                <div class="search">
+                    <img class="lupa" src="./icons/lupa.svg" alt="">
+                    <input class="search-t" type="text" name="search" id="" placeholder="Digite">
+                </div>
+                <nav aria-label="primeira navegacao primaria" class="nav-options">
+                    <ul class="options">
+                        <li><a href="./"><img src="./icons/home.svg" alt=""></a></li>
+                        <li><a href="./"><img src="./icons/pessoas.svg" alt=""></a></li>
+                        <li><a href="./"><img src="./icons/vagas.svg" alt=""></a></li>
+                        <li><a href="./"><img src="./icons/messages.svg" alt=""></a></li>
+                        <li><a href="./"><img src="./icons/sino.svg" alt=""></a></li>
+
+                        <li><a href="./">Início</a></li>
+                        <li><a href="./">Minha rede</a></li>
+                        <li><a href="./">Vagas</a></li>
+                        <li><a href="./">Mensagens</a></li>
+                        <li><a href="./">Notificações</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <nav aria-label="segunda navegacao primaria" class="nav-options-2">
+                <ul class="solucao">
+                    <li><a href="./"><img src="./icons/solucoes.svg" alt=""></a></li>
+                    <li><a href="./">Soluções</a></li>
+                </ul>
+            </nav>
+
+        </div>
+    </header>
+
+    <main>
+        <div class="two-sides content-grid">
+            <div class="grid-main">
+                <div class="box-size box content">
+                    <div class="bg-div perfil-main">
+                        <img class="capa-img" src="./imgs/Imagem de capa.png" alt="Capa">
+                        <img class="perfil-img" src="./imgs/perfil-img.jpg" alt="">
+                        <div class="infor">
+                            <div class="sobre">
+                                <h1>Robert Azevedo</h1>
+                                <h2>Desenvolvedor: HTML | CSS | JS | C# | Unity</h2>
+                                <p>Fala sobre #JS #FRONTEND #CSHARP #GAMES</p>
+                                <p class="grid-aling">São Luis, Maranhão Brasil <span class="ponto"></span> <a
+                                        href="./">informações de contato</a></p>
+                                <a class="grid-aling" href="./">5 Seguidores <span class="ponto"></span> 4 Conexões</a>
+                                <div class="grid-btns">
+                                    <a class="btn-message-color" href="./">Mensagem</a>
+                                    <a class="btn-message" href="./">Mais</a>
+                                </div>
+                            </div>
+                            <div class="empresas">
+                                <img src="./imgs/empresa.png" alt="LOGO EMPRESA">
+                                <span>Empresa</span>
+                                <img src="./imgs/ensino.png" alt="LOGO EMPRESA">
+                                <span>Instituição de ensino</span>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!--  -->
+                <section class="grid-destaque box-size content">
+                    <div class="bg-div box-margin perfil-main">
+                        <h1 class="title-destaque">Destaques</h1>
+                        <div class="items-box">
+                            <div class="box-item">
+                                <span>Publiblicação</span>
+                                <h2>O que são H's no HTML</h2>
+                                <img src="./imgs/publicacao-1.jpg" alt="">
+                                <div class="footer-destaque">
+                                    <div class="bolas">
+                                        <div class="bola1"></div>
+                                        <div class="bola2"></div>
+                                        <div class="bola3"></div>
+                                        <span>124</span>
+                                    </div>
+                                    <span>5 Comentários</span>
+                                </div>
+                            </div>
+
+                            <div class="box-item">
+                                <span>Publiblicação</span>
+                                <h2>O que são H's no HTML</h2>
+                                <img src="./imgs/publicacao-2.jpg" alt="">
+                                <div class="footer-destaque">
+                                    <div class="bolas">
+                                        <div class="bola1"></div>
+                                        <div class="bola2"></div>
+                                        <div class="bola3"></div>
+                                        <span>124</span>
+                                    </div>
+                                    <span>5 Comentários</span>
+                                </div>
+                            </div>
+
+                            <div class="box-item">
+                                <span>Publiblicação</span>
+                                <h2>O que são H's no HTML</h2>
+                                <img src="./imgs/publicacao-3.jpg" alt="">
+                                <div class="footer-destaque">
+                                    <div class="bolas">
+                                        <div class="bola1"></div>
+                                        <div class="bola2"></div>
+                                        <div class="bola3"></div>
+                                        <span class="detalhe">124</span>
+                                    </div>
+                                    <span class="number">5 Comentários</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+
+                <section class="grid-destaque box-size box-sub content space">
+                    <div class="bg-div ">
+                        <div class="bg-div-atv">
+                            <h1 class="title-atv">Atividades</h1>
+                            <span><a href="./">5 seguidores</a></span>
+                            <div class="grid-atv">
+                                <p class="author">Robert Azevedo publicou isso<span class="ponto"></span>1 sem</p>
+                                <img src="./imgs/publicacao-1.jpg" alt="">
+                                <p class="text-atv">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                                    eiusmod
+                                    tempor
+                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                    exercitation
+                                    ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+                                    reprehenderit
+                                    in voluptate velit esse cillum dolore eu...</p>
+                                <div class="footer-destaque boxsizeatv line">
+                                    <div class="bolas bola-atv">
+                                        <div class="bola1"></div>
+                                        <div class="bola2 bola2-atv"></div>
+                                        <div class="bola3"></div>
+                                        <span class="detalhe">124</span>
+                                    </div>
+                                    <span class="number">5 Comentários</span>
+                                </div>
+                            </div>
+
+                            <div>
+                                <div class="grid-atv">
+                                    <p class="author">Robert Azevedo publicou isso<span class="ponto"></span>1 sem</p>
+                                    <img src="./imgs/publicacao-1.jpg" alt="">
+                                    <p class="text-atv">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                                        eiusmod
+                                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                        quis
+                                        nostrud
+                                        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                                        irure
+                                        dolor
+                                        in reprehenderit in voluptate velit esse cillum dolore eu...</p>
+                                    <div class="footer-destaque boxsizeatv">
+                                        <div class="bolas bola-atv">
+                                            <div class="bola1"></div>
+                                            <div class="bola2 bola2-atv"></div>
+                                            <div class="bola3"></div>
+                                            <span class="detalhe">124</span>
+                                        </div>
+                                        <span class="number">5 Comentários</span>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="lineAll"></div>
+                        <p class="link-to-actives">Exibir todas as Atividades</p>
+                    </div>
+                </section>
+
+                <section class="grid-destaque box-size box-sub content">
+                    <div class="bg-div bg-div-atv about">
+                        <h2>Sobre</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                            labore
+                            et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                            nisi
+                            ut
+                            aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+                            esse
+                            cillum dolore eu fugiat nulla pariatur</p>
+                    </div>
+                </section>
+
+
+                <!-- add expex -->
+                <section class="grid-destaque box-size box-sub content">
+                    <div class="bg-div bg-div-atv about-form">
+                        <h2 class="title-exp">Experiencias</h2>
+                        <div class="grid-exp">
+                            <img src="./imgs/empresa.png" alt="">
+                            <h1>Empresa</h1>
+                            <p>1 a 7 m</p>
+                            <div class="art">
+                                <div class="pont-art"></div>
+                                <div class="line-art"></div>
+                            </div>
+                            <ul>
+                                <li>
+                                    <h1>Fullstack Developer</h1>
+                                    <h2>Tempo integral</h2>
+                                    <span class="p-inline grid-aling">Jan de 2022 - o momento <div class="ponto"></div>5
+                                        meses</span>
+                                    <span>São Luís, Maranhão Brasil</span>
+                                </li>
+                            </ul>
+                            <div class="art">
+                                <div class="pont-art"></div>
+                                <div class="line-art"></div>
+                            </div>
+                            <ul>
+                                <li>
+                                    <h1>Fullstack Developer (JR)</h1>
+                                    <h2>Tempo integral</h2>
+                                    <span class="p-inline grid-aling">Jan de 2022 - o momento <div class="ponto"></div>5
+                                        meses</span>
+                                    <span>São Luís, Maranhão Brasil</span>
+                                </li>
+                            </ul>
+                            <div class="art">
+                                <div class="pont-art"></div>
+                                <div class="line-art"></div>
+                            </div>
+                            <ul>
+                                <li>
+                                    <h1>Front-end Developer</h1>
+                                    <h2>Tempo integral</h2>
+                                    <span class="p-inline grid-aling">Jan de 2022 - o momento <div class="ponto"></div>5
+                                        meses</span>
+                                    <span>São Luís, Maranhão Brasil</span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+
+
+                <section class="grid-destaque box-size box-sub content">
+                    <div class="bg-div bg-div-atv about-form">
+                        <h2>Formação acadêmica</h2>
+                        <div class="grid-form">
+                            <img src="./imgs/empresa.png" alt="">
+                            <h1>UFMA</h1>
+                            <h3>Administração</h3>
+                            <span>2015 a 2019</span>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="last grid-destaque box-size box-sub content">
+                    <div class="bg-div bg-div-atv about-form">
+                        <h1>Idiomas</h1>
+                        <div class="grid-idiomas">
+                            <div class="space-to idiomas">
+                                <h3>Português</h3>
+                                <p>Nativo</p>
+                            </div>
+                            <div class="lineAll linesep"></div>
+                            <div class="idiomas">
+                                <h3>Ingles</h3>
+                                <p>Básico</p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+
+            <aside class="content-a bg-div box-margin bg-div-atv peoples">
+                <div class="people-grid">
+                    <h1 class="title-peoples">As pessoas também viram</h1>
+                    <div class="grid-people">
+                        <img src="./imgs/img_profile/perfil-1.jpg" alt="">
+                        <div class="infor-people">
+                            <h1>Pessoa A</h1>
+                            <p>Título, cargo e tecnologias. Lorem Ipsum
+                                Dolor sit Amet</p>
+                            <a href="./">Enviar mensagem</a>
+                        </div>
+                    </div>
+
+                    <div class="grid-people">
+                        <img src="./imgs/img_profile/perfil-2.jpg" alt="">
+                        <div class="infor-people">
+                            <h1>Pessoa A</h1>
+                            <p>Título, cargo e tecnologias. Lorem Ipsum
+                                Dolor sit Amet</p>
+                            <a href="./">Enviar mensagem</a>
+                        </div>
+                    </div>
+
+                    <div class="grid-people">
+                        <img src="./imgs/img_profile/perfil-3.jpg" alt="">
+                        <div class="infor-people">
+                            <h1>Pessoa A</h1>
+                            <p>Título, cargo e tecnologias. Lorem Ipsum
+                                Dolor sit Amet</p>
+                            <a href="./">Enviar mensagem</a>
+                        </div>
+                    </div>
+
+                    <div class="grid-people">
+                        <img src="./imgs/img_profile/perfil-4.jpg" alt="">
+                        <div class="infor-people">
+                            <h1>Pessoa A</h1>
+                            <p>Título, cargo e tecnologias. Lorem Ipsum
+                                Dolor sit Amet</p>
+                            <a href="./">Enviar mensagem</a>
+                        </div>
+                    </div>
+
+                    <div class="grid-people">
+                        <img src="./imgs/img_profile/perfil-5.jpg" alt="">
+                        <div class="infor-people">
+                            <h1>Pessoa A</h1>
+                            <p>Título, cargo e tecnologias. Lorem Ipsum
+                                Dolor sit Amet</p>
+                            <a href="./">Enviar mensagem</a>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+        </div>
+    </main>
+</body>
+
+</html>                                                                                                                                   

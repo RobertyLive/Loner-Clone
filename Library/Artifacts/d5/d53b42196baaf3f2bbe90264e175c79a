@@ -1,0 +1,2343 @@
+stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.25"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.009207"
+        stCamera:RadialDistortParam2="0.143703"
+        stCamera:RadialDistortParam3="0.078285">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000318"
+        stCamera:RadialDistortParam1="-0.0004"
+        stCamera:RadialDistortParam2="-0.01157"
+        stCamera:RadialDistortParam3="0.036561"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.009207"
+        stCamera:RadialDistortParam2="0.143703"
+        stCamera:RadialDistortParam3="0.078285"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999802"
+        stCamera:RadialDistortParam1="0.001485"
+        stCamera:RadialDistortParam2="-0.003622"
+        stCamera:RadialDistortParam3="0.015494"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002825"
+        stCamera:VignetteModelParam1="-0.384917"
+        stCamera:VignetteModelParam2="-16.280727"
+        stCamera:VignetteModelParam3="44.570576"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.23"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.003387"
+        stCamera:RadialDistortParam2="0.129069"
+        stCamera:RadialDistortParam3="0.064205">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000312"
+        stCamera:RadialDistortParam1="-0.000438"
+        stCamera:RadialDistortParam2="-0.010923"
+        stCamera:RadialDistortParam3="0.03625"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.003387"
+        stCamera:RadialDistortParam2="0.129069"
+        stCamera:RadialDistortParam3="0.064205"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999811"
+        stCamera:RadialDistortParam1="0.001509"
+        stCamera:RadialDistortParam2="-0.005807"
+        stCamera:RadialDistortParam3="0.025574"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002787"
+        stCamera:VignetteModelParam1="-0.381629"
+        stCamera:VignetteModelParam2="-15.23081"
+        stCamera:VignetteModelParam3="41.427528"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.22"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.000737"
+        stCamera:RadialDistortParam2="0.119632"
+        stCamera:RadialDistortParam3="0.055836">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000311"
+        stCamera:RadialDistortParam1="-0.000684"
+        stCamera:RadialDistortParam2="-0.006768"
+        stCamera:RadialDistortParam3="0.021185"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.000737"
+        stCamera:RadialDistortParam2="0.119632"
+        stCamera:RadialDistortParam3="0.055836"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999826"
+        stCamera:RadialDistortParam1="0.000995"
+        stCamera:RadialDistortParam2="0.000442"
+        stCamera:RadialDistortParam3="0.00276"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002673"
+        stCamera:VignetteModelParam1="-0.381255"
+        stCamera:VignetteModelParam2="-14.436786"
+        stCamera:VignetteModelParam3="38.848114"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.21"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.006085"
+        stCamera:RadialDistortParam2="0.10897"
+        stCamera:RadialDistortParam3="0.045618">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000305"
+        stCamera:RadialDistortParam1="-0.000729"
+        stCamera:RadialDistortParam2="-0.005252"
+        stCamera:RadialDistortParam3="0.014164"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.006085"
+        stCamera:RadialDistortParam2="0.10897"
+        stCamera:RadialDistortParam3="0.045618"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99983"
+        stCamera:RadialDistortParam1="0.001039"
+        stCamera:RadialDistortParam2="-0.000175"
+        stCamera:RadialDistortParam3="0.004037"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002635"
+        stCamera:VignetteModelParam1="-0.372695"
+        stCamera:VignetteModelParam2="-13.621137"
+        stCamera:VignetteModelParam3="36.411819"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.041895"
+        stCamera:RadialDistortParam2="0.268816"
+        stCamera:RadialDistortParam3="0.227424">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000364"
+        stCamera:RadialDistortParam1="-0.000828"
+        stCamera:RadialDistortParam2="-0.00744"
+        stCamera:RadialDistortParam3="0.013123"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.041895"
+        stCamera:RadialDistortParam2="0.268816"
+        stCamera:RadialDistortParam3="0.227424"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999748"
+        stCamera:RadialDistortParam1="0.001824"
+        stCamera:RadialDistortParam2="0.001722"
+        stCamera:RadialDistortParam3="0.002725"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002138"
+        stCamera:VignetteModelParam1="-1.440346"
+        stCamera:VignetteModelParam2="6.807268"
+        stCamera:VignetteModelParam3="-52.705589"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.013614"
+        stCamera:RadialDistortParam2="0.095036"
+        stCamera:RadialDistortParam3="0.034693">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000272"
+        stCamera:RadialDistortParam1="-0.000752"
+        stCamera:RadialDistortParam2="-0.001372"
+        stCamera:RadialDistortParam3="0.002736"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.013614"
+        stCamera:RadialDistortParam2="0.095036"
+        stCamera:RadialDistortParam3="0.034693"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999864"
+        stCamera:RadialDistortParam1="0.000752"
+        stCamera:RadialDistortParam2="0.005831"
+        stCamera:RadialDistortParam3="-0.016671"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000684"
+        stCamera:VignetteModelParam1="-0.885664"
+        stCamera:VignetteModelParam2="1.421337"
+        stCamera:VignetteModelParam3="-6.771775"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.195"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019031"
+        stCamera:RadialDistortParam2="0.086096"
+        stCamera:RadialDistortParam3="0.026692">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000269"
+        stCamera:RadialDistortParam1="-0.000934"
+        stCamera:RadialDistortParam2="0.001394"
+        stCamera:RadialDistortParam3="-0.007511"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019031"
+        stCamera:RadialDistortParam2="0.086096"
+        stCamera:RadialDistortParam3="0.026692"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999874"
+        stCamera:RadialDistortParam1="0.000575"
+        stCamera:RadialDistortParam2="0.007236"
+        stCamera:RadialDistortParam3="-0.020199"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000511"
+        stCamera:VignetteModelParam1="-0.824982"
+        stCamera:VignetteModelParam2="0.709669"
+        stCamera:VignetteModelParam3="-3.08907"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.19"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028214"
+        stCamera:RadialDistortParam2="0.074077"
+        stCamera:RadialDistortParam3="0.019104">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000261"
+        stCamera:RadialDistortParam1="-0.001102"
+        stCamera:RadialDistortParam2="0.003943"
+        stCamera:RadialDistortParam3="-0.016794"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028214"
+        stCamera:RadialDistortParam2="0.074077"
+        stCamera:RadialDistortParam3="0.019104"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999883"
+        stCamera:RadialDistortParam1="0.000676"
+        stCamera:RadialDistortParam2="0.00592"
+        stCamera:RadialDistortParam3="-0.017238"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000231"
+        stCamera:VignetteModelParam1="-0.784689"
+        stCamera:VignetteModelParam2="0.545996"
+        stCamera:VignetteModelParam3="-1.780212"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.188"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.033855"
+        stCamera:RadialDistortParam2="0.070101"
+        stCamera:RadialDistortParam3="0.016322">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000255"
+        stCamera:RadialDistortParam1="-0.000972"
+        stCamera:RadialDistortParam2="0.001478"
+        stCamera:RadialDistortParam3="-0.00574"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.033855"
+        stCamera:RadialDistortParam2="0.070101"
+        stCamera:RadialDistortParam3="0.016322"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999887"
+        stCamera:RadialDistortParam1="0.000727"
+        stCamera:RadialDistortParam2="0.005169"
+        stCamera:RadialDistortParam3="-0.013122"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00035"
+        stCamera:VignetteModelParam1="-0.758504"
+        stCamera:VignetteModelParam2="0.258174"
+        stCamera:VignetteModelParam3="-0.570473"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.036574"
+        stCamera:RadialDistortParam2="0.242047"
+        stCamera:RadialDistortParam3="0.192689">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000353"
+        stCamera:RadialDistortParam1="-0.000845"
+        stCamera:RadialDistortParam2="-0.005729"
+        stCamera:RadialDistortParam3="0.007142"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.036574"
+        stCamera:RadialDistortParam2="0.242047"
+        stCamera:RadialDistortParam3="0.192689"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999763"
+        stCamera:RadialDistortParam1="0.001612"
+        stCamera:RadialDistortParam2="0.003461"
+        stCamera:RadialDistortParam3="-0.00608"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002006"
+        stCamera:VignetteModelParam1="-1.406718"
+        stCamera:VignetteModelParam2="6.993072"
+        stCamera:VignetteModelParam3="-50.29335"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.032499"
+        stCamera:RadialDistortParam2="0.222778"
+        stCamera:RadialDistortParam3="0.169788">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000343"
+        stCamera:RadialDistortParam1="-0.000826"
+        stCamera:RadialDistortParam2="-0.005222"
+        stCamera:RadialDistortParam3="0.008245"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.032499"
+        stCamera:RadialDistortParam2="0.222778"
+        stCamera:RadialDistortParam3="0.169788"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999769"
+        stCamera:RadialDistortParam1="0.001616"
+        stCamera:RadialDistortParam2="0.002737"
+        stCamera:RadialDistortParam3="-0.004688"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00183"
+        stCamera:VignetteModelParam1="-1.380384"
+        stCamera:VignetteModelParam2="7.013509"
+        stCamera:VignetteModelParam3="-47.869896"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.026345"
+        stCamera:RadialDistortParam2="0.196737"
+        stCamera:RadialDistortParam3="0.138589">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000336"
+        stCamera:RadialDistortParam1="-0.001074"
+        stCamera:RadialDistortParam2="-0.00087"
+        stCamera:RadialDistortParam3="-0.005837"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.026345"
+        stCamera:RadialDistortParam2="0.196737"
+        stCamera:RadialDistortParam3="0.138589"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999789"
+        stCamera:RadialDistortParam1="0.00124"
+        stCamera:RadialDistortParam2="0.005934"
+        stCamera:RadialDistortParam3="-0.016228"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001676"
+        stCamera:VignetteModelParam1="-1.316353"
+        stCamera:VignetteModelParam2="6.571522"
+        stCamera:VignetteModelParam3="-42.541389"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.018269"
+        stCamera:RadialDistortParam2="0.169057"
+        stCamera:RadialDistortParam3="0.105219">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000316"
+        stCamera:RadialDistortParam1="-0.000775"
+        stCamera:RadialDistortParam2="-0.0038"
+        stCamera:RadialDistortParam3="0.007331"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.018269"
+        stCamera:RadialDistortParam2="0.169057"
+        stCamera:RadialDistortParam3="0.105219"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999806"
+        stCamera:RadialDistortParam1="0.001248"
+        stCamera:RadialDistortParam2="0.00358"
+        stCamera:RadialDistortParam3="-0.006803"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001629"
+        stCamera:VignetteModelParam1="-1.246132"
+        stCamera:VignetteModelParam2="6.025291"
+        stCamera:VignetteModelParam3="-36.280109"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.25"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.009207"
+        stCamera:RadialDistortParam2="0.143703"
+        stCamera:RadialDistortParam3="0.078285">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000304"
+        stCamera:RadialDistortParam1="-0.000882"
+        stCamera:RadialDistortParam2="-0.001704"
+        stCamera:RadialDistortParam3="0.002052"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.009207"
+        stCamera:RadialDistortParam2="0.143703"
+        stCamera:RadialDistortParam3="0.078285"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999826"
+        stCamera:RadialDistortParam1="0.001062"
+        stCamera:RadialDistortParam2="0.004029"
+        stCamera:RadialDistortParam3="-0.007883"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001698"
+        stCamera:VignetteModelParam1="-1.14792"
+        stCamera:VignetteModelParam2="4.882267"
+        stCamera:VignetteModelParam3="-27.820976"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.23"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.003387"
+        stCamera:RadialDistortParam2="0.129069"
+        stCamera:RadialDistortParam3="0.064205">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000299"
+        stCamera:RadialDistortParam1="-0.001028"
+        stCamera:RadialDistortParam2="0.000779"
+        stCamera:RadialDistortParam3="-0.006908"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.003387"
+        stCamera:RadialDistortParam2="0.129069"
+        stCamera:RadialDistortParam3="0.064205"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999835"
+        stCamera:RadialDistortParam1="0.001071"
+        stCamera:RadialDistortParam2="0.003211"
+        stCamera:RadialDistortParam3="-0.005965"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001535"
+        stCamera:VignetteModelParam1="-1.082394"
+        stCamera:VignetteModelParam2="4.124581"
+        stCamera:VignetteModelParam3="-22.557524"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.22"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.000737"
+        stCamera:RadialDistortParam2="0.119632"
+        stCamera:RadialDistortParam3="0.055836">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000295"
+        stCamera:RadialDistortParam1="-0.001112"
+        stCamera:RadialDistortParam2="0.002071"
+        stCamera:RadialDistortParam3="-0.010126"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.000737"
+        stCamera:RadialDistortParam2="0.119632"
+        stCamera:RadialDistortParam3="0.055836"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999849"
+        stCamera:RadialDistortParam1="0.000647"
+        stCamera:RadialDistortParam2="0.00811"
+        stCamera:RadialDistortParam3="-0.023412"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001295"
+        stCamera:VignetteModelParam1="-1.03398"
+        stCamera:VignetteModelParam2="3.410462"
+        stCamera:VignetteModelParam3="-18.107445"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.21"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.006085"
+        stCamera:RadialDistortParam2="0.10897"
+        stCamera:RadialDistortParam3="0.045618">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000287"
+        stCamera:RadialDistortParam1="-0.001047"
+        stCamera:RadialDistortParam2="0.001612"
+        stCamera:RadialDistortParam3="-0.007962"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.006085"
+        stCamera:RadialDistortParam2="0.10897"
+        stCamera:RadialDistortParam3="0.045618"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999854"
+        stCamera:RadialDistortParam1="0.000787"
+        stCamera:RadialDistortParam2="0.005637"
+        stCamera:RadialDistortParam3="-0.014553"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001028"
+        stCamera:VignetteModelParam1="-0.971678"
+        stCamera:VignetteModelParam2="2.618251"
+        stCamera:VignetteModelParam3="-13.403966"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.041895"
+        stCamera:RadialDistortParam2="0.268816"
+        stCamera:RadialDistortParam3="0.227424">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000364"
+        stCamera:RadialDistortParam1="-0.001206"
+        stCamera:RadialDistortParam2="-0.002837"
+        stCamera:RadialDistortParam3="0.000549"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.041895"
+        stCamera:RadialDistortParam2="0.268816"
+        stCamera:RadialDistortParam3="0.227424"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999757"
+        stCamera:RadialDistortParam1="0.001573"
+        stCamera:RadialDistortParam2="0.004222"
+        stCamera:RadialDistortParam3="-0.002614"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001432"
+        stCamera:VignetteModelParam1="-1.384095"
+        stCamera:VignetteModelParam2="2.916627"
+        stCamera:VignetteModelParam3="-14.458141"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.013614"
+        stCamera:RadialDistortParam2="0.095036"
+        stCamera:RadialDistortParam3="0.034693">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000268"
+        stCamera:RadialDistortParam1="-0.000904"
+        stCamera:RadialDistortParam2="-0.000141"
+        stCamera:RadialDistortParam3="-0.000706"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.013614"
+        stCamera:RadialDistortParam2="0.095036"
+        stCamera:RadialDistortParam3="0.034693"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999869"
+        stCamera:RadialDistortParam1="0.001021"
+        stCamera:RadialDistortParam2="0.001766"
+        stCamera:RadialDistortParam3="-0.000452"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000233"
+        stCamera:VignetteModelParam1="-0.833068"
+        stCamera:VignetteModelParam2="0.286406"
+        stCamera:VignetteModelParam3="-1.005534"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.195"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019031"
+        stCamera:RadialDistortParam2="0.086096"
+        stCamera:RadialDistortParam3="0.026692">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000261"
+        stCamera:RadialDistortParam1="-0.000923"
+        stCamera:RadialDistortParam2="0.000737"
+        stCamera:RadialDistortParam3="-0.004243"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019031"
+        stCamera:RadialDistortParam2="0.086096"
+        stCamera:RadialDistortParam3="0.026692"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999878"
+        stCamera:RadialDistortParam1="0.000903"
+        stCamera:RadialDistortParam2="0.003114"
+        stCamera:RadialDistortParam3="-0.005904"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000257"
+        stCamera:VignetteModelParam1="-0.790652"
+        stCamera:VignetteModelParam2="-0.025309"
+        stCamera:VignetteModelParam3="0.500052"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.19"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028214"
+        stCamera:RadialDistortParam2="0.074077"
+        stCamera:RadialDistortParam3="0.019104">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00025"
+        stCamera:RadialDistortParam1="-0.000921"
+        stCamera:RadialDistortParam2="0.000791"
+        stCamera:RadialDistortParam3="-0.003746"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028214"
+        stCamera:RadialDistortParam2="0.074077"
+        stCamera:RadialDistortParam3="0.019104"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999886"
+        stCamera:RadialDistortParam1="0.000985"
+        stCamera:RadialDistortParam2="0.002153"
+        stCamera:RadialDistortParam3="-0.003877"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000236"
+        stCamera:VignetteModelParam1="-0.769519"
+        stCamera:VignetteModelParam2="0.266526"
+        stCamera:VignetteModelParam3="-0.576247"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.188"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.033855"
+        stCamera:RadialDistortParam2="0.070101"
+        stCamera:RadialDistortParam3="0.016322">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000243"
+        stCamera:RadialDistortParam1="-0.0008"
+        stCamera:RadialDistortParam2="-0.001394"
+        stCamera:RadialDistortParam3="0.004995"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.033855"
+        stCamera:RadialDistortParam2="0.070101"
+        stCamera:RadialDistortParam3="0.016322"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999893"
+        stCamera:RadialDistortParam1="0.001057"
+        stCamera:RadialDistortParam2="0.001198"
+        stCamera:RadialDistortParam3="-0.000492"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000221"
+        stCamera:VignetteModelParam1="-0.7585"
+        stCamera:VignetteModelParam2="0.312663"
+        stCamera:VignetteModelParam3="-0.825277"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.036574"
+        stCamera:RadialDistortParam2="0.242047"
+        stCamera:RadialDistortParam3="0.192689">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00035"
+        stCamera:RadialDistortParam1="-0.001138"
+        stCamera:RadialDistortParam2="-0.002206"
+        stCamera:RadialDistortParam3="-0.000857"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.036574"
+        stCamera:RadialDistortParam2="0.242047"
+        stCamera:RadialDistortParam3="0.192689"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999773"
+        stCamera:RadialDistortParam1="0.001462"
+        stCamera:RadialDistortParam2="0.003948"
+        stCamera:RadialDistortParam3="-0.001932"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000798"
+        stCamera:VignetteModelParam1="-1.270922"
+        stCamera:VignetteModelParam2="1.51747"
+        stCamera:VignetteModelParam3="-7.243332"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.032499"
+        stCamera:RadialDistortParam2="0.222778"
+        stCamera:RadialDistortParam3="0.169788">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000337"
+        stCamera:RadialDistortParam1="-0.000863"
+        stCamera:RadialDistortParam2="-0.004906"
+        stCamera:RadialDistortParam3="0.009617"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.032499"
+        stCamera:RadialDistortParam2="0.222778"
+        stCamera:RadialDistortParam3="0.169788"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99978"
+        stCamera:RadialDistortParam1="0.001497"
+        stCamera:RadialDistortParam2="0.002485"
+        stCamera:RadialDistortParam3="0.003087"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000384"
+        stCamera:VignetteModelParam1="-1.19692"
+        stCamera:VignetteModelParam2="0.73943"
+        stCamera:VignetteModelParam3="-3.382176"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.026345"
+        stCamera:RadialDistortParam2="0.196737"
+        stCamera:RadialDistortParam3="0.138589">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000324"
+        stCamera:RadialDistortParam1="-0.000878"
+        stCamera:RadialDistortParam2="-0.003177"
+        stCamera:RadialDistortParam3="0.003227"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.026345"
+        stCamera:RadialDistortParam2="0.196737"
+        stCamera:RadialDistortParam3="0.138589"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999794"
+        stCamera:RadialDistortParam1="0.001405"
+        stCamera:RadialDistortParam2="0.002729"
+        stCamera:RadialDistortParam3="-0.001265"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.0002"
+        stCamera:VignetteModelParam1="-1.098862"
+        stCamera:VignetteModelParam2="-0.07038"
+        stCamera:VignetteModelParam3="0.416568"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.018269"
+        stCamera:RadialDistortParam2="0.169057"
+        stCamera:RadialDistortParam3="0.105219">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000313"
+        stCamera:RadialDistortParam1="-0.00097"
+        stCamera:RadialDistortParam2="-0.001439"
+        stCamera:RadialDistortParam3="-0.000089"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.018269"
+        stCamera:RadialDistortParam2="0.169057"
+        stCamera:RadialDistortParam3="0.105219"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999814"
+        stCamera:RadialDistortParam1="0.001232"
+        stCamera:RadialDistortParam2="0.00313"
+        stCamera:RadialDistortParam3="-0.002749"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000222"
+        stCamera:VignetteModelParam1="-1.038543"
+        stCamera:VignetteModelParam2="0.221327"
+        stCamera:VignetteModelParam3="-0.995984"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.25"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.009207"
+        stCamera:RadialDistortParam2="0.143703"
+        stCamera:RadialDistortParam3="0.078285">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000299"
+        stCamera:RadialDistortParam1="-0.001025"
+        stCamera:RadialDistortParam2="0.000332"
+        stCamera:RadialDistortParam3="-0.004989"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.009207"
+        stCamera:RadialDistortParam2="0.143703"
+        stCamera:RadialDistortParam3="0.078285"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999832"
+        stCamera:RadialDistortParam1="0.001127"
+        stCamera:RadialDistortParam2="0.003032"
+        stCamera:RadialDistortParam3="-0.003152"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:VignetteModelParam1="-0.971963"
+        stCamera:VignetteModelParam2="0.15044"
+        stCamera:VignetteModelParam3="-0.445759"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.23"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.003387"
+        stCamera:RadialDistortParam2="0.129069"
+        stCamera:RadialDistortParam3="0.064205">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000291"
+        stCamera:RadialDistortParam1="-0.000952"
+        stCamera:RadialDistortParam2="-0.000358"
+        stCamera:RadialDistortParam3="-0.001536"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.003387"
+        stCamera:RadialDistortParam2="0.129069"
+        stCamera:RadialDistortParam3="0.064205"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999844"
+        stCamera:RadialDistortParam1="0.00102"
+        stCamera:RadialDistortParam2="0.003547"
+        stCamera:RadialDistortParam3="-0.00559"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000185"
+        stCamera:VignetteModelParam1="-0.923168"
+        stCamera:VignetteModelParam2="-0.016494"
+        stCamera:VignetteModelParam3="0.280633"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.22"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.000737"
+        stCamera:RadialDistortParam2="0.119632"
+        stCamera:RadialDistortParam3="0.055836">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000285"
+        stCamera:RadialDistortParam1="-0.000948"
+        stCamera:RadialDistortParam2="-0.000193"
+        stCamera:RadialDistortParam3="-0.001493"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.000737"
+        stCamera:RadialDistortParam2="0.119632"
+        stCamera:RadialDistortParam3="0.055836"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999851"
+        stCamera:RadialDistortParam1="0.001004"
+        stCamera:RadialDistortParam2="0.00326"
+        stCamera:RadialDistortParam3="-0.004911"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000187"
+        stCamera:VignetteModelParam1="-0.907009"
+        stCamera:VignetteModelParam2="0.208363"
+        stCamera:VignetteModelParam3="-0.597529"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.21"
+       stCamera:ApertureValue="6">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.006085"
+        stCamera:RadialDistortParam2="0.10897"
+        stCamera:RadialDistortParam3="0.045618">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000278"
+        stCamera:RadialDistortParam1="-0.000941"
+        stCamera:RadialDistortParam2="-0.000002"
+        stCamera:RadialDistortParam3="-0.001669"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.006085"
+        stCamera:RadialDistortParam2="0.10897"
+        stCamera:RadialDistortParam3="0.045618"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999859"
+        stCamera:RadialDistortParam1="0.001013"
+        stCamera:RadialDistortParam2="0.002451"
+        stCamera:RadialDistortParam3="-0.001908"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000224"
+        stCamera:VignetteModelParam1="-0.870404"
+        stCamera:VignetteModelParam2="0.161927"
+        stCamera:VignetteModelParam3="-0.502286"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.041895"
+        stCamera:RadialDistortParam2="0.268816"
+        stCamera:RadialDistortParam3="0.227424">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000397"
+        stCamera:RadialDistortParam1="-0.002706"
+        stCamera:RadialDistortParam2="0.00836"
+        stCamera:RadialDistortParam3="-0.028868"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.041895"
+        stCamera:RadialDistortParam2="0.268816"
+        stCamera:RadialDistortParam3="0.227424"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999697"
+        stCamera:RadialDistortParam1="0.000641"
+        stCamera:RadialDistortParam2="0.014245"
+        stCamera:RadialDistortParam3="-0.031589"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004085"
+        stCamera:VignetteModelParam1="-5.669065"
+        stCamera:VignetteModelParam2="15.818192"
+        stCamera:VignetteModelParam3="-22.380438"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.2"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.013614"
+        stCamera:RadialDistortParam2="0.095036"
+        stCamera:RadialDistortParam3="0.034693">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000214"
+        stCamera:RadialDistortParam1="-0.000725"
+        stCamera:RadialDistortParam2="-0.000709"
+        stCamera:RadialDistortParam3="0.002999"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.013614"
+        stCamera:RadialDistortParam2="0.095036"
+        stCamera:RadialDistortParam3="0.034693"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999664"
+        stCamera:RadialDistortParam1="0.001602"
+        stCamera:RadialDistortParam2="-0.00349"
+        stCamera:RadialDistortParam3="0.013935"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004043"
+        stCamera:VignetteModelParam1="-4.585996"
+        stCamera:VignetteModelParam2="23.99048"
+        stCamera:VignetteModelParam3="-64.739349"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.195"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019031"
+        stCamera:RadialDistortParam2="0.086096"
+        stCamera:RadialDistortParam3="0.026692">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000149"
+        stCamera:RadialDistortParam1="0.000804"
+        stCamera:RadialDistortParam2="-0.013576"
+        stCamera:RadialDistortParam3="0.037603"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.019031"
+        stCamera:RadialDistortParam2="0.086096"
+        stCamera:RadialDistortParam3="0.026692"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999625"
+        stCamera:RadialDistortParam1="0.002768"
+        stCamera:RadialDistortParam2="-0.01554"
+        stCamera:RadialDistortParam3="0.049445"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002416"
+        stCamera:VignetteModelParam1="-3.920486"
+        stCamera:VignetteModelParam2="17.637524"
+        stCamera:VignetteModelParam3="-44.778378"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.19"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028214"
+        stCamera:RadialDistortParam2="0.074077"
+        stCamera:RadialDistortParam3="0.019104">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000146"
+        stCamera:RadialDistortParam1="0.000292"
+        stCamera:RadialDistortParam2="-0.00852"
+        stCamera:RadialDistortParam3="0.023315"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.028214"
+        stCamera:RadialDistortParam2="0.074077"
+        stCamera:RadialDistortParam3="0.019104"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="0.999644"
+        stCamera:RadialDistortParam1="0.002261"
+        stCamera:RadialDistortParam2="-0.011264"
+        stCamera:RadialDistortParam3="0.036309"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002027"
+        stCamera:VignetteModelParam1="-2.988715"
+        stCamera:VignetteModelParam2="8.817488"
+        stCamera:VignetteModelParam3="-16.785404"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.188"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.033855"
+        stCamera:RadialDistortParam2="0.070101"
+        stCamera:RadialDistortParam3="0.016322">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000143"
+        stCamera:RadialDistortParam1="-0.000134"
+        stCamera:RadialDistortParam2="-0.001056"
+        stCamera:RadialDistortParam3="-0.005848"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.033855"
+        stCamera:RadialDistortParam2="0.070101"
+        stCamera:RadialDistortParam3="0.016322"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999646"
+        stCamera:RadialDistortParam1="0.001739"
+        stCamera:RadialDistortParam2="-0.00309"
+        stCamera:RadialDistortParam3="0.002597"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002678"
+        stCamera:VignetteModelParam1="-2.593723"
+        stCamera:VignetteModelParam2="5.160758"
+        stCamera:VignetteModelParam3="-5.318765"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.036574"
+        stCamera:RadialDistortParam2="0.242047"
+        stCamera:RadialDistortParam3="0.192689">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000378"
+        stCamera:RadialDistortParam1="-0.002275"
+        stCamera:RadialDistortParam2="0.00471"
+        stCamera:RadialDistortParam3="-0.015901"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.036574"
+        stCamera:RadialDistortParam2="0.242047"
+        stCamera:RadialDistortParam3="0.192689"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999687"
+        stCamera:RadialDistortParam1="0.001087"
+        stCamera:RadialDistortParam2="0.00863"
+        stCamera:RadialDistortParam3="-0.017785"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002202"
+        stCamera:VignetteModelParam1="-5.742515"
+        stCamera:VignetteModelParam2="18.733625"
+        stCamera:VignetteModelParam3="-32.499783"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.6"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.032499"
+        stCamera:RadialDistortParam2="0.222778"
+        stCamera:RadialDistortParam3="0.169788">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000374"
+        stCamera:RadialDistortParam1="-0.00253"
+        stCamera:RadialDistortParam2="0.007885"
+        stCamera:RadialDistortParam3="-0.022669"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="-0.032499"
+        stCamera:RadialDistortParam2="0.222778"
+        stCamera:RadialDistortParam3="0.169788"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999685"
+        stCamera:RadialDistortParam1="0.001208"
+        stCamera:RadialDistortParam2="0.0055"
+        stCamera:RadialDistortParam3="-0.006641"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001824"
+        stCamera:VignetteModelParam1="-5.803689"
+        stCamera:VignetteModelParam2="21.147615"
+        stCamera:VignetteModelParam3="-41.45023"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.026345"
+        stCamera:RadialDistortParam2="0.196737"
+        stCamera:RadialDistortParam3="0.138589">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.00035"
+        stCamera:RadialDistortParam1="-0.002393"
+        stCamera:RadialDistortParam2="0.009744"
+        stCamera:RadialDistortParam3="-0.03186"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.026345"
+        stCamera:RadialDistortParam2="0.196737"
+        stCamera:RadialDistortParam3="0.138589"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999682"
+        stCamera:RadialDistortParam1="0.001097"
+        stCamera:RadialDistortParam2="0.006635"
+        stCamera:RadialDistortParam3="-0.013749"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.003313"
+        stCamera:VignetteModelParam1="-5.962888"
+        stCamera:VignetteModelParam2="25.82608"
+        stCamera:VignetteModelParam3="-59.12682"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.3"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.018269"
+        stCamera:RadialDistortParam2="0.169057"
+        stCamera:RadialDistortParam3="0.105219">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000317"
+        stCamera:RadialDistortParam1="-0.001624"
+        stCamera:RadialDistortParam2="0.002578"
+        stCamera:RadialDistortParam3="-0.006494"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.018269"
+        stCamera:RadialDistortParam2="0.169057"
+        stCamera:RadialDistortParam3="0.105219"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999674"
+        stCamera:RadialDistortParam1="0.00142"
+        stCamera:RadialDistortParam2="0.002996"
+        stCamera:RadialDistortParam3="-0.007729"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00641"
+        stCamera:VignetteModelParam1="-6.231299"
+        stCamera:VignetteModelParam2="32.478466"
+        stCamera:VignetteModelParam3="-83.818199"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.25"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.009207"
+        stCamera:RadialDistortParam2="0.143703"
+        stCamera:RadialDistortParam3="0.078285">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000281"
+        stCamera:RadialDistortParam1="-0.001324"
+        stCamera:RadialDistortParam2="0.002524"
+        stCamera:RadialDistortParam3="-0.008256"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.009207"
+        stCamera:RadialDistortParam2="0.143703"
+        stCamera:RadialDistortParam3="0.078285"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999676"
+        stCamera:RadialDistortParam1="0.001383"
+        stCamera:RadialDistortParam2="0.000842"
+        stCamera:RadialDistortParam3="0.000414"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.011176"
+        stCamera:VignetteModelParam1="-6.578245"
+        stCamera:VignetteModelParam2="40.361691"
+        stCamera:VignetteModelParam3="-112.855301"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.23"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.003387"
+        stCamera:RadialDistortParam2="0.129069"
+        stCamera:RadialDistortParam3="0.064205">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000261"
+        stCamera:RadialDistortParam1="-0.00109"
+        stCamera:RadialDistortParam2="0.001373"
+        stCamera:RadialDistortParam3="-0.005808"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="-0.003387"
+        stCamera:RadialDistortParam2="0.129069"
+        stCamera:RadialDistortParam3="0.064205"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999669"
+        stCamera:RadialDistortParam1="0.001288"
+        stCamera:RadialDistortParam2="0.003079"
+        stCamera:RadialDistortParam3="-0.010609"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.014022"
+        stCamera:VignetteModelParam1="-6.736204"
+        stCamera:VignetteModelParam2="44.525166"
+        stCamera:VignetteModelParam3="-128.375381"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.22"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.000737"
+        stCamera:RadialDistortParam2="0.119632"
+        stCamera:RadialDistortParam3="0.055836">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000248"
+        stCamera:RadialDistortParam1="-0.000926"
+        stCamera:RadialDistortParam2="-0.00029"
+        stCamera:RadialDistortParam3="0.001244"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.000737"
+        stCamera:RadialDistortParam2="0.119632"
+        stCamera:RadialDistortParam3="0.055836"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.99965"
+        stCamera:RadialDistortParam1="0.002343"
+        stCamera:RadialDistortParam2="-0.008591"
+        stCamera:RadialDistortParam3="0.02328"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.010966"
+        stCamera:VignetteModelParam1="-6.185908"
+        stCamera:VignetteModelParam2="39.121773"
+        stCamera:VignetteModelParam3="-111.436356"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="169"
+       stCamera:Lens="50mm"
+       stCamera:LensInfo="50/1 50/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA MACRO 50mm F2.8 EX DG"
+       stCamera:ProfileName="Adobe (SIGMA MACRO 50mm F2.8 EX DG, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.21"
+       stCamera:ApertureValue="2.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.006085"
+        stCamera:RadialDistortParam2="0.10897"
+        stCamera:RadialDistortParam3="0.045618">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000217"
+        stCamera:RadialDistortParam1="-0.00037"
+        stCamera:RadialDistortParam2="-0.004715"
+        stCamera:RadialDistortParam3="0.013305"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.006085"
+        stCamera:RadialDistortParam2="0.10897"
+        stCamera:RadialDistortParam3="0.045618"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.99966"
+        stCamera:RadialDistortParam1="0.001857"
+        stCamera:RadialDistortParam2="-0.003916"
+        stCamera:RadialDistortParam3="0.008978"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00761"
+        stCamera:VignetteModelParam1="-5.505321"
+        stCamera:VignetteModelParam2="32.611031"
+        stCamera:VignetteModelParam3="-91.292816"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      MZê       ˇˇ  ∏       @                                   »   ∫ ¥	Õ!∏LÕ!This program cannot be run in DOS mode.
+$       'ª
+¡c⁄díc⁄díc⁄díádìb⁄díá`ìa⁄díáõíb⁄díáfìb⁄díRichc⁄dí                PE  dÜ ö*oX         "                       Ä         
+   
+   
+        0     ≥  `                                   @  à                            ¿<             8                                                                           .rdata  l                       @  @.rsrc                            @  @                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ö*oX       ?   »  »      ö*oX       d                   oX    ö           h  |  ê  ’    @  |  Ø  ¡  Ú  '  b  ü        api-ms-win-core-interlocked-l1-1-0.dll InitializeSListHead kernel32.InitializeSListHead InterlockedFlushSList kernel32.InterlockedFlushSList InterlockedPopEntrySList kernel32.InterlockedPopEntrySList InterlockedPushEntrySList kernel32.InterlockedPushEntrySList QueryDepthSList kernel32.QueryDepthSList RSDS8¿f[ MEµnXo∞%Ç   api-ms-win-core-interlocked-l1-1-0.pdb         @   .rdata  @  à  .edata  »  §   .rdata$zzzdbg       `   .rsrc$01    `   †  .rsrc$02                                                                                                                                                                                                                                                                                                                                                                                                                                            Ä                  0  Ä               	  H   `   ú                  î4   V S _ V E R S I O N _ I N F O     ΩÔ˛     
+ 98  
+ 98?                        Ú   S t r i n g F i l e I n f o   Œ   0 4 0 9 0 4 B 0   L   C o m p a n y N a m e     M i c r o s o f t   C o r p o r a t i o n   H   F i l e D e s c r i p t i o n     A p i S e t   S t u b   D L L   z -  F i l e V e r s i o n     1 0 . 0 . 1 4 3 9 3 . 7 9 5   ( r s 1 _ r e l e a s e _ s e c . 1 7 0 1 0 5 - 1 8 5 0 )     6   I n t e r n a l N a m e   a p i s e t s t u b     Ä .  L e g a l C o p y r i g h t   ©   M i c r o s o f t   C o r p o r a t i o n .   A l l   r i g h t s   r e s e r v e d .   >   O r i g i n a l F i l e n a m e   a p i s e t s t u b     j %  P r o d u c t N a m e     M i c r o s o f t Æ   W i n d o w s Æ   O p e r a t i n g   S y s t e m     B   P r o d u c t V e r s i o n   1 0 . 0 . 1 4 3 9 3 . 7 9 5     D    V a r F i l e I n f o     $    T r a n s l a t i o n     	∞            ¿<    0Ç<¥	*ÜHÜ˜†Ç<•0Ç<°10	+ 0L
++Ç7†>0<0
++Ç70	 †¢Ä 0!0	+ +PdÆ±˘Ïº.‡¢ÊåíJõ´u†ÇÉ0Ç√0Ç´†3   …dM€}≥     …0	*ÜHÜ˜ 0w10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1!0UMicrosoft Time-Stamp PCA0160907175854Z180907175854Z0Å≥10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMOPR1'0%UnCipher DSE ESN:B1B7-F67F-FEC21%0#UMicrosoft Time-Stamp Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ¢’Wù˘∫â…≥aô]ï¡ÿö˝Å◊‹s@:ü1˜'Mﬂ»r£UE˘0PºÊ”Mºqv≈"®ùÑ√¿Àço¢PΩZ™œ∏ˇVèH	4aú#µìy}Å(ã€ëﬁOîƒ=ñÌUüå”cl«{éÕÔ/fó/gËò~˜∑1Ìà”ˇ∞ÓÓÙù vÎÌ!#!âÊ«åkÊ=0H„Ã–íù1ì¯L\&	∫Ñz]Õ¯A$Û6¥EíãWØ„®∂◊8 Å‰∞€m`»0+æ¥™îî9*‰GD.:ÓΩåø„ïëIBr›’Xlˇ≤œ›ç+” ÿ7ø¯10ˆ}£U≤Îk… £Ç	0Ç0UŸ+y)Z£À£8∑&ƒ„⁄ l0U#0Ä#4¯ŸRFp
+Ì@˚v˚≥+∞√5≥0TUM0K0I†G†EÜChttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X+L0J0H+0Ü<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0U%0
++0	*ÜHÜ˜ Ç +ËÚ|‡√∏X˛H7ÈêÕŒ(üax¡dŒBjCô<2≤¥4Çµ·ƒ⁄åTæ–D©7‚áı∫˜$|àléw$N9ô?m<üú0O0ä'tÙ≠_’j !1±¶„-‘`H}ù˘f)≥È6l€AS€4â1≤∫P∞¸$Á‹/◊tìµHÚ¬‰Ô§Œl’‘"%¨◊Üs9 @ÓH#ÂèòöÉúœ˛¿¥ÓYs¬R·<ë^ÿ
+„ „M5Öu∏∫†Â˚ ˙4ÖæQT˚ï®qOﬂ1"â\⁄ˆWˆ$∏F·ˇ•y‰dîkV2Er‚^	ÿÓ€˜øÅ~œÇˇÙR ¬§ÒÉ0ÇÌ0Ç’†3  @ñ©ÓpV˛Ã   @0	*ÜHÜ˜ 0y10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1#0!UMicrosoft Code Signing PCA0160818201717Z171102201717Z0ÅÉ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMOPR10UMicrosoft Corporation0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç €KãÈj_»]
+9‰’í–ƒ·ãË§X¿<◊)›â∑hnKü~ºöΩTÜ9©Ò85Ê¨˚Æk‹	0Ô∏ﬂl¯JöUóH»#â≥Y'4Ωï1GúŒ@527˛ÈÛO§§≥yºÄõ?$òƒ—o’ÁCç‰‹Ú“ÊÆfÌ:!î¶W‹€,∆ˇ+9®]øU˛›IﬂTî´3ﬂ§}1¶MΩVœ1h?ÑkmÛÓ’0äÓeû∑)~ìΩÚ}Bv8"‘{|Ù∏πqû√îÙÇÜ5Ç¶tΩ3˙TÜÖ£%æ™â^‚9_&AòﬁπÊFÖxªQ2GÏ‰˘ΩQuÊõvÎÖó"
+°˜a £Ça0Ç]0U%0
++0UúÂËmÇWÆ7$ﬁÍ^©ƒ_êŒŸ{0RUK0I§G0E10UMOPR1402U+229803+f785b1c0-5d9f-4316-8d6a-74ae642dde1c0U#0ÄÀË “¥X…7.3πLö
+0VUO0M0K†I†GÜEhttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_08-31-2010.crl0Z+N0L0J+0Ü>http://www.microsoft.com/pki/certs/MicCodSigPCA_08-31-2010.crt0	*ÜHÜ˜ Ç k‰V„◊ @˘mÈﬁN€]∆l&£˜Â	ÄˇW·¥‘Ÿ˘\H·¬§T∏ñzıç…Éqø¯¸ª.ÃsÛ kN%™Ùƒ
+rîRüwM)ì(1Ÿﬂnt´ƒËN±ôDNII,¨yÓøÖOÑnGÔæÿ“ãIi)Éı•Ω£!≠¢•>ê úıü=zYudÔ⁄£ÖÑ2jdw¶9ò≥Ó¢(Il¨$2(>®ãf,˚ÿÉ/#íë˜Weˇ§’ÈQîˆ÷˝¿’¿ E˝CIOyÓd`N‚ƒ SN˚Zë[Õ$É|sË…Bw_1&…∞ŒSäaT˜¬çrôÒ≈∂~™êÑ:óy≠`0Çº0Ç§†
+a3&     10	*ÜHÜ˜ 0_10
+	í&âìÚ,dcom10
+	í&âìÚ,d	microsoft1-0+U$Microsoft Root Certificate Authority0100831221932Z200831222932Z0y10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1#0!UMicrosoft Code Signing PCA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ≤rY\0døö`  BôvSl>÷oÃÀÒÍk˛ó‡ﬂ:tÉ∑/†2Ïˇﬁ¬BN#’r €5W
+â Æ IÙh¨MKç•ΩyKqõG⁄˝%ﬂùuàœ™sD◊Å€ÛΩÚ6§…\E‹Ø≠=‡(hóß•rsVÒî‰˝5îr†÷v_wEÉÖ8–s[∫gRç•≤i/⁄˛ít)‚v/T›0Y¯“çb˝À…_F1Pπ'‰@0œr)("«7N=†2=êÕ°8Ö\NVÇ(*2∑K◊OcÁ“-bÒE=Á¨ ˆF°û—[å&SËz™JÚFœ7<8û¥w\•ûçÀèV<¡¨	_” £Ç^0ÇZ0Uˇ0ˇ0UÀË “¥X…7.3πLö
+0UÜ0	+Ç7 0#	+Ç7˝—1N”&äï·ò`;®1o¶<ºÿ-0	+Ç7
+ S u b C A0U#0Ä¨Ç`@V'óÂ%¸*·
+SïY‰§0PUI0G0E†C†AÜ?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T+H0F0D+0Ü8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0	*ÜHÜ˜ Ç Y9>&FØÎo@±2µjÎ/n®I˜Î_uÌL;-◊C≠˛ÀÈ-1£#Ã|PòÄ!]¨=/L∫¢®Vú„pª∏¥¯yµIr˜>ÍA ·iÀ•ú -˙PƒVÕ-„J“ºpÁ®¢•V‡∏äKWÚïBúÒÛÔÓ„Ü4<∏VöS#Ö*§Çì‚îÚ‚N¯å° Ë•ëN»“èrï*qmõ¯S÷gÃ"ˇ\Õ¢åΩ'≤ycVD¢QÕ˘È£XV›õED/_Ù⁄Æ‘Ç2n¸§ï‰ÎiÁ©¢,æ»+eéô€ı¢˙&	e8îÒzJª—·VË–xñ\…5_›ìIé-æ≠4DÓ ]›5[!Œò«	ÓÖåOmN=|)Húr—Ûl ¡Ïp£WíW}îç†HZ˜œ£g
+t•6Ì-/»Êr7Ùo±<gÇ˘R≤ç3eä›ﬁdÙoŒF‘”Èyƒ¥”˚,ﬂäû¨
+˚'@≠‰˘·©Fª`Ge`@N∞BÏNÌ≥vyÿ
+4	mÄ1‚T›Â°˚ÂG≠dòˇP.|ø!z‚ïA'i√ìèï…çÿõ!Æ\ú¢ÆÜhÉj-ªvk ñ≠Ú{ˆÉ$πàœj®G1/ö‹„q=◊ ~bG—Œà…∏˙rç¡£=Ø@jˇiõñ‚®¥7P÷√=0Ç0ÇÔ†
+ah4     0	*ÜHÜ˜ 0_10
+	í&âìÚ,dcom10
+	í&âìÚ,d	microsoft1-0+U$Microsoft Root Certificate Authority0070403125309Z210403130309Z0w10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1!0UMicrosoft Time-Stamp PCA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ü°l±ﬂ€Hí*|k.·Ω‚„≈ôQ#P≠Œ›N$Ó—ß—L≠t0 Î’TïIîBíÆò\0&⁄ kË{ΩÏâ˜òâÃÀ3$áùÚÙg,¸{ÁàÍÁN£°¡#S ç˙Eœ	–^Ø–∞B¢˘¶lìg◊(‹FS∞Ü–Â(F.'¨ÜOUR‰,˚jêê0náÛY0ù˙~÷ó≥Ë!ó~¯“Û∑SmR¥EêüH JGf')f®ó‰”ÅJ¢˘ÑßG	ÇüÑÌUx˛öPÖ 0FÌ∑ﬁ#Fªƒ-TüØxA1wÃõﬂ;Éì°aµ±¸˜õ≤Œ"KTˇ˘√¬  £Ç´0Çß0Uˇ0ˇ0U#4¯ŸRFp
+Ì@˚v˚≥+∞√5≥0UÜ0	+Ç7 0ÅòU#Åê0ÅçÄ¨Ç`@V'óÂ%¸*·
+SïY‰§°c§a0_10
+	í&âìÚ,dcom10
+	í&âìÚ,d	microsoft1-0+U$Microsoft Root Certificate AuthorityÇy≠°J†•≠LsXÙ.e0PUI0G0E†C†AÜ?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T+H0F0D+0Ü8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0U%0
++0	*ÜHÜ˜ Ç óä√\D6›È¥≠w€ŒyQM±.tq[m´Œæ{è∏.‘¢åmb∏WÀN Pô›z@‚WªØXö·Ü¨ªxÚã–Ï;Ó‚æè
+»çH‚S›O´í‰Áçj’Ä¡ÊîÚ/ÖÈë*$"p˚ˆ¸‰xô.˜‚pºNùék
+rï∏°9úg-≈QÍb\?òã ?‚2˘Ã1Jv1=+r»Íp=ˇÖ
+ﬂ¬
+aé◊∏ÎNã≈5+^£øÎº}B{‘Sr!Ó0 ªxe\[
+“⁄òı<πfX≥-/Á˘ÖÜÃQVËùpîl¨9L‘ˆyø™zb)Ô¢õ)4wb…=mÇ«,ªœC≥Â˘Ï}µ„§®t5∏N≈q#&v<RåqZFCº≥≥∞Mg»üBˇÄy!Äû0fËB^»û"!–CÈ+ÈªÙHÃ,‘ÿ2ÄL&*H$_ZÍVÔ¶ﬁôù :oΩÅ'tÓv!øõÇ¡'T∂±j=â°va¥n°¶ø™Go˝ä2l≤˛ﬂQ»å#…fΩùád=-ØYè∏‰!Âµ∞ c¥xT‘A.P¨î∞•x´≥†ñuŸíáu"/2®n†[å%ø†ÔÑ !÷ÎO…öÓI‡˜eoâ}»i»ÊnÍßóŒ1)ˇ≈[\ÿM°ÿ˙/û?.Uk…£˝1Ç&∏0Ç&¥0Åê0y10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1#0!UMicrosoft Code Signing PCA3  @ñ©ÓpV˛Ã   @0	+ †Å∫0	*ÜHÜ˜	1
++Ç70
++Ç710
++Ç70#	*ÜHÜ˜	1A˘aˇÅ˜Û–\n8vß°"°ê—í0Z
++Ç71L0J†$Ä" M i c r o s o f t   W i n d o w s°"Ä http://www.microsoft.com/windows0	*ÜHÜ˜ Ç Ar˚[l)¶?Qä”ù¡Ü4òòm∞‚.m@ú~`˜
+Ÿ= kˆÓÒ—Àµàj∆Ï+î¸Y–·>Ò£hÂFgŸ∆dµ∫kFqs∞‹B)€|*aÌÎÏ˜^´Gõ*X.∞!≤	WK¥` ¥¬'˙y1∏í "ÈˇÕU¡‡ã¸°U+¸∫>)ÿìM(Ω8?÷£Ô≈—&:∑´
+UöXÙ‚	Xøw_
+Ê mµ◊ 2≥I[õMoçx¿?TiCW)8>°›–•‹
+€f¥Ω∂≈”&eôÀª˜˛Û•^{Úl‘ºXwÛÈ\0{ñ`ã±JÉy?zî.TÄ©°Ç$?0Ç$	*ÜHÜ˜	1Ç0Ç0Åé0w10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1!0UMicrosoft Time-Stamp PCA3   …dM€}≥     …0	+ †]0	*ÜHÜ˜	1	*ÜHÜ˜0	*ÜHÜ˜	1170106183855Z0#	*ÜHÜ˜	1ƒΩÿ∆,OEÇ0XÂ‹Ì≠R=Sƒ0	*ÜHÜ˜ Ç Wz)OÌçNxøŸp3!{¿Oè!\óﬂŒÑPe/CzrYÎ}`ªÿB†âB‰üjöÑ≤&öP∫8πÈÄVå¿ëå⁄ø¶*π“≤¡åhBg…(õJ€,⁄']äjPƒÒ&ﬂ'”H®Ò5:¯V~∞´®˘Ö∑Xª#˘:}a˝Í\€DÃÙÅÒD˚ië0dpä˙oÌ÷ÙÌÂë RÂG¸¡ıQS(≠3∆èiL9ï:
+¢ˆxBiÚn‹ß	óC≠LA2•
+$˛	¢ªÖÖ◊›â˝ËÃ}…‘!∏M:RvE÷Î€2s<êösÛ!xa/Ø.kÆ3D0Ç"
++Ç71Ç"0Ç!ˇ	*ÜHÜ˜†Ç!0Ç!Ï10	`ÜHe 0\
++Ç7†N0L0
++Ç70	 †¢Ä 010	`ÜHe  Æ#ÃQ2RrJƒËÛ3‘(∂ÎÕÏ<e”ìF,é†<€†ÇÑ0Ç0ÇÙ†3  OÁ∆b…FÙ©    O0	*ÜHÜ˜ 0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20100161117215914Z180217215914Z0ÅÉ10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMOPR10UMicrosoft Corporation0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ¥âêäv¨≈=°ºÅË◊PªZißÆ«Ã∏[Ω8!QF#—Ω"ôs∑(Ô˜´+˘H˜•©M$mañúÉù3¿,yô]ÛÏ’Dﬂ•ÕY˙v≠?∆JÊÍ-î¬fo˝b–Pä—"ë#óe4°ƒö^í‚∏|(x¬^„F˜ Ô8Wà¨VX ò«®◊^6ÆöE0„∂∑=¬ß'∞yMSÿ2Êv£P*ˆ?∫ªA$ÜMòõzûˆ,‚ºê`e˚ñi˙‡h‚â*.uù¬m∏!Ùô^*1†ßÃÔOn˛IBNaﬁ7À+û@ÔŒ´^ps•r{∑FŒ[2S]ä9Qo∞◊®x›£(o^ÓB £Ç{0Çw0U%0
++Ç7=+0Uí°q∂/U√Ù…\t.Zjø0RUK0I§G0E10UMOPR1402U+230865+b4b12878-e293-43e9-b21e-7d30719d452f0U#0ÄÊ¸_{ª" X‰rNµÙ!t#2ÊÔ¨0VUO0M0K†I†GÜEhttp://crl.microsoft.com/pki/crl/products/MicCodSigPCA_2010-07-06.crl0Z+N0L0J+0Ü>http://www.microsoft.com/pki/certs/MicCodSigPCA_2010-07-06.crt0Uˇ0 0	*ÜHÜ˜ Ç ¿πjC5˛Ö±8Ä∏tu,çqI∏<AÌ-Ω‚6êv+âÂ∂ÅÈÜ„åñì2Bßßˆ∑4%9–∆zCÍ€wpÃ‘ÈBÎ®≈Uuxûÿæ îc˚<qÓ‘Ug◊)ˆjøºÂèÇÍ¯°‚s3?í^°∫eW7EÖÄ\÷,∆ã<já£ÀÏŸq8 5$=TΩÃUâÙwõÂô™Æ∆<éü⁄ Oœ}·≥¿ ˜R1˜"H’aç&}ÉÃaì*›∏‹‚≥ßﬂ·w`»Ù¨5À1ÂluQ≈7{jNïkè@û»M>ÆΩY≈ ÷¬x≠∑d[;–¿p4Â≈û¶«ÙˇˆÀH¡‚çÛnŒ™¥†0Çp0ÇX†
+aRL     0	*ÜHÜ˜ 0Åà10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100100706204017Z250706205017Z0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20100Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ÈdPygµƒ„˝	 Lûî¨˜VhÍDÿœ≈XO©•v|mE∫”9í¥§˘˘eÇ‰“è˝DúËeìŒ,UÑø}„.+®A+∑¢KnILkﬁ—“¬âqîÕµK¥ØÿÃà÷kî:ìŒ&?ÏÊ˛4òW’]Iˆ≤*.’ÖªY?¯ê¥+Ét +≥;F„FI¡fT…ΩƒUbWr¯gπ% 4ﬁ]¶•ï^´(ÄÕ’≤ûÂµc”≤»¡»ä&
+YÏˇÌÄ5L¶æR[ı¶⁄‡ãHw÷ÖG’π∆Ë™Óãj-\`∆¥*[ú#_E„o7À3ÄjâM£jfcxì’0œï £Ç„0Çﬂ0	+Ç7 0UÊ¸_{ª" X‰rNµÙ!t#2ÊÔ¨0	+Ç7
+ S u b C A0UÜ0Uˇ0ˇ0U#0Ä’ˆVÀèË¢\bh—=îê[◊Œöƒ0VUO0M0K†I†GÜEhttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0Ü>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0ÅùU Åï0Åí0Åè	+Ç7.0ÅÅ0=+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@+042  L e g a l _ P o l i c y _ S t a t e m e n t . 0	*ÜHÜ˜ Ç tÔWO){ƒÖx∏P”"¸	ù¨Çó¯4ˇ*,óïÂ‰øœøì»„4©€Å∏‹ æ“5oØÂyïwÂ‘ÒÎÿÕNa¢¬Z#å®bQEg„?<ì¯0Ö»9@¶◊≥!)Â•°iå"ìÃtòÁ°GCÚS¨¿0i˛“% moa”ﬂ’Ÿr ,iÜv=Q€¶9H…7am›SÀß÷a¬ø‚É´‡kõï÷}(Q∞âJQ§öl»∑Ji©◊‹¡~—Ip™∂≠ªrGc˙¶÷¢¶ÜÏ®Dõc∂≤iâ«FÜz?Ë≈!’{˘#-≈AÀøL»Ô±ú¸"KIän„¶v[—SyëÖù’“€=s5Û<ÆT≤RGj¿™ï“é⁄ôg^2å˚7Ö—‹uÖúá∆ZWÖ¬ø›èåõ-Î¥Óœ'”µ^i˙§ß$gsœMO∂ﬁVóz˜ÈRMÙwOÖ∆ÿÒéÌB	—v„#Vx"&6æ ±ån™‰Ö⁄G3bè§…ë3_q@Øòe…"ËB!%ä-`Ÿ7âAâ*◊a<îh`RÔ÷Gô†Ä@ÓÅw>ú‡SP8ïõf3'9xá6ŒN√_≤ı=GS∂‡Â€a=*◊í,Œ7Z>@B1§¬Vúø$]Qùjy“”⁄¡îé{%qD´jÊ‘∆ﬂ#öñu≈1ÇÓ0ÇÍ0Åï0~10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1(0&UMicrosoft Code Signing PCA 20103  OÁ∆b…FÙ©    O0	`ÜHe †ÅŸ0
+*ÜHÜ˜	10	*ÜHÜ˜	1
++Ç70
++Ç710
++Ç70/	*ÜHÜ˜	1" ‘∑Y8Yè;≥P˙:C∏‡¨}©ı„4ÊÑ®RÉ0Z
++Ç71L0J†$Ä" M i c r o s o f t   W i n d o w s°"Ä http://www.microsoft.com/windows0	*ÜHÜ˜ Ç 1‡[ÑƒTï¯!øÃ+—Jà[S‚≥T⁄◊z¸≥lÍî∞ÊFŸÊå»Uë≤ò{·∑¢?°ò}w◊ @ì+!bR£çskËÇhÇ$3CÅ
+«[QÆ∏Q#±e>®Üfüé®Ó‘…{ü¥Ióí∞—˛dÅqôúsFBçî8‡0'‚èK¨OõŒT˚piËÂÍ{E · ˛6Øíø¬o™ÕD0U°—Ó´5ƒVΩ£0Ï»ŸyÔÓı÷vˆF∆
+!k‰•H¢L¯Væ˚ÄVÄ¸:ÎNˇ˛l:KêgáséÈáº!‘œrÉN}”©YM∏˛1O‰>’RCÌ°(°±öÉO°ÇM0ÇI
++Ç71Ç90Ç5	*ÜHÜ˜†Ç&0Ç"10	`ÜHe 0Ç=*ÜHÜ˜	†Ç,Ç(0Ç$
++ÑY
+010	`ÜHe  §W◊a¨é&$êv…˛.è·9ªRRüæ∆UXiÂ5Ä20170106183903.332Z0ÄÙ†Åπ§Å∂0Å≥10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation10UMOPR1'0%UnCipher DSE ESN:5847-F761-4F701%0#UMicrosoft Time-Stamp Service†Ç–0Çq0ÇY†
+a	Å*     0	*ÜHÜ˜ 0Åà10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100100701213655Z250701214655Z0|10	UUS10U
+Washington10URedmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ©ºwä: Ï¸óı˙iîktT’•
+ ÇÖ˚Ì|hK,_≈√Âa¬v∑>f+[S'1AïŒ	é|a0Y±0DÒ`àÑTC◊M∏8≥B›ì¨÷s0W&Ç£E–ÍıGÅÕø$`2X`FÚXGÜ2Ñtagë_ÅT±œìLí¡ƒ¶]—an(∆˘ÜÄªﬂa¸F¡'$gr!äØKdâPb±]˝w=Wu¨ΩäBM@Q—ú>gıf¿ñD~Ô–K˝nÂö ±®Úz*
+1⁄Në∂à5Ëx∞ÈôÕ<Á/D∫ßÙ‹dΩ§¡ 	ìxÕ¸º¿…D]^úO"M £ÇÊ0Ç‚0	+Ç7 0U’c:\ä1êÛC{|F≈3hZÖmU0	+Ç7
+ S u b C A0UÜ0Uˇ0ˇ0U#0Ä’ˆVÀèË¢\bh—=îê[◊Œöƒ0VUO0M0K†I†GÜEhttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+N0L0J+0Ü>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0Å†U ˇÅï0Åí0Åè	+Ç7.0ÅÅ0=+1http://www.microsoft.com/PKI/docs/CPS/default.htm0@+042  L e g a l _ P o l i c y _ S t a t e m e n t . 0	*ÜHÜ˜ Ç ÊàQ‚∆‡ò?Åq=ù£°!o≥Î¶Ãı1æœ‚©˛˙Wm0≥¬≈f…jﬂıÁxΩ«®û%„˘ºÌkTW+QÇD˚πSåÃÙ`ävÃ@@Aõ‹\ˇ\˘^5ò$VKtÔB»Øø∆Ú7}Z?ÚôyJëR Ø8ı/yÅeŸ©µk‰«Œˆ z oK0D$"<œÌ•ñèY)º∂˝·pü2J'˝UØ/˛∂Âé3ªb_ö€W@ÈÒŒôfêåˇjb›≈Jë&‚9ÏJqcù{!m√ú£¢<˙}ñjêx¶m“·ú˘¸8ÿîÙ∆•
+ñÜ§ΩûÆBÉ∏µÄõ"8 µ%ÂdÏ˜Ùø~cY%z.9Wv¢q™äâ∫aßÀöÿGöÄ≈–Õß–Ô}É·;q	ﬂ]tò"a⁄∞PoΩÒ· ﬂÁ1§ì:˜eGxË¯®H´˜ﬁr~akow©ÅÀß	¨9ªÏ∆ÀÿÇ¥rÕÙ∏Ö

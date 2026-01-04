@@ -1,0 +1,93 @@
+<!--
+***********************************************************************************************
+Microsoft.ServiceModel.targets
+
+WARNING:  DO NOT MODIFY this file unless you are knowledgeable about MSBuild and have
+          created a backup copy.  Incorrect changes to this file will make it
+          impossible to load or build your projects from the command-line or the IDE.
+
+Copyright (C) Microsoft Corporation. All rights reserved.
+***********************************************************************************************
+-->
+
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  <UsingTask
+    TaskName="Microsoft.Build.Tasks.Xsd.XsdTypeImporterTask"
+    AssemblyName="XsdBuildTask, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL"/>
+
+  
+  <!-- sub build target, preceeding XsdCodeGen -->
+  <Target
+    Name="PreXsdCodeGen"
+    BeforeTargets="CoreCompile">
+
+    <ItemGroup>
+      <XsdCodeGenInputXsdFiles Include="@(None)" Condition=" '%(None.Extension)' == '.xsd' and '%(None.Generator)' == '' " />
+    </ItemGroup>
+
+    <PropertyGroup>
+      <XsdCodeGenPreCondition>False</XsdCodeGenPreCondition>
+      <XsdCodeGenPreCondition Condition="'$(TargetFrameworkVersion)' != 'v2.0' and '$(TargetFrameworkVersion)' != 'v3.0' and '$(TargetFrameworkVersion)' != 'v3.5' and '$(TargetFrameworkVersion)' != 'v4.0' and ( '$(TargetFrameworkIdentifier)' == '.NETFramework' or '$(TargetFrameworkIdentifier)' == 'Silverlight' ) and '$(XsdCodeGenEnabled)' == 'True' and '@(XsdCodeGenInputXsdFiles)' != '' ">True</XsdCodeGenPreCondition>
+    </PropertyGroup>
+
+    <CallTarget Targets="CleanXsdCodeGen" Condition=" '$(XsdCodeGenPreCondition)' != 'True' " >
+    </CallTarget>
+  </Target>
+
+
+  <!-- main build target -->
+  <Target
+    Name="XsdCodeGen"
+    DependsOnTargets="ResolveReferences"
+    AfterTargets="PreXsdCodeGen"
+    Condition=" '$(XsdCodeGenPreCondition)' == 'True' ">
+
+    <!-- will show in VS output window, for discoverability -->
+    <Message Importance="high" Text="Generating code from XSD: InputXsdFiles=@(XsdCodeGenInputXsdFiles)"/>
+
+    <PropertyGroup>
+      <!-- assign default values -->
+
+      <XsdCodeGenSerializerMode Condition=" '$(XsdCodeGenSerializerMode)' == '' " >XmlSerializer</XsdCodeGenSerializerMode>
+      <XsdCodeGenReuseTypesFlag Condition=" '$(XsdCodeGenReuseTypesFlag)' == '' " >True</XsdCodeGenReuseTypesFlag>
+      <XsdCodeGenReuseTypesMode Condition=" '$(XsdCodeGenReuseTypesMode)' == '' " >All</XsdCodeGenReuseTypesMode>
+      <XsdCodeGenNamespaceMappings Condition=" '$(XsdCodeGenNamespaceMappings)' == '' and '$(Language)' == 'C#' and '$(RootNamespace)' != '' " >*, $(RootNamespace).ContractTypes</XsdCodeGenNamespaceMappings>
+      <XsdCodeGenNamespaceMappings Condition=" '$(XsdCodeGenNamespaceMappings)' == '' " >*, ContractTypes</XsdCodeGenNamespaceMappings>
+      <XsdCodeGenCollectionTypes Condition=" '$(XsdCodeGenCollectionTypes)' == '' " >System.Array;System.Collections.Generic.Dictionary`2</XsdCodeGenCollectionTypes>
+      <XsdCodeGenImportXmlTypes Condition=" '$(XsdCodeGenImportXmlTypes)' == '' " >True</XsdCodeGenImportXmlTypes>
+      <XsdCodeGenGenerateSerializableTypes Condition=" '$(XsdCodeGenGenerateSerializableTypes)' == '' " >True</XsdCodeGenGenerateSerializableTypes>
+      <XsdCodeGenGenerateDataTypesOnly Condition=" '$(XsdCodeGenGenerateDataTypesOnly)' == '' " >False</XsdCodeGenGenerateDataTypesOnly>
+      <XsdCodeGenGenerateInternalTypes Condition=" '$(XsdCodeGenGenerateInternalTypes)' == '' " >False</XsdCodeGenGenerateInternalTypes>
+      <XsdCodeGenEnableDataBinding Condition=" '$(XsdCodeGenEnableDataBinding)' == '' " >False</XsdCodeGenEnableDataBinding>
+
+      <!-- calc dynamic values -->
+
+      <XsdCodeGenSupportFx35DataTypes Condition="'$(XsdCodeGenSupportFx35DataTypes)' == '' and '$(TargetFrameworkVersion)' == 'v2.0'">False</XsdCodeGenSupportFx35DataTypes>
+      <XsdCodeGenSupportFx35DataTypes Condition="'$(XsdCodeGenSupportFx35DataTypes)' == '' and '$(TargetFrameworkVersion)' == 'v3.0'">False</XsdCodeGenSupportFx35DataTypes>
+      <XsdCodeGenSupportFx35DataTypes Condition="'$(XsdCodeGenSupportFx35DataTypes)' == ''">True</XsdCodeGenSupportFx35DataTypes>
+
+    </PropertyGroup>
+
+    <!-- calc references for type reusing, resolve their paths from @(ReferencePath) from 'ResolveReferences' build target -->
+
+    <ItemGroup>
+      <XsdCodeGenReferencesResolved Include="@(ReferencePath)" Condition=" '$(XsdCodeGenReuseTypesFlag)' == 'True' and '$(XsdCodeGenReuseTypesMode)' == 'All' " />
+    </ItemGroup>
+
+    <CallTarget Targets="XsdResolveReferencePath" Condition=" '$(XsdCodeGenReuseTypesFlag)' == 'True' and '$(XsdCodeGenReuseTypesMode)' != 'All' " >
+      <Output ItemName="XsdCodeGenReferencesResolved" TaskParameter="TargetOutputs" />
+    </CallTarget>
+
+    <!-- will show in VS output window, for discoverability -->
+    <Message Importance="high" Text="Generating code from XSD: References=@(XsdCodeGenReferencesResolved)" />
+
+    <!-- set property <MSBuildTargetsVerbose>True</MSBuildTargetsVerbose> to see following messages -->
+
+    <Message Text="Generating code from XSD: OutputDirectory=$(IntermediateOutputPath)\XsdGeneratedCode" />
+    <Message Text="Generating code from XSD: Language=$(Language)" />
+    <Message Text="Generating code from XSD: NamespaceMappings=$(XsdCodeGenNamespaceMappings)" />
+    <Message Text="Generating code from XSD: SerializerMode=$(XsdCodeGenSerializerMode)" />
+    <Message Text="Generating code from XSD: CollectionTypes=$(XsdCodeGenCollectionTypes)" />
+    <Message Text="Generating code from XSD: ExcludedTypes=$(XsdCodeGenExcludedTypes)" />
+    <Message T

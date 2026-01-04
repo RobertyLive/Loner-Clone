@@ -1,0 +1,156 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using UnityEditor;
+using UnityEngine;
+
+namespace Unity.VisualScripting
+{
+    [Widget(typeof(FlowState))]
+    public sealed class FlowStateWidget : NesterStateWidget<FlowState>, IDragAndDropHandler
+    {
+        public FlowStateWidget(StateCanvas canvas, FlowState state) : base(canvas, state)
+        {
+            state.nest.beforeGraphChange += BeforeGraphChange;
+            state.nest.afterGraphChange += AfterGraphChange;
+
+            if (state.nest.graph != null)
+            {
+                state.nest.graph.elements.CollectionChanged += CacheEventLinesOnUnityThread;
+            }
+        }
+
+        public override void Dispose()
+        {
+            base.Dispose();
+
+            state.nest.beforeGraphChange -= BeforeGraphChange;
+            state.nest.afterGraphChange -= AfterGraphChange;
+        }
+
+        private void BeforeGraphChange()
+        {
+            if (state.nest.graph != null)
+            {
+                state.nest.graph.elements.CollectionChanged -= CacheEventLinesOnUnityThread;
+            }
+        }
+
+        private void AfterGraphChange()
+        {
+            CacheEventLinesOnUnityThread();
+
+            if (state.nest.graph != null)
+            {
+                state.nest.graph.elements.CollectionChanged += CacheEventLinesOnUnityThread;
+            }
+        }
+
+        #region Model
+
+        private List<EventLine> eventLines { get; } = new List<EventLine>();
+
+        private void CacheEventLinesOnUnityThread()
+        {
+            UnityAPI.Async(CacheEventLines);
+        }
+
+        private void CacheEventLines()
+        {
+            eventLines.Clear();
+
+            if (state.nest.graph != null)
+            {
+                eventLines.AddRange(state.nest.graph.units
+                    .OfType<IEventUnit>()
+                    .Select(e => e.GetType())
+                    .Distinct()
+                    .Select(eventType => new EventLine(eventType))
+                    .OrderBy(eventLine => eventLine.content.text));
+            }
+
+            Reposition();
+        }
+
+        protected override void CacheItemFirstTime()
+        {
+            base.CacheItemFirstTime();
+
+            CacheEventLines();
+        }
+
+        #endregion
+
+
+        #region Positioning
+
+        public Dictionary<EventLine, Rect> eventLinesPositions { get; } = new Dictionary<EventLine, Rect>();
+
+        public override void CachePosition()
+        {
+            base.CachePosition();
+
+            eventLinesPositions.Clear();
+
+            var y = contentInnerPosition.y;
+
+            foreach (var eventLine in eventLines)
+            {
+                var eventLinePosition = new Rect
+                    (
+                    contentInnerPosition.x,
+                    y,
+                    contentInnerPosition.width,
+                    eventLine.GetHeight(contentInnerPosition.width)
+                    );
+
+                eventLinesPositions.Add(eventLine, eventLinePosition);
+
+                y += eventLinePosition.height;
+            }
+        }
+
+        protected override float GetContentHeight(float width)
+        {
+            var eventLinesHeight = 0f;
+
+            foreach (var eventLine in eventLines)
+            {
+                eventLinesHeight += eventLine.GetHeight(width);
+            }
+
+            return eventLinesHeight;
+        }
+
+        #endregion
+
+
+        #region Drawing
+
+        protected override bool showContent => eventLines.Count > 0;
+
+        protected override void DrawContent()
+        {
+            foreach (var eventLine in eventLines)
+            {
+                eventLine.Draw(eventLinesPositions[eventLine]);
+            }
+        }
+
+        #endregion
+
+
+        #region Drag & Drop
+
+        public DragAndDropVisualMode dragAndDropVisualMode => DragAndDropVisualMode.Generic;
+
+        public bool AcceptsDragAndDrop()
+        {
+            return DragAndDropUtility.Is<ScriptGraphAsset>();
+        }
+
+        public void PerformDragAndDrop()
+        {
+            UndoUtility.RecordEditedObject("Drag & Drop Macro");
+            state.nest.source = GraphSource.Macro;
+            state.nest.macro 

@@ -1,0 +1,22 @@
+Возвращает литерал строкового массива для указанных значений.</summary>
+      <returns>Литерал.</returns>
+      <param name="values">Значения.</param>
+    </member>
+    <member name="M:Microsoft.Data.Entity.Design.CodeGeneration.CodeHelper.Type(System.Data.Entity.Core.Metadata.Edm.EdmProperty)">
+      <summary>Указывает тип заданного свойства.</summary>
+      <returns>Тип.</returns>
+      <param name="property">Свойство.</param>
+    </member>
+    <member name="M:Microsoft.Data.Entity.Design.CodeGeneration.CodeHelper.Type(System.Data.Entity.Core.Metadata.Edm.EdmType)">
+      <summary>Указывает идентификатор типа для заданного типа.</summary>
+      <returns>Идентификатор.</returns>
+      <param name="edmType">Тип.</param>
+    </member>
+    <member name="M:Microsoft.Data.Entity.Design.CodeGeneration.CodeHelper.Type(System.Data.Entity.Core.Metadata.Edm.EntityContainer)">
+      <summary>Указывает идентификатор типа для заданного контейнера.</summary>
+      <returns>Идентификатор.</returns>
+      <param name="container">Контейнер.</param>
+    </member>
+    <member name="M:Microsoft.Data.Entity.Design.CodeGeneration.CodeHelper.Type(System.Data.Entity.Core.Metadata.Edm.NavigationProperty)">
+      <summary>Указывает тип заданного свойства навигации.</summary>
+      <returns>Тип.</r

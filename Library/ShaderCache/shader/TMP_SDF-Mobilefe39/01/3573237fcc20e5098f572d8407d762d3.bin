@@ -1,0 +1,262 @@
+.espacamento-site{
+    padding: 10px 140px;
+}
+
+body{
+    /* margin: 0px 0px; */
+    font-family: Fira Sans;
+    margin: 0;
+}
+li, ul, h1, h2, h3, p, a{
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    text-decoration: none;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+}
+
+/* HEADER */
+.content-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.options-h{
+    display: flex;
+    gap: 40px;
+}
+.options-h a{
+    color: #111;
+    font-size: 0.8rem;
+    padding: 10px 15px;
+}
+
+/* MAIN */
+.content-main{
+    margin-top: 85px;
+}
+.img-main{
+    max-width: 80%;
+}
+.content-firt-group-main{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    justify-content: center;
+    align-items: center;
+    gap: 0 45px;
+}
+.intro-main-2-colum{
+    display: grid;
+    gap: 10px 0;
+}
+.intro-main-2-colum h1{
+    font-size: 4rem;
+    max-width: 14ch;
+}
+
+.experiencia{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 85px;
+}
+
+.exp-h2{
+    word-break: break-all;
+    max-width: 6ch;
+    line-height: 1;
+    font-size: 10rem;
+    color: #ccc;
+}
+.intro-exp{
+    margin-top: 15px;
+    max-width: 40ch;
+    font-size: 1.2rem;
+}
+
+.skils-exp{
+    margin-top: 30px;
+}
+
+.skil{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: #eee;
+    padding: 15px 15px;
+    border-radius: 4px;
+    gap: 10px 40px;
+    position: relative;
+}
+
+.skil p {
+    font-size: 0.8rem;
+    max-width: 60ch;
+    line-height: 1.1rem;
+}
+
+.skil-ups{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    max-width: 30ch;
+    flex-wrap: wrap;
+}
+.skil-ups li{
+    background-color: #fff;
+    padding: 10px 15px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+}
+.content-skil{
+    display: grid;
+    gap: 25px;
+}
+
+.icon::before{
+    content: "";
+    display: inline-block;
+    width: 4px;
+    height: 18px;
+    /* background-color: red; */
+    background-image: linear-gradient(to bottom, #1e3, blue);
+    position: absolute;
+    left: -3px;
+    z-index: -1;
+    justify-content: center;
+}
+
+.skil::before{
+    content: "2022";
+    position: absolute;
+    left: -60px;
+    top: 15px;
+    font-size: 0.8rem;
+    color: #ccc;
+}
+
+/* FORMACAO */
+.content-formacao{
+    background-color: #111;
+    margin-top: 45px;
+    padding: 45px 0;
+    z-index: -1;
+}
+.text-form{
+    font-size: 13rem;
+    word-break: break-all;
+    max-width: 5ch;
+    line-height: 13rem;
+    text-transform: uppercase;
+}
+.grid-form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.grid-form-2-colum p{
+    color: #ccc;
+    line-height: 1.3rem;
+    max-width: 40ch;
+}
+.grid-form-2-colum p span{
+    color: #fff;
+}
+
+.grid-form-2-colum{
+    display: grid;
+    gap: 10px;
+}
+
+.form-content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 30px;
+    flex-wrap: wrap;
+    flex: 1;
+    position: relative;
+    z-index: 1;
+}
+.form-content-block{
+    display: grid;
+    background-color: #222;
+    
+    padding: 10px 15px;
+    border-radius: 3px;
+    margin: 15px 0;
+    align-items: start;
+    height: 80%;
+    position: relative;
+}
+.form-content-block span{
+    color: #ccc;
+    font-size: 0.8rem;
+}
+.form-content-block h3{
+    color: #fff;
+    margin: 15px 0 35px 0;
+    font-size: 1rem;
+    word-break: break-all;
+}
+
+.form-content-block h3::before{
+    content: "";
+    display: inline-block;
+    width: 5px;
+    height: 18px;
+    background-color: #1e3;
+    position: absolute;
+    left: -4px;
+    z-index: -1;
+}
+
+.text-formation{
+    max-width: 13ch;
+    text-align: left;
+    justify-self: start;
+}
+
+/* PARTE 2 */
+.two-2-subgrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+    color: #fff;
+    margin-top: 45px;
+    position: relative;
+}
+.two-2-subgrid h3{
+    font-size: 0.9rem;
+}
+.two-2-subgrid span{
+    font-size: 0.8rem;
+}
+.grid-01, .grid-02{
+    grid-column: 1/-1;
+}
+.span-grid{
+    grid-column: 2;
+    text-align: end;
+}
+.break-point{
+    grid-row: 3;
+}
+
+.grid-01::before{
+    content: url(./img/cursos.svg);
+    position: absolute;
+    left: -35px;
+    top: -5px;
+}
+
+.grid-02::before{
+    content: url(./img/idiomas.svg);
+    position: absolute;
+    left: -35px;
+    top: -5px;
+}
+
+/* FOTER */
+.footer-sp

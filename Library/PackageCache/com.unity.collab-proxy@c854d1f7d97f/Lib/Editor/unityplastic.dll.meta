@@ -1,0 +1,15 @@
+4"
+        stCamera:ResidualStandardDeviation="0.000091"
+        stCamera:RadialDistortParam1="-0.035355"
+        stCamera:RadialDistortParam2="0.039297"
+        stCamera:RadialDistortParam3="-0.018396"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="1.001661"
+        stCamera:RadialDistortParam1="-0.001834"
+        stCamera:RadialDistortParam2="0.001711"
+        stCamera:RadialDistortParam3="-0.000658"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002255"
+        stCamera:Vig

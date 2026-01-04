@@ -1,0 +1,2111 @@
+5"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000004"
+        stCamera:ScaleFactor="1.0004"
+        stCamera:RadialDistortParam1="-0.001538"
+        stCamera:RadialDistortParam2="0.003407"
+        stCamera:RadialDistortParam3="-0.00353"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000243"
+        stCamera:VignetteModelParam1="-0.46767"
+        stCamera:VignetteModelParam2="-0.259937"
+        stCamera:VignetteModelParam3="0.159997"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.036401"
+        stCamera:RadialDistortParam2="0.157192"
+        stCamera:RadialDistortParam3="0.0276">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000052"
+        stCamera:RadialDistortParam1="0.000478"
+        stCamera:RadialDistortParam2="-0.000232"
+        stCamera:RadialDistortParam3="0.000474"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.036401"
+        stCamera:RadialDistortParam2="0.157192"
+        stCamera:RadialDistortParam3="0.0276"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000524"
+        stCamera:RadialDistortParam1="-0.001005"
+        stCamera:RadialDistortParam2="0.001501"
+        stCamera:RadialDistortParam3="-0.002461"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000242"
+        stCamera:VignetteModelParam1="-0.859399"
+        stCamera:VignetteModelParam2="-0.035612"
+        stCamera:VignetteModelParam3="0.320743"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.050197"
+        stCamera:RadialDistortParam2="0.153891"
+        stCamera:RadialDistortParam3="0.018949">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999973"
+        stCamera:RadialDistortParam1="0.0005"
+        stCamera:RadialDistortParam2="-0.000647"
+        stCamera:RadialDistortParam3="0.000832"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.050197"
+        stCamera:RadialDistortParam2="0.153891"
+        stCamera:RadialDistortParam3="0.018949"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000626"
+        stCamera:RadialDistortParam1="-0.000769"
+        stCamera:RadialDistortParam2="0.00066"
+        stCamera:RadialDistortParam3="-0.000888"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000255"
+        stCamera:VignetteModelParam1="-0.862263"
+        stCamera:VignetteModelParam2="-0.016621"
+        stCamera:VignetteModelParam3="0.201814"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.079243"
+        stCamera:RadialDistortParam2="0.146054"
+        stCamera:RadialDistortParam3="-0.001482">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999799"
+        stCamera:RadialDistortParam1="0.000421"
+        stCamera:RadialDistortParam2="-0.000654"
+        stCamera:RadialDistortParam3="0.000087"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.079243"
+        stCamera:RadialDistortParam2="0.146054"
+        stCamera:RadialDistortParam3="-0.001482"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000854"
+        stCamera:RadialDistortParam1="-0.000468"
+        stCamera:RadialDistortParam2="-0.000628"
+        stCamera:RadialDistortParam3="0.002564"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000297"
+        stCamera:VignetteModelParam1="-0.859058"
+        stCamera:VignetteModelParam2="-0.084914"
+        stCamera:VignetteModelParam3="0.180367"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.166141"
+        stCamera:RadialDistortParam2="0.204376"
+        stCamera:RadialDistortParam3="0.242571">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000048"
+        stCamera:RadialDistortParam1="0.000771"
+        stCamera:RadialDistortParam2="-0.00033"
+        stCamera:RadialDistortParam3="0.006761"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.166141"
+        stCamera:RadialDistortParam2="0.204376"
+        stCamera:RadialDistortParam3="0.242571"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000196"
+        stCamera:RadialDistortParam1="-0.001274"
+        stCamera:RadialDistortParam2="-0.001695"
+        stCamera:RadialDistortParam3="-0.004638"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00026"
+        stCamera:VignetteModelParam1="-1.443189"
+        stCamera:VignetteModelParam2="1.181346"
+        stCamera:VignetteModelParam3="-1.240411"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="2.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.143728"
+        stCamera:RadialDistortParam2="0.198732"
+        stCamera:RadialDistortParam3="0.216971">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999987"
+        stCamera:RadialDistortParam1="0.000548"
+        stCamera:RadialDistortParam2="0.001681"
+        stCamera:RadialDistortParam3="-0.001"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.143728"
+        stCamera:RadialDistortParam2="0.198732"
+        stCamera:RadialDistortParam3="0.216971"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000291"
+        stCamera:RadialDistortParam1="-0.000949"
+        stCamera:RadialDistortParam2="-0.002646"
+        stCamera:RadialDistortParam3="-0.002306"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000223"
+        stCamera:VignetteModelParam1="-1.444778"
+        stCamera:VignetteModelParam2="1.129996"
+        stCamera:VignetteModelParam3="-1.225226"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.127703"
+        stCamera:RadialDistortParam2="0.194201"
+        stCamera:RadialDistortParam3="0.197456">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999939"
+        stCamera:RadialDistortParam1="0.000672"
+        stCamera:RadialDistortParam2="-0.000791"
+        stCamera:RadialDistortParam3="0.007051"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.127703"
+        stCamera:RadialDistortParam2="0.194201"
+        stCamera:RadialDistortParam3="0.197456"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000365"
+        stCamera:RadialDistortParam1="-0.001009"
+        stCamera:RadialDistortParam2="-0.001285"
+        stCamera:RadialDistortParam3="-0.004698"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.00019"
+        stCamera:VignetteModelParam1="-1.451548"
+        stCamera:VignetteModelParam2="1.258851"
+        stCamera:VignetteModelParam3="-1.919982"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.106319"
+        stCamera:RadialDistortParam2="0.187413"
+        stCamera:RadialDistortParam3="0.170174">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999881"
+        stCamera:RadialDistortParam1="0.000529"
+        stCamera:RadialDistortParam2="0.00026"
+        stCamera:RadialDistortParam3="0.002669"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.106319"
+        stCamera:RadialDistortParam2="0.187413"
+        stCamera:RadialDistortParam3="0.170174"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000459"
+        stCamera:RadialDistortParam1="-0.000974"
+        stCamera:RadialDistortParam2="0.0006"
+        stCamera:RadialDistortParam3="-0.010895"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000189"
+        stCamera:VignetteModelParam1="-1.448616"
+        stCamera:VignetteModelParam2="1.196242"
+        stCamera:VignetteModelParam3="-1.995621"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.076233"
+        stCamera:RadialDistortParam2="0.177435"
+        stCamera:RadialDistortParam3="0.126649">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.9998"
+        stCamera:RadialDistortParam1="0.000352"
+        stCamera:RadialDistortParam2="0.000703"
+        stCamera:RadialDistortParam3="0.001785"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.076233"
+        stCamera:RadialDistortParam2="0.177435"
+        stCamera:RadialDistortParam3="0.126649"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000596"
+        stCamera:RadialDistortParam1="-0.00088"
+        stCamera:RadialDistortParam2="0.001067"
+        stCamera:RadialDistortParam3="-0.009984"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000267"
+        stCamera:VignetteModelParam1="-1.46122"
+        stCamera:VignetteModelParam2="1.407019"
+        stCamera:VignetteModelParam3="-3.391873"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.011169"
+        stCamera:RadialDistortParam2="0.151501"
+        stCamera:RadialDistortParam3="0.023076">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999603"
+        stCamera:RadialDistortParam1="0.000727"
+        stCamera:RadialDistortParam2="-0.004429"
+        stCamera:RadialDistortParam3="0.013295"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:RadialDistortParam1="0.011169"
+        stCamera:RadialDistortParam2="0.151501"
+        stCamera:RadialDistortParam3="0.023076"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000879"
+        stCamera:RadialDistortParam1="-0.000557"
+        stCamera:RadialDistortParam2="0.001409"
+        stCamera:RadialDistortParam3="-0.008803"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000911"
+        stCamera:VignetteModelParam1="-1.497466"
+        stCamera:VignetteModelParam2="2.2254"
+        stCamera:VignetteModelParam3="-8.736549"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.361141"
+        stCamera:RadialDistortParam2="0.07535"
+        stCamera:RadialDistortParam3="1.388884">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.99984"
+        stCamera:RadialDistortParam1="0.000956"
+        stCamera:RadialDistortParam2="0.010514"
+        stCamera:RadialDistortParam3="-0.043337"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.361141"
+        stCamera:RadialDistortParam2="0.07535"
+        stCamera:RadialDistortParam3="1.388884"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000116"
+        stCamera:RadialDistortParam1="-0.00257"
+        stCamera:RadialDistortParam2="-0.005531"
+        stCamera:RadialDistortParam3="-0.008818"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004179"
+         stCamera:VignetteModelParam1="-2.863141"
+         stCamera:VignetteModelParam2="29.505177"
+         stCamera:VignetteModelParam3="-248.40303">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.126863, 0.964500</rdf:li>
+          <rdf:li>0.296454, 0.831000</rdf:li>
+          <rdf:li>0.307258, 0.796000</rdf:li>
+          <rdf:li>0.320236, 0.698000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="2.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000085"
+        stCamera:ResidualStandardDeviation="0.000067"
+        stCamera:RadialDistortParam1="-0.125704"
+        stCamera:RadialDistortParam2="0.04193"
+        stCamera:RadialDistortParam3="0.047008">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000242"
+        stCamera:RadialDistortParam1="0.001301"
+        stCamera:RadialDistortParam2="-0.002866"
+        stCamera:RadialDistortParam3="0.00257"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000085"
+        stCamera:ResidualStandardDeviation="0.000067"
+        stCamera:RadialDistortParam1="-0.125704"
+        stCamera:RadialDistortParam2="0.04193"
+        stCamera:RadialDistortParam3="0.047008"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000463"
+        stCamera:RadialDistortParam1="-0.001434"
+        stCamera:RadialDistortParam2="0.002953"
+        stCamera:RadialDistortParam3="-0.002946"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000242"
+        stCamera:VignetteModelParam1="-0.468897"
+        stCamera:VignetteModelParam2="-0.254851"
+        stCamera:VignetteModelParam3="0.135237"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="2.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.316684"
+        stCamera:RadialDistortParam2="0.057466"
+        stCamera:RadialDistortParam3="1.298302">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999782"
+        stCamera:RadialDistortParam1="0.000862"
+        stCamera:RadialDistortParam2="0.010741"
+        stCamera:RadialDistortParam3="-0.058245"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.316684"
+        stCamera:RadialDistortParam2="0.057466"
+        stCamera:RadialDistortParam3="1.298302"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000245"
+        stCamera:RadialDistortParam1="-0.001968"
+        stCamera:RadialDistortParam2="-0.012324"
+        stCamera:RadialDistortParam3="0.039713"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005922"
+         stCamera:VignetteModelParam1="-3.08317"
+         stCamera:VignetteModelParam2="39.804756"
+         stCamera:VignetteModelParam3="-350.382935">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.135667, 0.959500</rdf:li>
+          <rdf:li>0.219229, 0.898300</rdf:li>
+          <rdf:li>0.280994, 0.835600</rdf:li>
+          <rdf:li>0.296413, 0.832900</rdf:li>
+          <rdf:li>0.301584, 0.817700</rdf:li>
+          <rdf:li>0.306772, 0.783800</rdf:li>
+          <rdf:li>0.318850, 0.658000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.284727"
+        stCamera:RadialDistortParam2="0.043216"
+        stCamera:RadialDistortParam3="1.218751">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999746"
+        stCamera:RadialDistortParam1="0.000116"
+        stCamera:RadialDistortParam2="0.026022"
+        stCamera:RadialDistortParam3="-0.157505"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.284727"
+        stCamera:RadialDistortParam2="0.043216"
+        stCamera:RadialDistortParam3="1.218751"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000333"
+        stCamera:RadialDistortParam1="-0.001519"
+        stCamera:RadialDistortParam2="-0.017209"
+        stCamera:RadialDistortParam3="0.076981"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.007256"
+         stCamera:VignetteModelParam1="-3.300614"
+         stCamera:VignetteModelParam2="49.271332"
+         stCamera:VignetteModelParam3="-441.275513">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.067758, 0.989200</rdf:li>
+          <rdf:li>0.141032, 0.956300</rdf:li>
+          <rdf:li>0.220391, 0.897000</rdf:li>
+          <rdf:li>0.277322, 0.837800</rdf:li>
+          <rdf:li>0.295523, 0.835500</rdf:li>
+          <rdf:li>0.300733, 0.818000</rdf:li>
+          <rdf:li>0.305958, 0.776800</rdf:li>
+          <rdf:li>0.317846, 0.626000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.241845"
+        stCamera:RadialDistortParam2="0.02131"
+        stCamera:RadialDistortParam3="1.105773">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999693"
+        stCamera:RadialDistortParam1="-0.000539"
+        stCamera:RadialDistortParam2="0.03666"
+        stCamera:RadialDistortParam3="-0.221644"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.241845"
+        stCamera:RadialDistortParam2="0.02131"
+        stCamera:RadialDistortParam3="1.105773"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000455"
+        stCamera:RadialDistortParam1="-0.001707"
+        stCamera:RadialDistortParam2="-0.00739"
+        stCamera:RadialDistortParam3="0.028535"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.009278"
+         stCamera:VignetteModelParam1="-3.564475"
+         stCamera:VignetteModelParam2="61.768921"
+         stCamera:VignetteModelParam3="-566.785767">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.129752, 0.962800</rdf:li>
+          <rdf:li>0.218454, 0.898300</rdf:li>
+          <rdf:li>0.273869, 0.841000</rdf:li>
+          <rdf:li>0.294432, 0.839000</rdf:li>
+          <rdf:li>0.299744, 0.817300</rdf:li>
+          <rdf:li>0.304990, 0.764700</rdf:li>
+          <rdf:li>0.310409, 0.685000</rdf:li>
+          <rdf:li>0.316489, 0.580000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.181142"
+        stCamera:RadialDistortParam2="-0.01264"
+        stCamera:RadialDistortParam3="0.925199">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999607"
+        stCamera:RadialDistortParam1="-0.000352"
+        stCamera:RadialDistortParam2="0.028614"
+        stCamera:RadialDistortParam3="-0.188884"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.181142"
+        stCamera:RadialDistortParam2="-0.01264"
+        stCamera:RadialDistortParam3="0.925199"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000599"
+        stCamera:RadialDistortParam1="0.000321"
+        stCamera:RadialDistortParam2="-0.050471"
+        stCamera:RadialDistortParam3="0.329244"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.01235"
+         stCamera:VignetteModelParam1="-3.987161"
+         stCamera:VignetteModelParam2="81.944649"
+         stCamera:VignetteModelParam3="-772.855713">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.126118, 0.964800</rdf:li>
+          <rdf:li>0.205226, 0.909600</rdf:li>
+          <rdf:li>0.268852, 0.845900</rdf:li>
+          <rdf:li>0.293274, 0.843100</rdf:li>
+          <rdf:li>0.298500, 0.812900</rdf:li>
+          <rdf:li>0.303498, 0.744600</rdf:li>
+          <rdf:li>0.308823, 0.639700</rdf:li>
+          <rdf:li>0.314554, 0.508000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="70"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.047975"
+        stCamera:RadialDistortParam2="-0.098469"
+        stCamera:RadialDistortParam3="0.477944">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999434"
+        stCamera:RadialDistortParam1="-0.001867"
+        stCamera:RadialDistortParam2="0.069333"
+        stCamera:RadialDistortParam3="-0.537006"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.047975"
+        stCamera:RadialDistortParam2="-0.098469"
+        stCamera:RadialDistortParam3="0.477944"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000907"
+        stCamera:RadialDistortParam1="0.003179"
+        stCamera:RadialDistortParam2="-0.104557"
+        stCamera:RadialDistortParam3="0.753145"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.020198"
+         stCamera:VignetteModelParam1="-5.294527"
+         stCamera:VignetteModelParam2="146.214935"
+         stCamera:VignetteModelParam3="-1449.332642">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.133185, 0.960600</rdf:li>
+          <rdf:li>0.205581, 0.908200</rdf:li>
+          <rdf:li>0.267959, 0.843300</rdf:li>
+          <rdf:li>0.289592, 0.835300</rdf:li>
+          <rdf:li>0.292718, 0.811400</rdf:li>
+          <rdf:li>0.295386, 0.773600</rdf:li>
+          <rdf:li>0.298056, 0.718100</rdf:li>
+          <rdf:li>0.300726, 0.647700</rdf:li>
+          <rdf:li>0.305380, 0.499100</rdf:li>
+          <rdf:li>0.310264, 0.324000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="80"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.465425"
+        stCamera:RadialDistortParam2="-0.086123"
+        stCamera:RadialDistortParam3="2.78637">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999755"
+        stCamera:RadialDistortParam1="0.00103"
+        stCamera:RadialDistortParam2="0.012956"
+        stCamera:RadialDistortParam3="-0.032365"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.465425"
+        stCamera:RadialDistortParam2="-0.086123"
+        stCamera:RadialDistortParam3="2.78637"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000098"
+        stCamera:RadialDistortParam1="-0.003671"
+        stCamera:RadialDistortParam2="0.000946"
+        stCamera:RadialDistortParam3="-0.074609"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002894"
+         stCamera:VignetteModelParam1="-3.313997"
+         stCamera:VignetteModelParam2="36.964054"
+         stCamera:VignetteModelParam3="-393.084137">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.120809, 0.961100</rdf:li>
+          <rdf:li>0.258774, 0.841400</rdf:li>
+          <rdf:li>0.268387, 0.814600</rdf:li>
+          <rdf:li>0.279741, 0.744000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="80"
+       stCamera:FocusDistance="2.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.408521"
+        stCamera:RadialDistortParam2="-0.108617"
+        stCamera:RadialDistortParam3="2.608362">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999693"
+        stCamera:RadialDistortParam1="0.000283"
+        stCamera:RadialDistortParam2="0.037714"
+        stCamera:RadialDistortParam3="-0.257256"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.408521"
+        stCamera:RadialDistortParam2="-0.108617"
+        stCamera:RadialDistortParam3="2.608362"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000234"
+        stCamera:RadialDistortParam1="-0.002772"
+        stCamera:RadialDistortParam2="-0.012782"
+        stCamera:RadialDistortParam3="0.044015"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.004604"
+         stCamera:VignetteModelParam1="-3.6235"
+         stCamera:VignetteModelParam2="55.047455"
+         stCamera:VignetteModelParam3="-622.127808">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.119434, 0.961900</rdf:li>
+          <rdf:li>0.258265, 0.844100</rdf:li>
+          <rdf:li>0.267273, 0.809000</rdf:li>
+          <rdf:li>0.278565, 0.704000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="80"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.367699"
+        stCamera:RadialDistortParam2="-0.130396"
+        stCamera:RadialDistortParam3="2.489465">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999658"
+        stCamera:RadialDistortParam1="-0.000181"
+        stCamera:RadialDistortParam2="0.046556"
+        stCamera:RadialDistortParam3="-0.350655"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.367699"
+        stCamera:RadialDistortParam2="-0.130396"
+        stCamera:RadialDistortParam3="2.489465"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000334"
+        stCamera:RadialDistortParam1="-0.002406"
+        stCamera:RadialDistortParam2="-0.017604"
+        stCamera:RadialDistortParam3="0.099269"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.00596"
+         stCamera:VignetteModelParam1="-3.848354"
+         stCamera:VignetteModelParam2="69.114227"
+         stCamera:VignetteModelParam3="-806.191711">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.056836, 0.991100</rdf:li>
+          <rdf:li>0.124597, 0.958600</rdf:li>
+          <rdf:li>0.244262, 0.848100</rdf:li>
+          <rdf:li>0.258504, 0.845300</rdf:li>
+          <rdf:li>0.262898, 0.830300</rdf:li>
+          <rdf:li>0.267303, 0.797100</rdf:li>
+          <rdf:li>0.277714, 0.672000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="80"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.312878"
+        stCamera:RadialDistortParam2="-0.161418"
+        stCamera:RadialDistortParam3="2.289011">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999601"
+        stCamera:RadialDistortParam1="0.00004"
+        stCamera:RadialDistortParam2="0.037206"
+        stCamera:RadialDistortParam3="-0.278731"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.312878"
+        stCamera:RadialDistortParam2="-0.161418"
+        stCamera:RadialDistortParam3="2.289011"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000452"
+        stCamera:RadialDistortParam1="-0.001277"
+        stCamera:RadialDistortParam2="-0.035926"
+        stCamera:RadialDistortParam3="0.249132"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.007851"
+         stCamera:VignetteModelParam1="-4.217718"
+         stCamera:VignetteModelParam2="91.194168"
+         stCamera:VignetteModelParam3="-1090.811279">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.118136, 0.962600</rdf:li>
+          <rdf:li>0.183108, 0.912800</rdf:li>
+          <rdf:li>0.240141, 0.851300</rdf:li>
+          <rdf:li>0.257506, 0.849000</rdf:li>
+          <rdf:li>0.262343, 0.827600</rdf:li>
+          <rdf:li>0.266488, 0.785600</rdf:li>
+          <rdf:li>0.276565, 0.626000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="80"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.235332"
+        stCamera:RadialDistortParam2="-0.213599"
+        stCamera:RadialDistortParam3="2.004205">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999528"
+        stCamera:RadialDistortParam1="-0.000686"
+        stCamera:RadialDistortParam2="0.045282"
+        stCamera:RadialDistortParam3="-0.338726"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.235332"
+        stCamera:RadialDistortParam2="-0.213599"
+        stCamera:RadialDistortParam3="2.004205"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000619"
+        stCamera:RadialDistortParam1="-0.000513"
+        stCamera:RadialDistortParam2="-0.051044"
+        stCamera:RadialDistortParam3="0.425821"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.011129"
+         stCamera:VignetteModelParam1="-4.819029"
+         stCamera:VignetteModelParam2="128.438782"
+         stCamera:VignetteModelParam3="-1581.445313">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.115276, 0.964100</rdf:li>
+          <rdf:li>0.172118, 0.922500</rdf:li>
+          <rdf:li>0.235645, 0.856300</rdf:li>
+          <rdf:li>0.256186, 0.854100</rdf:li>
+          <rdf:li>0.260808, 0.827500</rdf:li>
+          <rdf:li>0.265231, 0.765400</rdf:li>
+          <rdf:li>0.269729, 0.673900</rdf:li>
+          <rdf:li>0.274927, 0.550000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000085"
+        stCamera:ResidualStandardDeviation="0.000067"
+        stCamera:RadialDistortParam1="-0.12924"
+        stCamera:RadialDistortParam2="0.040713"
+        stCamera:RadialDistortParam3="0.046387">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000209"
+        stCamera:RadialDistortParam1="0.001188"
+        stCamera:RadialDistortParam2="-0.002416"
+        stCamera:RadialDistortParam3="0.002054"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000085"
+        stCamera:ResidualStandardDeviation="0.000067"
+        stCamera:RadialDistortParam1="-0.12924"
+        stCamera:RadialDistortParam2="0.040713"
+        stCamera:RadialDistortParam3="0.046387"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000004"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000519"
+        stCamera:RadialDistortParam1="-0.001527"
+        stCamera:RadialDistortParam2="0.003296"
+        stCamera:RadialDistortParam3="-0.003202"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000221"
+        stCamera:VignetteModelParam1="-0.467856"
+        stCamera:VignetteModelParam2="-0.266121"
+        stCamera:VignetteModelParam3="0.134804"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="80"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.064861"
+        stCamera:RadialDistortParam2="-0.339788"
+        stCamera:RadialDistortParam3="1.237976">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999371"
+        stCamera:RadialDistortParam1="-0.003952"
+        stCamera:RadialDistortParam2="0.149341"
+        stCamera:RadialDistortParam3="-1.386455"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.064861"
+        stCamera:RadialDistortParam2="-0.339788"
+        stCamera:RadialDistortParam3="1.237976"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000949"
+        stCamera:RadialDistortParam1="0.003686"
+        stCamera:RadialDistortParam2="-0.184356"
+        stCamera:RadialDistortParam3="1.865622"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.019515"
+         stCamera:VignetteModelParam1="-6.650143"
+         stCamera:VignetteModelParam2="246.719559"
+         stCamera:VignetteModelParam3="-3213.328369">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.056780, 0.991100</rdf:li>
+          <rdf:li>0.126132, 0.957200</rdf:li>
+          <rdf:li>0.252731, 0.842100</rdf:li>
+          <rdf:li>0.255525, 0.819700</rdf:li>
+          <rdf:li>0.257920, 0.784500</rdf:li>
+          <rdf:li>0.262577, 0.669200</rdf:li>
+          <rdf:li>0.266836, 0.524500</rdf:li>
+          <rdf:li>0.271295, 0.353000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.812099"
+        stCamera:RadialDistortParam2="-0.893238"
+        stCamera:RadialDistortParam3="12.368577">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999548"
+        stCamera:RadialDistortParam1="0.002702"
+        stCamera:RadialDistortParam2="0.004839"
+        stCamera:RadialDistortParam3="0.066692"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.812099"
+        stCamera:RadialDistortParam2="-0.893238"
+        stCamera:RadialDistortParam3="12.368577"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000064"
+        stCamera:RadialDistortParam1="-0.005796"
+        stCamera:RadialDistortParam2="-0.015709"
+        stCamera:RadialDistortParam3="0.010431"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001085"
+        stCamera:VignetteModelParam1="-4.682913"
+        stCamera:VignetteModelParam2="49.487312"
+        stCamera:VignetteModelParam3="-776.627625"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="2.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.718483"
+        stCamera:RadialDistortParam2="-0.943256"
+        stCamera:RadialDistortParam3="12.001104">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999509"
+        stCamera:RadialDistortParam1="0.003039"
+        stCamera:RadialDistortParam2="-0.037262"
+        stCamera:RadialDistortParam3="0.697395"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.718483"
+        stCamera:RadialDistortParam2="-0.943256"
+        stCamera:RadialDistortParam3="12.001104"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000228"
+        stCamera:RadialDistortParam1="-0.004967"
+        stCamera:RadialDistortParam2="-0.011077"
+        stCamera:RadialDistortParam3="-0.088913"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.001986"
+         stCamera:VignetteModelParam1="-4.935782"
+         stCamera:VignetteModelParam2="75.421387"
+         stCamera:VignetteModelParam3="-1356.300903">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.073202, 0.977500</rdf:li>
+          <rdf:li>0.136512, 0.924000</rdf:li>
+          <rdf:li>0.198655, 0.851200</rdf:li>
+          <rdf:li>0.212118, 0.783000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.651877"
+        stCamera:RadialDistortParam2="-0.981667"
+        stCamera:RadialDistortParam3="11.556009">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999483"
+        stCamera:RadialDistortParam1="0.000916"
+        stCamera:RadialDistortParam2="0.074927"
+        stCamera:RadialDistortParam3="-0.996258"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.651877"
+        stCamera:RadialDistortParam2="-0.981667"
+        stCamera:RadialDistortParam3="11.556009"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000338"
+        stCamera:RadialDistortParam1="-0.004067"
+        stCamera:RadialDistortParam2="-0.030591"
+        stCamera:RadialDistortParam3="0.158102"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.002715"
+         stCamera:VignetteModelParam1="-5.185245"
+         stCamera:VignetteModelParam2="100.400787"
+         stCamera:VignetteModelParam3="-1898.817383">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.083811, 0.970200</rdf:li>
+          <rdf:li>0.195951, 0.856100</rdf:li>
+          <rdf:li>0.202849, 0.833000</rdf:li>
+          <rdf:li>0.211515, 0.766000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.563122"
+        stCamera:RadialDistortParam2="-1.052818"
+        stCamera:RadialDistortParam3="11.079737">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999439"
+        stCamera:RadialDistortParam1="0.000017"
+        stCamera:RadialDistortParam2="0.069676"
+        stCamera:RadialDistortParam3="-0.611842"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.563122"
+        stCamera:RadialDistortParam2="-1.052818"
+        stCamera:RadialDistortParam3="11.079737"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000481"
+        stCamera:RadialDistortParam1="-0.004632"
+        stCamera:RadialDistortParam2="0.020734"
+        stCamera:RadialDistortParam3="-0.366452"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.003794"
+         stCamera:VignetteModelParam1="-5.534264"
+         stCamera:VignetteModelParam2="135.57048"
+         stCamera:VignetteModelParam3="-2678.057373">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.085489, 0.969000</rdf:li>
+          <rdf:li>0.195518, 0.857800</rdf:li>
+          <rdf:li>0.202347, 0.827900</rdf:li>
+          <rdf:li>0.210705, 0.741000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.43795"
+        stCamera:RadialDistortParam2="-1.158887"
+        stCamera:RadialDistortParam3="10.187969">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999361"
+        stCamera:RadialDistortParam1="0.00038"
+        stCamera:RadialDistortParam2="0.088497"
+        stCamera:RadialDistortParam3="-1.28594"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.43795"
+        stCamera:RadialDistortParam2="-1.158887"
+        stCamera:RadialDistortParam3="10.187969"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000656"
+        stCamera:RadialDistortParam1="-0.002651"
+        stCamera:RadialDistortParam2="0.006863"
+        stCamera:RadialDistortParam3="-0.364064"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.005411"
+         stCamera:VignetteModelParam1="-6.04154"
+         stCamera:VignetteModelParam2="188.639908"
+         stCamera:VignetteModelParam3="-3883.723877">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.081961, 0.971500</rdf:li>
+          <rdf:li>0.195125, 0.860000</rdf:li>
+          <rdf:li>0.201593, 0.819200</rdf:li>
+          <rdf:li>0.209558, 0.703000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="105"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.163847"
+        stCamera:RadialDistortParam2="-1.426109"
+        stCamera:RadialDistortParam3="7.954216">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="0.999213"
+        stCamera:RadialDistortParam1="-0.003937"
+        stCamera:RadialDistortParam2="0.253292"
+        stCamera:RadialDistortParam3="-3.566271"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.163847"
+        stCamera:RadialDistortParam2="-1.426109"
+        stCamera:RadialDistortParam3="7.954216"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.001"
+        stCamera:RadialDistortParam1="0.007437"
+        stCamera:RadialDistortParam2="-0.503916"
+        stCamera:RadialDistortParam3="7.733281"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.010518"
+         stCamera:VignetteModelParam1="-7.770985"
+         stCamera:VignetteModelParam2="371.644501"
+         stCamera:VignetteModelParam3="-8068.103516">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.083324, 0.970400</rdf:li>
+          <rdf:li>0.177634, 0.870700</rdf:li>
+          <rdf:li>0.193239, 0.869000</rdf:li>
+          <rdf:li>0.196545, 0.845800</rdf:li>
+          <rdf:li>0.199852, 0.787400</rdf:li>
+          <rdf:li>0.203261, 0.698500</rdf:li>
+          <rdf:li>0.207028, 0.583000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="1"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000085"
+        stCamera:ResidualStandardDeviation="0.000067"
+        stCamera:RadialDistortParam1="-0.13388"
+        stCamera:RadialDistortParam2="0.039112"
+        stCamera:RadialDistortParam3="0.045496">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000154"
+        stCamera:RadialDistortParam1="0.001363"
+        stCamera:RadialDistortParam2="-0.003079"
+        stCamera:RadialDistortParam3="0.002601"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000085"
+        stCamera:ResidualStandardDeviation="0.000067"
+        stCamera:RadialDistortParam1="-0.13388"
+        stCamera:RadialDistortParam2="0.039112"
+        stCamera:RadialDistortParam3="0.045496"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000579"
+        stCamera:RadialDistortParam1="-0.001336"
+        stCamera:RadialDistortParam2="0.00258"
+        stCamera:RadialDistortParam3="-0.002425"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000207"
+        stCamera:VignetteModelParam1="-0.467641"
+        stCamera:VignetteModelParam2="-0.270236"
+        stCamera:VignetteModelParam3="0.121358"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.7"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000084"
+        stCamera:ResidualStandardDeviation="0.000066"
+        stCamera:RadialDistortParam1="-0.140227"
+        stCamera:RadialDistortParam2="0.036885"
+        stCamera:RadialDistortParam3="0.044161">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000083"
+        stCamera:RadialDistortParam1="0.001249"
+        stCamera:RadialDistortParam2="-0.002626"
+        stCamera:RadialDistortParam3="0.002055"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000084"
+        stCamera:ResidualStandardDeviation="0.000066"
+        stCamera:RadialDistortParam1="-0.140227"
+        stCamera:RadialDistortParam2="0.036885"
+        stCamera:RadialDistortParam3="0.044161"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000674"
+        stCamera:RadialDistortParam1="-0.001429"
+        stCamera:RadialDistortParam2="0.002951"
+        stCamera:RadialDistortParam3="-0.002628"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000273"
+        stCamera:VignetteModelParam1="-0.467843"
+        stCamera:VignetteModelParam2="-0.269961"
+        stCamera:VignetteModelParam3="0.091053"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000081"
+        stCamera:ResidualStandardDeviation="0.000063"
+        stCamera:RadialDistortParam1="-0.153247"
+        stCamera:RadialDistortParam2="0.0323"
+        stCamera:RadialDistortParam3="0.040827">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="0.999928"
+        stCamera:RadialDistortParam1="0.001213"
+        stCamera:RadialDistortParam2="-0.002479"
+        stCamera:RadialDistortParam3="0.00165"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000081"
+        stCamera:ResidualStandardDeviation="0.000063"
+        stCamera:RadialDistortParam1="-0.153247"
+        stCamera:RadialDistortParam2="0.0323"
+        stCamera:RadialDistortParam3="0.040827"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.000878"
+        stCamera:RadialDistortParam1="-0.001359"
+        stCamera:RadialDistortParam2="0.002649"
+        stCamera:RadialDistortParam3="-0.002037"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000244"
+        stCamera:VignetteModelParam1="-0.47003"
+        stCamera:VignetteModelParam2="-0.256295"
+        stCamera:VignetteModelParam3="-0.002634"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="999999995904"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.008292"
+        stCamera:RadialDistortParam2="0.163111"
+        stCamera:RadialDistortParam3="0.043178">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.00019"
+        stCamera:RadialDistortParam1="0.000861"
+        stCamera:RadialDistortParam2="-0.001499"
+        stCamera:RadialDistortParam3="0.002635"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.008292"
+        stCamera:RadialDistortParam2="0.163111"
+        stCamera:RadialDistortParam3="0.043178"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000292"
+        stCamera:RadialDistortParam1="-0.000785"
+        stCamera:RadialDistortParam2="-0.000187"
+        stCamera:RadialDistortParam3="-0.001435"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000184"
+        stCamera:VignetteModelParam1="-0.868704"
+        stCamera:VignetteModelParam2="0.075929"
+        stCamera:VignetteModelParam3="0.215895"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="2.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.018925"
+        stCamera:RadialDistortParam2="0.16105"
+        stCamera:RadialDistortParam3="0.037507">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000132"
+        stCamera:RadialDistortParam1="0.000896"
+        stCamera:RadialDistortParam2="-0.001987"
+        stCamera:RadialDistortParam3="0.003228"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.018925"
+        stCamera:RadialDistortParam2="0.16105"
+        stCamera:RadialDistortParam3="0.037507"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000376"
+        stCamera:RadialDistortParam1="-0.000763"
+        stCamera:RadialDistortParam2="-0.000093"
+        stCamera:RadialDistortParam3="-0.001165"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000181"
+        stCamera:VignetteModelParam1="-0.864941"
+        stCamera:VignetteModelParam2="0.028558"
+        stCamera:VignetteModelParam3="0.271748"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="NIKON CORPORATION"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="138"
+       stCamera:Lens="24.0-105.0 mm f/4.0"
+       stCamera:LensInfo="240/10 1050/10 40/10 40/10"
+       stCamera:CameraPrettyName="NIKON CORPORATION"
+       stCamera:LensPrettyName="SIGMA 24-105mm F4 DG OS HSM A013"
+       stCamera:ProfileName="Adobe (SIGMA 24-105mm F4 DG OS HSM A013, NIKON CORPORATION)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="35"
+       stCamera:FocusDistance="1.5"
+       stCamera:ApertureValue="6.918863">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.02645"
+        stCamera:RadialDistortParam2="0.159457"
+        stCamera:RadialDistortParam3="0.033322">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000098"
+        stCamera:RadialDistortParam1="0.000645"
+        stCamera:RadialDistortParam2="-0.00075"
+        stCamera:RadialDistortParam3="0.001174"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:RadialDistortParam1="-0.02645"
+        stCamera:RadialDistortParam2="0.159457"
+        stCamera:RadialDistortParam3="0.033322"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000441"
+        stCamera:RadialDistortParam1="-0.000983"
+        stCamera:RadialDistortParam2="0.001411"
+        stCamera:RadialDistortParam3="-0.003215"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000228"
+        stCamera:VignetteModelParam1="-0.858134"
+        stCamera:VignetteModelParam2="-0.032145"
+        stCamera:VignetteModelParam3="0.353728"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </photoshop:CameraProfiles>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                                               <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved.">
+  <assemblyIdentity name="Microsoft-Windows-msmq-adintegration-Opt-Package" version="10.0.26100.1" processorArchitecture="amd64" language="en-US" buildType="release" publicKeyToken="31bf3856ad364e35" />
+  <package identifier="Microsoft-Windows-msmq-adintegration-Opt-en-US" releaseType="Language Pack">
+    <parent disposition="detect">
+      <assemblyIdentity name="Microsoft-Windows-msmq-adintegration-Opt-Package" version="10.0.26100.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+    </parent>
+    <update name="26cfd0b0835dc860e0e32d1d31f9d2bb">
+      <component>
+        <assemblyIdentity name="Microsoft-Windows-msmq-adintegration-Opt-Deployment-LanguagePack" version="10.0.26100.1" processorArchitecture="amd64" language="en-US" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+      </component>
+    </update>
+  </package>
+</assembly>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved.">
+  <assemblyIdentity name="Microsoft-Windows-COM-MSMQ-Package" version="10.0.26100.1" processorArchitecture="amd64" language="en-US" buildType="release" publicKeyToken="31bf3856ad364e35" />
+  <package identifier="Microsoft-Windows-COM-MSMQ-en-US" releaseType="Language Pack">
+    <parent disposition="detect">
+      <assemblyIdentity name="Microsoft-Windows-COM-MSMQ-Package" version="10.0.26100.1" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+    </parent>
+    <update name="7e564582e2832ffe679a4716a6594c0d">
+      <component>
+        <assemblyIdentity name="Microsoft-Windows-COM-MSMQ-Deployment-LanguagePack" version="10.0.26100.1" processorArchitecture="amd64" language="en-US" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS" />
+      </component>
+    </update>
+  </package>
+</assembly>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

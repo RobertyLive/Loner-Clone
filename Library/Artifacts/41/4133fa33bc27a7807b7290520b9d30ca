@@ -1,0 +1,228 @@
+f a 3-D element.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the shadow color of a 3-D element.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.ControlDarkDark">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the dark shadow color of a 3-D element.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the dark shadow color of a 3-D element.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.ControlLight">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the light color of a 3-D element.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the light color of a 3-D element.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.ControlLightLight">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the highlight color of a 3-D element.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the highlight color of a 3-D element.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.ControlText">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of text in a 3-D element.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of text in a 3-D element.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.Desktop">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of the Windows desktop.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of the Windows desktop.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.GradientActiveCaption">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the lightest color in the color gradient of an active window's title bar.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the lightest color in the color gradient of an active window's title bar.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.GradientInactiveCaption">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the lightest color in the color gradient of an inactive window's title bar.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the lightest color in the color gradient of an inactive window's title bar.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.GrayText">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of dimmed text.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of dimmed text.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.Highlight">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of the background of selected items.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of the background of selected items.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.HighlightText">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of the text of selected items.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of the text of selected items.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.HotTrack">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color used to designate a hot-tracked item.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color used to designate a hot-tracked item.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.InactiveBorder">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> is the color of the border of an inactive window.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of the border of an inactive window.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.InactiveCaption">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of the title bar caption of an inactive window.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of the title bar caption of an inactive window.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.InactiveCaptionText">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of the text in an inactive window's title bar.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of the text in an inactive window's title bar.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.Info">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of the background of a ToolTip.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of the background of a ToolTip.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.InfoText">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of the text of a ToolTip.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of the text of a ToolTip.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.Menu">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of a menu's background.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of a menu's background.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.MenuBar">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of the background of a menu bar.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of the background of a menu bar.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.MenuHighlight">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color used to highlight menu items when the menu appears as a flat menu.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color used to highlight menu items when the menu appears as a flat menu.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.MenuText">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of a menu's text.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of a menu's text.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.ScrollBar">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of the background of a scroll bar.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of the background of a scroll bar.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.Window">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of the background in the client area of a window.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of the background in the client area of a window.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.WindowFrame">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of a window frame.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of a window frame.</returns>
+    </member>
+    <member name="P:System.Drawing.SystemPens.WindowText">
+      <summary>Gets a <see cref="T:System.Drawing.Pen" /> that is the color of the text in the client area of a window.</summary>
+      <returns>A <see cref="T:System.Drawing.Pen" /> that is the color of the text in the client area of a window.</returns>
+    </member>
+    <member name="T:System.Drawing.Text.FontCollection">
+      <summary>Provides a base class for installed and private font collections.</summary>
+    </member>
+    <member name="M:System.Drawing.Text.FontCollection.Dispose">
+      <summary>Releases all resources used by this <see cref="T:System.Drawing.Text.FontCollection" />.</summary>
+    </member>
+    <member name="M:System.Drawing.Text.FontCollection.Dispose(System.Boolean)">
+      <summary>Releases the unmanaged resources used by the <see cref="T:System.Drawing.Text.FontCollection" /> and optionally releases the managed resources.</summary>
+      <param name="disposing">
+        <see langword="true" /> to release both managed and unmanaged resources; <see langword="false" /> to release only unmanaged resources.</param>
+    </member>
+    <member name="M:System.Drawing.Text.FontCollection.Finalize">
+      <summary>Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.</summary>
+    </member>
+    <member name="P:System.Drawing.Text.FontCollection.Families">
+      <summary>Gets the array of <see cref="T:System.Drawing.FontFamily" /> objects associated with this <see cref="T:System.Drawing.Text.FontCollection" />.</summary>
+      <returns>An array of <see cref="T:System.Drawing.FontFamily" /> objects.</returns>
+    </member>
+    <member name="T:System.Drawing.Text.GenericFontFamilies">
+      <summary>Specifies a generic <see cref="T:System.Drawing.FontFamily" /> object.</summary>
+    </member>
+    <member name="F:System.Drawing.Text.GenericFontFamilies.Monospace">
+      <summary>A generic Monospace <see cref="T:System.Drawing.FontFamily" /> object.</summary>
+    </member>
+    <member name="F:System.Drawing.Text.GenericFontFamilies.SansSerif">
+      <summary>A generic Sans Serif <see cref="T:System.Drawing.FontFamily" /> object.</summary>
+    </member>
+    <member name="F:System.Drawing.Text.GenericFontFamilies.Serif">
+      <summary>A generic Serif <see cref="T:System.Drawing.FontFamily" /> object.</summary>
+    </member>
+    <member name="T:System.Drawing.Text.HotkeyPrefix">
+      <summary>Specifies the type of display for hot-key prefixes that relate to text.</summary>
+    </member>
+    <member name="F:System.Drawing.Text.HotkeyPrefix.Hide">
+      <summary>Do not display the hot-key prefix.</summary>
+    </member>
+    <member name="F:System.Drawing.Text.HotkeyPrefix.None">
+      <summary>No hot-key prefix.</summary>
+    </member>
+    <member name="F:System.Drawing.Text.HotkeyPrefix.Show">
+      <summary>Display the hot-key prefix.</summary>
+    </member>
+    <member name="T:System.Drawing.Text.InstalledFontCollection">
+      <summary>Represents the fonts installed on the system. This class cannot be inherited.</summary>
+    </member>
+    <member name="M:System.Drawing.Text.InstalledFontCollection.#ctor">
+      <summary>Initializes a new instance of the <see cref="T:System.Drawing.Text.InstalledFontCollection" /> class.</summary>
+    </member>
+    <member name="T:System.Drawing.Text.PrivateFontCollection">
+      <summary>Provides a collection of font families built from font files that are provided by the client application.</summary>
+    </member>
+    <member name="M:System.Drawing.Text.PrivateFontCollection.#ctor">
+      <summary>Initializes a new instance of the <see cref="T:System.Drawing.Text.PrivateFontCollection" /> class.</summary>
+    </member>
+    <member name="M:System.Drawing.Text.PrivateFontCollection.AddFontFile(System.String)">
+      <summary>Adds a font from the specified file to this <see cref="T:System.Drawing.Text.PrivateFontCollection" />.</summary>
+      <param name="filename">A <see cref="T:System.String" /> that contains the file name of the font to add.</param>
+      <exception cref="T:System.IO.FileNotFoundException">The specified font is not supported or the font file cannot be found.</exception>
+    </member>
+    <member name="M:System.Drawing.Text.PrivateFontCollection.AddMemoryFont(System.IntPtr,System.Int32)">
+      <summary>Adds a font contained in system memory to this <see cref="T:System.Drawing.Text.PrivateFontCollection" />.</summary>
+      <param name="memory">The memory address of the font to add.</param>
+      <param name="length">The memory length of the font to add.</param>
+    </member>
+    <member name="T:System.Drawing.Text.TextRenderingHint">
+      <summary>Specifies the quality of text rendering.</summary>
+    </member>
+    <member name="F:System.Drawing.Text.TextRenderingHint.AntiAlias">
+      <summary>Each character is drawn using its antialiased glyph bitmap without hinting. Better quality due to antialiasing. Stem width differences may be noticeable because hinting is turned off.</summary>
+    </member>
+    <member name="F:System.Drawing.Text.TextRenderingHint.AntiAliasGridFit">
+      <summary>Each character is drawn using its antialiased glyph bitmap with hinting. Much better quality due to antialiasing, but at a higher performance cost.</summary>
+    </member>
+    <member name="F:System.Drawing.Text.TextRenderingHint.ClearTypeGridFit">
+      <summary>Each character is drawn using its glyph ClearType bitmap with hinting. The highest quality setting. Used to take advantage of ClearType font features.</summary>
+    </member>
+    <member name="F:System.Drawing.Text.TextRenderingHint.SingleBitPerPixel">
+      <summary>Each character is drawn using its glyph bitmap. Hinting is not used.</summary>
+    </member>
+    <member name="F:System.Drawing.Text.TextRenderingHint.SingleBitPerPixelGridFit">
+      <summary>Each character is drawn using its glyph bitmap. Hinting is used to improve character appearance on stems and curvature.</summary>
+    </member>
+    <member name="F:System.Drawing.Text.TextRenderingHint.SystemDefault">
+      <summary>Each character is drawn using its glyph bitmap, with the system default rendering hint. The text will be drawn using whatever font-smoothing settings the user has selected for the system.</summary>
+    </member>
+    <member name="T:System.Drawing.TextureBrush">
+      <summary>Each property of the <see cref="T:System.Drawing.TextureBrush" /> class is a <see cref="T:System.Drawing.Brush" /> object that uses an image to fill the interior of a shape. This class cannot be inherited.</summary>
+    </member>
+    <member name="M:System.Drawing.TextureBrush.#ctor(System.Drawing.Image,System.Drawing.Drawing2D.WrapMode,System.Drawing.Rectangle)">
+      <summary>Initializes a new <see cref="T:System.Drawing.TextureBrush" /> object that uses the specified image, wrap mode, and bounding rectangle.</summary>
+      <param name="image">The <see cref="T:System.Drawing.Image" /> object with which this <see cref="T:System.Drawing.TextureBrush" /> object fills interiors.</param>
+      <param name="wrapMode">A <see cref="T:System.Drawing.Drawing2D.WrapMode" /> enumeration that specifies how this <see cref="T:System.Drawing.TextureBrush" /> object is tiled.</param>
+      <param name="dstRect">A <see cref="T:System.Drawing.Rectangle" /> structure that represents the bounding rectangle for this <see cref="T:System.Drawing.TextureBrush" /> object.</param>
+    </member>
+    <member name="M:System.Drawing.TextureBrush.#ctor(System.Drawing.Image,System.Drawing.Drawing2D.WrapMode,System.Drawing.RectangleF)">
+      <summary>Initializes a new <see cref="T:System.Drawing.TextureBrush" /> object that uses the specified image, wrap mode, and bounding rectangle.</summary>
+      <param name="image">The <see cref="T:System.Drawing.Image" /> object with which this <see cref="T:System.Drawing.TextureBrush" /> object fills interiors.</param>
+      <param name="wrapMode">A <see cref="T:System.Drawing.Drawing2D.WrapMode" /> enumeration that specifies how this <see cref="T:System.Drawing.TextureBrush" /> object is tiled.</param>
+      <param name="dstRect">A <see cref="T:System.Drawing.RectangleF" /> structure that represents the bounding rectangle for this <see cref="T:System.Drawing.TextureBrush" /> object.</param>
+    </member>
+    <member name="M:System.Drawing.TextureBrush.#ctor(System.Drawing.Image,System.Drawing.Drawing2D.WrapMode)">
+      <summary>Initializes a new <see cref="T:System.Drawing.TextureBrush" /> object that uses the specified image and wrap mode.</summary>
+      <param name="image">The <see cref="T:System.Drawing.Image" /> object with which this <see cref="T:System.Drawing.TextureBrush" /> object fills interiors.</param>
+      <param name="wrapMode">A <see cref="T:System.Drawing.Drawing2D.WrapMode" /> enumeration that specifies how this <see cref="T:System.Drawing.TextureBrush" /> object is tiled.</param>
+    </member>
+    <member name="M:System.Drawing.TextureBrush.#ctor(System.Drawing.Image,System.Drawing.Rectangle,System.Drawing.Imaging.ImageAttributes)">
+      <summary>Initializes a new <see cref="T:System.Drawing.TextureBrush" /> object that uses the specified image, bounding rectangle, and image attributes.</summary>
+      <param name="image">The <see cref="T:System.Drawing.Image" /> object with which this <see cref="T:System.Drawing.TextureBrush" /> object fills interiors.</param>
+      <param name="dstRect">A <see cref="T:System.Drawing.Rectangle" /> structure that represents the bounding rectangle for this <see cref="T:System.Drawing.TextureBrush" /> object.</param>
+      <param name="imageAttr">An <see cref="T:System.Drawing.Imaging.ImageAttributes" /> object that contains additional information about the image used by this <see cref="T:System.Drawing.TextureBrush" /> object.</param>
+    </member>
+    <member name="M:System.Drawing.TextureBrush.#ctor(System.Drawing.Image,System.Drawing.Rectangle)">
+      <summary>Initializes a new <see cref="T:System.Drawing.TextureBrush" /> object that uses the specified image and bounding rectangle.</summary>
+      <param name="image">The <see cref="T:System.Drawing.Image" /> object with which this <see cref="T:System.Drawing.TextureBrush" /> object fills interiors.</param>
+      <param name="dstRect">A <see cref="T:System.Drawing.Rectangle" /> structure that represents the bounding rectangle for this <see cref="T:System.Drawing.TextureBrush" /> object.</param>
+    </member>
+    <member name="M:System.Drawing.TextureBrush.#ctor(System.Drawing.Image,System.Drawing.RectangleF,System.Drawing.Imaging.ImageAttributes)">
+      <summary>Initializes a new <see cref="T:System.Drawing.TextureBrush" /> object that uses the specified image, bounding rectangle, and image attributes.</summary>
+      <param name="image">The <see cref="T:System.Drawing.Image" /> object with which this <see cref="T:System.Drawing.TextureBrush" /> object fills interiors.</param>
+      <param name="dstRect">A <see cref="T:System.Drawing.RectangleF" /> structure that represents the bounding rectangle for this <see cref="T:System.Drawing.TextureBrush" /> object.</param>
+      <param name="imageAttr">An <see cref="T:System.Drawing.Imaging.ImageAttributes" /> object that contains additional information about the image used by this <see cref="T:System.Drawing.TextureBrush" /> object.</param>
+    </member>
+    <member name="M:System.Drawing.TextureBrush.#ctor(System.Drawing.Image,System.Drawing.RectangleF)">
+      <summary>Initializes a new <see cref="T:System.Drawing.TextureBrush" /> object that uses the specified image and bounding rectangle.</summary>
+      <param name="image">The <see cref="T:System.Drawing.Image" /> object with which this <see cref="T:System.Drawing.TextureBrush" /> object fills interiors.</param>
+      <param name="dstRect">A <see cref="T:System.Drawing.RectangleF" /> structure that represents the bounding rectangle for this <see cref="T:System.Drawing.TextureBrush" /> object.</param>
+    </member>
+    <member name="M:System.Drawing.TextureBrush.#ctor(System.Drawing.Image)">
+      <summary>Initializes a new <see cref="T:System.Drawing.TextureBrush" /> object that uses

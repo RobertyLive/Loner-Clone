@@ -1,0 +1,79 @@
+          <rdf:li>0.058956, 0.975100</rdf:li>
+          <rdf:li>0.186854, 0.884700</rdf:li>
+          <rdf:li>0.412699, 0.689900</rdf:li>
+          <rdf:li>0.885540, 0.212000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="24mm T1.5 FF | 017"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 24mm T1.5 FF HIGH-SPEED PRIME"
+       stCamera:ProfileName="Adobe (SIGMA 24mm T1.5 FF HIGH-SPEED PRIME, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="0.4"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000017"
+        stCamera:ResidualStandardDeviation="0.000011"
+        stCamera:RadialDistortParam1="-0.061059"
+        stCamera:RadialDistortParam2="0.056226"
+        stCamera:RadialDistortParam3="-0.012696">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000002"
+        stCamera:ScaleFactor="1.00001"
+        stCamera:RadialDistortParam1="0.000586"
+        stCamera:RadialDistortParam2="-0.000967"
+        stCamera:RadialDistortParam3="-0.000309"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0.000017"
+        stCamera:ResidualStandardDeviation="0.000011"
+        stCamera:RadialDistortParam1="-0.061059"
+        stCamera:RadialDistortParam2="0.056226"
+        stCamera:RadialDistortParam3="-0.012696"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0.000003"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:ScaleFactor="1.000246"
+        stCamera:RadialDistortParam1="-0.000157"
+        stCamera:RadialDistortParam2="-0.00009"
+        stCamera:RadialDistortParam3="0.001234"/>
+       <stCamera:VignetteModel>
+        <rdf:Description
+         stCamera:ResidualMeanError="0.011918"
+         stCamera:VignetteModelParam1="-2.225193"
+         stCamera:VignetteModelParam2="3.131827"
+         stCamera:VignetteModelParam3="-2.038162">
+        <stCamera:VignetteModelPiecewiseParam>
+         <rdf:Seq>
+          <rdf:li>0.000000, 1.000000</rdf:li>
+          <rdf:li>0.056537, 0.986800</rdf:li>
+          <rdf:li>0.164745, 0.915500</rdf:li>
+          <rdf:li>0.432084, 0.687500</rdf:li>
+          <rdf:li>0.883886, 0.230000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Au

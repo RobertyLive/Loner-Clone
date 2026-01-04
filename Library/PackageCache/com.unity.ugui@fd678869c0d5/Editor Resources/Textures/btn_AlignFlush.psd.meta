@@ -1,0 +1,33 @@
+/*=============================================================================
+	EdgeDetectionPostProcessBlendVertexShader.usf
+=============================================================================*/
+
+uniform float4 SceneCoordinateScaleBias;
+
+uniform float4 MiscParameters;
+uniform float4 RenderTargetSize;	// x=width, y=height, z=1/width, w=1/height
+
+uniform float4 DiagOffsetAB;
+uniform float4 DiagOffsetCD;
+uniform float4 AxisOffsetAB;
+uniform float4 AxisOffsetCD;
+
+static const float FarDist = MiscParameters.x;
+static const float NearDist = MiscParameters.y;
+static const float SobelPower = MiscParameters.z;
+static const float TexelOffset = MiscParameters.w;
+
+void Main(
+	in float4 InPosition : POSITION,
+	in float2 InTexCoord : TEXCOORD0,
+	out float4 PackedUVDiagAB : TEXCOORD0,
+	out float4 PackedUVDiagCD : TEXCOORD1,
+	out float4 PackedUVAxisAB : TEXCOORD2,
+	out float4 PackedUVAxisCD : TEXCOORD3,
+	out float2 OutTexCoord : TEXCOORD4,
+	out float4 OutPosition : POSITION
+	)
+{
+	OutPosition = InPosition;
+
+	float2 SceneUV = InPosition.xy / InPosition.w * SceneCoordinateS

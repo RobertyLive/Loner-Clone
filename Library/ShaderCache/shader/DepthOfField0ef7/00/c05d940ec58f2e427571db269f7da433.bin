@@ -1,0 +1,25 @@
+   stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="0.027632"
+        stCamera:RadialDistortParam2="-0.905116"
+        stCamera:RadialDistortParam3="0.846864">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.000213"
+        stCamera:VignetteModelParam1="-2.813291"
+        stCamera:VignetteModelParam2="6.3281"
+        stCamera:VignetteModelParam3="-22.197891"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="SONY"
+       stCamera:CameraRawProfile="True"
+       stCamera:Lens="85mm F1.4 DG HSM | Art 018"
+       stCamera:CameraPrettyName="SONY"
+       stCamera:LensPrettyName="SIGMA 85mm F1.4 DG HSM A018"
+       stCamera:ProfileName="Adobe (SIGMA 85mm F1.4 DG HSM A018, SONY)"
+       stCamera:SensorFormatFactor="1"
+       stC

@@ -1,0 +1,33 @@
+: >
+
+	:help -t
+
+The Vim editor has a number of options that enable you to configure and
+customize the editor.  If you want help for an option, you need to enclose it
+in single quotation marks.  To find out what the 'number' option does, for
+example, use the following command: >
+
+	:help 'number'
+
+The table with all mode prefixes can be found below: |help-summary|.
+
+Special keys are enclosed in angle brackets.  To find help on the up-arrow key
+in Insert mode, for instance, use this command: >
+
+	:help i_<Up>
+
+If you see an error message that you don't understand, for example:
+
+	E37: No write since last change (use ! to override) ~
+
+You can use the error ID at the start to find help about it: >
+
+	:help E37
+
+
+Summary:					*help-summary*  >
+
+1) Use Ctrl-D after typing a topic and let Vim show all available topics.
+   Or press Tab to complete: >
+	:help some<Tab>
+<   More

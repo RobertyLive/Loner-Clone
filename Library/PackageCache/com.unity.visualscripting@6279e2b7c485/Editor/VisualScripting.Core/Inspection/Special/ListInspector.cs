@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved.">
+  <assemblyIdentity name="Runlevel-Win2-Minimal-Package" version="10.0.26100.1591" processorArchitecture="amd64" language="en-US" buildType="release" publicKeyToken="31bf3856ad364e35" />
+  <package identifier="Runlevel-Win2-Minimal-en-US" releaseType="Language Pack" targetPartition="mainos" binaryPartition="false">
+    <mum2:customInformation xmlns:mum2="urn:schemas-microsoft-com:asm.v3">
+      <mum2:phoneInformation phoneRelease="Production" phoneOwner="Microsoft" phoneOwnerType="Microsoft" phoneComponent="Runlevel.Win2.Minimal" phoneSubComponent="" phoneGroupingKey="" />
+      <mum2:applicablePartitions>
+        <mum2:partition name="mainos" />
+      </mum2:applicablePartitions>
+    </mum2:customInformation>
+    <parent disposition="detect">
+      <assemblyIdentity name="Runlevel-Win2-Minimal-Package" version="10.0.26100.1591" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" />
+    </parent>
+    <update name="2f9de095abeffd2892018fadbf15900d">
+      <package contained="false" integrate="hidden">
+        <assemblyIdentity name="Runlevel-Win2-Minimal-merged-Package" version="10.0.26100.1" processorArchitecture="amd64" language="en-US" buildType="release" publicK

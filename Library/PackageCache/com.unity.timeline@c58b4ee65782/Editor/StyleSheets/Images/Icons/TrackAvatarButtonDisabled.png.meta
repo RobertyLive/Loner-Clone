@@ -1,0 +1,56 @@
+:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999792"
+        stCamera:RadialDistortParam1="-0.032031"
+        stCamera:RadialDistortParam2="31.540964"
+        stCamera:RadialDistortParam3="-2019.417114"/>
+       <stCamera:ChromaticGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="12.446046"
+        stCamera:RadialDistortParam2="-159.060577"
+        stCamera:RadialDistortParam3="-7996.924316"/>
+       <stCamera:ChromaticBlueGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="0.999631"
+        stCamera:RadialDistortParam1="-0.069934"
+        stCamera:RadialDistortParam2="23.722294"
+        stCamera:RadialDistortParam3="-8970.314453"/>
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.010834"
+        stCamera:VignetteModelParam1="-310.680023"
+        stCamera:VignetteModelParam2="5985.994141"
+        stCamera:VignetteModelParam3="7832444"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="153"
+       stCamera:Lens="50-500mm"
+       stCamera:LensInfo="50/1 500/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA APO 50-500mm F4-6.3 EX DG HSM"
+       stCamera:ProfileName="Adobe (SIGMA APO 50-500mm F4-6.3 EX DG HSM, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="20"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000006"
+        stCamera:ResidualStandardDeviation="0.000005"
+        stCamera:RadialDistortParam1="-0.043147"
+        stCamera:RadialDistortParam2="0.332621"
+        stCamera:RadialDistortParam3="-1.563307">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000001"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000725"
+        stCamera:RadialDistortParam1="-

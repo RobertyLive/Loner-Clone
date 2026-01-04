@@ -1,0 +1,41 @@
+:li>0.092142, 0.991300</rdf:li>
+          <rdf:li>0.186608, 0.936600</rdf:li>
+          <rdf:li>0.454760, 0.715400</rdf:li>
+          <rdf:li>0.879272, 0.278000</rdf:li>
+         </rdf:Seq>
+        </stCamera:VignetteModelPiecewiseParam>
+        </rdf:Description>
+       </stCamera:VignetteModel>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="180"
+       stCamera:Lens="24mm T1.5 FF | 017"
+       stCamera:LensInfo="24/1 24/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="SIGMA 24mm T1.5 FF HIGH-SPEED PRIME"
+       stCamera:ProfileName="Adobe (SIGMA 24mm T1.5 FF HIGH-SPEED PRIME, Canon)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="24"
+       stCamera:FocusDistance="10000"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000019"
+        stCamera:ResidualStandardDeviation="0.000012"
+        stCamera:RadialDistortParam1="-0.056641"
+        stCamera:RadialDistortParam2="0.065898"
+        stCamera:RadialDistortParam3="-0.022906">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0.000002"
+        stCamera:ResidualStandardDeviation="0.000001"
+        stCamera:ScaleFactor="1.000137"
+        stCamera:RadialDistortParam1="0.000676"
+        stCamera:RadialDistortParam2="-0.000474"

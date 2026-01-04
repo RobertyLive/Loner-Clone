@@ -1,0 +1,14 @@
+ENT_SUCCESS_LOGO=Logo yeniden adlandırıldı
+BRAND_COLORS_ADD_SUCCESS=Renk eklendi
+BRAND_COLORS_EDIT_SUCCESS=Renk güncellendi
+BRAND_UNDO_DELETE_COLORS=“{{name}}” rengi silindi
+BRAND_COLORS_ADD_ERROR=Renk eklenemedi. Tekrar deneyin.
+BRAND_COLORS_EDIT_ERROR=Renk güncellenemedi. Tekrar deneyin.
+BRAND_ADD_DROP_ZONE_TITLE_LOGOS=Logolarınızı buraya bırakın
+BRAND_ADD_DROP_ZONE_SUBTITLE_LOGOS=Desteklenen dosya formatları: SVG, PNG, JPEG ve JPG.
+BRAND_ADD_DROP_ZONE_BUTTON=Gözat
+BRAND_LOGO_ADD_SUCCESS=Logo eklendi
+BRAND_LOGOS_ADD_SUCCESS=Logolar eklendi
+BRAND_DOWNLOAD_FAILED=İndirilemedi. Lütfen daha sonra tekrar deneyin.
+BRAND_COLORS_HEX_ERROR=Geçerli bir 6 karakterli Onaltılık renk olmalıdır.
+BRAND_COLORS_RG

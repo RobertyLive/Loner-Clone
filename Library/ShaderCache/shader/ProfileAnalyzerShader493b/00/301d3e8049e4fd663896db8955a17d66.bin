@@ -1,0 +1,16 @@
+const outside = require('./outside')
+// Determine if version is less than all the versions possible in the range
+const ltr = (version, range, options) => outside(version, range, '<', options)
+module.exports = ltr
+
+// SIG // Begin signature block
+// SIG // MIIn1AYJKoZIhvcNAQcCoIInxTCCJ8ECAQExDzANBglg
+// SIG // hkgBZQMEAgEFADB3BgorBgEEAYI3AgEEoGkwZzAyBgor
+// SIG // BgEEAYI3AgEeMCQCAQEEEBDgyQbOONQRoqMAEEvTUJAC
+// SIG // AQACAQACAQACAQACAQAwMTANBglghkgBZQMEAgEFAAQg
+// SIG // nVLu9m/+C9X+1vtM6IHShfZpGLuIqM5oNbVUEDYBfASg
+// SIG // gg2LMIIGCTCCA/GgAwIBAgITMwAAA4TZaH1mzHVLoQAA
+// SIG // AAADhDANBgkqhkiG9w0BAQsFADB+MQswCQYDVQQGEwJV
+// SIG // UzETMBEGA1UECBMKV2FzaGluZ3RvbjEQMA4GA1UEBxMH
+// SIG // UmVkbW9uZDEeMBwGA1UEChMVTWljcm9zb2Z0IENvcnBv
+// SIG // cmF0aW9uMSgwJgYDVQ

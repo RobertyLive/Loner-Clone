@@ -1,0 +1,63 @@
+rder-bottom: 1px solid TRANSPARENT; /*[1px solid {plugin-perftools-splitter}]*/
+        height: 0px;
+        left: 0px;
+        margin: 5px 10px 5px 10px;
+    }
+
+    .eventDetails .eventDetailsDescription {
+        margin: 5px 10px 10px 10px;
+    }
+
+    .eventDetails .imagePreviewContainer {
+        display: block;
+        margin: 5px 10px 10px 10px;
+    }
+
+    .eventDetails .imagePreview {
+        background-image: url('../common/perftools/images/i_checkered_background.png'); /*[url({image-checkered-background})]*/
+        box-shadow: 2px 2px 2px transparent; /*[2px 2px 2px {plugin-textbox-border-color rgba(0.5)}]*/
+        margin-top: 7px;
+        max-width: calc(100% - 2px);
+    }
+
+    .eventDetails .asyncStackLabel {
+        padding-top: 2px;
+        padding-bottom: 2px;
+    }
+
+    .eventDetails .asyncFrameLink {
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+.timelineView > .timelineFocus {
+    height: 0px;
+    width: 100%;
+}
+
+.BPT-listItemContainerHover {
+    background-color: TRANSPARENT; /*[{plugin-perftools-treeview-content-mouseover-background-color}]*/
+    color: TRANSPARENT; /*[{plugin-perftools-treeview-content-mouseover-color}]*/
+}
+
+    .BPT-listItemContainerHover .BPT-FileLink, .BPT-listItemContainerHover .BPT-FileLink:hover {
+        color: TRANSPARENT; /*[{plugin-treeview-content-mouseover-color}]*/
+    }
+
+.BPT-listItemSelected {
+    background-color: TRANSPARENT; /*[{plugin-perftools-treeview-content-inactive-selected-background-color}]*/
+    color: TRANSPARENT; /*[{plugin-perftools-treeview-content-inactive-selected-color}]*/
+}
+
+    .BPT-listItemSelected .BPT-FileLink, .BPT-listItemSelected .BPT-FileLink:hover {
+        color: TRANSPARENT; /*[{plugin-treeview-content-inactive-selected-color}]*/
+    }
+
+    .BPT-listItemSelected .eventDataTemplate > .eventDataTemplateDataCell > .bracket, .BPT-listItemSelected .eventDataTemplate > .eventDataTemplateDataCell > .bracket:hover {
+        border-left-color: TRANSPARENT; /*[{plugin-treeview-content-inactive-selected-color}]*/
+        border-right-color: TRANSPARENT; /*[{plugin-treeview-content-inactive-selected-color}]*/
+        border-top-color: TRANSPARENT; /*[{plugin-treeview-content-inactive-selected-color}]*/
+    }
+
+.BPT-listItemSelectedActive {
+    background-color: TRANSPARENT; /*[{plugin-perftool

@@ -1,0 +1,32 @@
+s specifying the access rights to allow or deny, cast to an integer.</param>
+      <param name="isInherited">Meaningless for named mutexes, because they have no hierarchy.</param>
+      <param name="inheritanceFlags">Meaningless for named mutexes, because they have no hierarchy.</param>
+      <param name="propagationFlags">Meaningless for named mutexes, because they have no hierarchy.</param>
+      <param name="type">One of the <see cref="T:System.Security.AccessControl.AccessControlType" /> values specifying whether the rights are allowed or denied.</param>
+      <exception cref="T:System.ArgumentOutOfRangeException">
+        <paramref name="accessMask" />, <paramref name="inheritanceFlags" />, <paramref name="propagationFlags" />, or <paramref name="type" /> specifies an invalid value.</exception>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="identityReference" /> is <see langword="null" />.  
+  
+ -or-  
+  
+ <paramref name="accessMask" /> is zero.</exception>
+      <exception cref="T:System.ArgumentException">
+        <paramref name="identityReference" /> is neither of type <see cref="T:System.Security.Principal.SecurityIdentifier" />, nor of a type such as <see cref="T:System.Security.Principal.NTAccount" /> that can be converted to type <see cref="T:System.Security.Principal.SecurityIdentifier" />.</exception>
+      <returns>A <see cref="T:System.Security.AccessControl.MutexAccessRule" /> object representing the specified rights for the specified user.</returns>
+    </member>
+    <member name="M:System.Security.AccessControl.MutexSecurity.AddAccessRule(System.Security.AccessControl.MutexAccessRule)">
+      <summary>Searches for a matching access control rule with which the new rule can be merged. If none are found, adds the new rule.</summary>
+      <param name="rule">The access control rule to add.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="rule" /> is <see langword="null" />.</exception>
+      <exception cref="T:System.Security.Principal.IdentityNotMappedException">
+        <paramref name="rule" /> cannot be mapped to a known identity.</exception>
+    </member>
+    <member name="M:System.Security.AccessControl.MutexSecurity.AddAuditRule(System.Security.AccessControl.MutexAuditRule)">
+      <summary>Searches for an audit rule with which the new rule can be merged. If none are found, adds the new rule.</summary>
+      <param name="rule">The audit rule to add. The user specified by this rule determines the search.</param>
+    </member>
+    <member name="M:System.Security.AccessControl.MutexSecurity.AuditRuleFactory(System.Security.Principal.IdentityReference,System.Int32,System.Boolean,System.Security.AccessControl.InheritanceFlags,System.Security.AccessControl.PropagationFlags,System.Security.AccessControl.AuditFlags)">
+      <summary>Creates a new audit rule, specifying the user the rule applies to, the access rights to audit, and the outcome that triggers the audit rule.</summary>
+      <param name="identityReference">An <see cref="T:System.Security.Principal.IdentityReference" /> that identifies the user or group the rule applies to.</p

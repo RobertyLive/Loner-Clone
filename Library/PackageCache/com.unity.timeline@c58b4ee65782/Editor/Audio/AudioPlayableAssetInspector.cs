@@ -1,0 +1,4 @@
+lloClient.prototype.readFragment=function(e,t){return void 0===t&&(t=!1),this.cache.readFragment(e,t)},ApolloClient.prototype.writeQuery=function(e){var t=this.cache.writeQuery(e)
+return!1!==e.broadcast&&this.queryManager.broadcastQueries(),t},ApolloClient.prototype.writeFragment=function(e){var t=this.cache.writeFragment(e)
+return!1!==e.broadcast&&this.queryManager.broadcastQueries(),t},ApolloClient.prototype.__actionHookForDevTools=function(e){this.devToolsHookCb=e},ApolloClient.prototype.__requestRaw=function(e){return Object(o.a)(this.link,e)},ApolloClient.prototype.resetStore=function(){var e=this
+return Promise.resolve().then(function(){return e.queryManager.clearStore({discardWatches:!1})}).then(function(){return Promise.all(e.resetStoreCallbacks.map(function(e){return e()}))}).then(function(){return e.reFetchObservableQueries()})},ApolloClient.prototype.c

@@ -1,0 +1,19 @@
+atFactor="1"
+       stCamera:FocalLength="50"
+       stCamera:FocusDistance="0.45"
+       stCamera:ApertureValue="6">
+      <stCamera:AlternateLensNames>
+       <rdf:Seq>
+        <rdf:li>E 24-70mm F2.8</rdf:li>
+       </rdf:Seq>
+      </stCamera:AlternateLensNames>
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000005"
+        stCamera:ResidualStandardDeviation="0.000003"
+        stCamera:RadialDistortParam1="-0.051765"
+        stCamera:RadialDistortParam2="0.524181"
+        stCamera:RadialDistortParam3="-0.576632">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.0009

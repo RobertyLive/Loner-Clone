@@ -1,0 +1,47 @@
+
+            <summary>More data than expected.</summary>
+        </member>
+        <member name="P:System.SR.Config_name_value_file_section_file_invalid_root">
+            <summary>The root element must match the name of the section referencing the file, '{0}'</summary>
+        </member>
+        <member name="P:System.SR.Config_namespace_invalid">
+            <summary>Namespace of '{0}' on configuration element is invalid, only '{1}' is valid.</summary>
+        </member>
+        <member name="P:System.SR.Config_no_stream_to_write">
+            <summary>A configuration file cannot be created for the requested Configuration object.</summary>
+        </member>
+        <member name="P:System.SR.Config_not_allowed_to_encrypt_this_section">
+            <summary>This configuration section cannot be encrypted.</summary>
+        </member>
+        <member name="P:System.SR.Config_object_is_null">
+            <summary>Configuration section handler returned a null object.</summary>
+        </member>
+        <member name="P:System.SR.Config_operation_not_runtime">
+            <summary>This operation does not apply at runtime.</summary>
+        </member>
+        <member name="P:System.SR.Config_properties_may_not_be_derived_from_configuration_section">
+            <summary>The Configuration property '{0}' may not be derived from ConfigurationSection.</summary>
+        </member>
+        <member name="P:System.SR.Config_provider_must_implement_type">
+            <summary>Provider must implement the class '{0}'.</summary>
+        </member>
+        <member name="P:System.SR.Config_root_section_group_cannot_be_edited">
+            <summary>The RootSectionGroup cannot be edited</summary>
+        </member>
+        <member name="P:System.SR.Config_section_allow_definition_attribute_invalid">
+            <summary>The 'allowDefinition' attribute must be one of the following values: Everywhere, MachineOnly, MachineToWebRoot, MachineToApplication.</summary>
+        </member>
+        <member name="P:System.SR.Config_section_allow_exe_definition_attribute_invalid">
+            <summary>The 'allowExeDefinition' attribute must be one of the following values: MachineOnly, MachineToApplication, MachineToRoamingUser, MachineToLocalUser.</summary>
+        </member>
+        <member name="P:System.SR.Config_section_cannot_be_used_in_location">
+            <summary>This section is not allowed in &lt;location&gt; elements.  This section has been marked allowLocation="false".</summary>
+        </member>
+        <member name="P:System.SR.Config_section_locked">
+            <summary>This configuration section cannot be used at this path.  This happens when the site administrator has locked access to this section using &lt;location allowOverride="false"&gt; from an inherited configuration file.</summary>
+        </member>
+        <member name="P:System.SR.Config_sections_must_be_unique">
+            <summary>Sections must only appear once per config file.  See the help topic &lt;location&gt; for exceptions.</summary>
+        </member>
+        <member name="P:System.SR.Config_source_cannot_be_shared">
+            <summary>The configSource file '{0}'

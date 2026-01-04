@@ -1,0 +1,372 @@
+t": 0
+	},
+	{
+		"name": "SourceSerifRoman-Light",
+		"weight": 0
+	},
+	{
+		"name": "SourceSerifRoman-Regular",
+		"weight": 0
+	},
+	{
+		"name": "SourceSerifRoman-Semibold",
+		"weight": 0
+	},
+	{
+		"name": "SourceSerifRoman-Bold",
+		"weight": 0
+	},
+	{
+		"name": "SourceSerifRoman-Black",
+		"weight": 0
+	},
+	{
+		"name": "Sylfaen",
+		"weight": -0.0425022
+	},
+	{
+		"name": "SymbolMT",
+		"weight": 0
+	},
+	{
+		"name": "Tahoma",
+		"weight": 1
+	},
+	{
+		"name": "Tahoma-Bold",
+		"weight": 1
+	},
+	{
+		"name": "TimesNewRomanPSMT",
+		"weight": 0
+	},
+	{
+		"name": "TimesNewRomanPS-ItalicMT",
+		"weight": 0
+	},
+	{
+		"name": "TimesNewRomanPS-BoldMT",
+		"weight": 0
+	},
+	{
+		"name": "TimesNewRomanPS-BoldItalicMT",
+		"weight": 0
+	},
+	{
+		"name": "TrajanColor-Concept",
+		"weight": 0
+	},
+	{
+		"name": "TrebuchetMS",
+		"weight": 1
+	},
+	{
+		"name": "TrebuchetMS-Italic",
+		"weight": 1
+	},
+	{
+		"name": "TrebuchetMS-Bold",
+		"weight": 1
+	},
+	{
+		"name": "Trebuchet-BoldItalic",
+		"weight": 1
+	},
+	{
+		"name": "Verdana",
+		"weight": 1
+	},
+	{
+		"name": "Verdana-Italic",
+		"weight": 1
+	},
+	{
+		"name": "Verdana-Bold",
+		"weight": 1
+	},
+	{
+		"name": "Verdana-BoldItalic",
+		"weight": 1
+	},
+	{
+		"name": "Webdings",
+		"weight": 0
+	},
+	{
+		"name": "Wingdings-Regular",
+		"weight": 0
+	},
+	{
+		"name": "KozGoPr6N-Regular",
+		"weight": 0
+	},
+	{
+		"name": "KozGoPr6N-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MS-Gothic",
+		"weight": 0
+	},
+	{
+		"name": "MS-PGothic",
+		"weight": 0
+	},
+	{
+		"name": "MS-UIGothic",
+		"weight": 0
+	},
+	{
+		"name": "YuGothic-Light",
+		"weight": 0
+	},
+	{
+		"name": "YuGothic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "YuGothic-Medium",
+		"weight": 0
+	},
+	{
+		"name": "YuGothic-Bold",
+		"weight": 0
+	},
+	{
+		"name": "YuGothicUI-Light",
+		"weight": 0
+	},
+	{
+		"name": "YuGothicUI-Semilight",
+		"weight": 0
+	},
+	{
+		"name": "YuGothicUI-Regular",
+		"weight": 0
+	},
+	{
+		"name": "YuGothicUI-Semibold",
+		"weight": 0
+	},
+	{
+		"name": "YuGothicUI-Bold",
+		"weight": 0
+	},
+	{
+		"name": "AdobeFanHeitiStd-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MicrosoftJhengHeiLight",
+		"weight": 0
+	},
+	{
+		"name": "MicrosoftJhengHeiRegular",
+		"weight": 0
+	},
+	{
+		"name": "MicrosoftJhengHeiBold",
+		"weight": 0
+	},
+	{
+		"name": "MicrosoftJhengHeiUILight",
+		"weight": 0
+	},
+	{
+		"name": "MicrosoftJhengHeiUIRegular",
+		"weight": 0
+	},
+	{
+		"name": "MicrosoftJhengHeiUIBold",
+		"weight": 0
+	},
+	{
+		"name": "Ming-Lt-HKSCS-ExtB",
+		"weight": 0
+	},
+	{
+		"name": "Ming-Lt-MSCS-ExtB",
+		"weight": 0
+	},
+	{
+		"name": "MingLiU-ExtB",
+		"weight": 0
+	},
+	{
+		"name": "PMingLiU-ExtB",
+		"weight": 0
+	},
+	{
+		"name": "MalgunGothic-Semilight",
+		"weight": 0
+	},
+	{
+		"name": "MalgunGothic",
+		"weight": 0
+	},
+	{
+		"name": "MalgunGothicBold",
+		"weight": 0
+	},
+	{
+		"name": "MyriadArabic-Regular",
+		"weight": 0
+	},
+	{
+		"name": "MyriadArabic-It",
+		"weight": 0
+	},
+	{
+		"name": "MyriadArabic-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MyriadArabic-BoldIt",
+		"weight": 0
+	},
+	{
+		"name": "MyriadHebrew-Regular",
+		"weight": 0
+	},
+	{
+		"name": "MyriadHebrew-It",
+		"weight": 0
+	},
+	{
+		"name": "MyriadHebrew-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MyriadHebrew-BoldIt",
+		"weight": 0
+	},
+	{
+		"name": "AdobeDevanagari-Regular",
+		"weight": 0
+	},
+	{
+		"name": "AdobeDevanagari-Italic",
+		"weight": 0
+	},
+	{
+		"name": "AdobeDevanagari-Bold",
+		"weight": 0
+	},
+	{
+		"name": "AdobeDevanagari-BoldItalic",
+		"weight": 0
+	},
+	{
+		"name": "AdobeGurmukhi-Regular",
+		"weight": 0
+	},
+	{
+		"name": "AdobeGurmukhi-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NirmalaText-Semilight",
+		"weight": 0
+	},
+	{
+		"name": "NirmalaText",
+		"weight": 0
+	},
+	{
+		"name": "NirmalaText-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NirmalaUI-Semilight",
+		"weight": 0
+	},
+	{
+		"name": "NirmalaUI",
+		"weight": 0
+	},
+	{
+		"name": "NirmalaUI-Bold",
+		"weight": 0
+	},
+	{
+		"name": "AdobeThai-Regular",
+		"weight": 0
+	},
+	{
+		"name": "LeelawadeeUI-Semilight",
+		"weight": 0
+	},
+	{
+		"name": "LeelawadeeUI",
+		"weight": 0
+	},
+	{
+		"name": "LeelawadeeUI-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MyanmarText",
+		"weight": 0
+	},
+	{
+		"name": "MyanmarText-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansKhmer-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansLao-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansMyanmar-Regular",
+		"weight": 0
+	},
+	{
+		"name": "NotoSansSinhala-Regular",
+		"weight": 0
+	},
+	{
+		"name": "AdobeHeitiStd-Regular",
+		"weight": 0
+	},
+	{
+		"name": "MicrosoftYaHeiLight",
+		"weight": 0
+	},
+	{
+		"name": "MicrosoftYaHei",
+		"weight": 0
+	},
+	{
+		"name": "MicrosoftYaHei-Bold",
+		"weight": 0
+	},
+	{
+		"name": "MicrosoftYaHeiUILight",
+		"weight": 0
+	},
+	{
+		"name": "MicrosoftYaHeiUI",
+		"weight": 0
+	},
+	{
+		"name": "MicrosoftYaHeiUI-Bold",
+		"weight": 0
+	},
+	{
+		"name": "NSimSun",
+		"weight": 0
+	},
+	{
+		"name": "SimSun",
+		"weight": 0
+	},
+	{
+		"name": "SimSun-ExtB",
+		"weight": 0
+	},
+	{
+		"name": "Si

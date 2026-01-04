@@ -1,0 +1,124 @@
+﻿<#@ template language="VB" debug="false" hostspecific="true"#>
+<#@ include file="EF.Utility.VB.ttinclude"#><#@
+ output extension=".vb"#><#
+
+Const inputFile As String = "$edmxInputFile$"
+Dim textTransform As DynamicTextTransformation = DynamicTextTransformation.Create(Me)
+Dim code As CodeGenerationTools = New CodeGenerationTools(Me)
+Dim ef As MetadataTools = New MetadataTools(Me)
+Dim typeMapper As TypeMapper = New TypeMapper(code, ef, textTransform.Errors)
+Dim fileManager As EntityFrameworkTemplateFileManager = EntityFrameworkTemplateFileManager.Create(Me)
+Dim itemCollection As IEnumerable(Of GlobalItem) = New EdmMetadataLoader(textTransform.Host, textTransform.Errors).CreateEdmItemCollection(inputFile)
+Dim codeStringGenerator As CodeStringGenerator = New CodeStringGenerator(code, typeMapper, ef)
+
+If Not typeMapper.VerifyCaseInsensitiveTypeUniqueness(typeMapper.GetAllGlobalItems(itemCollection), inputFile)  Then
+    Return String.Empty
+End If
+
+WriteHeader(fileManager)
+
+For Each loopEntity As EntityType In typeMapper.GetItemsToGenerate(Of EntityType)(itemCollection)
+    Dim entity as EntityType = loopEntity
+    fileManager.StartNewFile(entity.Name & ".vb")
+    BeginNamespace(code)
+#>
+<#=codeStringGenerator.EntityClassOpening(entity)#>
+<#
+    Dim simpleProperties as IEnumerable(Of EdmProperty) = typeMapper.GetSimpleProperties(entity)
+    If simpleProperties.Any() Then
+        For Each edmProperty As EdmProperty In simpleProperties
+#>
+<#=codeStringGenerator.SimpleProperty(edmProperty)#>
+<#
+        Next
+    End If
+
+    Dim complexProperties as IEnumerable(Of EdmProperty) = typeMapper.GetComplexProperties(entity)
+    If complexProperties.Any() Then
+#>
+
+<#
+       For Each complexProperty As EdmProperty In complexProperties
+#>
+<#=codeStringGenerator.ComplexProperty(complexProperty)#>
+<#
+       Next
+    End If
+
+    Dim navigationProperties as IEnumerable(Of NavigationProperty) = typeMapper.GetNavigationProperties(entity)
+    If navigationProperties.Any() Then
+#>
+
+<#
+        For Each navigationProperty As NavigationProperty In navigationProperties
+#>
+<#=codeStringGenerator.NavigationProperty(navigationProperty)#>
+<#
+        Next
+    End If
+
+#>
+
+End Class
+<#
+    EndNamespace(code)
+Next
+
+For Each loopComplex As ComplexType In typeMapper.GetItemsToGenerate(Of ComplexType)(itemCollection)
+    Dim complex as ComplexType = loopComplex
+    fileManager.StartNewFile(complex.Name & ".vb")
+    BeginNamespace(code)
+#>
+Partial <#=Accessibility.ForType(complex)#> Class <#=code.Escape(complex)#>
+<#
+
+    Dim simpleProperties as IEnumerable(Of EdmProperty) = typeMapper.GetSimpleProperties(complex)
+    If simpleProperties.Any() Then
+        For Each edmProperty As EdmProperty In simpleProperties
+#>
+<#=codeStringGenerator.SimpleProperty(edmProperty)#>
+<#
+        Next
+    End If
+
+    Dim complexProperties as IEnumerable(Of EdmProperty) = typeMapper.GetComplexProperties(complex)
+    If complexProperties.Any() Then
+#>
+
+<#
+        For Each complexProperty As EdmProperty In complexProperties
+#>
+<#=codeStringGenerator.ComplexProperty(complexProperty)#>
+<#
+        Next
+    End If
+
+#>
+
+End Class
+<#
+    EndNamespace(code)
+Next
+
+For Each enumType As SimpleType In typeMapper.GetEnumItemsToGenerate(itemCollection)
+    fileManager.StartNewFile(enumType.Name & ".vb")
+    BeginNamespace(code)
+    If typeMapper.EnumIsFlags(enumType) Then
+#>
+<Flags>
+<#
+    End If
+#>
+<#=codeStringGenerator.EnumOpening(enumType)#>
+<#
+    Dim foundOne As Boolean = False
+
+    For Each member As MetadataItem In typeMapper.GetEnumMembers(enumType)
+
+    foundOne = True
+#>
+    <#=code.Escape(typeMapper.GetEnumMemberName(member))#> = <#=typeMapper.GetEnumMemberValue(member)#>
+<#
+    Next
+    If Not foundOne Then
+#

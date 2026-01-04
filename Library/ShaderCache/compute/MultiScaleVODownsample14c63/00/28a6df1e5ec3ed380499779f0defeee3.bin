@@ -1,0 +1,24 @@
+      <param name="rule">The <see cref="T:System.Security.AccessControl.EventWaitHandleAccessRule" /> to add. The user and <see cref="T:System.Security.AccessControl.AccessControlType" /> of this rule determine the rules to remove before this rule is added.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="rule" /> is <see langword="null" />.</exception>
+    </member>
+    <member name="M:System.Security.AccessControl.EventWaitHandleSecurity.SetAuditRule(System.Security.AccessControl.EventWaitHandleAuditRule)">
+      <summary>Removes all audit rules with the same user as the specified rule, regardless of the <see cref="T:System.Security.AccessControl.AuditFlags" /> value, and then adds the specified rule.</summary>
+      <param name="rule">The <see cref="T:System.Security.AccessControl.EventWaitHandleAuditRule" /> to add. The user specified by this rule determines the rules to remove before this rule is added.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="rule" /> is <see langword="null" />.</exception>
+    </member>
+    <member name="P:System.Security.AccessControl.EventWaitHandleSecurity.AccessRightType">
+      <summary>Gets the enumeration type that the <see cref="T:System.Security.AccessControl.EventWaitHandleSecurity" /> class uses to represent access rights.</summary>
+      <returns>A <see cref="T:System.Type" /> object representing the <see cref="T:System.Security.AccessControl.EventWaitHandleRights" /> enumeration.</returns>
+    </member>
+    <member name="P:System.Security.AccessControl.EventWaitHandleSecurity.AccessRuleType">
+      <summary>Gets the type that the <see cref="T:System.Security.AccessControl.EventWaitHandleSecurity" /> class uses to represent access rules.</summary>
+      <returns>A <see cref="T:System.Type" /> object representing the <see cref="T:System.Security.AccessControl.EventWaitHandleAccessRule" /> class.</returns>
+    </member>
+    <member name="P:System.Security.AccessControl.EventWaitHandleSecurity.AuditRuleType">
+      <summary>Gets the type that the <see cref="T:System.Security.AccessControl.EventWaitHandleSecurity" /> class uses to represent audit rules.</summary>
+      <returns>A <see cref="T:System.Type" /> object representing the <see cref="T:System.Security.AccessControl.EventWaitHandleAuditRule" /> class.</returns>
+    </member>
+    <member name="T:System.Security.AccessControl.MutexAccessRule">
+      <summary>Represents a set of access rights allowed or denied for

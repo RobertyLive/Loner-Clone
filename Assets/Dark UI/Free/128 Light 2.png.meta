@@ -1,0 +1,56 @@
+" Vim syntax file
+" Language:	NASM - The Netwide Assembler (v0.98)
+" Maintainer:	Andrii Sokolov	<andriy145@gmail.com>
+" Original Author:	Manuel M.H. Stol	<Manuel.Stol@allieddata.nl>
+" Former Maintainer:	Manuel M.H. Stol	<Manuel.Stol@allieddata.nl>
+" Contributors:
+" 	Leonard König <leonard.r.koenig@gmail.com> (C string highlighting),
+" 	Peter Stanhope <dev.rptr@gmail.com> (Add missing 64-bit mode registers)
+" 	Frédéric Hamel <frederic.hamel123@gmail.com> (F16c support, partial AVX
+" 						     support, other)
+"	sarvel <sarvel@protonmail.com> (Complete set of supported instructions)
+" Last Change:	2024 Oct 8
+" NASM Home:	http://www.nasm.us/
+
+
+" Setup Syntax:
+" quit when a syntax file was already loaded
+if exists("b:current_syntax")
+  finish
+endif
+"  Assembler syntax is case insensetive
+syn case ignore
+
+
+" Vim search and movement commands on identifers
+"  Comments at start of a line inside which to skip search for indentifiers
+setlocal comments=:;
+"  Identifier Keyword characters (defines \k)
+setlocal iskeyword=@,48-57,#,$,.,?,@-@,_,~
+
+
+" Comments:
+syn region  nasmComment		start=";" keepend end="$" contains=@nasmGrpInComments
+syn region  nasmSpecialComment	start=";\*\*\*" keepend end="$"
+syn keyword nasmInCommentTodo	contained TODO FIXME XXX[XXXXX]
+syn cluster nasmGrpInComments	contains=nasmInCommentTodo
+syn cluster nasmGrpComments	contains=@nasmGrpInComments,nasmComment,nasmSpecialComment
+
+
+
+" Label Identifiers:
+"  in NASM: 'Everything is a Label'
+"  Definition Label = label defined by %[i]define or %[i]assign
+"  Identifier Label = label defined as first non-keyword on a line or %[i]macro
+syn match   nasmLabelError	"$\=\(\d\+\K\|[#.@]\|\$\$\k\)\k*\>"
+syn match   nasmLabel		"\<\(\h\|[?@]\)\k*\>"
+syn match   nasmLabel		"[\$\~]\(\h\|[?@]\)\k*\>"lc=1
+"  Labels starting with one or two '.' are special
+syn match   nasmLocalLabel	"\<\.\(\w\|[#$?@~]\)\k*\>"
+syn match   nasmLocalLabel	"\<\$\.\(\w\|[#$?@~]\)\k*\>"ms=s+1
+if !exists("nasm_no_warn")
+  syn match  nasmLabelWarn	"\<\~\=\$\=[_.][_.\~]*\>"
+endif
+if exists("nasm_loose_syntax")
+  syn match   nasmSpecialLabel	"\<\.\.@\k\+\>"
+  syn match   nasmSpecialLabel	"\<\$\.\.@\k\+\>"ms=s

@@ -1,0 +1,662 @@
+�� 출시되어 사용자의 신용 카드가 처리되고 청구되었습니다. 주문해 주셔서 감사합니다!"
+
+"Steam_Subscription_Preorder_CcardDeclined_Headline" "예약 주문 - 신용 카드 거부"
+"Steam_Subscription_Preorder_CcardDeclined" "최근에 %subscription%에 대한 예약 주문을 시도하셨습니다. 게임이 공식으로 출시되어 Steam은 사용자의 신용 카드 정보를 처리했습니다.\n\n신용 카드가 거부된 관계로 신용 카드로 청구되지 않았습니다. 아래 정보를 검토하신 후에 신용 카드가 실수로 승인되지 않았다고 생각되시면 구매 절차를 다시 시도하세요."
+
+"Steam_Subscription_Preorder_PreProcess_Headline" "귀하의 예약 주문이 처리되었습니다."
+"Steam_Subscription_Preorder_PreProcess" "%subscription%에 대한 예약 주문이 완료되었으며 게임은 빠른 시일 내에 공식적으로 출시됩니다. 결제가 처리되었습니다.\n\n게임이 출시되는 즉시 알려드리겠습니다. 주문해 주셔서 감사합니다!"
+
+"Steam_Subscription_Preorder_PreProcess_PayPal_Headline" "귀하의 예약 주문이 처리되었습니다."
+"Steam_Subscription_Preorder_PreProcess_PayPal" "%subscription%에 대한 예약 주문이 완료되었으며 게임은 빠른 시일 내에 공식적으로 출시됩니다. %provider% 계정으로 요금이 청구되었습니다.\n\n게임이 출시되는 즉시 알려드리겠습니다. 주문해 주셔서 감사합니다!"
+
+"Steam_Subscription_Preorder_Timeout_Headline" "예약 주문 보류 중"
+"Steam_Subscription_Preorder_Timeout" "%subscription%에 대한 예약 주문이 완료되지 않았습니다. Steam 사용량이 많아 현재 거래를 처리할 수 없습니다.\n\n거래가 처리되면 결과를 바로 알려드리겠습니다."
+
+"Steam_SubscriptionCancelled_Cancelled_Headline" "정기 이용 취소됨"
+"Steam_SubscriptionCancelled_Cancelled"	"사용자의 %subscription% 구독이 취소되었습니다. 이 조치는 Steam 계정 소유자의 요청 또는 Steam 이용 약관에 따라 Valve에 의해 수행되었습니다."
+
+"Steam_SubscriptionCancelled_ServerFailed_Headline" "Steam 서버가 현재 혼잡합니다."
+"Steam_SubscriptionCancelled_ServerFailed" "%subscription%에 대한 구독이 완료되지 않았습니다. Steam 서버는 현재 요청을 처리하기에는 너무 혼잡합니다. \n\n불편을 드려 대단히 죄송합니다. 몇 시간 후에 다시 시도하세요."
+
+"Steam_Subscription_ContactSupport_Headline" "구매 오류"
+"Steam_Subscription_ContactSupport" "오류가 발생했습니다. %subscription%에 대한 구독이 완료되지 않았습니다.\n\n아래 링크를 통해 Steam 고객지원에 문의하세요."
+
+"Steam_SubscriptionFailure_Timeout_Headline" "구독 구매 보류 중"
+"Steam_SubscriptionFailure_Timeout" "%subscription%의 구독 구매가 완료되지 않았습니다. Steam은 현재 요청을 처리하기에는 너무 혼잡합니다. \n\n그러나, 그 동안 %subscription% 게임을 실행할 수 있습니다. 거래가 처리되면 거래 결과를 바로 알려드리겠습니다."
+
+"Steam_Subscription_RestrictedCountry_Headline" "사용 불가"
+"Steam_Subscription_RestrictedCountry" "죄송합니다. 해당 국가에서 %subscription% 게임을 구매할 수 없습니다. 구매가 취소되었습니다."
+
+"Steam_Subscription_Refunded_Headline" "구매 금액 환불됨"
+"Steam_Subscription_Refunded" "%subscription%에 대한 구매 금액이 환불되었습니다. 영업일 기준으로 2일 이내에 거래 결과가 계정에 나타날 것입니다."
+
+"Steam_Subscription_HardwarePromo_Used_Headline" "중복 등록"
+"Steam_Subscription_HardwarePromo_Used" "이 요청은 다른 Steam 계정으로 이미 등록되어 있습니다."
+"Steam_PurchaseError_HardwarePromoIneligible" "죄송합니다. 이 컴퓨터는 %subscription% 요청에 적합한 시스템 요구 사항을 충족하지 못했습니다."
+"Steam_HardwarePromo_SupportURL" "https://support.steampowered.com/kb/2734-UDFX-1098/"
+
+"Steam_Subscription_HardwarePromo_AlreadyPurchased_Headline" "이미 소유한 제품"
+"Steam_Subscription_HardwarePromo_AlreadyPurchased" "이 Steam 계정은 이미 이 요청에 포함된 제품을 소유하고 있습니다.\n게임 라이브러리에서 해당 제품을 이용할 수 있습니다."
+
+
+"Steam_PurchaseError_HardwarePromoNeedDirectX" "죄송합니다! %subscription% 요청에 적합한 요구사항을 확인하려면 DirectX 9 이상이 필요합니다."
+"Steam_HardwarePromoInstallDirextX_Link" "Microsoft DirectX® 다운로드 사이트"
+"Steam_HardwarePromoInstallDirextX_URL" "http://www.microsoft.com/windows/directx/"
+
+"Steam_SubscriptionSuccess_HardwarePromo_Headline" "등록 성공"
+"Steam_SubscriptionSuccess_HardwarePromo" "%subscription%에 대한 요청이 성공적으로 완료되었습니다. %accountname% Steam 계정으로 등록되었습니다. 게임을 플레이하려면 이 계정으로 로그인해야 합니다."
+"Steam_SubscriptionSuccess_HardwarePromo2" "'%accountname%' Steam 계정으로 로그인하면 어느 컴퓨터에서나 이번 요청에 포함된 게임을 이용할 수 있습니다."
+
+"Steam_PreorderCancelled_Headline" "예약 주문 취소"
+"Steam_PreorderCancelled" "사용자의 요청에 따라 Steam을 통해 예약 주문한 %subscription%의 취소가 완료되었습니다. 대금이 청구되지 않을 것입니다."
+
+"Steam_PleaseWait" "잠시 기다려 주세요."
+"Steam_Printing" "인쇄 중..."
+
+"Steam_CyberCafe_FeatureLocked_Title" "Steam - 오류"
+"Steam_CyberCafe_FeatureLocked" "이 기능은 현재 사용할 수 없습니다.\n이에 액세스하려면 PC방 계정으로 Steam에 다시 로그인하세요.\n이 때, '비밀번호 저장'이 선택 표시되어 있는지 확인하세요."
+
+"Steam_RegisterCDKey_Info"	"Steam 라이브러리에 등록할 제품 코드를 입력하세요."
+"Steam_RegisterCDKey_Example"	"키는 다음과 같은 방식으로 표시됩니다:\n    AAAAA-BBBBB-CCCCC\n    AAAAA-BBBBB-CCCCC-DDDDD-EEEEE\n    237ABCDGHJLPRST 23"
+
+"Steam_Rejected_Cdkey_Recover_Feedback" "입력하신 코드의 소유자에게 이메일이 발송되었습니다."
+
+"Steam_Receipt_AlreadyPurchased" "이 계정은 이미 제품 활성화 코드가 등록된 계정입니다. 설치하려면 다음을 클릭하세요."
+"Steam_Receipt_AlreadyPurchased_Headline" "이미 가지고 있는 제품"
+
+"Steam_InstallAppWizard_Title"	"설치 - %game%"
+"Steam_InstallAppWizard_RestoreBackup_Title"	"백업 복원 - %game%"
+"Steam_InstallAppWizard_Preload_Title"	"미리 받기 - %game%"
+
+"Steam_PreloadAppStatus1"	"%s1 파일의 설치를 준비하는 중입니다."
+"Steam_PreloadAppStatus2"	"%s1 파일의 설치를 준비하는 중입니다.."
+"Steam_PreloadAppStatus3"	"%s1 파일의 설치를 준비하는 중입니다..."
+
+"Steam_PreallocateAppStatus"	"%s1 설치를 위해 공간을 확보하는 중 ..."
+"Steam_ValidateAppStatus"	"이미 있는 %s1 파일을 찾는 중 ..."
+"Steam_VerifyingAppStatus"	"%s1의 설치 파일 확인 중..."
+
+"Steam_CDKeyCafe"			"이 계정에서는 제품 코드를 등록할 수 없습니다."
+
+"Steam_BrowseGames"		"게임 검색..."
+"Steam_Storefront_Title"	"Steam - 게임 검색"
+"Steam_RegisterProductCode"	"Steam에 제품 등록..."
+"Steam_RedeemWalletVoucher"	"Steam 지갑 코드 등록..."
+"Steam_Wallet_PendingBalance" "%amount%(%amount_delayed% 보류 중)"
+
+"Steam_PurchaseError_SubscriptionAlreadyOwned"	"이미 %subscription%(을)를 소유하고 계십니다."
+"Steam_UpdateNews_Title"	"Steam - 뉴스"
+"Steam_SettingsNotification_Info"	"다음에 대한 추가 또는 변경 사항이 있을 경우 알림(Steam 메시지로 수신)"
+"Steam_SettingsNotification_MyGames"	"내 게임"
+"Steam_SettingsNotification_UpcomingReleases"	"출시 예정 및 신규 출시 게임"
+"Steam_PurchaseError_HardwarePromoAlreadyOwned" "이 Steam 계정을 사용하여 이미 %subscription% 요청을 실행했습니다."
+
+"Steam_GamesDialog_RightClick_UpdateNews"	"업데이트 뉴스 보기"
+
+"Steam_ContentServersBusy_Title"	"Steam - 오류"
+"Steam_ContentServersBusy_Info"		"Steam은 현재 요청을 처리하기에는 너무 혼잡합니다.\n몇 분 후에 다시 시도하세요."
+"Steam_NoContentServers_Info"		"현재 이 게임 콘텐츠를 제공할 Steam 콘텐츠 서버가 구성되어 있지 않습니다.\n이 문제는 곧 해결됩니다. 몇 분 후에 다시 시도하세요."
+
+"Steam_UpdateNewsButton"		"업데이트 보기"
+
+"SteamUI_GamesDialog_JustReleased"	"신규 출시"
+
+"Steam_PurchaseInfo"			"패키지에는 아래 물품이 포함되어 있습니다."
+"Steam_PurchaseInfo_Preorder"		"이 패키지를 예약 주문하고 있습니다. 패키지의 공식 출시일에 플레이가 가능한 경우에만 결제가 처리됩니다."
+
+"Steam_InstallGameInfo"			"%game% 게임을 설치하려고 합니다.\n"
+"Steam_InstallGameInfo_Preload"		"%game% 게임을 미리 받기합니다.\n"
+
+"Steam_App_Install_Failed_Title"	"Steam - 오류"
+"Steam_App_Install_Failed_Text"		"%game% 설치 도중 오류가 발생했습니다. (%reason%)"
+"Steam_App_Install_Failed_Text_Long"	"%game% 설치 도중 오류가 발생했습니다. (%reason%) \n\n%detail%"
+
+"Steam_App_LegacyKey_Denied_Title" "Steam - 경고"
+
+"Steam_App_LegacyKey_Failed_Text"  "제품 키 요청을 실패했습니다. 잠시 후에 다시 시도해 주세요."
+"Steam_App_LegacyKey_NoResponse_Text" "Steam 제품 키 서버 접근에 실패했습니다. 인터넷 연결을 확인한 후 다시 시도해 주세요."
+"Steam_App_LegacyKey_Denied_Text"  "Steam에서 계정 소유자 확인에 실패했습니다. 제품 키를 요청하려면 소유자를 확인해야 합니다. Steam 고객지원에 문의해 주세요."
+"Steam_App_LegacyKey_Denied_Borrowed_Text" "%game% 게임의 일부 또는 전체 콘텐츠는 Uplay 또는 Origin과 같은 타사 서비스에 접속해야만 사용할 수 있습니다. \n이 콘텐츠를 이용하려면 게임의 실제 소유자가 이 서비스에 등록되어 있어야 합니다."
+"Steam_App_LegacyKey_Pending_Text" "제품 키 요청에 대한 Steam 고객지원의 승인을 기다리고 있습니다. 몇 시간 후에 다시 시도해 주세요."
+"Steam_App_LegacyKey_OutOfKeys_Text" "%game% 게임에 필요한 새 제품 키가 Steam에서 일시적으로 품절 상태입니다. \n\n배급사에게 키를 더 받으면 제품 키를 발급해 드릴 수 있습니다.\n지금 환불 요청을 하거나 나중에 다시 시도해 주세요."
+
+"Steam_App_Update_Failed_Title"	"Steam - 오류"
+"Steam_App_Update_Failed_Text" "%game% 업데이트 도중 오류가 발생했습니다. (%reason%)"
+"Steam_App_Update_Failed_Text_Long" "%game% 업데이트 도중 오류가 발생했습니다. (%reason%) \n\n%detail%"
+"Steam_App_Update_NotEnoughDiskSpace" "%game%을(를) 업데이트하기 위한 디스크 공간이 부족합니다(%detail% 필요)."
+"Steam_App_Update_NotEnoughDiskQuota" "%game%을(를) 업데이트하기 위한 사용자 디스크 할당량이 부족합니다(%detail% 필요)."
+"Steam_App_Update_LockedByProcess" "%program%(으)로 인해 %game% 파일이 잠겨서 업데이트할 수 없습니다. 이 프로그램을 종료한 후 다시 시도해 주세요. \n\n 프로그램: %executable%\n 파일: %detail%"
+
+"Steam_PreloadCompleteNoPreorderAvailable" "미리 받기가 완료되었습니다."
+
+"Steam_SubscriptionCancelled_PaymentCardUseLimitHit_Headline" 	"신용 카드 사용 한도 초과"
+"Steam_SubscriptionCancelled_PaymentCardUseLimitHit_Info" 	"아래 신용 카드가 Steam에서 과도하게 사용되어 거래가 처리되지 않았습니다.\n\n이 정책은 신용 카드 사기 피해로부터 고객을 보호하기 위해 마련한 것입니다. 사기 범죄가 적발될 경우 최대한의 조치를 취하여 이를 고발할 것입니다."
+"Steam_SubscriptionCancelled_PaymentCardAlert_Headline" 	"신용 카드 거부"
+"Steam_SubscriptionCancelled_PaymentCardAlert_Info" 		"해당 신용 카드 발급 업체에서 이 신용 카드가 허위일 가능성을 통보함에 따라 귀하의 거래가 처리되지 않았습니다.\n\n사기 범죄가 적발될 경우 최대한의 조치를 취하여 이를 고발할 것입니다."
+
+"Steam_InstallDirectXDialog_Title"	"Steam - 최신 DirectX 필요"
+"Steam_InstallDirextX_Info"		"%game% 게임을 플레이하려면 Microsoft DirectX(r)의 최신 버전이 필요합니다."
+"Steam_InstallDirextX_Link"		"Microsoft DirectX(r) 다운로드 사이트"
+
+"Steam_PurchaseError_AllAppsInSubscriptionAlreadyOwned"	"이미 목록 내의 모든 게임을 소유하고 계십니다.\nSteam 게임 라이브러리에서 해당 제품을 이용할 수 있습니다."
+"SteamUI_ProductRegistrationWizard_Title"	"제품 등록"
+"Steam_Install_AutoLaunchGame"		"지금 %game% 플레이하기"
+
+"Steam_UnableToPreload" "Steam은 현재 이 이상의 %game% 미리 받기 요청을 처리하기에는 너무 혼잡합니다.\n몇 시간 후에 다시 시도하세요."
+"Steam_Error_Preload_Title" "미리 받기 - 오류"
+"Steam_PreloadProgress"			"%preload_amount%%% 완료"
+
+"Steam_PurchaseFraudWarning" "신용 카드 사기는 명백한 범죄입니다. Valve는 사법당국과 적극 협조하여 불법 행위를 철저하게 고발할 것입니다."
+
+"Steam_CacheValidation_Title"		"Steam 파일 확인 중 - %progress%%% 완료"
+"Steam_ValidatingSteamCaches"		"%cache_name% 파일 확인 중(%cache_number% / %cache_total%)"
+"Steam_ValidatingSteamCaches_Label"		"Steam 캐시 파일을 검사하는 중 (%cache_number%개 중 %cache_total%개)"
+
+"Steam_CacheDecryption_Title"		"Steam 파일 암호 해제 중 - %progress%%% 완료"
+"Steam_DecryptingSteamCaches"		"%cache_name% 게임 파일 암호 해제 중"
+"Steam_DecryptingSteamCaches_Label"	"Steam이 게임 파일의 잠금을 푸는 동안 잠시 기다려 주세요."
+
+"SteamUI_Enable_Proprietary_Drivers_Title" "독점 드라이버 패키지 활성화"
+"SteamUI_Enable_Proprietary_Drivers_Info" "Steam은 최고의 성능을 위해 공급 업체에서 제공하는 독점 드라이버가 필요합니다. 시스템 설정에서 독점 드라이버 패키지를 활성화해 주세요."
+"SteamUI_Enable_Proprietary_Drivers_Button" "활성화"
+
+"SteamUI_Upgrade_Installed_VideoDriver_Package" "현재 시스템에 설치된 그래픽카드 드라이버 %installed_package_name%의 최신 버전 %installed_package_version%이 새로 나왔습니다.\n최신 버전의 드라이버 패키지로 업그레이드해 주세요."
+"SteamUI_Upgrade_VideoDriver_Button" "업그레이드"
+
+"SteamUI_Candidate_VideoDriver_Package_Available_Title" "그래픽카드 드라이버 최신 버전 이용가능"
+"SteamUI_SwitchTo_Candidate_VideoDriver_Package_Info" "현재 시스템에는 그래픽카드 드라이버 %installed_package_name%의 %installed_package_version% 버전이 설치되어 있습니다.\n%candidate_package_name%의 최신 버전 %candidate_package_version%이 이용가능하므로 지금 업그레이드하시기를 권장합니다."
+"SteamUI_Install_Candidate_VideoDriver_Package_Info" "최상의 성능을 즐기려면 그래픽카드 드라이버 %candidate_package_name% 패키지를 설치하세요."
+"SteamUI_Install_Candidate_VideoDriver_Button" "설치"
+
+"SteamUI_VideoDriver_Recommendation_None_Title" "동영상 드라이버 검사"
+"SteamUI_VideoDriver_Recommendation_None_Info" "이 컴퓨터의 동영상 드라이버 패키지는 최신 버전입니다."
+
+"SteamUI_No_VideoDrivers_Detected_Info" "권장되는 동영상 드라이버 패키지를 이 컴퓨터에서 찾을 수 없습니다."
+"SteamUI_VideoDriver_Detection_Disabled_Info" "이 컴퓨터에서 Steam이 동영상 드라이버 감지를 할 수 없습니다."
+
+"SteamUI_Add_Package_Repository_Title" "패키지 저장소 추가"
+"SteamUI_Add_Package_Repository_Info" "최상의 그래픽카드 드라이버 성능 발휘를 위해 패키지 저장소 %repository_name%의 설치를 권장합니다."
+"SteamUI_Add_Package_Repository_Button" "추가"
+
+"SteamUI_Update_Package_Index_Title" "패키지 관리자"
+"SteamUI_Update_Package_Index_Info" "귀하의 시스템에 있는 패키지 정보 색인이 오래되었습니다. 보다 나은 그래픽카드 드라이버 탐지를 위해 업데이트 하시는 것을 권장합니다."
+"SteamUI_Update_Package_Index_Button" "업데이트"
+"SteamUI_Learn_More" "더 알아보기"
+
+"SteamUI_Upgrade_Nvidia_Driver_Title" "동영상 드라이버 문제"
+"SteamUI_Upgrade_Nvidia_Driver_Info" "현재 시스템에 nVidia® 그래픽카드의 구 버전 드라이버가 설치되어 있습니다. Steam을 정상적으로 이용하시려면 304.22 버전 이상의 드라이버가 필요합니다."
+"SteamUI_Upgrade_Nvidia_Driver_URL" "https://support.steampowered.com/kb_article.php?ref=8509-RFXM-1964"
+
+"SteamUI_AMD_BigPicture_Problem_Title" "동영상 드라이버 문제"
+"SteamUI_AMD_BigPicture_Problem_Info" "현재 13.1 버전의 AMD 동영상 드라이버가 설치되어 있습니다. Steam Big Picture를 사용하려면 13.2 버전 이상으로 업그레이드해야 합니다."
+"SteamUI_AMD_BigPicture_Problem_Url_Label" "AMD 동영상 드라이버 다운로드"
+"SteamUI_AMD_BigPicture_Problem_Url" "http://support.amd.com/us/gpudownload/linux/Pages/radeon_linux.aspx (영문)"
+
+"SteamUI_VidDriverDetailsLabel"		"드라이버 정보"
+"SteamUI_VidDriverOS"			"운영 체제 버전:"
+"SteamUI_VidDriverDescription"		"설명:"
+"SteamUI_VidDriverVersion"		"버전:"
+
+"SteamUI_DriverOutdated_Title"		"이전 버전의 동영상 드라이버"
+"SteamUI_DriverOutdated_Info"		"동영상 드라이버가 최신 버전이 아니므로 게임 실행을 계속할 경우 문제가 발생할 수 있습니다.  아래 링크로 이동하여 해당 드라이버 제조업체 페이지에서 최신 동영상 드라이버로 업그레이드하세요."
+"SteamUI_OutdatedUrlLabel"		"드라이버 업데이트 페이지로 가기..."
+"SteamUI_ContinueOutdated"		"계속 실행"
+"SteamUI_SuppressOutdated"		"이 경고 메시지를 다시 표시 안 함"
+
+"SteamUI_DriverUnsupported_Title"	"지원되지 않는 동영상 카드"
+"SteamUI_DriverUnsupported_Info"	"동영상 하드웨어는 게임이 설정한 최소 요구 사항을 충족하지 않습니다.  게임을 계속 실행할 경우 게임의 안정성 또는 성능에 문제가 발생할 수 있습니다.  아래 링크로 이동하여 해당 드라이버 제조업체 페이지에서 최신 동영상 드라이버로 업그레이드하세요."
+"SteamUI_DriverDenied_Info"		"동영상 하드웨어가 최소 사양에 미치지 못합니다. 이 게임은 이 하드웨어에서는 돌아가지 않습니다."
+"SteamUI_UnsupportedUrlLabel"		"최소 사양 보기..."
+"SteamUI_ContinueUnsupported"		"계속 실행"
+"SteamUI_SuppressUnsupported"		"이 경고 메시지를 다시 표시 안 함"
+
+"SteamUI_DriverUnknown_Title"		"알 수 없는 동영상 카드"
+"SteamUI_DriverUnknown_Info"		"데이터베이스에 정보가 없는 그래픽 카드입니다.  시스템의 안정성과 성능이 충분하지 못할 경우 게임 플레이가 원활하지 않을 수 있습니다.  앞으로 귀하의 동영상 카드와 드라이버를 지정할 수 있도록 충분한 정보를 제공해 주시면 감사하겠습니다.  정보 업로드 버튼을 클릭하면 현재 데이터베이스에 없는 동영상 카드를 기록하는 데 도움을 주실 수 있습니다."
+"SteamUI_UnknownUrlLabel"		"Valve 개인정보 처리방침 보기"
+"SteamUI_UnknownUpload"			"정보 업로드"
+"SteamUI_ContinueUnknown"		"계속 실행"
+"SteamUI_SuppressUnknown"		"이 경고 메시지를 다시 표시 안 함"
+
+"SteamUI_OSVersionUnknown"		"알 수 없는 Windows 버전"
+
+"SteamUI_OSVersionWin98"		"Windows 98/98 SE/ME"
+"SteamUI_OSVersion2000"			"Windows 2000"
+"SteamUI_OSVersionXP"			"Windows XP"
+
+"SteamUI_DriverUpdateURL" "http://www.steampowered.com/Steam/Messages/driver_update/index.php"
+"SteamUI_DriverUnsupportedURL" "http://www.steampowered.com/Steam/Messages/minimum_req/index.php"
+"SteamUI_UnknownDriverURL" "http://www.valvesoftware.com/privacy.htm"
+
+"SteamUI_Syscheck_Success_Title" "시스템 요구 사항 확인 통과"
+"SteamUI_Syscheck_Success" "이 컴퓨터는 %game%에 필요한 최소 시스템 요구사항을 충족합니다."
+
+"SteamUI_MBPGPUWarning_Title"	"Steam - 여러개의 그래픽카드 감지됨"
+"Steam_MBPGPUWarning_Info"	"귀하의 MacBook Pro가 두 개의 그래픽 카드를 사용 중이며 속도가 아닌 성능 지향으로 설정되어 있습니다.
+
+저희는 최고의 게이밍을 위해, 설정을 바꾸는 것을 권해드립니다.
+에너지 절약 시스템 환경설정 창을 열고, '최대 퍼포먼스' 그래픽 옵션을 선택해주세요.
+
+설정을 바꾸기 위해서는 OS X에서 로그아웃해야 합니다."
+
+"SteamUI_MBPEnegySaverLinkText"	"여기를 클릭하여 에너지 절약 환경설정 창을 엽니다."
+
+"SteamUI_PleaseInsertRetailCDRom_Title"	"CD / DVD 필수"
+"SteamUI_PleaseInsertRetailCDRom_Info"	"드라이브에 %subscription% CD 또는 DVD를 넣으세요."
+
+"Steam_ErrorPurchasePending_Title"	"Steam - 구매 대기 중"
+"Steam_ErrorPurchasePending_Info"	"구매 요청을 현재 처리 중입니다. - 거래가 완료되면 바로 결과를 알려드리겠습니다.\n처리되는 동안 이 게임을 플레이할 수 없다는 점을 유의하세요."
+"SteamUI_FSMode_ShortExplanation"	"Steam이 오프라인 모드로만 사용 가능"
+"SteamUI_FSMode_Explanation"		"Steam 네트워크는 현재 오프라인 모드만 지원합니다. 즉, 게임을 이용할 수는 있지만 대부분의 Steam 네트워크 서비스를 사용할 수 없습니다."
+"SteamUI_FSMode_Explanation2"		"Steam 팀은 모든 네트워크 서비스를 최대한 빠르게 복구하기 위해 최선을 다하고 있습니다. 불편을 드리게 되어 대단히 죄송합니다."
+"SteamUI_FSMode_StartInOffline"		"Steam을 오프라인 모드로 시작"
+"SteamUI_FSMode_Title"		"오프라인 모드로 시작할까요?"
+
+"Steam_ShippingAddressSameAsBillingAddress_Check" "배송 주소가 청구지 주소와 동일합니다."
+"Steam_ShippingName"	"이름"
+"Steam_SubscribeShippingInfo"	"현재 배송 주소를 알려주세요."
+
+"Steam_ChangeUser" "다른 사용자로 로그인..."
+"Steam_NoSavePersonalInfoCheck" "이 컴퓨터에 계정 로그인 정보 저장 안 함"
+"Steam_NoSavePersonalInfoCheckDescription" "공용 컴퓨터를 사용하는 경우 이 옵션이 권장됩니다.\n\n이 옵션을 설정할 경우 '오프라인 모드'를 사용할 수 없습니다."
+
+"Steam_PurchaseZipCodeInfoInvalid"    "5자리 수의 유효한 우편 번호를 입력하세요."
+"Steam_PurchaseStateInfoInvalid"        "유효한 시/도를 입력하세요."
+
+"Steam_InternetSpeedLabel"			"인터넷 연결"
+"Steam_InternetSpeedDescription"	"대략적인 연결 속도"
+"Steam_ContentDownloadsLabel"			"콘텐츠 다운로드"
+"Steam_ThrottleRatesLabel"				"다음 대역폭으로 제한:"
+"SteamUI_No_Throttle"							"제한 없음"
+"SteamUI_ThrottleEditLabel"				"아래에 새로운 값 입력:"
+"SteamUI_ThrottleApplyChange"			"적용"
+"Steam_AutoUpdateTimeRestrictionLabel"	"자동 업데이트 시간대 제한:"
+"Steam_AutoUpdateTimeRestrictionEnd"		"~"
+"Steam_AllowDownloadsDuringGameplay"	"게임 플레이 중 다운로드 허용"
+"Steam_AllowDownloadsDuringGameplayDetails"	"이 항목을 선택하면, Steam이 게임이나 다른 \nSteam 애플리케이션을 실행하는 동안 업데이트 다운로드를 시작 또는 계속할 수 있습니다. 또한, 이는 게임 속성 페이지에서 각 게임당 재정의할 수 있습니다."
+"Steam_ThrottleDownloadsWhileStreaming"	"스트리밍 중 다운로드 속도 제한하기"
+"Steam_ThrottleDownloadsWhileStreamingDetails"	"이 옵션을 선택하면, Steam이 고품질의 Steam Remote Play 환경을 유지하기 위해 다운로드 속도를 제한합니다."
+"Steam_DownloadRatesInBits"			"다운로드 속도를 초당 비트 수로 표시"
+
+"Steam_PeerContentTitle"			"로컬 네트워크를 통한 게임 파일 전송"
+"Steam_PeerContentInfo"			"이 기능을 사용하면 로컬 네트워크에 있는 다른 PC에 저장된 Steam 게임 파일을 원하는 PC로 전송할 수 있으며, 게임을 다운로드 또는 업데이트하는 동안 인터넷 트래픽이 감소합니다. 또한 다른 사용자가 이 PC에서 게임 파일을 전송할 수 있도록 허용할 수 있습니다."
+"Steam_PeerContentOff"			"끄기 - 허용 안 함"
+"Steam_PeerContentSameUser"		"내 기기만 허용"
+"Steam_PeerContentFriends"		"Steam 친구만 허용"
+"Steam_PeerContentAnyUser"		"모든 사용자 허용"
+
+"Steam_CloudLabel"					"Steam Cloud"
+"Steam_CloudInfo"					"Steam Cloud는 여러 컴퓨터에서 동일한 제품 사용 환경을 제공하기 위해 정보를 저장합니다."
+"Steam_EnableCloud"					"지원하는 애플리케이션에 대해 Steam Cloud 동기화를 사용합니다."
+"Steam_EnableCloudForApp"			"%game%에 대해 Steam Cloud 동기화 사용"
+"Steam_EnableCloudScreenshots"		"스크린샷을 찍으면 게임 종료 후 스크린샷 업로더 열기"
+"Steam_CloudUsage"					"%used% 사용 중 / %available% 사용 가능"
+"Steam_CloudEnableLink"				"설정 및 다운로드와 Cloud 보기"
+"Steam_CloudEnableLinkContinued"	": Steam Cloud를 다시 사용하도록 설정합니다."
+
+"Start_Server_FSMount_Error_Title"	"전용 서버 - 파일 시스템 오류"
+"Start_Server_FSMount_Error" 		"Steam 파일 시스템을 마운트하지 못했습니다."
+
+"Steam_Subscription_Success_WithShipping$purchasetype=regular"	"%subscription%에 대한 구독이 완료되었습니다.\n\nSteam 게임 라이브러리에서 현재 출시된 게임 중 원하는 게임을 클릭하여 플레이할 수 있습니다. 또한 사은품 또는 경품이 배달되면 바로 확인 메일을 받게 될 것입니다. 주문해 주셔서 감사합니다!"
+"Steam_Subscription_Success_WithShipping$purchasetype=gift"	"%subscription% 선물을 %giftee% 님에게 보냈습니다. 사은품 또는 경품이 배달되면 바로 확인 메일을 받게 될 것입니다. 주문해 주셔서 감사합니다!"
+"Steam_Subscription_Success_WithShipping$purchasetype=unknown"	"%subscription% 구매가 성공적으로 완료되었습니다. 사은품 또는 경품이 배달되면 바로 확인 메일을 받게 될 것입니다. 주문해 주셔서 감사합니다!"
+"Steam_Subscription_Success_WithShipping_Headline"	"감사합니다. 거래가 완료되었습니다."
+
+"Steam_SubscriptionFailure_Timeout_CantPlay_Headline"	"구독 구매 보류 중"
+"Steam_SubscriptionFailure_Timeout_CantPlay"	"%subscription%의 구독 구매가 완료되지 않았습니다. 현재 Steam 서버가 거래를 처리할 수 없습니다.\n\n구독 구매가 완료되어야만 %subscription%(을)를 플레이할 수 있습니다. 불편을 끼쳐 죄송합니다. Steam 팀에서 이 상황을 해결하기 위해 노력하고 있으며 거래가 완료되는 대로 바로 알려드리겠습니다."
+
+"Steam_CannotStartSecondPurchase"	"이미 구매 절차가 진행 중이므로 다른 제품의 구매를 시작할 수 없습니다. 현재 진행 중인 구매를 완료 또는 취소하여 주세요."
+
+"SteamUI_PleaseInstallRetailFiles_Title"	"%subscription% 파일을 설치한 후에 계속 진행하세요."
+"SteamUI_PleaseInstallRetailFiles_Info"		"계속하기 전에 %subscription% 파일을 설치해야 합니다.\n드라이브에 %subscription%의 CD/DVD를 넣은 후 자동 실행 메뉴에서 \"설치\"를 선택하세요."
+
+"Steam_PhoneNumber"		"전화번호"
+
+"Steam_GamePurchaseableWhenReleased"	" *"
+"Steam_ShippingGoods"		"Half-Life 2 사은품"
+"Steam_ShippingAndHandling"	"배송 및 취급"
+"Steam_DutyNote"	"사은품은 미국에서 선적됩니다. 귀하는 이에 부과되는 모든 관세를 부담하게 됩니다."
+
+"Steam_AgreeToTheTerms"		"Steam 이용 약관의"
+"Steam_SteamSubscriberAgreement"	    "Steam 이용 약관"
+"Steam_SteamSubscriberAgreement_china"	"Steam China 사용권 계약"
+"Steam_ComplianceRequired_Title"	"Steam - 주의"
+"Steam_ComplianceRequired_Info"		"계속 진행하려면 Steam 이용 약관의 모든 조건에 동의해야 합니다."
+
+"Steam_Legal_UnreleasedProduct"	"* 본 제품은 아직 출시가 되지 않았으며, 출시가 되면 제품을 구매한 모든 분들께 제공될 것입니다. 이 제품의 출시일은 아직 확정되지 않았습니다. 따라서, 비공식적인 출처를 통한 출시 예정 날짜에 의존하지 마세요."
+"Steam_Legal_TimeToShipGoods"	"**  Half-Life 2 골드 패키지와 함께 제공되는 사은품에는 6-8주의 배송 기간이 있습니다."
+"Steam_Legal_SSACheckbox"	"Steam 이용 약관 및 여기서 설명된 묶음의 조건은 본 구매 항목에 적용된다는 것에 동의합니다."
+"Steam_Legal_SSANext"	"동의"
+"Steam_Legal_SSADisagree"	"동의하지 않음"
+"SteamUI_HardwarePromoWizard_Title" "프로모션 행사에 등록하세요."
+"Steam_HardwarePromo_Intro" "축하합니다! 행사 대상 자격을 갖추셨군요. 제공되는 혜택은 단 하나의 Steam 계정에만 사용할 수 있으며, 어느 컴퓨터에서든 Steam 계정에 로그인하기만 하면 해당 게임을 플레이할 수 있습니다."
+"Steam_Legal_HardwarePromo_Unreleased" "이 패키지의 일부는 아직 출시되지 않아 현재 플레이할 수 없습니다. 출시되면 바로 Steam을 통해 자동으로 제공됩니다. 이들 제품의 출시일은 아직 확정되지 않았으며, 다른 어떤 출시 예정일도 확실하지 않습니다. 추가 약관을 보려면 '다음'을 누르세요."
+"Steam_Legal_HardwarePromo" ""
+"Steam_Working_HardwarePromo" "등록 요청..."
+"SteamUI_OEMTicketWizard_Title" "OEM 라이선스 등록"
+
+"SteamUI_GamesDialog_RightClick_BackupGame" "게임 파일 백업..."
+"SteamUI_GamesDialog_RightClick_BackupApplication" "앱 파일 백업..."
+"Steam_BackupRequiresFullCache_Title"	"Steam - 백업"
+"Steam_BackupRequiresFullCache_Info"	"업데이트를 완료할 때까지 %game% 게임을 백업하실 수 없습니다."
+
+"Steam_BackupSelectGames_Info"		"백업에 포함할 프로그램을 선택하세요.\n다운로드를 완료하고 최신판으로 업데이트한 프로그램만 백업할 수 있습니다."
+"Steam_BackupStartText"			"어떻게 할까요?"
+"Steam_BackupChooseRestore"		"이전 백업 복원"
+"Steam_BackupChooseBackup"		"현재 설치된 프로그램 백업"
+
+"Steam_BackupWizard_Title"	"프로그램 백업 및 복원"
+"Steam_BackingUpFile"		"%file% 백업 중"
+"Steam_TotalBackupProgress"	"남은 시간:"
+"Steam_complete"		"완료"
+
+"Steam_ChooseRestoreDirectory_Info"	"복원하려는 백업 파일이 포함된 디렉터리를 찾습니다. 백업을 Steam의 기본 위치에 저장한 경우, 이 기본 위치는 Backups'이라는 디렉터리 내의 폴더가 됩니다."
+"Steam_RestoreDirectory"		"다음 폴더에서 프로그램 복원:"
+"Steam_RestoreGameFound"		"검색된 프로그램 백업:"
+"Steam_RestoreNoneFound"		"없음"
+
+"Steam_SelectRestoreDirectory_Title" 	"백업 파일 찾기"
+
+"Steam_ChooseBackupDirectory_Info"	"백업 파일을 만들 디렉터리를 선택하세요."
+"Steam_BackupDirectory"			"백업 위치"
+"Steam_ChangeDirectory"			"찾아보기..."
+"Steam_BackingUpFiles_Info"		"백업 아카이브를 압축하고 저장하는 동안 잠시 기다려 주세요."
+"Steam_BadBackupDir_Title"		"Steam - 백업"
+"Steam_CannotBackupToRootDirectory"	"시스템 디렉터리에 백업 파일을 만들 수 없습니다."
+"Steam_CannotCreateBackupDirectory"	"선택하신 폴더는 존재하지 않으며, Steam도 해당 폴더를 생성할 수 없었습니다."
+"Steam_CannotBackupNoEnoughDiskSpace"	"이 드라이브는 디스크 여유 공간이 부족합니다."
+
+"Steam_BackupNameAndSize_Info"	"필요한 경우, CD-R 또는 DVD-R에 저장하기 쉽도록 백업 파일이 여러 개로 분할됩니다."
+
+"Steam_BackupFileSize"			"파일 크기"
+"Steam_BackupSize_CD"			"CD [640 MB]"
+"Steam_BackupSize_DVD"			"DVD [4.7 GB]"
+"Steam_BackupFileName"			"백업 파일 이름"
+"Steam_SelectBackupDirectory_Title"	"백업 폴더 선택"
+"Steam_DisksRequiredApprox"		"만들어질 압축 파일의 \n대략적인 개수:"
+"Steam_BackupWizard_OpenFolder"	"백업 폴더 열기"
+
+"Steam_BackupComplete_Info"	"백업이 완료되었습니다. CD-R 또는 DVD-R 드라이브가 있으면 여기에 파일을 백업할 수 있습니다.\n\nSteam의 백업 및 복원 마법사를 사용해 백업된 게임을 복구하세요."
+"Steam_BackupComplete_Error"	"백업에 실패했습니다. 로컬 게임 파일을 확인해 주세요."
+
+
+"SteamUI_GamesDialog_Tools" "도구"
+
+"Steam_InstallExplanation_Install"	"다운로드 및 설치"
+"Steam_InstallExplanation_Title"	"Steam - 도구"
+
+"Steam_CreditCardAmexInvalid"	"신용 카드 보안 번호는 4자리여야 합니다."
+"Steam_CreditCardDinersInvalid"	"[temp]"
+
+"Steam_UnlockAppStatus1"	"%s1 게임 파일 암호 해제 중."
+"Steam_UnlockAppStatus2"	"%s1 게임 파일 암호 해제 중.."
+"Steam_UnlockAppStatus3"	"%s1 게임 파일 암호 해제 중..."
+
+"Steam_ConnectionIssues_Title"	"Steam - 주의"
+"Steam_ConnectionIssues_Info"	"Steam 서버에 연결하는 데 어려움을 겪고 있습니다."
+"Steam_ConnectionIssues_LinkText" "문제 해결 팁"
+
+"Steam_RetryConnection"		"재시도"
+
+"Steam_GamePropertiesContent_Scanning"	"검색 중..."
+
+"Steam_Install_CreateDesktopShortcut"	"바탕 화면에 바로 가기 만들기"
+"Steam_Install_CreateMultipleDesktopShortcut" "바탕 화면에 각 게임의 바로 가기 만들기"
+"Steam_Install_CreateGameExplorerShortcut" "게임 탐색기에 추가"
+
+"Steam_Install_ViewGameManual"	"%game_manual% 설명서 보기"
+
+"Steam_Account_Link" "계정 정보 보기"
+
+"Steam_SteamAccount"	"Steam 계정"
+"Steam_Cost"		"가격"
+"Steam_EstimatedTax"	"부가세"
+"Steam_ShippingDutyNotice"	"사은품은 미국에서 선적됩니다. 귀하는 이에 부과되는 모든 관세를 부담하게 됩니다."
+"Steam_TotalCost"	"합계"
+"Steam_CardHolderName"	"카드 소유자"
+"Steam_CardType"	"카도 종류"
+"Steam_CardNumber"	"신용 카드 번호"
+"Steam_CardExpiration"	"카드 유효기간"
+"Steam_BillingAddress"	"청구지 주소"
+"Steam_BillingAddressLine2" "청구지 주소 (계속)"
+"Steam_BillingCity"	"시"
+"Steam_BillingPostCode"	"우편번호"
+"Steam_BillingState"	"도"
+"Steam_BillingCountry"	"국가"
+
+"Steam_ShippingAddress"	"배송 주소"
+"Steam_ShippingAddressLine2" "배송 주소 (계속)"
+"Steam_ShippingCity"	"시"
+"Steam_ShippingPostCode"	"우편번호"
+"Steam_ShippingState"	"도"
+"Steam_ShippingCountry"	"국가"
+"Steam_ShippingPhone"	"전화번호"
+
+"Steam_InvalidLoginTitle"	"적합한 Steam 로그인 필요"
+"Steam_InvalidLoginDetail"	"올바로 로그인하지 않았습니다.\n\nSteam을 계속 사용하려면 로그인하세요."
+"Steam_LoginElipsis"	"로그인..."
+"Steam_QuitButton"	"끝내기"
+"Steam_ConnectionFailureTitle"	"연결 실패"
+"Steam_ConnectionFailureDetail"	"네트워크에 연결할 수 없습니다. 인터넷 연결 문제가 원인일 수 있습니다."
+"Steam_ConnectionSupportLink"	"연결 문제 해결"
+"Steam_ConnectionSupportURL"	"https://support.steampowered.com/kb/1456-EUDN-2493/"
+
+"SteamUI_NetworkTroubleshootingTips"	"네트워크 문제 해결 팁"
+"SteamUI_NetworkTroubleshootingTips_URL"	"https://support.steampowered.com/kb_article.php?ref=1456-EUDN-2493"
+
+
+"SteamUI_SSA_Agree"				"이 약관를 처음부터 끝까지 숙독해 주세요. 계속 진행하려면 Steam 이용 약관의 모든 조건에 동의해야 합니다."
+"SteamUI_SSA_CybercafeAgree"		"사용 허가를 받은 PC방 운영자이며 모든 이용 약관에 동의합니다."
+"SteamUI_SSA_ActivateProduct"		"Steam에 제품을 등록하고 Steam 라이브러리에 추가하려면 소매점에서 구입한 CD/DVD의 제품 코드 또는 기타 Steam 제품 코드를 여기 입력하세요. 계속하려면 '다음'을 클릭하세요."
+"SteamUI_ActivateProductLockedDown"		"고객님의 계정이 고객님에 의해 잠겼거나 Steam 고객지원에 의해 잠겼습니다. 해당 문제가 해결될 때까지 이 계정에서 새 제품을 활성화할 수 없습니다."
+"SteamUI_ActivateProduct_ViewSupportMessage" "Steam 고객지원의 활성화된 알림 보기"
+
+"SteamUI_PPA_Agree"				"Valve 개인정보처리방침의 전체 내용을 읽고 확인해 주세요. 계속하려면 동의해야 합니다."
+"Steam_ClickToPrint"			"인쇄하려면 여기를 클릭하세요"
+
+
+"Steam_IconsColumn"		"아이콘"
+"Steam_GamesColumn"		"게임"
+"Steam_ToolsColumn"		"제목"
+"Steam_StatusColumn"		"상태"
+"Steam_UpdateColumn"		"업데이트"
+"Steam_DeveloperColumn"		"개발자"
+"Steam_CloudColumn"		"Steam Cloud"
+
+"Steam_MyGames_TabTitle"	"내 게임"
+"Steam_Store_TabTitle"		"상점"
+"Steam_Tools_TabTitle"		"도구"
+
+"Steam_Account_Name"	"%account%"
+
+"Steam_Universe_Internal" 	"[%universe%]"
+
+"Steam_News"		"뉴스"
+"Steam_Friends"		"친구"
+"Steam_Servers"		"서버"
+"Steam_Settings"	"설정"
+"Steam_Support"	"지원"
+
+"Steam_News_Upper"	"뉴스"
+"Steam_Friends_Upper"	"친구 네트워크"
+"Steam_Servers_Upper"	"서버"
+"Steam_Settings_Upper"	"설정"
+"Steam_Support_Upper"	"지원"
+
+"Steam_Launch"		"플레이"
+"Steam_LaunchVR"	"VR로 플레이"
+"Steam_Watch_Video"	"보기"
+"Steam_Watch_VideoVR"	"VR에서 보기"
+"Steam_Launch_App"	"시작"
+"Steam_Launch_AppVR"	"VR에서 실행하기"
+"Steam_Stream_App"	"스트리밍"
+"Steam_Install"		"설치"
+"Steam_Preload"		"미리 받기"
+"Steam_Purchase"		"구매"
+"Steam_Details"		"정보"
+"Steam_Renew"		"갱신"
+
+"steam_menu_file"	"Steam"
+"steam_menu_view"	"보기"
+"steam_menu_games"	"게임"
+"steam_menu_view_games"		"게임 라이브러리 보기"
+"steam_menu_help"	"도움말"
+"steam_menu_library"	"라이브러리"
+"steam_menu_hidden_games"	"숨겨진 게임"
+"steam_menu_soundtracks"	"사운드트랙"
+"steam_menu_downloads"	"다운로드"
+"steam_menu_account"	"Steam"
+"steam_menu_window" "창"
+"steam_menu_preferences"	"환경 설정..."
+"steam_menu_services"	"서비스"
+"steam_menu_hidesteam"	"Steam 숨기기"
+"steam_menu_hideothers"	"기타 숨기기"
+"steam_menu_showall"	"모두 보기"
+"steam_menu_quitsteam"	"Steam 종료"
+"steam_menu_window_close"	"닫기"
+"steam_menu_window_minimize"	"최소화"
+"steam_menu_window_zoom"	"확대"
+"steam_menu_window_bringalltofront"	"앞으로 모두 가져오기"
+"steam_menu_games_details"	"게임 정보"
+"steam_menu_games_list"		"게임 목록"
+"steam_menu_games_grid"		"게임 그리드"
+
+"steam_menu_profile_view"	"프로필"
+"steam_menu_view_profile"	"프로필"
+"steam_menu_view_badges"	"내 배지"
+"steam_menu_view_groups"	"내 그룹"
+"steam_menu_view_inventory"	"내 보관함"
+"steam_menu_view_screenshots" "내 스크린샷"
+"steam_menu_view_videos" "내 동영상"
+"steam_menu_view_recommendations" "내 평가"
+"steam_menu_view_workshop" "내 창작마당"
+
+"steam_menu_account_details" "계정 정보"
+"steam_menu_account_view_profile" "프로필 보기"
+"steam_menu_account_preferences" "상점 환경 설정"
+"steam_menu_account_wallet" "지갑 보기"
+"steam_menu_account_logout" "이 계정에서 로그아웃:"
+
+
+"steam_store"		"상점"
+"steam_mygames"		"게임"
+"steam_tools"		"도구"
+"steam_about"		"Steam 정보"
+
+"steam_menu_minigameslist"	"미니 게임 목록으로 전환"
+"steam_menu_fullgameslist"	"전체 화면으로 전환"
+"steam_menu_backupgames"	"게임 백업 복원..."
+"steam_menu_changeuser"		"계정 변경..."
+"steam_menu_signout"		"로그아웃..."
+"steam_menu_support"		"Steam 고객지원"
+"steam_menu_community"		"커뮤니티"
+"steam_menu_community_home"		"커뮤니티 홈"
+"steam_menu_friend_activity"	"친구 활동"
+
+"Steam_NotYetReleased"	"아직 출시되지 않음"
+"Steam_NotInstalled"	"설치되지 않음"
+"Steam_NotAvailable"	"사용 불가"
+"Steam_UpdatePaused"	"업데이트 일시 정지됨"
+"Steam_DownloadPaused"	"다운로드 일시 중지"
+"Steam_UpdateQueued"	"업데이트 대기"
+"Steam_DownloadQueued"	"대기 중"
+"Steam_UpdateRequired"	"업데이트 필요"
+"Steam_PreloadPaused"	"미리 받기 일시 중지됨"
+"Steam_PreloadSuspended" "미리 받기 중지됨"
+"Steam_PreloadStarting"	"미리 받기 대기 중"
+"Steam_PreloadStopping"	"미리 받기 중지 중..."
+"Steam_GameUninstalling"	"제거하는 중..."
+"Steam_GameReady"		"플레이 준비 완료"
+"Steam_SharedGameUnavailable"		"공유된 게임 사용 불가"
+"Steam_SharedGameDetailAvailable"	"이 공유된 게임은 %owner% 님의 것입니다."
+"Steam_SharedGameDetailCurrentlyUnavailable"		"이런, %owner%의 공유된 게임이 현재 사용 중입니다."
+"Steam_SharedGameDetailPermanentlyUnavailable"		"이 게임은 공유된 라이브러리에서 사용할 수 없습니다"
+"Steam_ApplicationReady"		"시작 준비 완료"
+"Steam_GameRunning"		"실행 중"
+"Steam_GamePreloadReady" "미리 받기 완료, 미출시"
+"Steam_GamePreorderReady" "미리 받기 완료, 미출시"
+"steam_gamepurchaseready" "미리 받기 완료"
+"Steam_ThirdPartyGameReady"	"모드 플레이 준비 완료"
+"Steam_GamePreloading"	"미리받는 중"
+"Steam_GameUpdating"	"업데이트 중"
+"Steam_GameDownloading"	"다운로드 중"
+"Steam_GameDownloadStarting"	"공간을 미리 배정하는 중"
+"Steam_GameDownloadStopping"	"다운로드 중지하는 중..."
+"steam_gamecalculating" "계산 중..."
+"steam_gamepreloaded"		"미리 받기 완료"
+"Steam_GameSyncing"		"동기화"
+"Steam_CloudSyncConflict"	"동기화 충돌"
+"Steam_GameDownloadWaitingForComponentInUse"	"다운로드 대기 중"
+"Steam_VideoReady"	"시청 준비 완료"
+"Steam_SiteLicenseGameUnavailable"		"사용할 수 있는 라이선스가 없습니다."
+
+
+"Steam_BackupRequiresFullyDownloadedGames_Title"	"Steam - 백업"
+"Steam_BackupRequiresFullyDownloadedGames_Info"		"현재 백업 준비가 완료된 게임이 없습니다."
+
+"Steam_WebBrowser_Back"		"< 뒤로"
+"Steam_WebBrowser_Home"		"^ 홈"
+"Steam_WebBrowser_Reload"		"~ 다시 불러오기"
+"Steam_WebBrowser_Loading"	"불러오는 중..."
+"Steam_WebBrowser_TextSize"	"텍스트 크기"
+
+"Steam_MiniGamesColumn_Installed"		"설치됨"
+"Steam_MiniGamesColumn_NotInstalled"		"설치되지 않음"
+"Steam_minigamescolumn_tools"			"도구"
+
+"Steam_MiniGamesList_UpdatePaused"		"(업데이트 일시 중지됨)"
+"Steam_MiniGamesList_DownloadStarting"	"다운로드 시작하는 중..."
+"Steam_MiniGamesList_DownloadStopping"	"다운로드 중지하는 중..."
+"Steam_MiniGamesList_PreloadPaused"		"(미리 받기 일시 중지됨)"
+"Steam_MiniGamesList_PreloadStarting"	"미리 받기 시작 중..."
+"Steam_MiniGamesList_Unreleased"		"(미출시)"
+"Steam_MiniGamesList_Preloaded"			"(미리받음)"
+"Steam_MiniGamesList_Synchronizing"		"(동기화)"
+
+"Steam_RightClick_PauseUpdating"		"업데이트 일시 중지"
+"Steam_RightClick_ResumeUpdating"		"업데이트 계속"
+"Steam_RightClick_DeleteLocalContent"		"제거..."
+"Steam_RightClick_PausePreloading"		"미리 받기 일시 중지"
+"Steam_RightClick_ResumePreloading"		"미리 받기 계속"
+"Steam_RightClick_ViewPreloadInfo"		"미리 받기 정보 보기..."
+"Steam_RightClick_ManageDownloads"	"다운로드 관리..."
+
+"Steam_RightClick_OpenCloudFile"		"파일 열기"
+"Steam_RightClick_OpenWithCloudFile"		"다음으로 열기"
+"Steam_RightClick_ExploreCloudFile"		"파일이 저장된 경로 열기"
+"Steam_RightClick_PublishCloudFile" "'%filename%' 게시하기"
+"Steam_RightClick_DeleteCloudFile"	"삭제..."
+"Steam_CloudFile_SyncState_Synced"	"동기화됨"
+"Steam_CloudFile_SyncState_Syncing"	"동기화 중"
+"Steam_CloudFile_SyncState_ChangesLocal"	"동기화 준비 완료"
+"Steam_CloudFile_SyncState_ChangesRemote"	"동기화 준비 완료"
+"Steam_CloudFile_SyncState_Conflict"	"충돌"
+"Steam_CloudFile_SyncState_Unknown"	"알 수 없음"
+
+"Steam_PublishFile_Title"						"Steam 커뮤니티에 다음 파일을 공유하기: %filename%"
+"Steam_PublishFile_Description"			"Steam 커뮤니티에 이 파일을 공유하시려구요?"
+"Steam_PublishFile_TitleLabel"			"제목:"
+"Steam_PublishFile_DescriptionLabel"	"설명:"
+"Steam_PublishFile_VisibilityLabel"	"공개 설정:"
+"Steam_PublishFile_Visibility_Private"	"비공개"
+"Steam_PublishFile_Visibility_FriendsOnly"	"친구 공개"
+"Steam_PublishFile_Visibility_Public"	"전체 공개"
+"Steam_PublishFile_TargetAppLabel" "게시할 위치:"
+"Steam_PublishFile_ConfirmButton"		"올리기"
+"Steam_PublishFile_Success_VisibilityPrivate"		"축하합니다! 클라우드에 당신의 파일을 게시했습니다. 이제부터 아무에게나 당신의 파일 링크를 공유할 수 있습니다, 그러나 그 링크는 다른 Steam 커뮤니티 멤버에게 공개된 상태로 공유되지는 않습니다."
+"Steam_PublishFile_Success_VisibilityFriendsOnly"		"축하합니다! 귀하의 파일은 이제 친구들과 귀하가 링크를 전달한 사람들과 공유됩니다."
+"Steam_PublishFile_Success_VisibilityPublic"		"축하합니다! Steam 커뮤니티에 파일을 공유했습니다."
+"Steam_PublishFile_Success"		"당신이 지금 게시한 이 파일에 대해서 반드시 알아두시기 바랍니다. 공유하고자 하는 파일이 새로 변경된 경우 다시 공개하여야 합니다. 만약 같은 제목을 사용할 경우, 이 파일이 공유되는 사용자들은 새 공개 버전의 파일을 자동으로 확인할 수 있습니다."
+"Steam_PublishFile_Progress"  "Steam 커뮤니티에 파일을 공유하는 중입니다..."
+"Steam_PublishFile_Failed"		"파일을 Steam 커뮤니티에 공유하는 도중 오류가 발생했습니다. 잠시 후 다시 시도해 주세요."
+"Steam_PublishFile_Failed_DuplicateName"	"공유하려고 하시는 해당 파일은 이미 존재합니다. 다른 파일명을 사용하시거나 공유 항목 중 '덮어쓰기'를 선택해 주세요."
+"Steam_PublishFile_Failed_AccessDenied"		"파일을 공유하기 위해서는 우선 해당 프로그램을 소지하고 있어야 합니다. 파일을 게시하기 전에 해당 프로그램을 먼저 구매해 주세요."
+"Steam_PublishFile_Failed_SyncError"	"업데이트한 파일을 Steam Cloud와 동기화하는 도중 오류가 발생했습니다. 다시 게시하기 전에 로컬 파일과 Steam Cloud에 보관중인 파일 사이의 충돌을 먼저 해결해야 합니다."
+
+"Steam_About_Title"				"Steam 정보"
+"Steam_About_Info"				"Steam 클라이언트"
+"Steam_About_Build"				"빌드: %build_date%, %build_time%"
+"Steam_About_InterfaceVer"			"Steam API: v%build_interface%"
+
+"Steam_DeveloperUnknownThirdParty"		"타사"
+
+"Steam_SteamSubscriberAgreement_

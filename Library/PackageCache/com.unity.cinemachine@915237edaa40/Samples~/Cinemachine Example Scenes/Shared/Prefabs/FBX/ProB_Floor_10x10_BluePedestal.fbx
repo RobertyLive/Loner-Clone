@@ -1,0 +1,1201 @@
+т
+DL_INFO_WIDTH=Ширина
+DL_INFO_HEIGHT=Висота
+DL_INFO_FONT_SIZE=Розмір
+DL_INFO_FONT_STYLE=Стиль
+DL_INFO_FONT_FAMILY=Сім’я
+DL_INFO_FONT_COLOR=Колір шрифту
+DL_INFO_ALIGNMENT=Вирівнювання
+DL_INFO_TEXT_DECORATION=Прикраса
+DL_INFO_LEFT_INDENT=Відступ ліворуч
+DL_INFO_RIGHT_INDENT=Відступ справа
+DL_INFO_SPACE_BEFORE=Вільне місце вище
+DL_INFO_SPACE_AFTER=Вільне місце нижче
+DL_INFO_FIRST_LINE_INDENT=Відступ абзацу
+DL_INFO_UNDERLINE=Підкреслення
+DL_INFO_LINETHROUGH=Перекреслення
+DL_INFO_REGULAR=Правильний
+DL_INFO_STOCK_ID=Stock ID
+DL_INFO_STOCK_AUTHOR=Автор
+DL_INFO_STOCK_LICENSE=Ліцензувати
+DL_INFO_STOCK_LICENSE_UNLICENSED=Не ліцензовано
+DL_INFO_STOCK_LICENSE_STANDARD=Стандарт
+DL_INFO_STOCK_LICENSE_EXTENDED=Розширено
+DL_INFO_STOCK_LICENSE_ENHANCED=Покращений
+DL_INFO_STOCK_LICENSE_INTERNAL_USE=Внутрішнє використання
+DL_INFO_STOCK_LICENSE_DIGITAL_USE=Цифрове використання
+DL_INFO_STOCK_LICENSE_SOCIAL_MEDIA=Соціальні мережі
+DL_INFO_STOCK_LICENSE_NA=Невідомо
+DL_INFO_BUY_STOCK_LICENSE=Придбати
+DL_INFO_STOCK_RESTRICTION=Обмеження
+DL_INFO_STOCK_RESTRICTION_EDITORIAL=Лише для редакційного використання
+DL_INFO_ACTIVATE_FONT=Додати шрифт
+DL_INFO_DEACTIVATE_FONT=Видалити шрифт
+DL_INFO_SUBSCRIBE_FONT=Доступно через Creative Cloud
+DL_INFO_UNAVAILABLE_FONT=Недоступно
+DL_INFO_STATUS=Стан
+DL_INFO_INPUT_PAGINATION_COUNT=із загальної кількості сторінок: {{totalPages}}
+DL_INFO_PAGINATION_COUNT={{currentPage}} із {{totalPages}}
+DL_INFO_ELEMENT_COUNT_PLURAL=Елементів: {{numElements}}
+DL_INFO_ELEMENT_COUNT_SINGULAR=1 елемент
+DL_INFO_CHANGE_BY=виконується {{name}}
+DL_INFO_TILEABLE=Сегментований візерунок
+DL_INFO_PROCEDURAL=Службові
+DL_INFO_YES=Так
+DL_INFO_NO=Ні
+
+DL_APP_PHOTOSHOP=Adobe Photoshop
+DL_APP_ILLUSTRATOR=Adobe Illustrator
+DL_APP_INDESIGN=Adobe InDesign
+DL_APP_MUSE=Adobe Muse
+DL_APP_SHAPE=Adobe Shape
+DL_APP_ANIMATE=Adobe Animate
+DL_APP_AE=Adobe After Effects
+DL_APP_PPRO=Adobe Premiere Pro
+DL_APP_XD=Adobe XD
+
+DL_TYPE_BRUSH=Пензлі
+DL_TYPE_COLOR=Кольори
+DL_TYPE_COLOR_THEME=Колірні теми
+DL_TYPE_CHANNEL=Канали
+DL_TYPE_TEXT_STYLE=Стилі символів
+DL_TYPE_PARA_STYLE=Стилі абзаців
+DL_TYPE_FONT=Шрифти
+DL_TYPE_IMAGE=Графіка
+DL_TYPE_IMAGE_GUIDELINE=посібник із зображень
+DL_TYPE_LAYER_STYLE=Стилі шарів
+DL_TYPE_LOOK=Оформлення
+DL_TYPE_CAPSULE=Шаблони анімованої графіки
+DL_TYPE_VIDEO=Відео
+DL_TYPE_3D=Моделі
+DL_TYPE_LIGHT=Світло
+DL_TYPE_MATERIAL=Матеріали
+DL_TYPE_UNKNOWN=Не підтримується
+DL_TYPE_PATTERN=Візерунки
+DL_TYPE_TEMPLATE=Шаблони
+DL_TYPE_TEXT=Текст
+DL_TYPE_ANIMATION=Анімації
+DL_TYPE_GRADIENT=Градієнти
+DL_TYPE_COMPONENT=Компоненти
+DL_TYPE_AUDIO=Аудіо
+DL_TYPE_CHANNEL_SINGULAR=канал
+DL_TYPE_IMAGE_GUIDELINE_SINGULAR=Посібник щодо роботи із зображеннями
+DL_TYPE_BRUSH_SINGULAR=Пензель
+DL_TYPE_COLOR_SINGULAR=Колір
+DL_TYPE_COLOR_THEME_SINGULAR=Колірна тема
+DL_TYPE_TEXT_STYLE_SINGULAR=Стиль символу
+DL_TYPE_PARA_STYLE_SINGULAR=Стиль абзацу
+DL_TYPE_FONT_SINGULAR=Шрифт
+DL_TYPE_IMAGE_SINGULAR=Графіка
+DL_TYPE_LAYER_STYLE_SINGULAR=Стиль шару
+DL_TYPE_LOOK_SINGULAR=Оформлення
+DL_TYPE_CAPSULE_SINGULAR=Шаблон анімованої графіки
+DL_TYPE_VIDEO_SINGULAR=Відео
+DL_TYPE_3D_SINGULAR=Модель
+DL_TYPE_LIGHT_SINGULAR=Світло
+DL_TYPE_MATERIAL_SINGULAR=Матеріал
+DL_TYPE_PATTERN_SINGULAR=Візерунок
+DL_TYPE_TEMPLATE_SINGULAR=Шаблон
+DL_TYPE_TEXT_SINGULAR=Текст
+DL_TYPE_ANIMATION_SINGULAR=Анімація
+DL_TYPE_GRADIENT_SINGULAR=Градієнт
+DL_TYPE_FILL_GRADIENT_SINGULAR=Градієнт заливки
+DL_TYPE_STROKE_GRADIENT_SINGULAR=Градієнт обведення
+DL_TYPE_COMPONENT_SINGULAR=Компонент
+DL_TYPE_AUDIO_SINGULAR=Аудіо
+
+DL_ROLE_LOGO=Логотипи
+
+DL_REPRESENTATION_TYPE_BRUSH=Пензель
+DL_REPRESENTATION_TYPE_COLOR=Колір
+DL_REPRESENTATION_TYPE_CHANNEL=Канал
+DL_REPRESENTATION_TYPE_IMAGE_GUIDELINE=Посібник щодо роботи із зображеннями
+DL_REPRESENTATION_TYPE_TEXT_STYLE=Стиль символу
+DL_REPRESENTATION_TYPE_PARA_STYLE=Стиль абзацу
+DL_REPRESENTATION_TYPE_FONT=Шрифт
+DL_REPRESENTATION_TYPE_LAYER_STYLE=Стиль шару
+DL_REPRESENTATION_TYPE_CUBE_LUT=Таблиця пошуку Cube
+DL_REPRESENTATION_TYPE_LOOK=Оформлення
+DL_REPRESENTATION_TYPE_CAPSULE=Капсула
+DL_REPRESENTATION_TYPE_MODEL=Модель
+DL_REPRESENTATION_TYPE_LIGHT=Світло
+DL_REPRESENTATION_TYPE_MATERIAL=Матеріал
+DL_REPRESENTATION_TYPE_TEMPLATE=Шаблон
+DL_REPRESENTATION_TYPE_TEXT=Текст
+DL_REPRESENTATION_TYPE_ANIMATION=Animate
+DL_REPRESENTATION_TYPE_PHOTOSHOP=Photoshop
+DL_REPRESENTATION_TYPE_PHOTOSHOP_3D=Photoshop 3D
+DL_REPRESENTATION_TYPE_ILLUSTRATOR=Illustrator
+DL_REPRESENTATION_TYPE_INDESIGN=InDesign
+DL_REPRESENTATION_TYPE_XD=XD
+DL_REPRESENTATION_TYPE_XD_COMPONENT=Компонент XD
+DL_REPRESENTATION_TYPE_MUSE=Muse
+DL_REPRESENTATION_TYPE_SHAPE=Фігура
+DL_REPRESENTATION_TYPE_CHART=Діаграма
+DL_REPRESENTATION_TYPE_BITMAP_PATTERN=Бітовий візерунок
+DL_REPRESENTATION_TYPE_VECTOR_PATTERN=Векторний візерунок
+DL_REPRESENTATION_TYPE_GRADIENT=Градієнт
+DL_REPRESENTATION_TYPE_VIDEO=Відео
+DL_REPRESENTATION_TYPE_COMPONENT=Компонент
+DL_REPRESENTATION_TYPE_AUDIO=Аудіо
+
+DL_AUTOGROUP_COLORS=Кольори
+DL_AUTOGROUP_TYPOGRAPHY=Типографіка
+DL_AUTOGROUP_STYLES=Стилі
+DL_AUTOGROUP_BRUSHES=Пензлі
+DL_AUTOGROUP_VECTORS=Векторна графіка
+DL_AUTOGROUP_IMAGES=Зображення
+DL_AUTOGROUP_MOTION=Рух
+DL_AUTOGROUP_3D=3D
+DL_AUTOGROUP_TEMPLATES=Шаблони
+DL_AUTOGROUP_UNKNOWN=Не підтримується
+
+DL_TEXT_STYLE_DEFAULT_TEXT=Aa
+
+DL_MENU_CREATE_LIB=Створити нову бібліотеку
+
+DL_SET_TEXT_STYLE_TOOLTIP=Застосувати стиль символу
+DL_SET_PARA_STYLE_TOOLTIP=Застосувати стиль абзацу
+DL_SET_FONT_TOOLTIP=Застосувати шрифт
+DL_CREATE_TEXT_LAYER_TOOLTIP=Використати в документі
+DL_ADD_AS_TEXT_STYLE_TOOLTIP=Додати до стилів символів
+DL_ADD_AS_PARA_STYLE_TOOLTIP=Додати до стилів абзаців
+DL_SET_STROKE_COLOR_TOOLTIP=Застосувати колір обведення
+DL_SET_BORDER_COLOR_TOOLTIP=Застосувати колір рамки
+DL_SET_FILL_COLOR_TOOLTIP=Застосувати колір заливки
+DL_SET_FILL_GRADIENT_TOOLTIP=Застосувати градієнт
+DL_SET_COLOR_OVERLAY_TOOLTIP=Застосувати накладання кольору
+DL_SET_COLOR_THEME=Застосувати колірну тему
+DL_SET_COLOR_TOOLTIP=Задати колір
+DL_COPY_RGB_COLOR_TOOLTIP=Копіювати RGB
+DL_COPY_HEX_COLOR_TOOLTIP=Копіювати hex
+DL_COPY_COLOR_TO_CLIPBOARD=Копіювати {{hex}}
+DL_ID_ADD_COLORS_TOOLTIP=Додати колір до зразків
+DL_ID_ADD_COLORTHEME_TOOLTIP=Додати тему до зразків
+DL_MU_ADD_COLORS_TOOLTIP=Додати до зразків
+DL_ID_ADD_GRADIENTS_TOOLTIP=Додати градієнт до зразків
+DL_ADD_TEXT_LINKED_ID=Помістити зв’язаний об’єкт
+DL_ADD_TEXT_UNLINKED_ID_WIN=Помістити копію (Alt + перетягнути)
+DL_ADD_TEXT_UNLINKED_ID_MAC=Помістити копію (⌥ перетягнути)
+DL_ADD_TEXT_UNLINKED_NOSTYLES_ID=Помістити без стилів (⇧ перетягнути)
+DL_ADD_TEXT_INLINE_ID=Помістити в рядок
+DL_ADD_TEXT_UNLINKED_AI=Помістити копію
+DL_ADD_TEXT_UNLINKED_NOSTYLES_AI_WIN=Помістити без стилів (Shift + перетягнути)
+DL_ADD_TEXT_UNLINKED_NOSTYLES_AI_MAC=Помістити без стилів (⇧ перетягнути)
+DL_ADD_TEXT_UNLINKED_NOSTYLES=Помістити без стилів
+DL_ADD_TEXT_INLINE_AI=Помістити в рядок
+DL_TEXT_EMPTY_CONTENT_TOOLTIP=Немає тексту
+DL_ADD_TEXT_ERROR_MAX_CHARACTER_LENGTH=Вибачте, але текст, який ви намагаєтеся додати, надто довгий. Спробуйте видалити кілька символів.
+
+DL_SEARCH_DROPDOWN_TITLE=Шукати в
+DL_SEARCH_LIBRARY=Поточна бібліотека
+DL_SEARCH_LIBRARIES=Усі бібліотеки
+DL_SEARCH_DOCUMENT=Ресурси документів
+DL_SEARCH_STOCK=Adobe Stock
+DL_SEARCH_INPUT_BRANDS_PLACEHOLDER=Шукати всі бренди
+DL_SEARCH_INPUT_LIBRARY_PLACEHOLDER=Шукати в поточній бібліотеці
+DL_SEARCH_INPUT_LIBRARY_PLACEHOLDER_CCX=Пошук у поточному поданні
+DL_SEARCH_INPUT_DOCUMENT_PLACEHOLDER=Пошук ресурсів документа
+DL_SEARCH_INPUT_LIBRARIES_PLACEHOLDER=Шукати в усіх бібліотеках
+DL_SEARCH_INPUT_LIBRARYNAME_PLACEHOLDER=Шукати в усіх бібліотеках
+DL_SEARCH_INPUT_LIBRARYNAME_PLACEHOLDER_CCX=Шукати все
+DL_SEARCH_INPUT_STOCK_PLACEHOLDER=Шукати в Adobe Stock
+DL_SEARCH_INPUT_PLACEHOLDER=Пошук у бібліотеках і в Adobe Stock
+DL_SEARCH_RESULT_DOCUMENT=1 результат із документа
+DL_SEARCH_RESULTS_DOCUMENT=Результатів із документа: {{count}}
+DL_SEARCH_RESULTS_LIBRARY=Кількість результатів для «{{query}}»: {{count}}
+DL_SEARCH_RESULT_LIBRARY=1 результат для «{{query}}»
+DL_SEARCH_RESULTS_LIBRARIES=Результатів з усіх бібліотек: {{count}}
+DL_SEARCH_RESULT_LIBRARIES=1 результат з усіх бібліотек
+DL_SEARCH_RESULTS_FILTERED_LIBRARIES=Результатів: {{count}}
+DL_SEARCH_RESULT_FILTERED_LIBRARIES=1 результат
+DL_SEARCH_RESULTS_STOCK=0 результатів з Adobe Stock
+DL_SEARCH_SIMILAR_RESULTS_STOCK=Схожі результати з Adobe Stock
+DL_SEARCH_FILTERS=Фільтри: ({{num}})
+DL_SEARCH_FILTERS_NONE_SELECTED=Фільтри
+DL_SEARCH_RESULTS=Результатів: {{count}}
+DL_SEARCH_HEADER=Шукати
+DL_SEARCH_SCOPE_SUGGESTION_TITLE=Не можете знайти, що шукаєте?
+DL_SEARCH_SCOPE_SUGGESTION_ALL_LIBRARIES=Шукати в усіх бібліотеках
+DL_SEARCH_SCOPE_SUGGESTION_STOCK=Шукати в Adobe Stock
+DL_SEARCH_LIBRARIES_NO_RESULTS_TITLE=Нічого не знайдено
+DL_SEARCH_LIBRARIES_NO_RESULTS_BODY=Спробуйте змінити параметри пошуку, щоб знайти потрібний вам результат.
+DL_SEARCH_CANCEL_TOOLTIP=Вийти з пошуку
+DL_SEARCH_SELECT_SCOPE_TOOLTIP=Шукати в
+DL_SEARCH_FILTERS_TOOLTIP=Фільтр
+
+EMPTY_DOC_ASSETS_MESSAGE=Додавайте власні стилі та компоненти або використовуйте елементи з існуючих бібліотек.
+EMPTY_DOC_ASSETS_CTA=Перегляд бібліотек
+EMPTY_ROOT_VIEW_MESSAGE_XD=Дайте поштовх своїм дизайнерським доробкам із готовими наборами користувацького інтерфейсу та бібліотеками дизайну.
+EMPTY_ROOT_VIEW_CTA_XD=Отримайте набори користувацького інтерфейсу
+EMPTY_ROOT_VIEW_MESSAGE=Надихайте та творіть швидше з готовими бібліотеками.
+EMPTY_ROOT_VIEW_CTA=Огляд бібліотек
+ROOT_VIEW_MESSAGE_LM=Бібліотеки допомагають прискорити розробку дизайну та залишатися на зв’язку зі своєю командою.
+ROOT_VIEW_CTA_LM=Керування бібліотеками
+
+DL_SEARCH_RESULT=1 результат
+DL_STOCK_PANEL_SEARCHING_MESSAGE=Триває пошук в Adobe Stock…
+DL_STOCK_PANEL_RESULT_COUNT=Знайдено результатів: {{count}}.
+DL_STOCK_PANEL_RESULT_TIPS_HEADER=Як отримати кращі результати пошуку:
+DL_STOCK_PANEL_RESULT_TIPS=Перевірте, чи немає помилок набору у вашому запиті. Спробуйте ввести коротший запит.
+DL_STOCK_PANEL_SEARCH_ERROR=На жаль, під час пошуку в Adobe Stock сталася помилка. Повторіть спробу пізніше.
+DL_STOCK_PANEL_NO_CONNECTION_MESSAGE=Ви наразі не в мережі.<br/>Налаштуйте з'єднання, щоб виконати пошук в Adobe Stock.
+DL_STOCK_PANEL_SEARCH_ON_WEB=Шукайте більше у мережі
+
+DL_LISTVIEW_TOOLTIP=У вигляді списку
+DL_LISTVIEW_SHORT=Список
+DL_GRIDVIEW_TOOLTIP=У вигляді сітки
+DL_GRIDVIEW_SHORT=Сітка
+DL_SORT_ITEMS_BY_NAME_TOOLTIP=Сортувати за алфавітом
+DL_SORT_ITEMS_BY_MOD_DATE_TOOLTIP=Сортувати за датою останньої зміни
+DL_SORT_NAME=Ім'я
+DL_SORT_DATE=Дата
+DL_SORT_TOOLTIP=Параметри сортування
+DL_SORT_REVERSE_ORDER=Зворотний порядок
+
+DL_LIBRARY_PERMANENTLY_DELETED=Бібліотеку «{{libraryName}}» остаточно видалено
+DL_DELETE_TOAST=Бібліотеку «{{libraryName}}» видалено
+DL_UNFOLLOW_TOAST=Бібліотеку «{{libraryName}}» вилучено
+DL_UNPUBLISH_TOAST=Скасовано публікацію бібліотеки «{{libraryName}}»
+DL_GROUPS_MERGED_TOAST=Об’єднано групи з однаковою назвою на одному рівні.
+DL_ADD_TO_LIBRARY_TOAST=«{{libraryName}}» додано до ваших бібліотек
+DL_ADD_TO_LIBRARY_FAILURE_TOAST=Не вдалося додати «{{libraryName}}» до ваших бібліотек
+DL_ITEMS_READY_TOAST=Ваші нові елементи готові, але не відображаються в цьому поданні
+DL_REFRESH=Оновити
+DL_COLLAPSE_ALL=Згорнути всі групи
+DL_SHOW_NAMES_ALWAYS=Завжди показувати імена
+DL_SHOW_TRANSPARENCY_GRID=Показати сітку прозорості
+
+DL_VIEW_BY_TITLE=Переглянути за
+DL_VIEW_BY_TYPE=Перегляд за типом
+DL_VIEW_BY_GROUP=Перегляд за групою
+DL_VIEW_BY_TOOLTIP=Параметри перегляду
+DL_VIEW_BY_GROUP_SHORT=Користувацька група
+DL_VIEW_BY_TYPE_SHORT=Тип
+DL_VIEW_BY_ROLE_SHORT=Бренд
+DL_VIEW_BY_GROUP_TREE=Дерево
+DL_VIEW_BY_GROUP_PATH=Шлях
+DL_CLEAR_FILTERS=Очистити фільтри
+DL_VIEW_BY_GROUP_POPOVER_TITLE=Перейти до користувацьких груп
+DL_VIEW_BY_GROUP_POPOVER_BODY=Змініть режим перегляду на «Користувацькі групи», щоб упорядкувати необхідні компоненти.
+DL_VIEW_BY_GROUP_POPOVER_BODY_LINK=Змініть режим перегляду на «Користувацькі групи», щоб упорядкувати необхідні компоненти. <a>Дізнатися більше</a>
+DL_EDIT_NAME_INVALID_SLASH=Імена елементів не можуть містити скісні риски, оскільки ці знаки призначені для впорядкування груп
+
+DL_BRAND=Використати як бренд
+DL_UNBRAND=Використати як бібліотеку
+DL_BRAND_LIBRARIES=Бренди
+
+DL_MIGRATE_LIBRARY_POPOVER_TITLE=Перетворити «/» на групи
+DL_MIGRATE_LIBRARY_POPOVER_BODY=Ця бібліотека містить групу елементів із символом «/» у назві. Наразі символ «/» використовується для створення / визначення вкладених груп. Ви можете замінити ( / ) на ( - ) або конвертувати назву до підгрупи, відокремленої скісною рискою ( / ). <a href="#learnMore">Докладніше</a>
+DL_MIGRATE_LIBRARY_POPOVER_CONVERT_TO_GROUPS=Перетворити на групи
+DL_MIGRATE_LIBRARY_POPOVER_REPLACE_SLASHES=Замінити символи «/»
+DL_MIGRATE_LIBRARY_POPOVER_SUCCESS_TOAST_GROUP=Створено нову структуру з кількох груп. Використовуйте символ «/», коли потрібно швидко створити підгрупи. <a href="#learnMore">Докладніше</a>
+DL_MIGRATE_LIBRARY_POPOVER_SUCCESS_TOAST_REPLACE=Усі скісні риски (/) замінено на дефіси (-). Використовуйте символ «/», коли потрібно швидко створити підгрупи. <a href="#learnMore">Докладніше</a>
+DL_MIGRATE_LIBRARY_POPOVER_ERROR_TOAST=Не вдалося конвертувати групи в цій бібліотеці
+
+DL_CREATE_GROUP_TOOLTIP=Створити нову групу
+DL_NEW_GROUP_NAME=Нова група
+DL_GROUP_ONBOARDING_POPOVER_TITLE=Нові способи перегляду та створення груп
+DL_GROUP_ONBOARDING_POPOVER_BODY=Можна відобразити групи у вигляді дерева або отримати їх шляхи
+
+DL_MY_TOOLKIT_UNLOCK_BUTTON_MESSAGE=Розблокуйте для внесення змін
+DL_MY_TOOLKIT_UNLOCK_POPOVER_UNLOCK_BUTTON=Продовжити
+DL_MY_TOOLKIT_UNLOCK_TOAST_BUTTON=Розблокувати для редагування
+
+DL_GENERIC_TOOLKIT_UNLOCK_POPOVER_TITLE=Редагування {{toolkitName}}
+DL_GENERIC_TOOLKIT_UNLOCK_POPOVER_BODY=Розблокуйте цю бібліотеку, щоб внести зміни.
+DL_GENERIC_TOOLKIT_UNLOCK_TOAST_MESSAGE=Розблокуйте цю бібліотеку, щоб внести зміни.
+
+DL_GENERIC_MANAGER_DIALOG_ERROR=Сталася помилка. Повторіть спробу пізніше.
+
+DL_TOOLKIT_UNLOCK_POPOVER_TITLE=Редагування {{toolkitName}}
+DL_PHOTOSHOP_SWATCHES_TOOLKIT_UNLOCK_POPOVER_TITLE=Відредагуйте свої зразки Photoshop
+DL_PHOTOSHOP_SWATCHES_TOOLKIT_UNLOCK_POPOVER_BODY=Усі внесені вами зміни будуть синхронізовані з панеллю зразків Photoshop.
+DL_PHOTOSHOP_SWATCHES_TOOLKIT_UNLOCK_TOAST_MESSAGE=Ця бібліотека синхронізується з вашою панеллю зразків Photoshop.
+
+DL_PHOTOSHOP_BRUSHES_TOOLKIT_UNLOCK_POPOVER_TITLE=Відредагуйте свої пензлі Photoshop
+DL_PHOTOSHOP_BRUSHES_TOOLKIT_UNLOCK_POPOVER_BODY=Усі внесені вами зміни будуть синхронізовані з вашою панеллю пензлів Photoshop.
+DL_PHOTOSHOP_BRUSHES_TOOLKIT_UNLOCK_TOAST_MESSAGE=Ця бібліотека синхронізується з вашою панеллю пензлів Photoshop.
+
+DL_PHOTOSHOP_GRADIENTS_TOOLKIT_UNLOCK_POPOVER_TITLE=Відредагуйте свої градієнти Photoshop
+DL_PHOTOSHOP_GRADIENTS_TOOLKIT_UNLOCK_POPOVER_BODY=Усі внесені вами зміни будуть синхронізовані з вашою панеллю градієнтів Photoshop.
+DL_PHOTOSHOP_GRADIENTS_TOOLKIT_UNLOCK_TOAST_MESSAGE=Ця бібліотека синхронізується з вашою панеллю градієнтів Photoshop.
+
+DL_PHOTOSHOP_PATTERNS_TOOLKIT_UNLOCK_POPOVER_TITLE=Відредагуйте свої візерунки Photoshop
+DL_PHOTOSHOP_PATTERNS_TOOLKIT_UNLOCK_POPOVER_BODY=Усі внесені вами зміни будуть синхронізовані з вашою панеллю візерунків Photoshop.
+DL_PHOTOSHOP_PATTERNS_TOOLKIT_UNLOCK_TOAST_MESSAGE=Ця бібліотека синхронізується з вашою панеллю візерунків Photoshop.
+
+DL_PHOTOSHOP_STYLES_TOOLKIT_UNLOCK_POPOVER_TITLE=Відредагуйте свої стилі Photoshop
+DL_PHOTOSHOP_STYLES_TOOLKIT_UNLOCK_POPOVER_BODY=Усі внесені вами зміни будуть синхронізовані з вашою панеллю стилів Photoshop.
+DL_PHOTOSHOP_STYLES_TOOLKIT_UNLOCK_TOAST_MESSAGE=Ця бібліотека синхронізується з вашою панеллю стилів Photoshop.
+
+DL_PHOTOSHOP_SHAPES_TOOLKIT_UNLOCK_POPOVER_TITLE=Відредагуйте свої фігури Photoshop
+DL_PHOTOSHOP_SHAPES_TOOLKIT_UNLOCK_POPOVER_BODY=Усі внесені вами зміни будуть синхронізовані з вашою панеллю фігур Photoshop.
+DL_PHOTOSHOP_SHAPES_TOOLKIT_UNLOCK_TOAST_MESSAGE=Ця бібліотека синхронізується з вашої панеллю фігур Photoshop.
+
+DL_GROUP_UNGROUPED=Не згруповано
+
+DL_IMPORT_IMAGE_TO_PROJECT=Імпортувати
+
+DL_XD_VIDEO_TYPE_TOOLTIP=Тип: {{type}}
+DL_XD_VIDEO_DURATION_TOOLTIP=Тривалість: {{duration}}
+DL_XD_VIDEO_SIZE_TOOLTIP=Розмір: {{filesize}}
+DL_XD_ADD_VIDEO_FILE_TOO_BIG_TOOLTIP=Розмір файлу перевищує ліміт ({{filesize}}).
+DL_XD_ADD_VIDEO_FILE_FORMAT_NOT_SUPPORTED_TOOLTIP=Цей формат файлу не підтримується.
+
+DL_ADD_IMAGE_TO_DOC_AS_COPY=Помістити копію
+DL_ADD_IMAGE_TO_DOC_AS_GRAPHIC=Помістити графіку
+DL_ADD_IMAGE_TO_DOC_AS_LOGO=Розмістити логотип
+DL_ADD_IMAGE_TO_DOC_AS_VECTOR=Помістити як вектор
+DL_ADD_IMAGE_TO_DOC_AS_LINKED=Помістити зв’язаний об’єкт
+DL_ADD_AUDIO_TO_DOC=Помістити копію
+DL_ADD_COMPONENT_TO_DOC_AS_COPY=Помістити копію
+DL_ADD_COMPONENT_TO_DOC_AS_LINKED=Помістити зв’язаний об’єкт
+DL_PREVIEW=Переглянути
+DL_INSERT_IMAGE_TO_DOC_AS_COPY=Вставити незв’язаний файл
+DL_INSERT_IMAGE_TO_DOC_AS_LINKED=Вставити зв’язаний файл
+DL_DOWNLOAD_IMAGE_AS_COPY=Завантажити незв’язаний файл
+DL_DOWNLOAD_IMAGE_AS_LINKED=Завантажити зв’язаний файл
+DL_ADD_IMAGE_TO_DOC_AS_LAYERS=Помістити шари
+DL_ADD_IMAGE_TO_DOC=Використати в цьому документі
+DL_ADD_IMAGE_TO_PROJECT=Додати до проекту
+DL_ADD_BRUSH_TO_DOC=Використати в цьому документі
+DL_ADD_COLORTHEME_TO_SWATCHES=Додати тему до зразків
+DL_ADD_GENERIC_TO_DOC=Використати в цьому документі
+DL_ADD_PATTERN_TO_DOC_AS_IMAGE_AS_COPY=Помістити бітову мініатюру візерунка
+DL_ADD_VECTOR_PATTERN_TILE_TO_DOC_AS_COPY=Помістити векторну мініатюру візерунка
+DL_VECTOR_PATTERN_TYPE=Векторна графіка SVG
+DL_BITMAP_PATTERN_TYPE=Бітове PNG-зображення
+
+DL_ADD_IMAGE_TO_ITEM_FILL_MU=Установити для заливки
+DL_ADD_IMAGE_TO_PAGE_FILL_MU=Установити для заливки сторінки
+DL_ADD_IMAGE_TO_BROWSER_FILL_MU=Установити для заливки браузера
+DL_SET_TEXT_COLOR_MU=Задати колір тексту
+DL_SET_STROKE_COLOR_MU=Задати колір обведення
+DL_SET_FILL_COLOR_MU=Задати колір заливки
+DL_SET_PAGE_FILL_COLOR_MU=Задати колір заливки сторінки
+DL_SET_BROWSER_FILL_COLOR_MU=Задати колір заливки браузера
+
+DL_ADD_TO_PROJECT=Додати до проекту
+
+DL_EMPTY_LIB_ACCC_TITLE=Створити бібліотеку
+DL_EMPTY_LIB_STYG_TITLE=Ця бібліотека порожня
+DL_EMPTY_LIB_ACCC_READ_ONLY_HEADING=Ця бібліотека порожня
+DL_EMPTY_LIB_ACCC_READ_ONLY_MESSAGE=У вас немає прав на редагування цієї бібліотеки, проте ви можете запитати дозвіл у її власника.
+DL_EMPTY_LIB_TRADITIONAL_LIBRARY_READ_ONLY_TITLE=Ця бібліотека порожня.
+DL_EMPTY_LIB_TRADITIONAL_LIBRARY_READ_ONLY_TEXT=Надішліть запит на дозвіл редагування, щоб додавати елементи й ділитися файлами з іншими.
+DL_EMPTY_LIB_LINKED_LIBRARY_READ_ONLY_TITLE=Ця бібліотека порожня.
+DL_EMPTY_LIB_LINKED_LIBRARY_READ_ONLY_TEXT=Запитайте доступ редагування, щоб опублікувати елементи з вихідного файлу в цій бібліотеці.
+DL_EMPTY_LIB_LINKED_LIBRARY_WRITE_TITLE=Ця бібліотека порожня.
+DL_EMPTY_LIB_LINKED_LIBRARY_WRITE_TEXT=Перейдіть до вихідного файлу, щоб опублікувати елементи в цій бібліотеці.
+DL_EMPTY_LIB_LINKED_LIBRARY=Відкрити вихідний файл
+DL_EMPTY_LIB_OFFICE_TITLE=Отримайте доступ до своїх творчих елементів в Microsoft Office
+DL_EMPTY_LIB_DRAG_TITLE=Отримуйте доступ до своїх творчих елементів з будь-якої програми Adobe
+DL_EMPTY_LIB_ACCESS_TITLE=Легко та швидко створюйте творчі елементи у бібліотеках Creative Cloud
+DL_EMPTY_LIB_PANEL_INSTRUCTION_PS=Перетягуйте зображення або додавайте кольори, стилі шарів та інші творчі елементи зі свого файлу.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_AI=Перетягуйте зображення або додавайте кольори, стилі символів та інші творчі елементи зі свого файлу.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_ID=Перетягуйте зображення або додавайте кольори, стилі символів та інші творчі елементи зі свого файлу.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_PR=Перетягуйте зображення або додавайте відео, шаблони та інші творчі елементи з Adobe Stock.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_AE=Перетягуйте зображення або додавайте відео та інші творчі елементи з Adobe Stock.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_DW=Швидко здійснюйте доступ до своїх зображень, кольорів та інших ресурсів із будь-якої програми Adobe.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_FP=Перетягуйте зображення або додавайте анімацію, кольори та інші творчі елементи зі свого файлу.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_SG=Швидко здійснюйте доступ до своїх зображень, кольорів та інших ресурсів із будь-якої програми Adobe.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_XD=Додавайте компоненти, кольори й стилі символів зі своїх файлів.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_BR=Перетягуйте зображення, щоб мати до них доступ із будь-якої програми Adobe.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_ACCC_1=Діліться своїми елементами й впорядковуйте їх у вкладених групах.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_ACCC_2=Додавайте творчі елементи зі свого комп’ютера.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_ACCC_3=Використовуйте свої бібліотеки в усіх програмах Adobe.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_WD=Застосовуйте стилі та додавайте кольори або текст чи перейдіть до програми Adobe, щоб відібрати творчі елементи для використання у Word.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_PP=Перейдіть до програми Adobe, щоб відібрати творчі елементи для використання в PowerPoint.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_STYG=Виберіть підтримувані програми Creative Cloud для ПК і мобільних пристроїв, щоб додати ресурси, стилі тощо.
+DL_EMPTY_LIB_PANEL_GLOBAL_SEARCH=Нічого не знайдено. <br/><b>Порада: перевірте написання або змініть ключові слова й фільтри.</b>
+DL_EMPTY_LIB_LEARN_MORE=Дізнайтеся, як користуватися бібліотеками
+
+DL_EMPTY_LIB_ACCC_PRIMARY_ACTION=Завантажити файл
+
+DL_EMPTY_PUBLIC_LIBRARY_INSTRUCTION_AH=Додайте, щоб отримувати оновлення, коли додаються елементи
+DL_EMPTY_LIB_PANEL_HEADING_TRADITIONAL_AH=Ця бібліотека порожня
+DL_EMPTY_LIB_PANEL_INSTRUCTION_EDIT_TRADITIONAL_AH=Копіюйте чи переміщуйте сюди елементи з інших бібліотек або додавайте їх через панель «Бібліотеки» у своїх програмах Adobe.
+DL_EMPTY_LIB_PANEL_HEADING_EDIT_TRADITIONAL=Почніть будувати бібліотеку
+DL_EMPTY_LIB_PANEL_HEADING=Ця бібліотека порожня
+DL_EMPTY_LIB_PANEL_INSTRUCTION_VIEW_TRADITIONAL=Надішліть запит на дозвіл редагування, щоб додавати елементи й ділитися файлами з іншими.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_EDIT_TRADITIONAL=Додавайте ресурси, стилі та багато іншого з файлу. Ви можете також перетягувати вміст.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_EDIT_LINKED_LIB=Перейдіть до вихідного файлу, щоб опублікувати елементи в цій бібліотеці.
+DL_EMPTY_LIB_PANEL_INSTRUCTION_VIEW_LINKED_LIB=Запитайте доступ редагування, щоб опублікувати елементи з вихідного файлу в цій бібліотеці.
+DL_EMPTY_LIB_LINKED_LIBRARY=Відкрити вихідний файл
+DL_EMPTY_LIB_ENGAGEMENT_TITLE=БІБЛІОТЕКИ ДЛЯ ПОЧАТКІВЦІВ
+DL_EMPTY_LIB_ENGAGEMENT_BY_OWNER=створено користувачем <b>{{name}}</b>
+DL_EMPTY_LIB_ENGAGEMENT_VIEW_ON_WEBSITE=Переглянути бібліотеку на сайті
+DL_EMPTY_LIB_ENGAGEMENT_FOLLOW_ERROR=Вибачте, під час синхронізації бібліотеки сталася помилка.
+
+DL_LOADING_LIBRARY_COLLABORATORS=Завантаження списку співавторів...
+DL_DROP_MORE_FILES=та {{count}} ін.
+
+DL_NO_LIBS_MESSAGE=Немає бібліотек
+DL_NO_LIBS_ERROR_CONNECTING=На жаль, не вдається встановити з'єднання із сервером
+DL_NO_LIBS_ERROR_SYNCING=На жаль, бібліотеки не синхронізовано
+DL_NO_LIBS_ERROR_INIT=На жаль, запустити панель не вдалося
+DL_NO_LIBS_LOGGED_OUT=Щоб скористатися бібліотеками Creative Cloud,<br/>авторизуйтеся в Creative Cloud
+DL_NO_LIBS_SYNCING=Завантаження бібліотек <br/> із Creative Cloud
+DL_NO_LIBS_CREATE_LIBRARY_BUTTON_TEXT=+ створити нову бібліотеку
+DL_NO_LIBS_RETRY=Повторити спробу
+DL_NO_LIBS_RETRY_INIT=Повторіть спробу
+DL_NO_LIBS_NO_ACCESS=Ви не маєте доступу до цієї служби. Ви можете скористатися цією службою в автономному режимі.
+DL_NO_LIBS_APP_LOGGED_OUT=Щоб скористатися бібліотеками Creative Cloud, необхідно ввійти в обліковий запис Creative Cloud.
+DL_NO_LIBS_SERVICE_NOT_INSTALLED=Щоб скористатися бібліотеками Creative Cloud, <br/> установіть програму Creative Cloud
+DL_NO_LIBS_SERVICE_NOT_RUNNING=Під час ініціалізації бібліотек Creative Cloud сталася помилка
+DL_NO_LIBS_SERVICE_MAC_ADDITIONAL_DETAILS=Mac OSX версії 26 і новіших: налаштування системних параметрів для надання дозволів:<br> Відкрийте Системні параметри й увімкніть «CCLibrary». Деякі функції можуть працювати некоректно без увімкнення цього параметра. <a class="panel-nolibs-link" href="https://www.adobe.com/go/libraries-login-items_ua">Докладніше</a>
+DL_NO_LIBS_UPDATE_CLIENT=Бібліотеки Creative Cloud необхідно оновити до новішої версії
+DL_NO_LIBS_UPDATE_SERVER=Щоб скористатися своїми бібліотеками, оновіть Creative Cloud Libraries до останньої версії.
+DL_NO_LIBS_SYNC_DISABLED=Синхронізацію бібліотек призупинено. Для отримання бібліотек із Creative Cloud потрібно ввімкнути синхронізацію файлів.
+DL_NO_LIBS_NETWORK_PROBLEM=Ми знайшли проблему з налаштуваннями мережі. 
+DL_NO_LIBS_SOCKET_BLOCKED=Службу Creative Cloud заблоковано. Перевірте налаштування брандмауера.
+DL_SYNC_REQUEST_ERROR=Виникла проблема. Бібліотеку оновлено.
+DL_NO_LIBS_PAGE_NOT_AVAILABLE=Отакої... Сторінку не знайдено.
+DL_LIB_LIST_ONBOARDING_CREATE_LIBRARY_BUTTON_TEXT=Створити нову бібліотеку
+DL_LIB_LIST_ONBOARDING_FOLLOW_LIBRARY_BUTTON_TEXT=Знайти загальнодоступні бібліотеки
+DL_LIB_LIST_ONBOARDING_FOLLOW_LIBRARY_WEB_ARICLE_HEADING=Знайти загальнодоступні бібліотеки
+
+DL_OFFICE_LOGGED_OUT_TITLE=Вітаємо в Adobe Creative Cloud
+DL_OFFICE_LOGGED_OUT_DESCRIPTION=Отримайте доступ до творчих елементів зі своїх бібліотек Creative Cloud у Microsoft Office.
+DL_OFFICE_LOGGED_OUT_BUTTON=Увійти
+DL_OFFICE_ERROR_BACK_BUTTON=Назад
+
+DL_OFFICE_NO_THOR_TITLE=Відсутнє підключення до Creative Cloud
+DL_OFFICE_NO_THOR_DESCRIPTION=Функції, які варто спробувати:
+DL_OFFICE_NO_THOR_LIST_VERIFY=Перевірте параметри мережі
+DL_OFFICE_NO_THOR_LIST_LEARN_MORE=<a>Отримати більше допомоги</a>
+
+DL_OFFICE_FIREFOX_ERROR_TITLE=Налаштування завершено
+DL_OFFICE_FIREFOX_ERROR_DESCRIPTION=Перезапустіть Firefox, щоб зміни було застосовано.
+
+DL_OFFICE_ADDIN_TITLE=Adobe Creative Cloud
+DL_OFFICE_ADDIN_DESCRIPTION=Отримати доступ до бібліотек Сreative Cloud у Microsoft Office
+DL_OFFICE_ADDIN_BUTTON_TITLE=Creative Cloud
+DL_OFFICE_ADDIN_ONBOARDING_TITLE=Adobe Creative Cloud для Microsoft Office
+DL_OFFICE_ADDIN_ONBOARDING_DESCRIPTION=Отримати доступ до бібліотек Сreative Cloud у Microsoft Office
+
+DL_OFFICE_IMAGE_APPLY_GENERIC_ERROR=Вибачте, під час розміщення зображення сталася помилка.  Спробуйте ще раз.
+DL_OFFICE_IMAGE_APPLY_FILE_TOO_LARGE=Зображення, яке ви намагаєтеся помістити, надто велике. Спробуйте помістити його за допомогою програм Microsoft Office для настільних ПК.
+DL_OFFICE_IMAGE_APPLY_SELECTION_NOT_WRITABLE=Неможливо розмістити це зображення в поточному виділенні. Скасуйте вибір об’єктів у своєму документі й спробуйте ще раз.
+
+DL_FIGMA_LOGGED_OUT_DESCRIPTION=Отримайте доступ до творчих елементів зі своїх бібліотек Creative Cloud у Figma.
+
+DL_SIGN_OUT=Вийти
+
+DL_OFFLINE_VIDEO_PREVIEW=Перегляд відео недоступний у режимі офлайн
+
+DL_NO_LIBS_GET_IT=Отримати зараз!
+DL_NO_LIBS_MORE_INFO=Більше інформації
+DL_TROUBLESHOOT_NETWORK_SETTINGS=Натисніть тут, щоб вирішити питання
+
+DL_BRUSHTYPE_SCATTER=Пензель Photoshop
+DL_BRUSHTYPE_VECTOR=Векторний пензель
+DL_BRUSHTYPE_RIBBON=Пензель ескізу
+DL_BRUSHTYPE_UNKNOWN=Невідомий пензель
+
+DL_ERROR_BRUSH_NOT_SUPPORTED_PS=Цей формат пензля не підтримується у Photoshop
+DL_ERROR_BRUSH_NOT_SUPPORTED_AI=Цей формат пензля не підтримується в Illustrator
+DL_ERROR_BRUSH_NOT_SUPPORTED_FP=Цей формат пензля не підтримується в Animate
+DL_ERROR_BRUSH_NOT_SUPPORTED_ID=Пензлі не підтримуються в InDesign
+DL_ERROR_BRUSH_NOT_SUPPORTED_AE=Пензлі не підтримуються в After Effects
+DL_ERROR_BRUSH_NOT_SUPPORTED_PR=Пензлі не підтримуються у Premiere
+DL_ERROR_BRUSH_NOT_SUPPORTED_DW=Пензлі не підтримуються у Dreamweaver
+DL_ERROR_BRUSH_NOT_SUPPORTED_SG=Пензлі не підтримуються в тестовому середовищі
+DL_ERROR_BRUSH_NOT_SUPPORTED_PP=Пензлі не підтримуються в PowerPoint
+DL_ERROR_BRUSH_NOT_SUPPORTED_WD=Пензлі не підтримуються у Word
+DL_ERROR_BRUSH_NOT_SUPPORTED_XD=Пензлі не підтримуються в XD
+
+DL_ERROR_CAPSULE_NOT_SUPPORTED_PS=Шаблони анімованої графіки не підтримуються у Photoshop
+DL_ERROR_CAPSULE_NOT_SUPPORTED_AI=Шаблони анімованої графіки не підтримуються в Illustrator
+DL_ERROR_CAPSULE_NOT_SUPPORTED_FP=Шаблони анімованої графіки не підтримуються в Animate
+DL_ERROR_CAPSULE_NOT_SUPPORTED_ID=Шаблони анімованої графіки не підтримуються в InDesign
+DL_ERROR_CAPSULE_NOT_SUPPORTED_PR=Цей шаблон анімованої графіки не підтримується в Premiere
+DL_ERROR_CAPSULE_NOT_SUPPORTED_AE=Цей шаблон анімованої графіки не підтримується в After Effects
+DL_ERROR_CAPSULE_NOT_SUPPORTED_DW=Шаблони анімованої графіки не підтримуються в Dreamweaver
+DL_ERROR_CAPSULE_NOT_SUPPORTED_SG=Шаблони анімованої графіки не підтримуються в тестовому середовищі
+DL_ERROR_CAPSULE_NOT_SUPPORTED_PP=Шаблони анімованої графіки не підтримуються в PowerPoint
+DL_ERROR_CAPSULE_NOT_SUPPORTED_WD=Шаблони анімованої графіки не підтримуються у Word
+DL_ERROR_CAPSULE_NOT_SUPPORTED_XD=Шаблони анімованої графіки не підтримуються в XD
+
+DL_ERROR_GRADIENT_NOT_SUPPORTED_XD=Цей формат градієнта не підтримується в XD
+DL_ERROR_GRADIENT_NOT_SUPPORTED_PS=Цей формат градієнта не підтримується у Photoshop
+DL_ERROR_GRADIENT_NOT_SUPPORTED_AI=Градієнти бібліотеки не підтримуються в Illustrator
+DL_ERROR_GRADIENT_NOT_SUPPORTED_ID=Градієнти бібліотеки не підтримуються в InDesign
+DL_ERROR_GRADIENT_NOT_SUPPORTED_FP=Градієнти не підтримуються в Animate
+DL_ERROR_GRADIENT_NOT_SUPPORTED_AE=Градієнти не підтримуються в After Effects
+DL_ERROR_GRADIENT_NOT_SUPPORTED_PR=Градієнти не підтримуються в Premiere
+DL_ERROR_GRADIENT_NOT_SUPPORTED_DW=Градієнти не підтримуються в Dreamweaver
+DL_ERROR_GRADIENT_NOT_SUPPORTED_SG=Градієнти не підтримуються в тестовому середовищі
+DL_ERROR_GRADIENT_NOT_SUPPORTED_BR=Градієнти не підтримуються в Bridge
+DL_ERROR_GRADIENT_NOT_SUPPORTED_PP=Градієнти не підтримуються в PowerPoint
+DL_ERROR_GRADIENT_NOT_SUPPORTED_WD=Градієнти не підтримуються у Word
+
+DL_ERROR_LAYER_STYLE_NOT_SUPPORTED_AI=Стилі шарів не підтримуються в Illustrator
+DL_ERROR_LAYER_STYLE_NOT_SUPPORTED_ID=Стилі шарів не підтримуються в InDesign
+DL_ERROR_LAYER_STYLE_NOT_SUPPORTED_AE=Стилі шарів не підтримуються в After Effects
+DL_ERROR_LAYER_STYLE_NOT_SUPPORTED_FP=Стилі шарів не підтримуються в Animate
+DL_ERROR_LAYER_STYLE_NOT_SUPPORTED_DW=Стилі шарів не підтримуються в Dreamweaver
+DL_ERROR_LAYER_STYLE_NOT_SUPPORTED_SG=Стилі шарів не підтримуються в тестовому середовищі
+DL_ERROR_LAYER_STYLE_NOT_SUPPORTED_PP=Стилі шарів не підтримуються в PowerPoint
+DL_ERROR_LAYER_STYLE_NOT_SUPPORTED_WD=Стилі шарів не підтримуються у Word
+DL_ERROR_LAYER_STYLE_NOT_SUPPORTED_XD=Стилі шарів не підтримуються в XD
+DL_ERROR_LAYER_STYLE_NOT_SUPPORTED_PR=Стилі шарів не підтримуються в Premiere
+
+DL_ERROR_TEMPLATE_NOT_SUPPORTED_PS=Цей формат шаблону не підтримується Photoshop
+DL_ERROR_TEMPLATE_NOT_SUPPORTED_AI=Цей формат шаблону не підтримується Illustrator
+DL_ERROR_TEMPLATE_NOT_SUPPORTED_ID=Цей формат шаблону не підтримується InDesign
+DL_ERROR_TEMPLATE_NOT_SUPPORTED_FP=Шаблони не підтримуються Animate
+DL_ERROR_TEMPLATE_NOT_SUPPORTED_AE=Шаблони не підтримуються After Effects
+DL_ERROR_TEMPLATE_NOT_SUPPORTED_PR=Шаблони не підтримуються Premiere
+DL_ERROR_TEMPLATE_NOT_SUPPORTED_DW=Шаблони не підтримуються Dreamweaver
+DL_ERROR_TEMPLATE_NOT_SUPPORTED_SG=Шаблони не підтримуються в тестовому середовищі
+DL_ERROR_TEMPLATE_NOT_SUPPORTED_BR=Шаблони не підтримуються в Bridge
+DL_ERROR_TEMPLATE_NOT_SUPPORTED_PP=Шаблони не підтримуються в PowerPoint
+DL_ERROR_TEMPLATE_NOT_SUPPORTED_WD=Шаблони не підтримуються у Word
+DL_ERROR_TEMPLATE_NOT_SUPPORTED_XD=Шаблони не підтримуються в XD
+
+DL_ERROR_UNSUPPORTED_PS=Цей елемент не підтримується у Photoshop
+DL_ERROR_UNSUPPORTED_AI=Цей елемент не підтримується в Illustrator
+DL_ERROR_UNSUPPORTED_ID=Цей елемент не підтримується в InDesign
+DL_ERROR_UNSUPPORTED_AE=Цей елемент не підтримується в After Effects
+DL_ERROR_UNSUPPORTED_PR=Цей елемент не підтримується у Premiere
+DL_ERROR_UNSUPPORTED_FP=Цей елемент не підтримується в Animate
+DL_ERROR_UNSUPPORTED_DW=Цей елемент не підтримується у Dreamweaver
+DL_ERROR_UNSUPPORTED_SG=Цей компонент не підтримується в тестовому середовищі
+DL_ERROR_UNSUPPORTED_BR=Програма Bridge не підтримує цей елемент
+DL_ERROR_UNSUPPORTED_PP=Програма PowerPoint не підтримує цей елемент
+DL_ERROR_UNSUPPORTED_WD=Програма Word не підтримує цей елемент
+DL_ERROR_UNSUPPORTED_XD=Цей елемент не підтримується в XD
+DL_ERROR_UNSUPPORTED_GenStudio=Цей компонент не підтримується в GenStudio
+DL_ERROR_UNSUPPORTED_ACCC=Цей елемент не підтримується в програмі Creative Cloud
+
+DL_ERROR_MISSING_FONT=Необхідний шрифт відсутній
+
+DL_ERROR_INVALID_FILE_FORMAT_PS=Цей елемент неможливо відредагувати безпосередньо у Photoshop, але його можна помістити до документа. Для цього слід перетягнути елемент до відкритого документа.
+DL_ERROR_INVALID_FILE_FORMAT_AI=Цей елемент неможливо відредагувати безпосередньо в Illustrator, але його можна помістити до документа. Для цього слід перетягнути елемент до відкритого документа.
+DL_ERROR_INVALID_FILE_FORMAT_ID=Цей елемент неможливо відредагувати безпосередньо в InDesign, але його можна помістити до документа. Для цього слід перетягнути елемент до відкритого документа.
+DL_ERROR_INVALID_FILE_FORMAT_FP=Цей елемент неможливо редагувати безпосередньо в Animate, але його можна помістити в документ. Щоб помістити елемент, перетягніть його у відкритий документ.
+DL_ERROR_INVALID_FILE_FORMAT_DW=Цей елемент неможливо редагувати безпосередньо в Dreamweaver, але його можна помістити в документ. Для переміщення перетягніть його у відкритий документ.
+DL_ERROR_INVALID_FILE_FORMAT_AE=Цей елемент неможливо редагувати безпосередньо в After Effects, але його можна помістити в документ. Для переміщення перетягніть його до відкритого документа.
+DL_ERROR_INVALID_FILE_FORMAT_PR=Цей елемент неможливо редагувати безпосередньо в Premiere Pro, але його можна помістити в документ. Для переміщення перетягніть його до відкритого документа.
+DL_ERROR_INVALID_FILE_FORMAT_BR=Цей елемент неможливо використовувати безпосередньо в Bridge.
+DL_ERROR_INVALID_FILE_FORMAT_PP=Цей елемент неможливо використовувати безпосередньо в PowerPoint.
+DL_ERROR_INVALID_FILE_FORMAT_WD=Цей елемент неможливо використовувати безпосередньо у Word.
+DL_ERROR_INVALID_FILE_FORMAT_XD=Цей елемент неможливо редагувати безпосередньо в XD, але його можна помістити в документ. Щоб помістити елемент, перетягніть його у відкритий документ.
+DL_ERROR_EDIT_FAILED=На жаль, редагування цього елемента займає багато часу. Можливо, щось сталося.
+DL_ERROR_APP_LAUNCH_TAKING_TIME=На жаль, запуск програми редагування займає багато часу.
+DL_ERROR_UPDATE_NEEDED=Оновіть {{app}} до останньої версії, щоб редагувати цей елемент. Якщо ви намагалися його перемістити, просто перетягніть елемент до відкритого документа.
+DL_ERROR_INSTALL_NEEDED=Установіть {{app}} на свій комп’ютер, щоб редагувати цей елемент. Якщо ви намагалися його перемістити, просто перетягніть елемент до відкритого документа.
+DL_ERROR_UPDATE_NEEDED_NO_PLACE=Оновіть {{app}} до останньої версії, щоб редагувати цей об’єкт.
+DL_ERROR_INSTALL_NEEDED_NO_PLACE=Встановіть {{app}} на своєму комп’ютері, щоб редагувати цей об’єкт.
+DL_ERROR_EDIT_IN_SOURCE=На жаль, не вдалося відкрити вихідний документ. Можливо, сталася помилка.
+
+DL_CUSTOM_DROP_MESSAGE_ID_TEXT_MAC=Натисніть Cmd і перетягніть, щоб додати як графічний об’єкт
+DL_CUSTOM_DROP_MESSAGE_ID_TEXT_WIN=Натисніть Ctrl і перетягніть, щоб додати як графічний об’єкт
+DL_CUSTOM_PLACE_OVERLAY_MESSAGE_ID=Виберіть текст або графічний об’єкт для поміщення
+DL_CUSTOM_RELINK_TEXT_OVERLAY_MESSAGE_ID=Виберіть текст, для якого потрібно відновити зв’язок
+
+DL_ERROR_EDIT_READ_ONLY_LIBRARY=Неможливо змінити ім’я бібліотеки "{{name}}", тому що вона призначена лише для читання.
+DL_ERROR_EDIT_READ_ONLY_ELEMENT=Цей елемент неможливо редагувати, тому що він знаходиться в призначеній лише для читання бібліотеці.
+DL_ERROR_EDIT_ELEMENT_DOWNLOADING=Цей елемент неможливо редагувати, тому що він ще завантажується.
+DL_ERROR_PLACE_TEMPLATE_DOWNLOADING=Цей шаблон неможливо відкрити, тому що він ще завантажується.
+
+DL_ERROR_FILE_TOO_BIG=На жаль, у бібліотеках Creative Cloud наразі не підтримуються графічні зображення, розмір яких перевищує 1 ГБ.
+
+DL_3D_CHARACTER=Символ
+
+DL_FLYOUT_RENAME_LIB=Перейменувати "{{libraryName}}"
+DL_FLYOUT_REMOVE_LIB=Видалити "{{libraryName}}"
+DL_FLYOUT_LEAVE_LIB=Вийти з "{{libraryName}}"
+DL_FLYOUT_AUTOGENERATE_GROUPS=Автоматично згенерувати групи для «{{libraryName}}»
+DL_FLYOUT_COLLABORATE=Запросити користувачів…
+DL_FLYOUT_COLLABORATE_DESCRIPTION=Надайте іншим користувачам дозвіл на редагування цього фірмового елемента
+DL_FLYOUT_VIEW_ON_WEBSITE=Переглянути на сайті
+DL_FLYOUT_VIEW_ARCHIVE_ON_WEBSITE=Переглянути видалені елементи
+DL_FLYOUT_HOW_TO_USE=Докладніше
+DL_FLYOUT_SHARE_LINK=Отримати посилання
+DL_FLYOUT_ADD_DOC_CONTENT=Створити нову бібліотеку з документа…
+DL_FLYOUT_ADD_DOC_CONTENT_MENU_ITEM=Нова бібліотека з документа
+DL_FLYOUT_WHATS_NEW=Що нового?
+DL_FLYOUT_FEEDBACK=Надіслати відгук
+DL_FLYOUT_PERSONAL_COPY_LIB=Зберегти особисту копію
+DL_FLYOUT_PROMOTE_LIB=Перемістити...
+DL_FLYOUT_RELINK_LIB=Підключити бібліотеку заново
+DL_FLYOUT_ADD_STYLEGUIDE=Додати вказівки
+DL_FLYOUT_VIEW_STYLEGUIDE=Перегляд рекомендацій
+
+DL_OFFICE_HEADER_LABEL=Меню бібліотек
+
+DL_ADD_DOC_CONTENT_BUTTON=Створити нову бібліотеку із цього файлу
+DL_ADD_DOC_CONTENT_BUTTON_TOOLTIP=Розпакувати активний вміст документа та створити з нього нову бібліотеку
+DL_ADD_DOC_CONTENT_ICON_TOOLTIP=Нова бібліотека з документа…
+
+DL_NEW_USER_ADD_DOC_CONTENT_BUTTON=Створити бібліотеку із цього файлу
+
+DL_ADD_ENTIRE_ANIMATION_TO_LIBRARY=Уся анімація
+DL_OPEN_IN_NEW_DOCUMENT=Відкрити в новому документі
+DL_ADD_ANIMATION_TO_DOC_AS_COPY=Помістити копію
+DL_ADD_ANIMATION_TO_DOC_AS_LINKED=Помістити зв’язаний об’єкт
+DL_ADD_SYMBOL_TO_LIBRARY=Символи
+DL_ADD_BRUSH_TO_LIBRARY=Пензлі
+DL_ADD_BRUSH_TO_LIBRARY_ICON_TOOLTIP=Додати пензлі до бібліотеки
+
+DL_ADD_ANIMATION_TO_DOC=Використати в документі
+DL_ADD_ANIMATION_NAME=Анімація
+
+DL_ADD_CAPSULE_TO_DOC=Використати в документі
+
+DL_APPLY_LAYER_STYLE=Застосувати стиль шару
+DL_APPLY_LOOK=Застосувати оформлення
+DL_APPLY_LOOK_REQUIRES_RGB=Сконвертуйте документ у формат RGB, щоб застосувати оформлення.
+DL_APPLY_PATTERN=Застосувати візерунок
+DL_ADD_PATTERN_TO_PRESETS=Створити стиль візерунка
+DL_ADD_GRADIENT_TO_PRESETS=Створити стиль градієнта
+DL_ADD_LOOK_NAME=Оформлення
+
+DL_PERCENTAGE={{percent}} %
+DL_SYNCING=Синхронізація…
+DL_SYNC_OK=Усе оновлено
+DL_SYNC_PROGRESS_PERCENT=Синхронізація ({{percent}} %)
+DL_SYNC_PROGRESS=Синхронізація…
+DL_SYNC_PROGRESS_NUM_LIBRARIES=Синхронізація (залишилося {{number}})
+DL_SYNC_ERROR_QUOTA_EXCEEDED=Помилка синхронізації через проблему зі сховищем. Натисніть, щоб дізнатися більше.
+DL_SYNC_ERROR_CONNECTING=Не вдається встановити з'єднання із сервером
+DL_SYNC_ERROR_SERVER=Виникли проблеми із сервером
+DL_SYNC_ERROR_LIBRARY=Помилка синхронізації "{{name}}"
+DL_SYNC_ERROR=Помилка синхронізації
+DL_SYNC_LOGGED_OUT=Здійснено вихід із Creative Cloud
+DL_SYNC_ERROR_NO_ACCESS=У вас немає доступу до цієї служби
+DL_SYNC_RETRY=Час до повторної спроби: {{duration}}
+DL_SYNC_SERVICE_NOT_INSTALLED=Програму Creative Cloud не встановлено
+DL_SYNC_SERVICE_NOT_RUNNING=Не вдалося ініціалізувати
+DL_SYNC_UPDATE_CLIENT=Необхідне оновлення
+DL_SYNC_UPDATE_SERVER=Необхідне оновлення
+DL_SYNC_DISABLED=Синхронізацію бібліотек призупинено
+DL_SYNC_NETWORK_PROBLEM=Проблеми з налаштуваннями мережі.
+DL_SYNC_SOCKET_BLOCKED=Послуги Creative Cloud заблоковано
+
+DL_DOWNLOAD_LIBRARY_PERCENT=Завантаження "{{name}}"... {{percent}} %
+DL_UPLOAD_LIBRARY_PERCENT=Завантаження на сервер "{{name}}"... {{percent}} %
+DL_DOWNLOAD_NEW_LIBRARY_PERCENT=Завантаження... {{percent}} %
+
+DL_FS_ERROR=Не вдається записати на диск
+DL_INIT_ERROR=Помилка запуску панелі
+
+DL_UNSHARED=На жаль, ви більше не маєте доступу до цієї бібліотеки спільного доступу
+DL_DELETED_FROM_SERVER=Цю бібліотеку було видалено з Creative Cloud
+DL_REMOVE_FROM_LIST=Видалити зі списку
+
+DL_QUOTA_EXCEEDED_LIBRARY_MESSAGE=Неможливо синхронізувати бібліотеку через недостатній обсяг місця для зберігання в Creative Cloud.
+DL_QUOTA_EXCEEDED_LIBRARY_TIP=Місце можна звільнити, видаливши збережені в архіві Creative Cloud елементи або елементи інших бібліотек.
+
+DL_DESIGN_LIBRARY_READ_ONLY=Ця бібліотека призначена лише для читання
+DL_DESIGN_LIBRARY_HAS_LIMIT=Ваша поточна бібліотека заповнена. Вилучіть спочатку деякі елементи або виберіть іншу бібліотеку.
+DL_DESIGN_LIBRARY_NATIVE_DROP=Додати до бібліотеки
+DL_DESIGN_LIBRARY_NATIVE_EXCEEDED_LIMIT_TITLE=Перевищено ліміт
+DL_DESIGN_LIBRARY_NATIVE_EXCEEDED_LIMIT_MESSAGE=Бібліотеки можуть містити одночасно не більше {{num}} елементів. Зменште кількість елементів і повторіть вивантаження.
+DL_DESIGN_LIBRARY_NATIVE_UNSUPPORTED_ASSET_TITLE=Тип файлів не підтримується
+DL_DESIGN_LIBRARY_NATIVE_UNSUPPORTED_ASSET_MESSAGE=Ми працюємо над тим, щоб зробити можливою підтримку якомога більшої кількості типів файлів, проте зараз файли повинні мати такі розширення: {{supportedExtensions}}.
+DL_DESIGN_LIBRARY_NATIVE_UNSUPPORTED_ASSET_MESSAGE_CONTINUE=Групове завантаження доступне лише для типів файлів із такими розширеннями: {{supportedExtensions}}. Ви все ще можете завантажити решту файлів із цією групою.
+DL_DESIGN_LIBRARY_NATIVE_FILE_SIZE_TITLE=Файли завеликі
+DL_DESIGN_LIBRARY_NATIVE_FILE_SIZE_MESSAGE=Обсяг ваших файлів перевищує максимально допустимий (1 Гб).
+DL_DESIGN_LIBRARY_NATIVE_FILE_SIZE_MESSAGE_CONTINUE=Розмір принаймні одного з ваших файлів перевищує максимальний допустимий (1 Гб). Ви все ще можете завантажити решту файлів із цією групою.
+DL_DESIGN_LIBRARY_NATIVE_LARGE_UPLOAD_TITLE=Завантаження великого обсягу
+DL_DESIGN_LIBRARY_NATIVE_LARGE_UPLOAD_MESSAGE=Ви завантажуєте кілька великих файлів і / або багато файлів. Для цього може знадобитися певний час.
+DL_DESIGN_LIBRARY_NATIVE_MULTIPLE_ERRORS_TITLE=Зверніть увагу
+DL_DESIGN_LIBRARY_NATIVE_EXCEEDED_FILE_COUNT_TITLE=Перевищено допустиму кількість файлів
+DL_DESIGN_LIBRARY_NATIVE_EXCEEDED_FILE_COUNT_MESSAGE=Кількість файлів, які ви намагаєтеся завантажити, перевищує кількість, підтримувану цією операцією. Спробуйте додати менше ніж {{limit}} файлів за один раз.
+DL_FILE_REPLACE_GRAPHIC_UNSUPPORTED=Графіку можна замінювати лише на інші типи графічних файлів.
+DL_FILE_REPLACE_LOGO_UNSUPPORTED=Логотипи можна замінювати лише на інші типи файлів логотипів.
+DL_ARTWORK_LABEL=Ілюстрація
+DL_CHART_LABEL=Діаграма
+DL_TEXT_LABEL=Текст
+DL_IMPORT_ERROR=Помилка імпорту
+DL_IMPORT_LIBRARY_ELEMENT_MIX_MESSAGE=Додавати файли та імпортувати бібліотеки одночасно неможливо. Спробуйте спочатку додати файли до поточної бібліотеки, а потім імпортувати файли бібліотеки за допомогою розширення .cclibs або .cclibc.
+
+DL_LAUNCH_CC_APP_TITLE=Синхронізацію призупинено
+DL_LAUNCH_CC_APP_MESSAGE=Продовжте синхронізацію, щоб оновити бібліотеки.
+DL_LAUNCH_CC_APP_ENABLE_BUTTON=Продовжити
+DL_LAUNCH_CC_APP_CANCEL_BUTTON=Ні, дякую
+
+DL_ADD_COLOR_NAME_FILL=Колір заливки
+DL_ADD_COLOR_NAME_STROKE=Колір обведення
+DL_ADD_COLOR_NAME_PS_FOREGROUND=Колір переднього плану
+DL_ADD_COLOR_NAME_PS_TEXT=Колір тексту
+DL_ADD_COLOR_NAME_PS_EFFECT_FILL=Колір перекривання ефектів шарів
+DL_ADD_COLOR_NAME_PS_EFFECT_STROKE=Колір обведення ефектів шарів
+DL_ADD_COLOR_NAME_AI_TEXT_FILL=Колір заливки тексту
+DL_ADD_COLOR_NAME_AI_TEXT_STROKE=Колір обведення тексту
+DL_ADD_COLOR_NAME_ID_TEXT_FILL=Колір заливки тексту
+DL_ADD_COLOR_NAME_ID_TEXT_STROKE=Колір обведення тексту
+
+DL_ADD_COLOR_GOOGLE_BACKGROUND=Фоновий колір
+DL_ADD_COLOR_GOOGLE_FOREGROUND=Колір переднього плану
+DL_ADD_CHARACTER_GOOGLE=Стиль символів
+
+DL_CAPTURE=Вилучити із зображення
+DL_CAPTURE_TOUR=Огляд
+DL_CAPTURE_ONBOARDING_POPOVER_TITLE=Створюйте ресурси для бібліотеки
+DL_CAPTURE_ONBOARDING_POPOVER_BODY=Створюйте ресурси із своїх зображень і зберігайте їх у своїй бібліотеці Creative Library.
+
+DL_OPEN_DOC_FROM_TEMPLATE=Відкрити новий документ
+
+DL_ADOBE_STOCK_PHOTO=Зображення Adobe Stock
+DL_ADOBE_STOCK_VIDEO=Відео Adobe Stock
+DL_ADOBE_STOCK_LIGHT=Джерело світла Adobe Stock
+DL_ADOBE_STOCK_MATERIAL=Матеріал Adobe Stock
+DL_ADOBE_STOCK_MODEL=Модель Adobe Stock
+DL_ADOBE_STOCK_CAPSULE=Шаблон анімованої графіки Adobe Stock
+DL_ADOBE_STOCK_TEMPLATE=Шаблон Adobe Stock
+DL_ADOBE_STOCK_AUDIO=Аудіо Adobe Stock
+DL_LICENSED=Ліцензовано
+DL_UNLICENSED=Не ліцензовано
+DL_STOCK_LICENSE_MENU_PHOTO=Ліцензувати зображення…
+DL_STOCK_LICENSE_MENU_VIDEO=Ліцензувати відео…
+DL_STOCK_LICENSE_MENU_TEMPLATE=Ліцензувати шаблон…
+DL_STOCK_LICENSE_MENU_THREE_D=Ліцензувати ресурс…
+DL_STOCK_LICENSE_MENU_CAPSULE=Ліцензувати шаблон анімованої графіки…
+DL_STOCK_LICENSE_MENU_AUDIO=Отримати ліцензію на використання аудіо…
+DL_STOCK_SAVE_TO=Зберегти до
+DL_STOCK_SAVE_PREVIEW_TO=Зберегти попередній перегляд до
+DL_STOCK_LICENSE_THEN_SAVE_TO=Ліцензувати та зберегти до
+DL_STOCK_ASSET_TOOLTIP_TYPE_1=Тип: фотографія
+DL_STOCK_ASSET_TOOLTIP_TYPE_2=Тип: ілюстрація
+DL_STOCK_ASSET_TOOLTIP_TYPE_3=Тип: вектор
+DL_STOCK_ASSET_TOOLTIP_TYPE_4=Тип: відео
+DL_STOCK_ASSET_TOOLTIP_TYPE_6=Тип: 3D
+DL_STOCK_ASSET_TOOLTIP_TYPE_7=Тип: шаблон
+DL_STOCK_ASSET_TOOLTIP_TYPE_9=Тип: аудіо
+DL_STOCK_ASSET_TOOLTIP_DESCRIPTION={{type}} - {{contentType}}
+DL_STOCK_SAVE_TO_TOOLTIP=Зберегти до {{name}}
+DL_STOCK_SAVE_PREVIEW_TO_TOOLTIP=Зберегти попередній перегляд до {{name}}
+DL_STOCK_LICENSE_THEN_SAVE_TO_TOOLTIP=Ліцензувати та зберегти до {{name}}
+DL_STOCK_LICENSE_TOOLTIP=Ліцензувати
+DL_STOCK_LICENSED_SEARCH_RESULT=Ви вже ліцензували цей ресурс
+DL_STOCK_FIND_SIMILAR_MENU=Знайти схоже…
+DL_STOCK_FIND_SIMILAR_PLACEHOLDER=<Знайти схоже>
+DL_STOCK_VIEW_ON_WEB=Переглянути деталі в Інтернеті…
+DL_STOCK_WATCH_VIDEO=Переглянути відео в Інтернеті…
+DL_STOCK_PURCHASE_DIALOG_TITLE_PHOTO=Ліцензувати зображення Adobe Stock
+DL_STOCK_PURCHASE_DIALOG_TITLE_SAVE_PHOTO=Зберегти зображення Adobe Stock
+DL_STOCK_PURCHASE_DIALOG_TITLE_VIDEO=Ліцензувати відео Adobe Stock
+DL_STOCK_PURCHASE_DIALOG_TITLE_TEMPLATE=Ліцензувати шаблон Adobe Stock
+DL_STOCK_PURCHASE_DIALOG_TITLE_CAPSULE=Ліцензувати шаблон анімованої графіки Adobe Stock
+DL_STOCK_PURCHASE_DIALOG_TITLE_THREE_D=Ліцензувати ресурс Adobe Stock
+DL_STOCK_PURCHASE_DIALOG_TITLE_SAVE_VIDEO=Зберегти відео Adobe Stock
+DL_STOCK_PURCHASE_DIALOG_PHOTO_TYPE_MESSAGE=Ліцензувати версію з малою чи великою роздільною здатністю?
+DL_STOCK_PURCHASE_DIALOG_PHOTO_TYPE_SAVE_MESSAGE=Зберегти версію з малою чи великою роздільною здатністю?
+DL_STOCK_PURCHASE_DIALOG_VIDEO_TYPE_MESSAGE=Хочете ліцензувати версію в якості HD або 4K?
+DL_STOCK_PURCHASE_DIALOG_MANDATORY_REFERENCES=Обов’язкові відомості
+DL_STOCK_PURCHASE_DIALOG_OPTIONAL_REFERENCES=Додаткові відомості
+DL_STOCK_PURCHASE_DIALOG_VIDEO_SAVE_TYPE_MESSAGE=Хочете зберегти версію в якості HD або 4K? (Ви зможете ліцензувати будь-яку версію пізніше)
+DL_STOCK_PURCHASE_OFFLINE_ERROR_CAPSULE=Ви наразі не в мережі, тому неможливо встановити зв’язок з Adobe Stock, щоб ліцензувати шаблон анімованої графіки. Повторіть спробу, коли підключитеся до мережі.
+DL_STOCK_PURCHASE_OFFLINE_ERROR_PHOTO=Ви наразі не в мережі, тому неможливо встановити зв’язок із Adobe Stock, щоб ліцензувати зображення. Повторіть спробу пізніше, коли підключитеся до мережі.
+DL_STOCK_PURCHASE_OFFLINE_ERROR_VIDEO=Ви наразі не в мережі, тому неможливо встановити зв’язок із Adobe Stock, щоб ліцензувати відео. Повторіть спробу пізніше, коли підключитеся до мережі.
+DL_STOCK_PURCHASE_OFFLINE_ERROR_TEMPLATE=Ви наразі не в мережі, тому неможливо встановити зв’язок із Adobe Stock, щоб ліцензувати шаблон. Повторіть спробу пізніше, коли підключитеся до мережі.
+DL_STOCK_PURCHASE_OFFLINE_ERROR_THREE_D=Ви наразі не в мережі, тому неможливо встановити зв’язок із Adobe Stock, щоб ліцензувати ресурс. Повторіть спробу пізніше, коли підключитеся до мережі.
+DL_STOCK_PURCHASE_UNKNOWN_ERROR_CAPSULE=На жаль, під час ліцензування шаблону анімованої графіки сталася помилка. Повторіть спробу.
+DL_STOCK_PURCHASE_UNKNOWN_ERROR_PHOTO=На жаль, під час ліцензування зображення сталася помилка. Повторіть спробу.
+DL_STOCK_PURCHASE_UNKNOWN_ERROR_VIDEO=На жаль, під час ліцензування відео сталася помилка. Повторіть спробу.
+DL_STOCK_PURCHASE_UNKNOWN_ERROR_TEMPLATE=На жаль, під час ліцензування шаблону сталася помилка. Повторіть спробу.
+DL_STOCK_PURCHASE_UNKNOWN_ERROR_THREE_D=На жаль, під час ліцензування ресурсу сталася помилка. Повторіть спробу.
+DL_STOCK_PURCHASE_SERVICE_UNAVAILABLE_ERROR_CAPSULE=На жаль, не вдалося встановити зв’язок з Adobe Stock, щоб ліцензувати шаблон анімованої графіки. Повторіть спробу пізніше.
+DL_STOCK_PURCHASE_SERVICE_UNAVAILABLE_ERROR_PHOTO=На жаль, не вдалося встановити зв’язок з Adobe Stock для ліцензування зображення. Повторіть спробу пізніше.
+DL_STOCK_PURCHASE_SERVICE_UNAVAILABLE_ERROR_VIDEO=На жаль, не вдалося з’єднатися з Adobe Stock, щоб ліцензувати відео. Повторіть спробу пізніше.
+DL_STOCK_PURCHASE_SERVICE_UNAVAILABLE_ERROR_TEMPLATE=На жаль, не вдалося встановити зв’язок із Adobe Stock, щоб ліцензувати шаблон. Повторіть спробу пізніше.
+DL_STOCK_PURCHASE_SERVICE_UNAVAILABLE_ERROR_THREE_D=На жаль, не вдалося встановити зв’язок із Adobe Stock, щоб ліцензувати ресурс. Повторіть спробу пізніше.
+DL_STOCK_SAVE_UNKNOWN_ERROR_TITLE=Невідома помилка
+DL_STOCK_SAVE_UNKNOWN_ERROR=На жаль, під час зчитування вашої бібліотеки сталася помилка. Повторіть спробу.
+DL_STOCK_LICENSE_TO_EDIT_PHOTO=Зображення Adobe Stock були ліцензовані одним із членів вашої команди. Редагування зображення можливе після його ліцензування.
+DL_STOCK_LICENSE_TO_USE_TEMPLATE_OWNED=Шаблон Adobe Stock було ліцензовано одним із членів вашої команди. Використання шаблону можливе після його ліцензування.
+DL_STOCK_LICENSE_TO_USE_TEMPLATE=Шаблон Adobe Stock не було ліцензовано. Використання шаблону можливе після його ліцензування.
+DL_STOCK_LICENSE_TO_EDIT_THREE_D=Ресурс Adobe Stock було ліцензовано одним із членів вашої команди. Редагування ресурсу можливе після його ліцензування.
+DL_STOCK_PURCHASE_ERROR_TITLE=Помилка придбання
+DL_STOCK_PURCHASE_OFFLINE_ERROR_TITLE=Помилка автономної роботи
+DL_STOCK_PURCHASE_CHOOSE_LIB_TITLE=Вибрати бібліотеку
+DL_STOCK_PURCHASE_CHOOSE_LIB_MSG=Ваша цільова бібліотека доступна лише для читання. Виберіть іншу бібліотеку:
+DL_STOCK_DRAGDROP_READONLY_LIB_MSG=Неможливо додати ресурси до бібліотеки, призначеної лише для читання. Виберіть іншу бібліотеку.
+DL_STOCK_FOOTER_BAR_PREMIUM=PREMIUM
+DL_STOCK_FOOTER_BAR_FREE=БЕЗКОШТОВНО
+DL_STOCK_SEARCH_AUDIO_WEB=Шукати аудіоматеріали в Adobe Stock
+
+DL_DESIGN_LIBRARY_HAS_LIMIT_TITLE=Досягнуто ліміт бібліотеки
+
+DL_STOCK_SEARCH_OPTION_PHOTO=Фото
+DL_STOCK_SEARCH_OPTION_ILLUSTRATION=Ілюстрації
+DL_STOCK_SEARCH_OPTION_VECTOR=Вектори
+DL_STOCK_SEARCH_OPTION_VIDEO=Відео
+DL_STOCK_SEARCH_OPTION_TEMPLATE=Шаблони
+DL_STOCK_SEARCH_OPTION_PREMIUM=Premium
+DL_STOCK_SEARCH_OPTION_3D=3D
+DL_STOCK_SEARCH_RESULT_EDITORIAL_LABEL=Редакційні матеріали
+
+DL_STOCK_LICENSE_TITLE_MSG=Надати ліцензію
+DL_STOCK_LICENSE_SAVE_TITLE_MSG=Надати ліцензію та зберегти
+
+DL_STOCK_LICENSE_TYPE_FULL=Великий\n
+DL_STOCK_LICENSE_TYPE_SMALL=Малий\n
+
+DL_PLACE=Помістити
+DL_RELINK=Відновити зв'язок
+DL_RELINK_RESOLVE_MESSAGE=Відладка: {{elementName}}
+DL_RELINK_REPLACE_MESSAGE=Замінити: {{elementName}}
+DL_RELINK_RELINK_MESSAGE=Відновити зв'язок: {{elementName}}
+DL_RELINK_PLACE_MESSAGE=Помістити
+DL_RELINK_RELINK_OVERLAY_MESSAGE=Вибрати графік, для якого потрібно відновити зв'язок
+DL_RELINK_PLACE_OVERLAY_MESSAGE=Вибрати графік, який необхідно розмістити
+DL_RELINK_NONE_AVAILABLE=У цій бібліотеці немає графічних об’єктів, доступних для створення посилань. Виберіть іншу бібліотеку.
+
+DL_TEXT_ATTRIBUTE_UNDERLINE=Підкреслення
+DL_TEXT_ATTRIBUTE_STRIKETHROUGH=Перекреслення
+DL_TEXT_ATTRIBUTE_LEADING=Провідний: {{fontLeading}}
+DL_TEXT_ATTRIBUTE_PARAGRAPH_SPACING=Інтервал між абзацами: {{fontLeading}}
+DL_TEXT_ATTRIBUTE_KERNING=Кернінг
+DL_TEXT_ATTRIBUTE_TRACKING=Відстеження: {{fontTracking}}
+DL_TEXT_ATTRIBUTE_ALIGNMENT=Вирівнювання
+DL_TEXT_ATTRIBUTE_HYPHENATE=Переноси
+DL_TEXT_ATTRIBUTE_TRACKING_XD=Міжсимвольний інтервал: {{fontTracking}}
+DL_TEXT_ATTRIBUTE_LEADING_XD=Міжрядковий інтервал: {{fontLeading}}
+DL_TEXT_ATTRIBUTE_FONT_SIZE={{size}} {{type}}
+
+DL_TEXT_LEADING_AUTO=Авто
+DL_TEXT_KERNING_AUTO=Авто
+DL_TEXT_KERNING_OPTICAL=Оптичний
+DL_TEXT_KERNING_METRICSROMANONLY=Метричний – лише латиниця
+DL_TEXT_ALIGNMENT_LEFT=Ліворуч
+DL_TEXT_ALIGNMENT_CENTER=По центру
+DL_TEXT_ALIGNMENT_RIGHT=Праворуч
+DL_TEXT_ALIGNMENT_LEFT_JUSTIFY=Вирівнювання за лівим краєм
+DL_TEXT_ALIGNMENT_CENTER_JUSTIFY=Вирівнювання за центром
+DL_TEXT_ALIGNMENT_RIGHT_JUSTIFY=Вирівнювання праворуч
+DL_TEXT_ALIGNMENT_FULL_JUSTIFY=Повне вирівнювання
+
+DL_TYPEKIT_UPGRADE_TOOLTIP=Оформити передплату, щоб додати шрифт
+DL_TYPEKIT_SYNC_TOOLTIP=Додати шрифт
+DL_TYPEKIT_UNSYNC_TOOLTIP=Видалити шрифт
+DL_TYPEKIT_SYNC_ERROR_TITLE=Додати шрифти зараз неможливо
+DL_TYPEKIT_SYNC_ERROR_MESSAGE=Повторіть спробу пізніше.
+DL_FONT_MISSING_TOOLTIP=Відсутній шрифт
+DL_FONTS_MISSING_TOOLTIP=Відсутні шрифти
+
+DL_TYPE_NEW_CHAR_STYLE=Створити стиль символу
+DL_TYPE_NEW_PARA_STYLE=Створити стиль абзацу
+
+DL_GRADIENT_TYPE_LINEAR=Лінійний
+DL_GRADIENT_TYPE_RADIAL=Радіальний
+DL_GRADIENT_TYPE_NOISE=Шум
+
+DL_AUDIO_ARTIST=Виконавець
+DL_AUDIO_ALBUM=Альбом
+DL_AUDIO_TEMPO=Темп
+
+DL_PHXS_HISTORY_ENTRY_CREATE_TEXT_LAYER=Створити шар зі стилю символу
+DL_PHXS_HISTORY_ENTRY_SET_TEXT_STYLE=Застосувати стиль символу
+DL_PHXS_HISTORY_ENTRY_SET_FONT=Застосувати шрифт
+DL_PHXS_HISTORY_ENTRY_APPLY_PATTERN=Створити шар із заливкою візерунком
+
+DL_FILESIZE_B={{size}} Б
+DL_FILESIZE_KB={{size}} кБ
+DL_FILESIZE_MB={{size}} МБ
+DL_FILESIZE_GB={{size}} ГБ
+DL_DURATION_S=00:{{seconds}} с
+DL_DURATION_MS={{minutes}}:{{seconds}}
+DL_DURATION_HMS={{hours}}:{{minutes}}:{{seconds}}
+DL_FRAMERATE={{framerate}} кадрів/с
+DL_TEMPO={{tempo}} bpm (ударів за хвилину)
+DL_DIMENSIONS={{width}}x{{height}} пікс.
+DL_LENGTH={{length}} пікс.
+DL_LINK_DOWNLOAD_TOOLTIP=Завантаження...
+DL_LINK_DOWNLOAD_FAIL_TOOLTIP=Не вдалося завантажити. Натисніть, щоб повторити спробу.
+DL_LINK_DOWNLOAD_PROGRESS_TOOLTIP=Завантаження... {{percent}} %
+
+DL_UNIT_PT=пт
+
+DL_RECOVERED_LIBRARY_NAME={{name}} (відновлено)
+DL_WARNING_RECOVERED_FROM_DELETED=Оригінальної бібліотеки більше не існує. Оновлений елемент було збережено до бібліотеки "{{recoveryLibraryName}}".
+DL_WARNING_RECOVERED_FROM_READONLY="{{originalLibraryName}}" більше не доступна для редагування. Оновлений елемент було збережено до бібліотеки "{{recoveryLibraryName}}".
+
+DL_OVERFLOW_LIBRARY_NAME={{name}} (переповнення)
+
+DL_UNDO_DELETE=Скасувати
+DL_UNDO_DELETE_ITEM="{{name}}" видалено.
+DL_UNDO_DELETE_ITEMS=Видалено елементів бібліотеки: {{num}}.
+DL_UNDO_DELETE_DESCRIPTION=Опис видалено.
+
+DL_LIBRARY_DUPLICATED_SUCCESS_TOAST=Створено дублікат бібліотеки
+DL_LIBRARY_DUPLICATED_ERROR_TOAST=Неможливо створити дублікат бібліотеки
+DL_LIBRARY_LINK_COPIED_TOAST=Скопійовано в буфер обміну
+DL_LIBRARY_LINK_COPY_FAILED_TOAST=Не вдалося скопіювати в буфер обміну. Відкриття посилання…
+DL_DUPLICATE_SUCCESS_TOAST=Елемент дубльовано.
+DL_DUPLICATE_SUCCESS_TOAST_PLURAL=Продубльовано {{num}} елем.
+DL_RENAME_SUCCESS_TOAST=Елемент перейменовано.
+DL_RENAME_SUCCESS_TOAST_LIBRARY=Бібліотеку перейменовано.
+DL_DELETE_SUCCESS_TOAST=Елемент вилучено.
+DL_DELETE_SUCCESS_TOAST_PLURAL=Вилучено елементів: {{num}}
+DL_MOVE_SUCCESS_TOAST=Елемент переміщено до: {{libraryName}}.
+DL_MOVE_SUCCESS_TOAST_PLURAL=Елементи ({{num}}) переміщено до: {{libraryName}}.
+
+DL_UNDO_DELETED_GROUP_SINGULAR=Групу видалено.
+DL_UNDO_DELETED_GROUP_PLURAL=Видалено груп: {{num}}.
+DL_UNDO_UNGROUPED_GROUP_SINGULAR=Розгрупована група.
+DL_UNDO_UNGROUPED_GROUP_PLURAL=Розгруповано груп: {{num}}.
+
+DL_REPLACE_LOGO=Замінити логотип
+DL_REPLACE_LOGO_SUCCESS=Логотип замінено.
+DL_REPLACE_LOGO_ERROR=Неможливо замінити логотип. Повторіть спробу пізніше.
+
+DL_REPLACE_GRAPHIC=Замінити графіку
+DL_REPLACE_GRAPHIC_SUCCESS=Графіка замінена.
+DL_REPLACE_GRAPHIC_ERROR=Неможливо замінити графіку. Повторіть спробу пізніше.
+
+DL_ELEMENT_ADDED_SUCCESFUL=Додано 1 елемент до {{libraryName}}.
+DL_ELEMENTS_ADDED_SUCCESFUL=До {{libraryName}} додано елементів: {{numElements}}.
+
+DL_MOVING_ITEMS=Переміщення {{numberElements}} елементів до {{libraryName}}.
+DL_COPYING_ITEMS=Копіювання {{numberElements}} елементів до {{libraryName}}.
+DL_DUPLICATING_ITEMS=Дублювання {{numberElements}} елементів.
+
+DL_WHATS_NEW_DATE=Вересень 2025 р.
+DL_WHATS_NEW_VERSION=Версія {{num}}
+DL_WHATS_NEW_TITLE=Що нового в бібліотеках Creative Cloud:
+DL_WHATS_NEW_GENERAL=Загальні виправлення помилок і оновлення для підвищення продуктивності.
+DL_WHATS_NEW_FONTS=Представляємо «Бібліотеки» в Adobe Fonts. Тепер можна створювати загальнодоступні колекції елементів шрифтів на fonts.adobe.com і використовувати їх у програмах, як-от Photoshop, Illustrator та InDesign.
+DL_WHATS_NEW_BACKGROUND_SYNC=Підвищення продуктивності: бібліотеки тепер не будуть постійно синхронізуватися у фоновому режимі, а тільки тоді, коли є активний сеанс програми, що використовує бібліотеки.
+DL_WHATS_NEW_TRANSPARENCY=Увімкніть у меню сітку прозорості, щоб поліпшити візуальне сприйняття мініатюри.
+DL_WHATS_NEW_COLLAPSE_GROUPS=Швидко згортайте групи: утримуйте клавішу Option або Alt, перемикаючи закриту групу.
+DL_WHATS_NEW_XD_IMPROVEMENTS=Поліпшені спливаючі підказки в XD і вдосконалення роботи з ресурсами документів.
+DL_WHATS_NEW_ONE_UP=Знайомтеся з новим, розширеним форматом перегляду ресурсів. Пориньте у світ нових можливостей завдяки перегляду всіх деталей і метаданих кожного ресурсу в повному вигляді.
+DL_WHATS_NEW_RESPONSIVE_LAYOUT=Відчуйте зручність адаптивного дизайну, коли змінюєте розмір панелі.
+DL_WHATS_NEW_CCD_DRAG_OUT=Перетягуйте графіку, зображення, шаблони, відео- й аудіофайли з програми Creative Cloud на своєму ПК, щоб легко експортувати їх до інших програм або файлової системи.
+DL_WHATS_NEW_QUOTA=Тепер вміст бібліотек буде враховуватися в обсязі вашого сховища Creative Cloud. Керувати сховищем тепер можна в розділі «Ваша робота» програми Creative Cloud для ПК або на сайті assets.adobe.com.
+DL_WHATS_NEW_PUBLISH=Для опублікованих бібліотек, пов’язаних із документами, ви тепер можете виконувати публікацію в іншій бібліотеці в менеджері бібліотек у програмі XD.
+DL_WHATS_NEW_NESTED_GROUPS=Знайомтеся з групами всередині груп. Організовуйте елементи своїх творчих проектів у підгрупи й створюйте стільки вкладених рівнів, скільки потрібно. Ваші співавтори побачать ці групи, перейшовши до «Користувацьких груп».
+DL_WHATS_NEW_QUOTA_2=Тепер вміст бібліотек буде враховуватися в обсязі вашого сховища Creative Cloud. Керувати сховищем можна в розділі «Файли» програми Creative Cloud для ПК або на сайті assets.adobe.com.
+DL_WHATS_NEW_PATH_VIEW=Тепер підгрупи в бібліотеках можна відображати у вигляді стислих рядків шляху. Спробуйте швидко створювати підгрупи за допомогою символу «/» після назви групи та перемикайтеся між деревоподібною структурою й шляхами, щоб переглянути групи в розгорнутому чи стислому режимі.
+DL_WHATS_NEW_RELINK=Тепер ви можете виправляти пошкоджені посилання й відновлювати зв’язок із відсутніми елементами бібліотек у меню ресурсів документа в XD. Щоб вибрати спосіб виправлення пошкодженого посилання, клацніть ресурс правою кнопкою миші.
+DL_WHATS_NEW_COLORS=Бібліотеки тепер підтримують колірні теми, які містять до 20 зразків. Колірні теми можна створити на сайті color.adobe.com.
+DL_WHATS_NEW_LIBRARY_DELETE=Видалені бібліотеки тепер можна відновити протягом 30 днів на assets.adobe.com.
+DL_WHATS_NEW_GRADIENTS_PATTERNS=Додайте свої улюблені елементи градієнтів і візерунків з Adobe Illustrator до Бібліотек. Створюйте та використовуйте градієнти й візерунки з Ai в програмі та інших продуктах Creative Cloud.
+DL_WHATS_NEW_PROJECTS=Місце призначення для «Бібліотек у бізнес-сховищі» тепер називатиметься та відображатиметься в інтерфейсі як «Проєкти».
+
+DL_LIBRARY_LIST_ONBOARDING_HEADER=Працюйте продуктивніше з бібліотеками
+DL_LIBRARY_LIST_ONBOARDING_BODY=Бібліотеки допоможуть вам публікувати й повторно використовувати матеріали, якими ви користуєтеся найчастіше, а також керувати ними.
+DL_LIBRARY_LIST_ONBOARDING_LINK=Докладніше
+
+DL_LOADING_LIBRARIES=Триває завантаження бібліотек…
+DL_LOADING_MORE_LIBRARIES=Завантаження більшої кількості бібліотек
+DL_REPORT_ABUSE=Повідомити про порушення
+
+DL_LIBRARY_PERSONAL_COPY_TOAST=Особисту копію збережено
+DL_LIBRARY_COPYING_TOAST=Копіювання бібліотеки…
+DL_PUBLIC_LIBRARY_COPY_TOAST=Бібліотеку скопійовано
+DL_LIBRARY_SAVE_PERSONAL_COPY=Зберегти особисту копію
+DL_OPEN_LIBRARY=Відкрити бібліотеку
+DL_OPEN_LIBRARY_COPY=Відкрити копію
+
+DL_LICENSED_ADOBE_STOCK=Ліцензована версія Adobe Stock
+DL_UNLICENSED_ADOBE_STOCK=Неліцензована версія Adobe Stock
+
+DL_LIBRARY_NAME_INVALID=Неприпустимі символи
+DL_LIBRARY_NAME_REMAINING_CHARACTERS=Залишилося символів: {{charCount}}
+DL_LIBRARY_NAME_PERIOD_END=Ім’я не може закінчуватися крапкою
+DL_LIBRARY_NAME_DUPLICATE=Бібліотека з такою назвою вже існує
+DL_LIBRARY_RENAME_DUPLICATE=Бібліотека з такою назвою вже існує в цьому розташуванні. Спробуйте іншу назву.
+
+DL_GROUP_NAME_INVALID_SLASHES=Для впорядкування груп у рядку шляху використовуються скісні риски.
+DL_GROUP_NAME_INVALID_SLASHES_ACCC=Для впорядкування груп у рядку шляху, що доступний на панелі бібліотек, використовуються скісні риски.
+DL_GROUP_NAME_DUPLICATE=На цьому рівні вже існує група з такою назвою.
+
+DL_SELECT_LIBRARY_LIST_HEADER_RECENT=Нещодавні
+DL_SELECT_LIBRARY_LIST_HEADER_ALL=Усі бібліотеки
+
+DL_RECENT_SEARCH_OVERLAY_LIBRARY_HEADER=Нещодавні
+DL_RECENT_SEARCH_OVERLAY_STOCK_HEADER=Adobe Stock
+DL_RECENT_SEARCH_OVERLAY_CLEAR_ALL=Очистити все
+DL_RECENT_SEARCH_OVERLAY_LIBRARY_HEADER_CCX=Результати попередніх пошуків
+
+DL_SORT_BY_TITLE=Сортувати за
+DL_SEARCH_SORT_BY_LABEL_NAME=Сортувати за іменем
+DL_SEARCH_SORT_BY_LABEL_MODIFIED=Сортувати за датою зміни
+DL_SEARCH_SORT_BY_LABEL_RELEVANCE=Сортувати за актуальністю
+DL_SEARCH_SORT_BY_LABEL_CREATION=Сортувати за найновішим
+DL_SEARCH_SORT_BY_LABEL_POPULARITY=Сортувати за популярністю
+DL_SEARCH_SORT_BY_LABEL_NB_DOWNLOADS=Сортувати за завантаженнями
+
+DL_GROUP_BY_TITLE=Групувати за
+
+DL_SEARCH_SORT_BY_OPTION_NAME=Ім'я
+DL_SEARCH_SORT_BY_OPTION_MODIFIED=Дата внесення змін
+DL_SEARCH_SORT_BY_OPTION_CREATED=Дата створення
+DL_SEARCH_SORT_BY_OPTION_RELEVANCE=Актуальність
+DL_SEARCH_SORT_BY_OPTION_CREATION=Найновіше
+DL_SEARCH_SORT_BY_OPTION_POPULARITY=Популярність
+DL_SEARCH_SORT_BY_OPTION_NB_DOWNLOADS=Завантаження
+DL_SEARCH_SORT_BY_OPTION_ORDER=Користувацький порядок
+
+DL_CREATED_MODIFIED_DATE_BY_USER={{date}} користувачем {{user}}
+
+DL_BROWSE_LIBRARIES=Переглянути бібліотеки
+DL_BROWSE_BRANDS=Переглянути бренди
+DL_BROWSE_LIBRARY_MANAGER=Переглянути бібліотеки
+DL_MORE_LIBRARY_BROWSE=Перегляд бібліотек зі спільним доступом
+DL_MORE_LIBRARY_BROWSE_ALL=Переглянути все
+DL_MORE_LIBRARY_BROWSE_ALL_OFFLINE=Перегляд усіх бібліотек недоступний в автономному режимі
+DL_NEW_LIBRARY=Нова бібліотека
+DL_MORE_LIBRARY_BROWSE_PUBLIC=Перейти до Stock і Marketplace
+DL_TEAM_LIBRARY_BROWSE_AUTH_ERROR=Неможливо переглянути, спробуйте ще раз на {{assetsSite}}
+DL_TEAM_LIBRARY_PROMOTE_TITLE=Перемістити в бізнес-сховище
+DL_TEAM_LIBRARY_PROMOTE_TITLE_PROJECTS=Перемістити
+DL_TEAM_BRAND_COPY_TITLE=Брендові елементи буде скопійовано до проєкту
+DL_TEAM_LIBRARY_COPY_TITLE=Бібліотеку буде скопійовано до проєкту
+DL_TEAM_BRAND_COPY_BODY=Триває <b>копіювання брендових елементів</b> у спільний проєкт. Операція перенесення вмісту між сховищами кількох користувачів скоро стане доступною!
+DL_TEAM_LIBRARY_COPY_BODY=Триває <b>копіювання бібліотеки</b> у спільний проєкт. Операція перенесення вмісту між сховищами кількох користувачів скоро стане доступною!
+
+DL_TEAM_LIBRARY_SAVE_TO=Зберегти до
+DL_TEAM_LIBRARY_HELP=До бібліотек в особистому сховищі можна надавати доступ окремим особам. До сховища компанії автоматично мають доступ усі її члени.
+DL_PROJECT_LIBRARY_HELP=Запрошуйте користувачів безпосередньо в бібліотеку або зберігайте її в проєктах, щоб легко поділитися нею з кількома іншими користувачами.
+DL_PROJECT_BRAND_HELP=Запрошуйте користувачів безпосередньо в бренд або зберігайте його в проєктах, щоб легко поділитися ним із кількома іншими користувачами.
+DL_TEAM_LIBRARY_HELP_PROJECTS=Бібліотеки в особистих сховищах належать окремим користувачам. Бібліотеки в сховищі компанії доступні всім іншим учасникам команди.
+DL_TEAM_LIBRARY_EMPTY_VIEW_HEADER=Бібліотеки не знайдені
+DL_LIBRARY_AND_BRAND_EMPTY_VIEW_HEADER=На жаль, ми нічого не знайшли!
+DL_BRANDS_EMPTY_SEARCH_HEADER=Не знайдено жодних збігів
+DL_LIBRARY_AND_BRAND_EMPTY_VIEW_SUBTITLE=Нам не вдалося знайти бібліотеки або бренди за вашим поточним фільтром.
+DL_BRANDS_EMPTY_SEARCH_SUBTITLE=Не вдалося знайти те, що ви шукаєте. Змініть фільтри, перевірте написання або змініть ключові слова та повторіть спробу.
+DL_TEAM_LIBRARY_EMPTY_VIEW_SUBTITLE=Ми не можемо знайти ніяких бібліотек, застосовуючи поточний фільтр.
+DL_TEAM_LIBRARY_EMPTY_VIEW_CLEAR_FILTER=Скинути фільтр
+DL_TEAM_LIBRARY_EMPTY_VIEW_CLEAR_SEARCH=Очистити пошук
+DL_MISSING_LIBRARY_REQUEST_HEADER=Надіслати запит на редагування
+DL_MISSING_LIBRARY_REQUEST_SUBTITLE=Цей проєкт або бібліотека недоступні. Якщо вам потрібен доступ до ресурсу, зв’яжіться з його власником і попросіть надати вам доступ.
+DL_ERROR_NOT_FOUND_HEADER=Помилка 404: ресурс не знайдено
+DL_ERROR_NOT_FOUND_SUBTITLE=Цей ресурс недоступний. Перевірте правильність URL-адреси або відвідайте іншу сторінку
+DL_GO_BACK=Назад
+DL_PERSONAL_STORAGE=Особисте сховище
+DL_PERMISSION_TITLE=Будь-хто з доступом до папки
+DL_PROJECT_PERMISSION_TITLE=Дозволи учасника проєкту
+DL_PROJECT_PERMISSION_SWITCH_LABEL=Заборонити редагування
+DL_PROJECT_PERMISSION_SWITCH_INFO_BRAND=Дозволяє учасникам проєкту переглядати та використовувати бренд без редагування елементів. Якщо вимкнути цей перемикач, активуються дозволи проєкту.
+DL_PROJECT_PERMISSION_SWITCH_INFO_LIBRARY=Дозволяє учасникам проєкту переглядати та використовувати бібліотеку без редагування елементів. Якщо вимкнути цей перемикач, активуються дозволи проєкту.
+DL_PERMISSION_TITLE_PROJECTS=Будь-хто з доступом до проєкта
+DL_CAN_VIEW_AND_USE=Може переглядати й використовувати
+DL_CAN_EDIT=Може редагувати
+
+DL_TEAM_LIBRARY_ONBOARDING_LINK=Зрозуміло
+DL_PROMOTE_TEAM_WARN=Повторно запросіть поточних співавторів, щоб надати їм доступ.
+DL_PROMOTE_TEAM_MESSAGE=За замовчуванням після перенесення цієї бібліотеки до бізнес-сховища доступ до неї матимуть лише учасники, у яких є доступ до папки.
+DL_PROMOTE_TEAM_MESSAGE_PROJECTS=За замовчуванням після перенесення цієї бібліотеки доступ до неї матимуть лише учасники, у яких є доступ до проєкту.
+DL_COPY_COLLABORATORS=Копіювати список співавторів
+DL_TEAM_LIBRARY_COPY_FAILED=Неможливо скопіювати бібліотеку.
+DL_TEAM_LIBRARY_MOVE_FAILED=Не вдалося перемістити бібліотеку
+DL_TEAM_LIBRARY_MOVING_TOAST=Переміщення до бізнес-сховища
+DL_TEAM_LIBRARY_MOVING_TOAST_PROJECTS=Переміщення «{{libraryName}}» до «{{projectName}}»
+DL_TEAM_LIBRARY_SAVED_TOAST=Бібліотеку переміщено до бізнес-сховища.
+DL_TEAM_LIBRARY_SAVED_TOAST_PROJECTS=«{{libraryName}}» переміщено до «{{projectName}}»
+DL_CANNOT_UNDO_WARNING=Попередження: ця дія є необоротною.
+DL_TEAM_LIBRARY_COPYING_TOAST_PROJECTS=Копіювання бібліотеки «{{libraryName}}» в проєкт «{{projectName}}»
+DL_TEAM_LIBRARY_COPIED_TOAST_PROJECTS=Бібліотеку «{{libraryName}}» скопійовано в проєкт «{{projectName}}»
+
+DL_LEAVE_TEAM_LIBRARY_ACCESS=Усі члени бібліотеки все одно матимуть доступ.
+DL_LEAVE_TEAM_BRAND_ACCESS=Усі члени бренду все одно матимуть доступ.
+DL_LEAVE_TEAM_REJOIN=Ви завжди можете додати цю бібліотеку через переглядач бібліотек.
+DL_LEAVE_TEAM_REJOIN_BRAND=Ви завжди можете додати цей бренд через переглядач бібліотек.
+
+DL_CREATE_TEAM_LIBRARY=Створити бібліотеку
+DL_BROWSE_TEAM_LIBRARY=Переглянути бібліотеки
+DL_TEAM_LIBRARIES_EMPTY_VIEW_HEADING=Усе необхідне в потрібний момент
+DL_TEAM_LIBRARIES_EMPTY_VIEW_MESSAGE=Подбайте про те, щоб усі користувалися найактуальнішими версіями кольорів, логотипів та інших творчих елементів. <a>Докладніше</a>
+
+DL_DELETE_TEAM_LIBRARY_ACCESS=Ви й усі учасники втратите доступ.
+DL_DELETE_LIBRARY_LINK=Елементи, розміщені в документах, залишаться, але більше не будуть пов’язані.
+
+DL_LIBRARY_LIST_FILTER_BY_TYPE=Фільтрувати за типом
+DL_LIBRARY_LIST_FILTER_BY_LIBRARY=Фільтрувати за бібліотекою
+DL_LIBRARY_LIST_FILTER_BY_SOURCE=Відфільтрувати за джерелом
+DL_LIBRARY_LIST_FILTER_UNLINK_SOURCE_TOOLTIP=Видалити посилання на документ
+DL_LIBRARY_LIST_FILTER_BY=Фільтрувати за
+DL_LIBRARY_LIST_FILTER_LIBS=Застосувати фільтр до бібліотек
+DL_LIBRARY_LIST_FILTER_BRANDS=Фільтрувати за брендами
+DL_LIBRARY_LIST_FILTER_ALL=Усі
+DL_LIBRARY_LIST_FILTER_PERSONAL=Власник
+DL_LIBRARY_LIST_FILTER_YOURS=Ваші
+DL_LIBRARY_LIST_FILTER_SHARED=Відкрито для вас
+DL_LIBRARY_LIST_FILTER_TEAM=Сховище компанії
+DL_LIBRARY_LIST_FILTER_PUBLIC=Загальнодоступно
+DL_LIBRARY_LIST_FILTER_CREATED=Створено вами
+DL_LIBRARY_LIST_FILTER_PUBLISHED=Опубліковано
+DL_LIBRARY_LIST_FILTER_DRAFTS=Чернетки
+DL_LIBRARY_LIST_EMPTY_FILTER_VIEW_TITLE=Бібліотеки не знайдені
+DL_LIBRARY_LIST_EMPTY_FILTER_VIEW_BODY=Ми не можемо знайти ніяких бібліотек, застосовуючи поточний фільтр.
+DL_LIBRARY_LIST_EMPTY_FILTER_VIEW_CTA=Скинути фільтр
+
+DL_LIBRARY_TOGGLE_VIEW=Перемкнути режим перегляду
+
+DL_LIBRARY_CONTENTS_TAB_ELEMENTS=Елементи
+DL_LIBRARY_CONTENTS_TAB_PREVIEW=Переглянути
+
+DL_ARIA_LIBRARY_LIST_SORT_OPTIONS=Опції бібліотеки
+DL_ARIA_LIBRARY_LIST_TITLE=Список бібліотек
+DL_ARIA_FILTER_BUTTON_ALL=Застосувати фільтр до бібліотек
+DL_ARIA_FILTER_OPTIONS=Опції фільтра
+DL_ARIA_FILTER_BUTTON_SELECTED=Вибраний фільтр: {{currentSelection}}
+
+DL_NAVIGATION_WARNING_SYNCING_IN_PROGRESS=Ми обробляємо ваші оновлення. Якщо вийти зараз, роботу не буде збережено.
+
+DL_PUBLISH_LIBRARY_TITLE=Опублікувати бібліотеку
+DL_PUBLISH_LIBRARY_CONFIRM=Публікувати
+DL_PUBLISH_LIBRARY_FOLDER_PERSONAL=Особистий
+DL_LIBRARY_MANAGER_SEARCH_INPUT_PLACEHOLDER_AW=Ввести ключове слово
+DL_LIBRARY_MANAGER_TITLE=Бібліотеки
+DL_LIBRARY_MANAGER_SEARCH_INPUT_PLACEHOLDER=Пошук у бібліотеках
+DL_LIBRARY_MANAGER_SEARCH_EMPTY_HEADING=Нічого не знайдено
+DL_LIBRARY_MANAGER_SEARCH_EMPTY_DESCRIPTION=Не знайдено жодного результату за запитом <b>{{searchText}}</b>.<br/> Перевірте запит на наявність помилок або спробуйте розширити параметри пошуку.
+DL_LIBRARY_MANAGER_ACTION_HIDE_ALL=Вимкнути все
+DL_LIBRARY_MANAGER_ACTION_SHOW_ALL=Увімкнути все
+DL_LIBRARY_MANAGER_ACTION_CREATE_LIBRARY=Створити
+DL_LIBRARY_MANAGER_BROWSE_ORG=Перегляд
+DL_LIBRARY_MANAGER_MANAGE=Керувати
+DL_LIBRARY_MANAGER_IMPORT_SKETCH=Перетворити бібліотеку Sketch
+DL_LIBRARY_MANAGER_SECTION_CURRENT_FILE=Поточний файл
+DL_LIBRARY_MANAGER_SECTION_FILE_LIBRARIES=Використовується в цьому файлі
+DL_LIBRARY_MANAGER_SECTION_ALL_LIBRARIES=Усі бібліотеки
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_PUBLISH=Публікувати
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_UNPUBLISH=Відмінити публікування
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_UPDATE=Оновлення
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_SHARE=Поділитися
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_UP_TO_DATE=Оновити
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_PUBLISHING=Публікування...
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_PUBLISHING_PROGRESS=Триває завантаження ({{percent}} %)
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_SAVING=Збереження...
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_EMPTY=У вас немає ресурсів документів. Додайте ресурси, щоб опублікувати бібліотеку.
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_UPGRADE=Підвищити рівень
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_UPGRADE_TITLE=Отримайте необмежений доступ до пов’язаних бібліотек
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_UPGRADE_BODY=Будьте в курсі новинок і забезпечуйте цілісність свого бренду. Оновіть програму, щоб мати змогу публікувати пов’язані бібліотеки та користуватися іншими преміум-функціями.
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_UPGRADE_TOAST=Будьте в курсі новинок і забезпечуйте цілісність свого бренду. Оновіть програму, щоб мати змогу публікувати пов’язані бібліотеки та користуватися іншими преміум-функціями.
+DL_UPGRADE_TOAST_LABEL=Підвищити рівень
+DL_UPGRADE_TOAST_MESSAGE=Оновіть програму, щоб і далі мати змогу публікувати ресурси у своїй пов’язаній бібліотеці.
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_UPGRADE_TOOLTIP=Оновіть програму, щоб мати змогу публікувати пов’язані бібліотеки
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_READ_ONLY=Ви не маєте доступу до редагування бази бібліотеки, опублікованої з цього документа. Попросіть власника надати вам доступ до редагування.
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_OFFLINE=Недоступно в автономному режимі. Перевірте своє підключення та повторіть спробу.
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_CLOUD_DOC_NOT_SYNCED=Цей хмарний документ необхідно синхронізувати, перед тим як публікувати пов’язану з ним бібліотеку.
+DL_LIBRARY_MANAGER_DOCUMENT_LIBRARY_COEDITOR_PUBLISHING=Інший користувач наразі публікує цю бібліотеку, пов’язану з документом.
+
+DL_SAVE_CLOUD_DOC_HEADING_SPRK=Зберегти як хмарний документ XD
+DL_SAVE_CLOUD_DOC_MESSAGE=Щоб опублікувати цю добірку як бібліотеку Creative Cloud, спочатку збережіть її як хмарний документ. Після цього ви зможете здійснювати доступ до бібліотеки з різних пристроїв.
+DL_SAVE_CLOUD_DOC_CONFIRM=Продовжити
+
+DL_NEW=Створити
+DL_CREATE_PUBLISH_CREATE_TITLE=Порожня бібліотека
+DL_CREATE_PUBLISH_CREATE_BULLET_1=Додавайте ресурси з будь-якої програми.
+DL_CREATE_PUBLISH_CREATE_BULLET_2=Ресурси не пов’язані з документом, з якого походять.
+DL_CREATE_PUBLISH_CREATE_MESSAGE=Компоненти можуть публікуватися лише в пов’язаних бібліотеках.
+DL_CREATE_PUBLISH_CREATE_ACTION=Створити порожню бібліотеку
+DL_CREATE_PUBLISH_PUBLISH_TITLE=Пов’язана бібліотека
+DL_CREATE_PUBLISH_PUBLISH_BULLET_1=Керуйте та спільно користуйтеся ресурсами з одного документа XD.
+DL_CREATE_PUBLISH_PUBLISH_BULLET_2=Ресурси пов’язані з документом, з якого вони походять.
+DL_CREATE_PUBLISH_PUBLISH_MESSAGE=Рекомендовано для систем дизайну.
+DL_CREATE_PUBLISH_PUBLISH_ACTION=Опублікувати пов’язану бібліотеку
+
+DL_RELINK_DOCUMENT_LIBRARY_HEADING=Публікування ресурсів документів в існуючій бібліотеці
+DL_RELINK_DOCUMENT_LIBRARY_READ_ONLY_HEADING=У вас немає дозволу на редагування цієї бібліотеки
+DL_RELINK_DOCUMENT_LIBRARY_CONTINUE=Продовжити
+DL_RELINK_

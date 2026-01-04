@@ -1,0 +1,144 @@
+ption>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Milvus 1.4/25 ZE"
+       stCamera:LensInfo="25/1 25/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Milvus 1.4/25 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Milvus 1.4/25 ZE)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="25.683401"
+       stCamera:FocusDistance="1.10914"
+       stCamera:ApertureValue="4">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000029"
+        stCamera:ResidualStandardDeviation="0.000024"
+        stCamera:RadialDistortParam1="-0.047624"
+        stCamera:RadialDistortParam2="0.02312"
+        stCamera:RadialDistortParam3="-0.000406">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.004818"
+        stCamera:VignetteModelParam1="-0.465004"
+        stCamera:VignetteModelParam2="1.257823"
+        stCamera:VignetteModelParam3="-1.602717"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Milvus 1.4/25 ZE"
+       stCamera:LensInfo="25/1 25/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Milvus 1.4/25 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Milvus 1.4/25 ZE)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="25.259659"
+       stCamera:FocusDistance="0.25214"
+       stCamera:ApertureValue="0.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.00001"
+        stCamera:ResidualStandardDeviation="0.000008"
+        stCamera:RadialDistortParam1="-0.064677"
+        stCamera:RadialDistortParam2="0.022527"
+        stCamera:RadialDistortParam3="0.001533">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002615"
+        stCamera:VignetteModelParam1="-1.729644"
+        stCamera:VignetteModelParam2="1.676183"
+        stCamera:VignetteModelParam3="-0.81258"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Milvus 1.4/25 ZE"
+       stCamera:LensInfo="25/1 25/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Milvus 1.4/25 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Milvus 1.4/25 ZE)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="25.259659"
+       stCamera:FocusDistance="0.25214"
+       stCamera:ApertureValue="4.970854">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000026"
+        stCamera:ResidualStandardDeviation="0.000021"
+        stCamera:RadialDistortParam1="-0.062639"
+        stCamera:RadialDistortParam2="0.01978"
+        stCamera:RadialDistortParam3="0.001819">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.001612"
+        stCamera:VignetteModelParam1="-0.278554"
+        stCamera:VignetteModelParam2="0.379918"
+        stCamera:VignetteModelParam3="-0.393777"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Milvus 1.4/25 ZE"
+       stCamera:LensInfo="25/1 25/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Milvus 1.4/25 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Milvus 1.4/25 ZE)"
+       stCamera:SensorFormatFactor="1"
+       stCamera:FocalLength="25.712519"
+       stCamera:FocusDistance="2.00914"
+       stCamera:ApertureValue="2">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0.000026"
+        stCamera:ResidualStandardDeviation="0.000021"
+        stCamera:RadialDistortParam1="-0.04613"
+        stCamera:RadialDistortParam2="0.023478"
+        stCamera:RadialDistortParam3="-0.000803">
+       <stCamera:VignetteModel
+        stCamera:ResidualMeanError="0.002326"
+        stCamera:VignetteModelParam1="0.238344"
+        stCamera:VignetteModelParam2="-3.374167"
+        stCamera:VignetteModelParam3="2.469827"/>
+       </rdf:Description>
+      </stCamera:PerspectiveModel>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       stCamera:Author="Adobe (www.adobe.com)"
+       stCamera:Make="Canon"
+       stCamera:CameraRawProfile="True"
+       stCamera:LensID="198"
+       stCamera:Lens="Zeiss Milvus 1.4/25 ZE"
+       stCamera:LensInfo="25/1 25/1 0/0 0/0"
+       stCamera:CameraPrettyName="Canon"
+       stCamera:LensPrettyName="Zeiss Milvus 1.4/25 ZE"
+       stCamera:ProfileName="Adobe (Zeiss Milvus 1.4/25 ZE)"
+       stCamera:SensorFormatFactor

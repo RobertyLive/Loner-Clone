@@ -1,0 +1,18 @@
+error &lt;msg&gt;</em>
+(option &lt;name&gt; is supported but &lt;value&gt; is not valid
+for it).  Options should be set before other commands,
+and may influence the behavior of those commands.</p>
+<div class="paragraph">
+<p>See OPTIONS for a list of currently defined options.</p>
+</div>
+<div class="paragraph">
+<p>Supported if the helper has the "option" capability.</p>
+</div>
+</dd>
+<dt class="hdlist1"><em>fetch</em> &lt;sha1&gt; &lt;name&gt;</dt>
+<dd>
+<p>Fetches the given object, writing the necessary objects
+to the database.  Fetch commands are sent in a batch, one
+per line, terminated with a blank line.
+Outputs a single blank line when all fetch commands in the
+same batch are compl

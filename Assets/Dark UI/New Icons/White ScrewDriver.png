@@ -1,0 +1,183 @@
+ture, GetResourceString("Template_CaseInsensitiveTypeConflict"))))
+            Return False
+        End If
+        Return True
+    End Function
+
+    Public Function GetEnumItemsToGenerate(itemCollection As IEnumerable(Of GlobalItem)) As IEnumerable(Of SimpleType)
+        Return GetItemsToGenerate(Of SimpleType)(itemCollection).Where(Function(e) IsEnumType(e))
+    End Function
+
+    Public Function GetItemsToGenerate(Of T As EdmType)(itemCollection As IEnumerable(Of GlobalItem)) As IEnumerable(Of T)
+        Return itemCollection.OfType(Of T)().Where(Function(i) Not i.MetadataProperties.Any(Function(p) p.Name = ExternalTypeNameAttributeName)).OrderBy(Function(i) i.Name)
+    End Function
+
+    Public Function GetAllGlobalItems(itemCollection As IEnumerable(Of GlobalItem)) As IEnumerable(Of String)
+        Return itemCollection.Where(Function(i) TypeOf i Is EntityType OrElse TypeOf i Is ComplexType OrElse TypeOf i Is EntityContainer OrElse IsEnumType(i)).Select(Function(g) GetGlobalItemName(g))
+    End Function
+
+    Public Function GetGlobalItemName(item As GlobalItem) As String
+        If TypeOf item Is EdmType Then
+            Return DirectCast(item, EdmType).Name
+        Else
+            Return DirectCast(item, EntityContainer).Name
+        End If
+    End Function
+
+    Public Function GetSimpleProperties(type As EntityType) As IEnumerable(Of EdmProperty)
+        Return type.Properties.Where(Function(p) TypeOf p.TypeUsage.EdmType Is SimpleType AndAlso p.DeclaringType.Equals(type))
+    End Function
+
+    Public Function GetSimpleProperties(type As ComplexType) As IEnumerable(Of EdmProperty)
+        Return type.Properties.Where(Function(p) TypeOf p.TypeUsage.EdmType Is SimpleType AndAlso p.DeclaringType.Equals(type))
+    End Function
+
+    Public Function GetComplexProperties(type As EntityType) As IEnumerable(Of EdmProperty)
+        Return type.Properties.Where(Function(p) TypeOf p.TypeUsage.EdmType Is ComplexType AndAlso p.DeclaringType.Equals(type))
+    End Function
+
+    Public Function GetComplexProperties(type As ComplexType) As IEnumerable(Of EdmProperty)
+        Return type.Properties.Where(Function(p) TypeOf p.TypeUsage.EdmType Is ComplexType AndAlso p.DeclaringType.Equals(type))
+    End Function
+
+    Public Function GetPropertiesWithDefaultValues(type As EntityType) As IEnumerable(Of EdmProperty)
+        Return type.Properties.Where(Function(p) TypeOf p.TypeUsage.EdmType Is SimpleType AndAlso p.DeclaringType.Equals(type) AndAlso p.DefaultValue IsNot Nothing)
+    End Function
+
+    Public Function GetPropertiesWithDefaultValues(type As ComplexType) As IEnumerable(Of EdmProperty)
+        Return type.Properties.Where(Function(p) TypeOf p.TypeUsage.EdmType Is SimpleType AndAlso p.DeclaringType.Equals(type) AndAlso p.DefaultValue IsNot Nothing)
+    End Function
+
+    Public Function GetNavigationProperties(type As EntityType) As IEnumerable(Of NavigationProperty)
+        Return type.NavigationProperties.Where(Function(np) np.DeclaringType.Equals(type))
+    End Function
+
+    Public Function GetCollectionNavigationProperties(type As EntityType) As IEnumerable(Of NavigationProperty)
+        Return type.NavigationProperties.Where(Function(np) np.DeclaringType.Equals(type) AndAlso np.ToEndMember.RelationshipMultiplicity = RelationshipMultiplicity.Many)
+    End Function
+
+    Public Function GetReturnParameter(edmFunction As EdmFunction) As FunctionParameter
+        ArgumentNotNull(edmFunction, "edmFunction")
+
+        Dim returnParamsProperty As PropertyInfo = edmFunction.GetType().GetProperty("ReturnParameters")
+        Return If(returnParamsProperty Is Nothing, edmFunction.ReturnParameter, DirectCast(returnParamsProperty.GetValue(edmFunction, Nothing), IEnumerable(Of FunctionParameter)).FirstOrDefault())
+    End Function
+
+    Public Function IsComposable(edmFunction As EdmFunction) As Boolean
+        ArgumentNotNull(edmFunction, "edmFunction")
+
+        Dim isComposableProperty As PropertyInfo = edmFunction.GetType().GetProperty("IsComposableAttribute")
+        Return isComposableProperty IsNot Nothing AndAlso CBool(isComposableProperty.GetValue(edmFunction, Nothing))
+    End Function
+
+    Public Function GetParameters(edmFunction As EdmFunction) As IEnumerable(Of FunctionImportParameter)
+        Return FunctionImportParameter.Create(edmFunction.Parameters, _code, _ef)
+    End Function
+
+    Public Function GetReturnType(edmFunction As EdmFunction) As TypeUsage
+        Dim returnParam As FunctionParameter = GetReturnParameter(edmFunction)
+        Return If(returnParam Is Nothing, Nothing, _ef.GetElementType(returnParam.TypeUsage))
+    End Function
+
+    Public Function GenerateMergeOptionFunction(edmFunction As EdmFunction, includeMergeOption As Boolean) As Boolean
+        Dim returnType As TypeUsage = GetReturnType(edmFunction)
+        Return Not includeMergeOption AndAlso returnType IsNot Nothing AndAlso returnType.EdmType.BuiltInTypeKind = BuiltInTypeKind.EntityType
+    End Function
+End Class
+
+Public Class EdmMetadataLoader
+    Private ReadOnly _host As IDynamicHost
+    Private ReadOnly _errors As System.Collections.IList
+
+    Public Sub New(host As IDynamicHost, errors As System.Collections.IList)
+        ArgumentNotNull(host, "host")
+        ArgumentNotNull(errors, "errors")
+
+        _host = host
+        _errors = errors
+    End Sub
+
+    Public Function CreateEdmItemCollection(sourcePath As String) As IEnumerable(Of GlobalItem)
+        ArgumentNotNull(sourcePath, "sourcePath")
+
+        If Not ValidateInputPath(sourcePath) Then
+            Return New EdmItemCollection()
+        End If
+
+        Dim schemaElement As XElement = LoadRootElement(_host.ResolvePath(sourcePath))
+        If schemaElement IsNot Nothing Then
+            Using reader = schemaElement.CreateReader()
+                Dim errors As IList(Of EdmSchemaError)
+                Dim itemCollection As EdmItemCollection = MetadataItemCollectionFactory.CreateEdmItemCollection(New XmlReader() {reader}, errors)
+
+                ProcessErrors(errors, sourcePath)
+
+                Return itemCollection
+            End Using
+        End If
+        Return New EdmItemCollection()
+    End Function
+
+    Public Function GetModelNamespace(sourcePath As String) As String
+        ArgumentNotNull(sourcePath, "sourcePath")
+
+        If Not ValidateInputPath(sourcePath) Then
+            Return String.Empty
+        End If
+
+        Dim model As XElement = LoadRootElement(_host.ResolvePath(sourcePath))
+        If model Is Nothing Then
+            Return String.Empty
+        End If
+
+        Dim attribute As XAttribute = model.Attribute("Namespace")
+        Return If(attribute IsNot Nothing, attribute.Value, "")
+    End Function
+
+    Private Function ValidateInputPath(sourcePath As String) As Boolean
+        If sourcePath = "$" & "edmxInputFile" & "$" Then
+            _errors.Add(New CompilerError(If(_host.TemplateFile, sourcePath), 0, 0, String.Empty, GetResourceString("Template_ReplaceVsItemTemplateToken")))
+            Return False
+        End If
+
+        Return True
+    End Function
+
+    Public Function LoadRootElement(sourcePath As String) As XElement
+        ArgumentNotNull(sourcePath, "sourcePath")
+
+        Dim root As XElement = XElement.Load(sourcePath, LoadOptions.SetBaseUri Or LoadOptions.SetLineInfo)
+        Return If(root.Elements().Where(Function(e) e.Name.LocalName = "Runtime").Elements().Where(Function(e) e.Name.LocalName = "ConceptualModels").Elements().Where(Function(e) e.Name.LocalName = "Schema").FirstOrDefault(), root)
+    End Function
+
+    Private Sub ProcessErrors(errors As IEnumerable(Of EdmSchemaError), sourceFilePath As String)
+        For Each errorItem As EdmSchemaError In errors
+            _errors.Add(New CompilerError(If(errorItem.SchemaLocation, sourceFilePath), errorItem.Line, errorItem.Column, errorItem.ErrorCode.ToString(CultureInfo.InvariantCulture), errorItem.Message) With { _
+                .IsWarning = errorItem.Severity = EdmSchemaErrorSeverity.Warning _
+            })
+        Next
+    End Sub
+
+    Public Function IsLazyLoadingEnabled(container As EntityContainer) As Boolean
+        Dim lazyLoadingAttributeValue As String
+        Dim lazyLoadingAttributeName As String = MetadataConstants.EDM_ANNOTATION_09_02 + ":LazyLoadingEnabled"
+        Dim isLazyLoading As Boolean
+        Return Not MetadataTools.TryGetStringMetadataPropertySetting(container, lazyLoadingAttributeName, lazyLoadingAttributeValue) OrElse Not Boolean.TryParse(lazyLoadingAttributeValue, isLazyLoading) OrElse isLazyLoading
+    End Function
+End Class
+
+Public Shared Sub ArgumentNotNull(Of T As Class)(arg As T, name As String)
+    If arg Is Nothing Then
+        Throw New ArgumentNullException(name)
+    End If
+End Sub
+
+Private Shared ReadOnly ResourceManager As New Lazy(Of System.Resources.ResourceManager)(Function() New System.Resources.ResourceManager("System.Data.Entity.Design", GetType(MetadataItemCollectionFactory).Assembly), isThreadSafe := True)
+
+Public Shared Function GetResourceString(resourceName As String) As String
+    ArgumentNotNull(resourceName, "resourceName")
+
+    Return ResourceManager.Value.GetString(resourceName, Nothing)
+End Function
+
+#>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

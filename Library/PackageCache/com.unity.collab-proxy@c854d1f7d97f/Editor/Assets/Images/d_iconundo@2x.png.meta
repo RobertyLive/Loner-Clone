@@ -1,0 +1,32 @@
+ to represent access rules.</summary>
+      <returns>A <see cref="T:System.Type" /> object representing the <see cref="T:System.Security.AccessControl.MutexAccessRule" /> class.</returns>
+    </member>
+    <member name="P:System.Security.AccessControl.MutexSecurity.AuditRuleType">
+      <summary>Gets the type that the <see cref="T:System.Security.AccessControl.MutexSecurity" /> class uses to represent audit rules.</summary>
+      <returns>A <see cref="T:System.Type" /> object representing the <see cref="T:System.Security.AccessControl.MutexAuditRule" /> class.</returns>
+    </member>
+    <member name="T:System.Security.AccessControl.SemaphoreAccessRule">
+      <summary>Represents a set of access rights allowed or denied for a user or group. This class cannot be inherited.</summary>
+    </member>
+    <member name="M:System.Security.AccessControl.SemaphoreAccessRule.#ctor(System.Security.Principal.IdentityReference,System.Security.AccessControl.SemaphoreRights,System.Security.AccessControl.AccessControlType)">
+      <summary>Initializes a new instance of the <see cref="T:System.Security.AccessControl.SemaphoreAccessRule" /> class, specifying the user or group the rule applies to, the access rights, and whether the specified access rights are allowed or denied.</summary>
+      <param name="identity">The user or group the rule applies to. Must be of type <see cref="T:System.Security.Principal.SecurityIdentifier" /> or a type such as <see cref="T:System.Security.Principal.NTAccount" /> that can be converted to type <see cref="T:System.Security.Principal.SecurityIdentifier" />.</param>
+      <param name="eventRights">A bitwise combination of <see cref="T:System.Security.AccessControl.SemaphoreRights" /> values specifying the rights allowed or denied.</param>
+      <param name="type">One of the <see cref="T:System.Security.AccessControl.AccessControlType" /> values specifying whether the rights are allowed or denied.</param>
+      <exception cref="T:System.ArgumentOutOfRangeException">
+        <paramref name="eventRights" /> specifies an invalid value.  
+  
+ -or-  
+  
+ <paramref name="type" /> specifies an invalid value.</exception>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="identity" /> is <see langword="null" />.  
+  
+ -or-  
+  
+ <paramref name="eventRights" /> is zero.</exception>
+      <exception cref="T:System.ArgumentException">
+        <paramref name="identity" /> is neither of type <see cref="T:System.Security.Principal.SecurityIdentifier" /> nor of a type such as <see cref="T:System.Security.Principal.NTAccount" /> that can be converted to type <see cref="T:System.Security.Principal.SecurityIdentifier" />.</exception>
+    </member>
+    <member name="M:System.Security.AccessControl.SemaphoreAccessRule.#ctor(System.String,System.Security.AccessControl.SemaphoreRights,System.Security.AccessControl.AccessControlType)">
+      <summary>Initializes a new instance of the <see cref="T:System.Security.AccessControl.SemaphoreAccessRule" /> class, specifying the name of the user or group the rule applies to, the access rights, and whether the specified access rights are allowed or denied.</summ

@@ -1,0 +1,16 @@
+"999999995904"
+       stCamera:ApertureValue="7.400879">
+      <stCamera:PerspectiveModel>
+       <rdf:Description
+        stCamera:Version="2"
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:RadialDistortParam1="3.145249"
+        stCamera:RadialDistortParam2="0.7339"
+        stCamera:RadialDistortParam3="-279.075439">
+       <stCamera:ChromaticRedGreenModel
+        stCamera:ResidualMeanError="0"
+        stCamera:ResidualStandardDeviation="0"
+        stCamera:ScaleFactor="1.000006"
+        stCamera:RadialDistortParam1="0.006195"
+        stCamera:RadialDistortParam2="-0.216644"

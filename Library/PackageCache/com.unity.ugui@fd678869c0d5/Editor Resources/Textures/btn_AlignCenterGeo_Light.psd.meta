@@ -1,0 +1,47 @@
+h do arquivo"
+
+msgctxt "stsEThread"
+msgid "Failed to initialize thread"
+msgstr "Falha ao iniciar o thread"
+
+msgctxt "stsECacheInit"
+msgid "Failed to initialize Icaros Cache"
+msgstr "Falha ao iniciar o cache do Icaros"
+
+msgctxt "stsEServerInit"
+msgid "Failed to initialize Icaros Thumbnail Provider"
+msgstr "Falha ao iniciar o provedor de miniaturas do Icaros"
+
+msgctxt "stsECacheLimit"
+msgid "Maximum cache size reached"
+msgstr "Limite de tamanho de cache atingido"
+
+msgctxt "stsESpaceLimit"
+msgid "Minimum space limit reached"
+msgstr "Limite de espaço reservado atingido"
+
+msgctxt "stsEDBAccess"
+msgid "Failed to access the database"
+msgstr "Falha ao acessar o banco de dados"
+
+msgctxt "stsEIDXAccess"
+msgid "Failed to access the index"
+msgstr "Falha ao acessar a indexação"
+
+msgctxt "stsERegAccess"
+msgid "Failed to access the registry"
+msgstr "Falha ao acessar o registro"
+
+msgctxt "stsECleanUp"
+msgid "Clean up was incomplete"
+msgstr "A limpeza não foi cuncluída"
+
+msgctxt "stsENoFiles"
+msgid "Indexer found no files with included filetypes in current cache locations"
+msgstr ""
+
+msgctxt "stsEUnknown"
+msgid "Undetermined result"
+msgstr "Resultado indeterminado"
+
+msgctxt "
